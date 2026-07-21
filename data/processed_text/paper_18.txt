@@ -1,0 +1,407 @@
+--- Page 1 --Journal Singular: Pedagogical Language, Literature, and Cultural Studies 
+Volume 02 No 02 
+http://dx.doi.org/10.63011/js.v2i2.45 
+ 
+ 
+ 
+How to cite: 
+Lu'luuzzahro, A., Puspitasari, D., & Khristianto. (2025). Academic Pressure and Emotional Well -Being in Higher 
+Education: The Role of Negative Emotions in College Students’ Academic Performance . Journal Singular: 
+Pedagogical Language, Literature, and Cultural Studies . Nexus Publishing. Pages 1 16-124. doi: 
+10.63011/js.v2i2.45 
+Academic Pressure and Emotional Well -Being in Higher Education: 
+The Role of Negative Emotions in College Students’ Academic Performance 
+ 
+Alfina Lu'luuzzahro1, Dewi Puspitasari2*, Khristianto3 
+ 
+1 UIN KH Abdurrahman Wahid Pekalongan, Indonesia, alfina.luluuzzahro@mhs.uingusdur.ac.id 
+2 UIN KH Abdurrahman Wahid Pekalongan, Indonesia, dewi.puspitasari@uingusdur.ac.id 
+3 Universitas Muhammadiyah Purwokerto, Indonesia, khristianto@ump.ac.id 
+ 
+ 
+*Corresponding author: 
+ 
+Abstract 
+This study explores the influence of academic pressure on college 
+students’ emotional well-being and academic performance, with 
+particular attention to the role of negative emotions. Academic 
+pressure often arises from multiple sources, including heavy academic workloads, high parental expectations, strong self-imposed 
+expectations, and limited peer support. These pressures may create challenging learning conditions that affect students’ emotional states and their ability to perform academically. Drawing 
+on students’ narratives as the primary data source, this study examines how academic pressure contributes to stress, anxiety, fear 
+of failure, and tendencies toward social withdrawal. The study 
+aims to examine seven key aspects related to academic pressure, 
+including negative emotional experiences, sour ces of academic 
+stress, and the relationships between parental expectations, selfexpectations, workload demands, and peer support in shaping 
+students’ stress levels. Participants were selected using proportional stratified random sampling to represent div erse student 
+groups. The findings indicate that high parental expectations often encourage perfectionism and fear of failure, while high self expectations are associated with feelings of inadequacy and frustration. Heavy workloads contribute to academic bu rnout, reflected in emotional exhaustion, and reduced motivation. Limited 
+peer support further intensifies negative emotions and weakens 
+students’ sense of belonging. 
+ 
+Keywords: academic pressure, negative emotions, parental expectations, self-expectations, peer support , academic performance 
+E-mail: 
+dewi.puspitasari@uingusdur.ac.id 
+ 
+ 
+ 
+Introduction 
+ 
+Emotion is a psychological process that involves dynamic interactions among thoughts, 
+feelings, and behaviors in response to both internal and external stimuli. These interactions 
+include affective, cognitive, motivational, physiological, and expressive components (Pekrun 
+& Marsh, 2022). Emotional experiences usually begin with how individuals interpret a situation, followed by bodily responses and outward expressions that reflect their feelings. For 
+instance, anxiety before an examination may involve uneasy feelings (a ffective), worries 
+about failure (cognitive), avoidance tendencies (motivational), increased arousal (physiological), and visible signs such as tense facial expressions (expressive) (Pekrun & Marsh, 2022).
+
+--- Page 2 --Academic Pressure and … 2025 
+ 
+ 
+ 117 
+ 
+Emotions are an integral part of academic life and play an important role in shaping students’ engagement and performance (Pekrun & Linnenbrink -Garcia, 2012). Academic emotions include positive feelings, such as pride, enjoyment, and satisfaction when learning 
+goals are achieved, as well as negative emotions, such as anxiety, stress, shame, and fear of 
+failure. Previous research shows that emotions are closely linked to academic outcomes, 
+with hope and pride often associated with success, and anxiety or shame commonly related 
+to academic failure. 
+In higher education, students frequently experience negative emotions as they face increasing academic demands, heavy workloads, and high expectations from their surroundings. While negative emotions are a natural part of the learning process and may sometimes 
+motivate students, prolonged or poorly managed emotional stress can negatively affect mental and physical health. Long-term exposure to academic stressors has been associated with 
+anxiety, depression, cognitive difficulties, and other health concerns (Chu, 2024). 
+Compared to earlier educational levels, university students encounter more complex academic pressures, including intensive coursework, frequent assessments, competitive environments, and concerns about academic success (Shalaby & Elkasaby, 2024). Expec tations 
+from parents and educational institutions may further intensify students’ fear of failure, 
+influencing their self-esteem and confidence (Qayyum et al., 2022). When not managed effectively, academic pressure may hinder students’ emotional well -being and their adjustment to university life. 
+Previous research has consistently shown that negative emotions play a significant role in 
+shaping students’ academic experiences. Pekrun and Marsh (2022) found that emotions such 
+as anxiety and stress can substantially affect academic performance by disrupting key cognitive processes, including concentration and memory. While moderate levels of anxiety may 
+sometimes support task focus, excessive anxiety tends to reduce intrinsic motivation, limit 
+engagement, and ultimately lead to poorer academic outcomes. 
+Academic stress has also been linked to students’ future-related concerns. Qayyum et al. 
+(2022) reported that academic stress significantly increased students’ career anxiety, particularly when academic demands such as assignments and examinations were perceived as 
+overwhelming. Their study further highlighted the mediating role of social competence, suggesting that students with stronger social skills were better able to manage stress and reduce 
+career-related anxiety. 
+The relationship between academic stress and mental health has been widely documented. Deb et al. (2015) found that high levels of academic stress were associated with 
+increased anxiety, emotional exhaustion, and poorer mental health. Parental pressu re 
+emerged as a key contributor to academic stress, with students who perceived higher parental expectations reporting greater psychological distress. These conditions were also linked 
+to lower resilience, making it more difficult for students to cope with academic challenges. 
+A sense of belonging has been identified as an important protective factor in academic 
+contexts. Edwards et al. (2021) demonstrated that students who felt connected to their 
+peers and instructors showed higher academic performance and stronger engagement with 
+course activities. Conversely, belonging uncertainty was associated with increased anxiety 
+and lower self-efficacy. Similarly, Gopalan and Brady (2020) emphasized that a strong sense 
+of belonging supports both academic success and emotional well-being, whereas feelings of 
+disconnection contribute to stress and disengagement. 
+Parental expectations also play a complex role in students’ academic lives. Ma et al. 
+(2018) found that while high parental expectations may motivate students and support academic achievement, excessive expectations were associated with higher levels of de pression. Finally, Dyrbye et al. (2020) highlighted the importance of institutional support, noting 
+that limited access to counseling, mentorship, and peer support increases the risk of chronic 
+stress, burnout, and academic disengagement.
+
+--- Page 3 --Academic Pressure and … 2025 
+ 
+ 118 
+ 
+Method 
+ 
+The primary objective of this study is to examine the presence of academic stress among 
+university students and to explore the sources and negative emotions associated with this 
+stress as reported by the participants. In addition to identifying academic stress levels, the 
+study seeks to understand how students experience and interpret academic pressure within 
+their university context. 
+Academic stress in this study is understood as arising from multiple sources, which were 
+measured using the Academic Stress Scale. Three hypotheses guided the research: (1) 
+sources of academic stress vary according to students’ perceptions of academic activities, 
+(2) students who experience higher levels of negative academic emotions tend to demonstrate lower academic performance, and (3) environmental support, particularly from peers 
+and family members, plays an important role in helping students cope with academic stress 
+and maintain academic engagement. Based on these hypotheses, the research questions 
+were formulated as follows: (1) What sources of academic stress are perceived by students 
+during the early stage of university study? (2) How are negative academic emotions related 
+to students’ academic performance? and (3) How does environmental support from peers 
+and family contribute to students’ ability to cope with academic stress and remain academically engaged? 
+Participants in this study were five first-year undergraduate students in their second semester, enrolled in the English Education Study Program at an Islamic university in Pekalongan. The participants were selected using a random sampling technique from the population 
+of first-year English Education students. To gain deeper insight into students’ stressors and 
+emotional responses, the study employed the Student Life Stress Inventory (SLSI) developed 
+by Gadzella (1991). This instrument is widely used to assess stressors related to academic 
+and personal aspects of student life. 
+The questionnaire was selected based on its relevance and use in previous studies and 
+measures four main dimensions of academic stress: high parental expectations, personal expectations, heavy academic workload, and a limited sense of belonging within the university 
+environment. Incomplete responses were excluded to ensure the reliability and clarity of the 
+findings. 
+ The data processing procedure in this study employed thematic analysis, following the 
+framework proposed by Braun and Clarke (2006). The researcher began by familiarizing with 
+the data through repeated readings of the observation a nd interview results, followed by 
+coding to identify salient information. The codes were then developed into main themes 
+relevant to the research objectives, which were ultimately presented in a systematic and 
+narrative report. 
+ 
+Results 
+ 
+This study aims to explore the negative emotions experienced by students in response to 
+academic pressure and how these emotions influence their academic performance at the 
+university level. These pressures include heavy workloads, assignments, exams, inadequate 
+learning environments, peer and faculty interactions, as well as the fear of academic failure 
+(Shalaby & Elkasaby, 2024). The primary focus of this research is to examine the types of 
+academic emotions and how these emotions impact their academic performance. Participants' narratives will serve as the primary data source, providing deeper insights into how 
+academic pressure affects their studies. Below are the findings from interviews conducted 
+with participants: 
+ 
+Academic Pressure and Negative Emotion
+
+--- Page 4 --Academic Pressure and … 2025 
+ 
+ 
+ 119 
+ 
+High Parental Expectations 
+Parental expectations for a child’s education are reflected in their hopes for the child’s 
+success in their studies. When parental expectations are too high and exceed the child’s 
+academic abilities, they can become a burden and a source of academic stress for the child. 
+Children whose parents have high expectations and criticize their children when they fail to 
+meet their high expectations are at risk for developing perfectionism, through the internalization of these expectations and the associated negative self -evaluation (Damian et al., 
+2013). In this study, the researcher found that one of the participants viewed her parents’ 
+expectations as demands and pressures that she had to meet. The following is the narrative 
+provided by the participants to the researcher: 
+ 
+“My parents have high expectations of me. I fear disappointing them.” (Rere, 
+WhatsApp Interview, September 30, 2024) 
+ 
+“I constantly think about what my father told me, that I must be the best in the 
+class. My GPA last semester was 3.4, yet I have not been able to achieve the top position in the class.” (Sindi, WhatsApp Interview, September 30, 2024) 
+ 
+From the participants’ statements, it is clearly stated that external pressure in the form 
+of academic demands from parents can influence students’ perceptions of academic activities. Excessive parental demands and expectations lead to feelings of anxiety and fear of 
+not being able to meet their parents’ expectations. The study by Ma et al. (2018) found that, 
+with regard to depression among adolescents, the results found that high parental expectations were positively associated with adolescent depression. 
+ 
+Excessive Personal Expectations 
+Excessive self-expectation in the academic world often leads to perfectionism. That is, 
+students desire assurance that their assignment is perfect to avoid the fear of point deductions and self-imposed failure (Christman, 2012). In this study, researchers found that one 
+of the main causes of stress for participants was overly high self-expectations, leading them 
+to feel like failures for not achieving perfection. The following is the narrative provided by 
+the participants to the researcher: 
+ 
+“When all the grades were released, I felt very foolish. I was frustrated and disappointed with my situation.” (Camelia, WhatsApp Interview, September, 30 2024) 
+ 
+“I feel disappointed with my performance in my first year of college. It’s difficult 
+for me to get an A. I even received a C in one of the courses.” (Sindi, WhatsApp 
+Interview, September, 31 2024) 
+ 
+The behavior or attitude that emerges when participants experience negative emotions, 
+such as feeling inferior and dissatisfied with their academic abilities. Feel ings of anger towards students can occur when the expected achievement goals are not met (Rowe & Fitness, 2018). This is caused by overly high demands and self -expectations. Stress and ac ademics are interconnected for learners due to the various expectations placed on their shoulders (Reddy et al., 2018). They may be unable to enjoy the learning process and are not 
+grateful or satisfied with their achievements due to the pressure they put on themselves. 
+ 
+Heavy Workload
+
+--- Page 5 --Academic Pressure and … 2025 
+ 
+ 120 
+ 
+The workload students face generally includes a tight class schedule, numerous assignments, short deadlines, and exams. The heavy workload can lead to academic pressure. 
+Academic pressure includes three main components: academic frustration resulting from 
+the student’s lack of understanding of the required academic goals, academic anxiety , the 
+result of fear, which is the failure to achieve academic goals, and the third component is 
+the academic conflict resulting from the many demands and tasks and the lack of available 
+time (Shalaby, 2024). Eventually, students may exhibit a lack of enthusiasm and continuous 
+complaints. Participants in the study experienced this as a result of their workload. The 
+following is the narrative provided by the participants to the researcher: 
+ 
+“Tired of the never-ending assignments, I spent my first year of college with complaints and lamentations.” (Tyas, WhatsApp Interview, September, 30 2024) 
+ 
+“The numerous assignments towards the end of the semester make me feel overwhelmed. It feels like there is no end to it.” (Camelia, WhatsApp Interview, September, 30 2024) 
+ 
+The negative emotions expressed by the participants stem from the perception that their 
+assigned workload is excessively heavy, leading to a constant state of dissatisfaction and 
+complaints. Schneider (2002) in Kausar (2010), suggested that students perceived workload 
+required in college, competition among students and difficulty of the curriculum as very 
+stressful. Academic burnout among college students refers to feeling exhausted because of 
+study demands (exhaustion), having a cynical and detached attitude towards one’s schoolwork (cynicism), and feeling incompetent as a student (reduced efficacy) (Zhang et al., 
+2007). 
+ 
+Lack of sense of belonging and Inadequate learning peer 
+A lack of sense of belonging and inadequate learning peer support can significantly affect 
+a student’s academic experience and overall well -being. According to Hilton and Herman 
+(2017, in Gopalan & Brady, 2020), students’ sense of belonging has been identified as a 
+potential lever to promote success, engagement, and well-being in college. The absence of 
+a supportive and empathetic peer group can also lead to feelings of isolation, making it more 
+difficult for students to collaborate, share ideas, or seek help when facing academ ic challenges. The participants in this study experienced feelings of isolation in the university 
+environment, which were expressed as frustration and a decline in motivation to study. The 
+following is the narrative provided by the participants. 
+ 
+“I find it difficult to stay motivated because this program is not my choice. I 
+wanted to pursue a different program in another area, but my parents did not allow 
+it because it was far away.” (Rinda, WhatsApp Interview, October 1, 2024) 
+ 
+“At the start of the new semester, I was transferred from class B to class A. I had 
+to leave my friends and readjust to new classmates. However, it wasn’t easy; I felt 
+alienated in class because most of them had already formed groups. I feel that I am 
+not a part of their group , and it makes it hard for me to stay motivated to go to 
+campus.” (Rere, WhatsApp Interview, October 1, 2024) 
+ 
+The negative emotions experienced by participants arise from a lack of sense of belonging 
+to their university. A sense of belongingness refers to an individual’s experience of engagement within an environment, resulting in feeling like part of that environment (Hagerty & 
+Patusky, 1995). A university environment that conveys negative attitudes can make students
+
+--- Page 6 --Academic Pressure and … 2025 
+ 
+ 
+ 121 
+ 
+feel excluded and undervalued, leadi ng them to reduce their activity, involvement, and 
+contribution to academic activities. The creation of a caring, supportive and welcoming environment within the university is critical in creating a sense of belonging (O’Keeffe, 2013). 
+Additionally, the academic pressure participants experience stems from poor interpersonal relationships with peers. In an academic context, low-quality relationships with friends 
+can make it difficult for someone to share information or study together, potentially hindering their understanding of material or ability to face academic challenges. Peers are a source 
+of information, especially related to academic activities. These supportive functions, “people to call and get notes from” and people to “ask for help with assignments and things like 
+that,” served to help students negotiate the academic system (Hoffman et al., 2002). In 
+addition, friends serve as emotional support, providing comfort and empathy when dealing 
+with academic stress. Friends also can serve as an important source of support during stressful times or transitions (Fuemmeler, 2006). Therefore, if students lose informational support 
+and emotional support, it can negatively impact their academic performance. 
+ 
+The Role of Supportive Learning Environments 
+Family Support 
+Stress experienced by students indicates that they lack adequate support, both academically and emotionally. A supportive learning environment provides students with the emotional security to manage academic challenges. This includes creating spaces where students 
+feel emotionally supported, through attention and empathy, providing a positive attitude, 
+offering recognition, and giving feedback and advice. Brännström et al. (2021) highlight that 
+students who feel supported by educators, peers, and family exhibit stronger mental resilience. Such support not only helps them manage stress but also fosters the self -confidence 
+essential for long-term success. 
+ 
+“I am very grateful because my family has always supported me throughout my 
+academic journey, both through advice and prayers. Their support gives me confidence that I can overcome difficult times on campus.” (Tyas, WhatsApp Interview, 
+December 2, 2024) 
+ 
+“I always share my concerns with my mom over the phone. She always provides 
+support and motivation to keep me from giving up, and that is what makes me 
+strong.” (Rere, WhatsApp Interview, December 2, 2024) 
+ 
+For students, family support is crucial in accompanying them throughout their academic 
+journey. Moral support from family, such as prayers and motivation, provides confidence and 
+self-assurance to face various academic challenges. According to the research by Lerner et 
+al. (2022), parental involvement plays a crucial role in supporting children’s academic success, especially when parents engage in activities such as homework assistance, discussions 
+about school, and cognitively stimulating activities outside of school. 
+ 
+Peer Support 
+To foster mental health, support from family is essential, but motivation and encouragement from peers also play a vital role. This includes mutual support, participating in discussions, sharing study materials, and being a trusted confidant. Peers use their own experience 
+of overcoming mental distress to support others who are curr ently in crisis or struggling 
+(Repper et al., 2011). As highlighted by one participant.
+
+--- Page 7 --Academic Pressure and … 2025 
+ 
+ 122 
+ 
+“I feel fortunate to have friends who always support me. They provide positive 
+energy that motivates me to go to campus and help me better understand the material. Moreover, they never hesitate to encourage me when I feel disappointed or exhausted by academic activities.” (Rinda, WhatsApp Interview, December 2, 2024) 
+ 
+Social isolation is often one of the most significant challenges faced by individuals with 
+mental health problems. Students who live in boarding houses are generally more likely to 
+experience feelings of loneliness more frequently than those who live at home. Rogers et 
+al., (2019) revealed that social support provided by friends and colleagues can reduce feelings of loneliness, which in turn helps to decrease the levels of burnout that an individual 
+may experience. 
+According to Pyle and Evans (2018), Social connections are an important aspect of loneliness and the results here clearly show that communications with friends, family and neighbours, as well as feelings of belonging to and satisfaction with the local area, are associated 
+with loneliness. In other words, the better the social relationships a person has and the 
+more connected and satisfied they f eel with their social environment, the less likely they 
+are to experience loneliness, as the participant expressed. 
+ 
+“Group work, discussing material, supporting each other, and even venting with 
+friends are sources of happiness for me while living away from home, as they provide 
+encouragement and a sense of togetherness that alleviates loneliness.” ( Sindi, 
+WhatsApp Interview, December 2, 2024) 
+ 
+Conclusion 
+ 
+Academic emotions encompass both positive and negative feelings that arise during the 
+learning process, such as pride when successfully understanding material, excitement when 
+achieving accomplishments, or satisfaction after completing a task. However, academic 
+emotions can also include negative feelings, such as fear of failure, stress due to heavy 
+workloads, and feelings of inadequacy. Based on the research findings, the subjects of the 
+study experience negative academic emotions, including fear of failure, disappointment with 
+their learning outcomes, and feelings of isolation and loneliness at the beginning of the semester due to adjusting to a new environment. 
+The negative emotions that arise are responses to the academic pressures experienced 
+by students, including high expectations from parents and themselves, heavy academic workloads, and a lack of sense of belonging to the university. Continuous academic pressure can 
+negatively impact students’ mental health and academic performance, leading them to withdraw from class activities, lose motivation, and become less focused. 
+Furthermore, the findings suggest that parents and friends play a crucial role in providing 
+emotional and social support to help students cope with academic pressure. Positive parental 
+support can reduce anxiety and the fear of failure, while supportive friends can help alleviate feelings of loneliness and isolation. 
+However, this study has several limitations. First, this study involved only five students, 
+limiting its generalizability to students in other study programs and institutions. Second, 
+data collection was conducted in a single period at the beginning of the semester, therefore, 
+this study was unable to capture the dynamics of changes in students' academic stress over 
+the long term. Therefore, further research is recommended to involve a larger, more diverse 
+group of participants, encompassing various study programs, and to use a longitudinal design 
+to provide a more comprehensive understanding of the development of students' academic 
+stress and emotions. In addition, further research could also combine quantit ative instruments with qualitative data to enrich the analysis and increase the validity of the findings.
+
+--- Page 8 --Academic Pressure and … 2025 
+ 
+ 
+ 123 
+ 
+ 
+References 
+ 
+Brännström, K. J., Karjalainen, S., Sahlén, B., Andersson, K., Lyberg -Åhlander, V., & 
+Christensson, J. (2022). Children’s experiences of t heir learning environment: 
+Psychometric properties of a questionnaire evaluating classroom environment, activities 
+and interactions. Child Language Teaching and Therapy, 38(1), 59 -77. 
+https://doi.org/10.1177/02656590211007039 
+Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative Research 
+in Psychology, 3(2), 77–101. https://doi.org/10.1191/1478088706qp063oa 
+Christman, E. (2012). Understanding maladaptive perfectionism in college students. Nurse 
+Educator, 37(5), 202-205. https://doi.org/10.1097/NNE.0b013e31826e415d 
+Chu, B., Marwaha, K., Sanvictores, T., Awosika, A. O., & Ayers, D. (2024). Physiology, stress 
+reaction. In StatPearls [Internet]. Stat Pearls Publishing. https://www.statpearls.com 
+Damian, L. E., Stoeber, J., Negru, O., & Băban, A. (2013). On the development of perfectionism in adolescence: Perceived parental expectations predict longitudinal increases in 
+socially prescribed perfectionism. Personality and Individual Differences, 55(6), 688-693. 
+https://doi.org/10.1016/j.paid.2013.06.008 
+Fuemmeler, B. F., Mullins, L. L., & Carpentier, M. Y. (2006). Peer, friendship issues, and 
+emotional well-being. Comprehensive handbook of childhood cancer and sickle cell disease: A biopsychosocial approach, 1. Comprehensive Handbook of Childhood Cancer and 
+Sickle Cell Disease: A … - Google Books 
+Gopalan, M., & Brady, S. T. (2020). College students’ sense of belonging: A national perspective. Educational Researcher, 49(2), 134 -137. 
+https://doi.org/10.3102/0034654319883903 
+Hagerty, B. M., & Patusky, K. (1995). Developing a measure of sense of belonging. Nursing 
+research, 44(1), 9-13. https://doi.org/10.1097/00006199-199501000-00003 
+Hoffman, M., Richmond, J., Morrow, J., & Salomone, K. (2002). Investigating “sense of belonging” in first-year college students. Journal of College Student Retention: Research, 
+Theory & Practice, 4(3), 227-256. https://doi.org/10.2190/4M6L-XD1B-VQVV-XM7Q 
+Kausar, R. (2010). Perceived stress, academic workloads and use of coping strategies by 
+university students. Journal of behavioural sciences, 20(1). https://www.jbs.org.pk/ 
+Lerner, R. E., Grolnick, W. S., Caruso, A. J., & Levitt, M. R. (2022). Parental involvement 
+and children’s academics: The roles of autonomy support and parents’ motivation for 
+involvement. Contemporary Educational Psychology , 68, 102039. 
+https://doi.org/10.1016/j.cedpsych.2022.102039 
+Ma, Y., Siu, A., & Tse, W. S. (2018). The role of high parental expectations in adolescents’ 
+academic performance and depression in Hong Kong. Journal of Family Issues, 39(9), 
+2505-2522. https://doi.org/10.1177/0192513X17751107 
+O’Keeffe, P. (2013). A sense of belonging: Improving student retention. College student journal, 47(4), 605 -613. O’Keeffe, P. (2013). A sense of belonging: Improving… - Google 
+Scholar 
+Pekrun, R., & Linnenbrink-Garcia, L. (2012). Academic emotions and student engagement. 
+In Handbook of research on student engagement (pp. 259-282). Boston, MA: Springer US. 
+https://doi.org/10.1007/978-1-4614-6435-8_13 
+Pekrun, R., & Marsh, H. W. (2022). Research on situated motivation and emotion: Progress 
+and o pen problems. Learning and Instruction, 81, 101664. 
+https://doi.org/10.1016/j.learninstruc.2021.101664 
+Pekrun, R., Elliot, A. J., & Maier, M. A. (2009). Achievement goals and achievement emotions: Testing a model of their joint relations with academic performance. Journal of 
+Educational Psychology, 101(1), 115. https://doi.org/10.1037/a0013383
+
+--- Page 9 --Academic Pressure and … 2025 
+ 
+ 124 
+ 
+Pyle, E., & Evans, D. (2018). Loneliness -what characteristics and circumstances are associated with feeling lonely. Newport: Office for National Statistics. 
+https://www.ons.gov.uk/ 
+Qayyum, F., Maqsood, S., Naeem, F., Salman, F., Bano, R., & Tabassum, M. F. (2022). Academic Stress And Career Anxiety: Mediating Role Of Social Competence Among Students 
+Of Public Institutions. Journal of Positive School Psychology, 6(9), 1717 -1729. 
+https://journalppw.com/index.php/jpsp/article/view/1921 
+Reddy, K. J., Menon, K. R., & Thattil, A. (2018). Academic stress and its sources among 
+university students. Biomedical and pharm acology journal, 11(1), 531 -537. 
+https://www.biomedpharmajournal.org/. 
+Repper, J., & Carter, T. (2011). A review of the literature on peer support in mental health 
+services. Journal of mental health, 20(4), 392 -411. 
+https://doi.org/10.3109/09638237.2011.583947 
+Rogers, E., Polonijo, A. N., & Carpiano, R. M. (2016). Getting by with a little help from 
+friends and colleagues: testing how res idents’ social support networks affect loneliness 
+and burnout. Canadian Family Physician, 62(11), e677-e683. https://www.cfp.ca/content/62/11/e677 
+Rowe, A. D., & Fitness, J. (2018). Understanding th e role of negative emotions in adult 
+learning and achievement: A social functional perspective. Behavioral sciences, 8(2), 27. 
+https://doi.org/10.3390/bs8020027 
+Shalaby, Y. M. (2024). Patterns of Academic Perfectionism and their Relation to Burnout and 
+Academic Resilience among University Students. Linguistic and Philosophical Investigations, 23(1), 1292-1305. https://doi.org/10.16917/lpi.9416 
+Shalaby, Y. M. A., & El -Kasaby, W. H. (2024). Modeling the Causal Relations between Mind 
+Wandering, Digital Readiness and Academic Engagement in E -Learning among University 
+Students. Kurdish Studies, 12(2), 529-539. https://doi.org/10.16917/ks.9414 
+Zhang, Y., Gan, Y., & Cham, H. (2007). Perfectionism, academic burnout and engagement 
+among Chinese college students: A structural equation modeling analysis. Personality and 
+individual differences, 43(6), 1529-1540. https://doi.org/10.1016/j.paid.2007.04.014

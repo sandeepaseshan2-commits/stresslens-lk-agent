@@ -1,0 +1,1240 @@
+--- Page 1 --44
+A Comparison of Mental Well-being among Female Undergraduates in Sri 
+Lanka based on Relationship Status
+DOI: https://doi.org/10.4038/sjhs.v4i1.64 
+Page 44-61
+Received: 05 February 2024 Accepted: 20 May 2024
+A Comparison of Mental Well-being among Female Undergraduates in Sri Lanka based 
+on Relationship Status
+Gomes, J. C.1, Ponnamperuma, L.1, & Hettiarachchi, A.2
+jananigomes2@gmail.com, lakmal.p@sliit.lk, anoli.hettiarachchi@gmail.com
+1School of Phycology, Faculty of Humanities and Sciences, Sri Lanka Institute of Information 
+Technology, Malabe, Sri Lanka.
+2American National College, Colombo 04, Sri Lanka.
+Abstract
+The prevalence of depression, stress, and anxiety symptoms among Sri Lankan undergraduates 
+has increased over the years, especially among females. However, there is limited research on the 
+impact of romantic relationships on these symptoms as well as their quality of life. This study aims to 
+compare the difference in levels of depression, anxiety, stress, and quality of life of female Sri Lankan 
+undergraduates based on their relationship status. A random sample of 295 female undergraduates 
+(18-29 years) purposively selected from Sri Lankan universities, which consist of 152 having no 
+relationship (‘single’) and 143 having romantic relationship (‘relationship’) was taken for this study. 
+An online survey that included a demographic questionnaire, the Sinhala translated version of the 
+Depression Anxiety Stress Scale (DASS-21), and the World Health Organization Quality of Life – 
+BREF (WHOQOL-BREF) was utilized to obtain the necessary information. Results showed that there 
+is a strong positive multicollinearity among depression, anxiety, and stress in female undergraduates. 
+There are no significant differences in the mean score of anxiety and stress between the two groups even 
+at the 10% level, but the mean score of depression of the single group (13.16) is significantly higher 
+than that of the relationship group (10.74) at 10% level. Positive significant correlations were also found 
+among six pairs within the four variables: physical, psychological, social relationships and environment 
+in QoL among female undergraduates irrespective of the type of groups. The mean score for social 
+relationship in ‘relationship’ group (63.69) is significantly higher (p < 0.05) than that of ‘single’ group 
+(50.05). This study reveals the intricate nature of relationships and mental health and highlights the 
+need for investigations that consider different cultures.
+ 
+Keywords: Anxiety, Depression, Quality of life, Romantic relationships, Sri Lankan undergraduates.
+Introduction
+The mental health and quality of life (QoL) 
+of university students are becoming a 
+growing concern globally, as evidenced by 
+numerous systematic reviews and metaanalyses highlighting the high prevalence of 
+depression, anxiety, and stress among this
+
+--- Page 2 --45
+demographic (Hope & Henderson, 2014; 
+Rotenstein et al., 2016). While studies 
+in the Sri Lankan context have identified 
+elevated levels of depression, anxiety, and 
+stress among specific student cohorts, such as 
+nursing and medical students, there remains a 
+notable gap in understanding the influence of 
+romantic relationships on mental well-being 
+and QoL among undergraduates (Rathnayake 
+& Ekanayaka, 2016; Wickramasinghe et 
+al., 2023). However, research studies on 
+undergraduates in general suggest that most 
+exhibit normal levels of these symptoms 
+(Gamage et al., 2021). Various factors unique 
+to Sri Lanka, such as cultural dynamics, 
+ragging, and academic expectations, play a 
+role in influencing above mentioned mental 
+health outcomes among undergraduates 
+(Gamage, 2017). Cultural dynamics such as 
+the influence of male dominance and coercion 
+within undergraduate relationships in Sri 
+Lanka has been identified as a concerning issue 
+for their mental health and QoL (Gunawardena 
+et al., 2012). This study seeks to address this 
+gap by conducting a comparative analysis of 
+the romantic relationship status of female Sri 
+Lankan undergraduates’ levels of depression, 
+anxiety, and stress symptoms, as well as their 
+QoL. Through a comprehensive examination 
+of these factors, the research aims to contribute 
+valuable insights into the intricate interplay 
+between romantic relationships and mental 
+well-being, particularly within the unique 
+cultural context of Sri Lankan universities.
+Literature Review
+Examining mental health on a global scale 
+reveals a consistently high to moderate 
+prevalence of depression, anxiety, and stress 
+among college students, as highlighted by 
+Ramón-Arbués et al. (2020). Moreover, 
+Cheng et al. (2023) emphasized that the 
+ongoing impact of the COVID-19 pandemic 
+has influenced the mental well-being of 
+college students. 
+In Sri Lanka, depression rates among the 
+general population are significant, with 
+specific emphasis on elevated levels among 
+undergraduate nursing students (Alwis et 
+al., 2023; Rathnayake & Ekanayaka, 2016). 
+However, nuanced findings suggest that the 
+majority of Sri Lankan undergraduates exhibit 
+healthy mental health indicators (Gamage et 
+al., 2021). 
+Romantic relationships and mental health
+Romantic relationships play a crucial role in 
+mental well-being during late adolescence and 
+early adulthood, with secure attachments and 
+social support serving as protective factors 
+against psychological distress while anxious 
+or avoidant attachment styles serve as risk 
+factors (Feeney & Collins, 2015; Finkel et 
+al., 2017; Weidmann et al., 2023). However, 
+challenges such as coercion, relationship 
+inauthenticity, and adjustment difficulties can 
+exacerbate depressive symptoms and stress 
+(Gunawardena et al., 2012; Soller, 2014).
+Whitton et al. (2013) underline that committed 
+relationships contribute to improved mental 
+well-being, with women in committed 
+relationships reporting fewer depressive 
+symptoms than their single counterparts. 
+The significance of relationship status on 
+mood is evident, with being single or married 
+influencing low mood (Horgan et al., 2018). 
+For young women, the mental health impact of 
+being in a romantic relationship is particularly 
+A Comparison of Mental Well-being among Female Undergraduates in Sri Lanka 
+based on Relationship Status
+Page 44-61
+
+--- Page 3 --46
+noteworthy, with cohabitation associated with 
+lower depression symptoms (Grundström et 
+al., 2021; Hearne, 2022). 
+Unique dynamics emerge in the context 
+of newer relationships, showcasing a 
+“honeymoon effect” positively influencing 
+mental health (Musick & Bumpass, 2012). The 
+impact of relationship satisfaction during the 
+COVID-19 pandemic further underscores the 
+connection between relationship quality and 
+mental well-being (Till & Niederkrotenthaler, 
+2022). Romantic relationship authenticity 
+proves crucial, with inauthenticity linked to 
+poor mental health, especially for girls (Soller, 
+2014). Coercion into a relationship, unstable 
+relationships, and discrepant relationships 
+are associated with depressive symptoms 
+and stress (Ramón-Arbués et al., 2020). 
+Relationship adjustment, crucial for both 
+genders, correlates with positive mental and 
+physical quality of life (Kershaw et al., 2013). 
+The mental health considerations when 
+forming relationships are complex, with 
+partners’ mental health playing a pivotal role 
+in relationship decisions. Notably, men tend 
+to attribute relationship problems more to 
+mental health issues (Ritter et al., 2022). The 
+reciprocal association between relationships 
+and mental health is recognized, with more 
+pronounced impacts noted when mental 
+health serves as a result, and relationships act 
+as the predictor (Braithwaite & Holt-Lunstad, 
+2017). 
+Mental health and quality of life (QOL)
+The intricate relationship between mental 
+health and quality of life (QOL) is underscored 
+by a wealth of research findings. Tang & 
+Thomas (2020) emphasize that depressive 
+symptoms serve as robust predictors of lower 
+overall QoL. Schofield et al. (2016) further 
+elaborate on this, linking higher depressive 
+symptoms to elevated stress, anxiety, 
+loneliness, low body appreciation, studying 
+law/management, regular binge drinking, and 
+reduced physical activity factors collectively 
+contributing to diminished QOL
+Anxiety, another significant mental health 
+facet, correlates with depressive symptoms and 
+poor QOL in the social domain, encompassing 
+personal relationships, social support, and 
+social interactions (Ratnani et al., 2017). 
+Conversely, students without social phobia 
+report significantly higher QOL in all areas 
+compared to those with social phobia (Hajure 
+& Abdu, 2020). Similarly, nursing students in 
+Brazil with heightened depressive symptoms 
+exhibit lower scores in physical functioning, 
+vitality, and social functioning domains 
+(Souza et al., 2012). Social Anxiety Disorder 
+and its severity are also notably associated 
+with deterioration across all domains of QoL 
+(Hakami et al., 2017).
+The impact of environmental factors and 
+physical health on student mental health 
+cannot be overstated (Dafaalla et al., 2016). 
+Systematic reviews, such as the one by 
+Ribeiro et al. (2018) consistently reveal a 
+negative association between QOL and stress. 
+Lucchetti et al. (2018) highlight cross-cultural 
+differences, pointing out that Brazilian medical 
+students, in contrast to their US counterparts, 
+experience more depression, higher stress 
+levels, fewer wellness behaviors, increased 
+exhaustion, and lower environmental quality 
+of life. However, those with higher mental 
+health scores reported higher physical QOL. 
+A Comparison of Mental Well-being among Female Undergraduates in Sri Lanka 
+based on Relationship Status
+Page 44-61
+
+--- Page 4 --47
+Given the observed relationships between 
+mental health and QOL, it is reasonable 
+to assume that romantic relationships, as a 
+significant aspect of personal life, may impact 
+QOL. 
+Romantic relationships and QOL
+In the realm of relationships and QOL, 
+better relationship adjustment emerges as 
+a key determinant of positive mental and 
+physical QOL for both young women and 
+men (Kershaw et al., 2013). Interpersonal 
+relations, encompassing social support and 
+intimacy, consistently emerge as robust 
+predictors of QOL in various studies (Tol et 
+al., 2013). QoL is notably linked to feelings 
+of loneliness, the presence of social support, 
+the degree of social connectedness, and the 
+level of intimacy with a romantic partner 
+(Kuczynski et al., 2020). Notably, a metaanalysis by Holt-Lunstad et al. (2015) 
+underscores the critical role of relationship 
+quality, associating poor-quality relationships 
+with an increased risk of mortality. Romantic 
+involvement introduces nuanced dynamics, 
+as seen in the study by Whitton et al. (2018), 
+associating romantic involvement with less 
+drinking but more smoking. Committed 
+relationship involvement is also linked to less 
+problematic alcohol use for both genders, 
+showcasing potential positive implications for 
+QOL (Whitton et al., 2013).
+Romantic relationships in the Sri Lankan 
+context
+Turning attention to the Sri Lankan cultural 
+context, existing studies provide intriguing 
+glimpses into the dynamics of romantic 
+relationships. In a study conducted among 
+university students in Sri Lanka, it was 
+found that more than half of the participants 
+were involved in romantic relationships 
+(Gunawardena et al., 2012). Interestingly, 
+most of the Sri Lankan youth believe 
+that establishing a romantic relationship 
+with someone from a similar background 
+increases the likelihood of building a strong 
+relationship, positively impacting mental 
+health (Kumarasinghe et al., 2021).
+However, the picture is not entirely positive. A 
+study among university undergraduates in Sri 
+Lanka uncovered concerning aspects of sexual 
+relationships within romantic contexts. It 
+found that a significant proportion of students 
+reported engaging in sexual relationships, 
+with a notable portion of females expressing 
+that they unwillingly agreed, due to the fear 
+of losing the relationship or being physically 
+harassed by males (Gunawardena et al., 
+2012). The cultural dynamics in Sri Lanka are 
+further emphasized by the tendency to direct 
+blame in romantic relationships towards the 
+female partner (Kumarasinghe et al., 2021). 
+Disputes between partners and crises of an 
+intimate nature are one of the reasons for 
+suicide among female youth in rural areas in 
+Sri Lanka (Marecek, 2006). This underscores 
+the absence of adequate professional support 
+to address challenges related to romantic 
+or sexual relationships. The disrespectful 
+attitude towards females and the desire to 
+exert power over them are identified as 
+contributing factors (Jordal et al., 2015). There 
+have been significant instances of physical 
+violence and verbal abuse in the initiation and 
+maintenance of romantic relationships among 
+undergraduates due to this (Gunawardena et 
+al., 2012). These can negatively impact the 
+mental well-being of female undergraduates. 
+A Comparison of Mental Well-being among Female Undergraduates in Sri Lanka 
+based on Relationship Status
+Page 44-61
+
+--- Page 5 --48
+Moreover, the cultural phenomenon of 
+“ragging” in Sri Lanka is highlighted as a 
+potential source of lower mental well-being. 
+Constant harassment, trauma, and frustrations 
+due to the inability to form functional social or 
+romantic relations contribute to the challenges 
+faced by individuals in the university context 
+(Gamage, 2017). Students who were ragged 
+as freshers proceeded to continue severely 
+ragging new students since they felt like they 
+had the right to ‘torture’ someone because 
+they had to go through it, hence continuing a 
+vicious cycle. 
+Summary of the literature review
+Previous literature has highlighted how 
+romantic relationships can be significant 
+contributors to mental well-being, with 
+committed relationships associated with 
+improved mood and lower depressive 
+symptoms, which leads to a better overall 
+quality of life. However, challenges such 
+as coercion, relationship authenticity, and 
+adjustment difficulties can negatively 
+affect one’s mental well-being. It becomes 
+evident that while certain cultural beliefs and 
+practices may positively influence romantic 
+relationships, there are significant challenges 
+and gender-based dynamics that require 
+thorough investigation. However, there 
+is a noticeable research gap regarding the 
+impact of romantic relationships on mental 
+health among Sri Lankan undergraduates, 
+particularly concerning depressive, anxiety, 
+and stress under mental health and physical, 
+psychological, social relationship and 
+environment in QoL.
+Objective of the study
+Considering the above, this study endeavors 
+to address this gap and enhance understanding 
+in this specific context. The objectives of 
+this study are (i) to compare the levels of 
+depression, anxiety, and stress symptoms 
+among female Sri Lankan undergraduates 
+in romantic relationships and those not in 
+romantic relationships and (ii) to compare 
+the overall quality of life among female Sri 
+Lankan undergraduates who are in romantic 
+relationships and those who are not.
+Hypotheses
+The following two null hypotheses are tested 
+in this study.
+H01: There is no significant difference in 
+depression, anxiety, and stress symptoms 
+under mental health between two groups 
+namely, ‘relationship’ and ‘single’.
+H02: There is no significant difference in 
+the physical, psychological, social 
+relationships, and environmental 
+domains under QoL between two groups 
+namely, ‘relationship’ and ‘single’.
+Significance of the study
+This research seeks to provide vital insights 
+into the nuanced relationship between romantic 
+involvements and mental health outcomes. It 
+aims to determine whether being in a romantic 
+relationship acts as a protective factor against 
+depression, anxiety, and stress symptoms 
+or, conversely, if it exacerbates these issues. 
+Understanding these dynamics is crucial for 
+fostering healthy relationship practices and 
+implementing interventions to manage stress 
+A Comparison of Mental Well-being among Female Undergraduates in Sri Lanka 
+based on Relationship Status
+Page 44-61
+
+--- Page 6 --49
+and conflicts effectively. The study also 
+recognizes the potential role of universities 
+in supporting students experiencing mental 
+health symptoms, emphasizing the need for 
+policies and programs that promote healthier 
+romantic relationships.
+Methods and Materials
+Study design
+This study utilized a cross-sectional 
+descriptive research design to investigate the 
+relationship between romantic relationship 
+involvement and levels of depression, anxiety, 
+and stress symptoms. The independent 
+variable is the status of romantic relationships, 
+namely female undergraduates: (i) not in 
+a romantic relationship (‘single’) and (ii) 
+In a romantic relationship (‘relationship’). 
+The dependent variables are the scores of 
+depression, anxiety, and stress symptoms as 
+well as the four domains of the QoL scale: 
+physical, psychological, social relationships, 
+and environment. Following sections will 
+describe sample selection and data collection.
+Sample size and sampling unit
+The sample size was computed using equation 
+(1) shown by Cochran (1963), where e is the 
+margin of error, p is the true proportion and z 
+is the critical value of normal distribution at 
+95% confidence level.
+As p is not known, the value of p, which 
+maximize p(1-p) was taken, that is p= 0.5 
+Under the assumption of 2.5% margin of 
+error, p = 0.5 and 95% confidence interval 
+so that z =1.96, it was found that minimum 
+sample size is 385. The sampling unit is a 
+female undergraduate of age between 18 and 
+29 years in a university of Sri Lanka. The 
+study was purposively restricted to female 
+undergraduates from various state and nonstate universities. A total of 385 participants 
+responded to the survey but only 295 were 
+included in the analysis based on the inclusion 
+criteria. The selected undergraduates are 
+from different years and are studying different 
+degrees such as Information Technology, 
+Psychology, Law, and Engineering. 
+Data Collection Instruments 
+Demographic information
+A demographic questionnaire was utilized to 
+collect the socio-demographic data such as 
+gender, age, university, degree programme, 
+and partner’s gender. The response variable 
+was binary, namely females having no 
+relationship (‘single’) and females having 
+romantic relationship (‘relationship’).
+Depression anxiety and stress scale
+The dependent variables depressive, anxiety, 
+and stress symptoms were measured using 
+the Sinhala version of the depression anxiety 
+stress scale (DASS-21) which has been 
+adapted and validated in the Sri Lankan 
+context (Aththidiye & Ismail, 2012). The 
+self-report questionnaire consists of 21 items, 
+with 7 items per subscale, and assesses the 
+three negative emotional states over the past 
+week. Each question is rated on a 4-point 
+Likert scale (0 = did not apply to me at all, 1 
+= applied to me to some degree, or some of 
+the time, 2 = applied to me to a considerable 
+degree or a good part of time and 3 = applied 
+to me very much, or most of the time). The 
+ z2 p (1-p)n = e2
+* * (1)
+A Comparison of Mental Well-being among Female Undergraduates in Sri Lanka 
+based on Relationship Status
+Page 44-61
+
+--- Page 7 --50
+sum of the scores of each subscale is obtained 
+and multiplied by 2 to ensure consistency with 
+the longer DASS- 42 version. Higher scores 
+on each subscale indicate higher levels of 
+depression, anxiety, or stress experienced by 
+the individual over the past week. The severity 
+scorings of DASS-21 are shown in Table 1. 
+Table 1.
+Severity Scoring of DASS-21.
+ Severity levels Depression Anxiety Stress
+Normal 0-9 0-7 0-14
+Mild 10-13 8-9 15-18
+Moderate 14-20 10-14 19-25
+Severe 21-27 15-19 26-33
+Extremely severe 28+ 20+ 34+
+ 
+Source: Lovibond, S. H., & Lovibond, P. F. (1995). Depression Anxiety Stress Scales (DASS-
+-21, DASS--42) https://doi.org/10.1037/t01004-000.
+World Health Organization quality of life – 
+BREF (WHOQOL-BREF)
+The dependent variable, quality of life, 
+was measured using the Sinhala-translated 
+version of the World Health Organization 
+Quality of Life- BREF (WHOQOL-BREF) 
+questionnaire. WHOQOL-BREF is a short 
+version of WHOQOL-100, and it assesses the 
+quality of life within six different contexts. 
+This self-administered questionnaire contains 
+26 questions, capturing perceptions of health 
+and well-being over the previous two weeks. 
+It covers four domains: physical health (7 
+items), psychological health (6 items), social 
+relationships (3 items), and the environment 
+(8 items) and each containing multiple facets. 
+The remaining two questions out of 26 measure 
+overall QOL and general health. Each question 
+is rated on a Likert scale ranging from 1 to 
+5 (1=”very poor”, “very dissatisfied”, “not 
+at all” or “never”, 2 = “poor”, “dissatisfied”, 
+“a little” or “seldom”, 3 = “neither poor nor 
+good”, “neither satisfied nor dissatisfied”, “a 
+moderate amount”, “moderately” or “quite 
+often”, 4 = “good”, “satisfied”, “very much”, 
+“mostly” or “very often” and 5 = “very 
+good”, “very satisfied”, “an extreme amount”, 
+“extremely”, “completely” or “always”). The 
+mean score is calculated for each domain 
+to produce a score falling between 4 to 20. 
+To standardize the domain scores and make 
+them comparable to those in the original 
+WHOQOL-100, each mean domain score is 
+multiplied by 4. Consequently, a higher scaled 
+score reflects a better quality of life. 
+Data collection
+Data was collected through online platforms 
+such as WhatsApp and LinkedIn, using 
+Google Forms to reach potential participants 
+and ensure convenient accessibility for a 
+diverse group of female undergraduates. All 
+participants took part in an online survey 
+A Comparison of Mental Well-being among Female Undergraduates in Sri Lanka 
+based on Relationship Status
+Page 44-61
+
+--- Page 8 --51
+with a duration of approximately 10 – 15 
+minutes. To avoid duplicate responses, the 
+system allowed only one survey submission 
+per Google account. Upon accessing the 
+survey, participants were presented with 
+comprehensive information about the study. 
+Subsequently, they encountered an implied 
+consent statement, and progression to the 
+remainder of the survey was contingent upon 
+their agreement to participate. Participants 
+were required to respond to each preceding 
+survey item before advancing to the next 
+question. Following the completion of the 
+survey, a debrief form was made available 
+to participants. Participants were free to 
+withdraw from the study at any point and 
+were informed that their participation was 
+voluntary, with no benefits offered for their 
+contribution to the study. Furthermore, 
+the participants were encouraged to seek 
+clarification or ask questions by contacting 
+the researcher or supervisor through the 
+provided contact details. Data was assured 
+to be kept confidential and securely stored 
+with password protection. After 2 years, all 
+data will be securely destroyed to safeguard 
+participants’ privacy and confidentiality.
+Ethical approval
+The study obtained ethical approval from 
+the Psychology ethics review panel of the 
+Humanities and Sciences faculty.
+Data analysis 
+The collected data were analyzed using the 
+Statistical Package for the Social Sciences 
+(SPSS) 26. Descriptive statistics, such as 
+mean, frequencies, and percentages, were 
+generated to summarize the data. One-way 
+analysis of variance (ANOV A) was conducted 
+to compare the means of all variables between 
+two groups, under the assumption of normality.
+Results and Discussion
+Reliability of data
+Cronbach’s alpha statistic for the internal 
+consistency for depression, anxiety, stress, 
+physical health, psychological health, and 
+environment domains were determined to 
+be 0.91, 0.84, 0.89, 0.72, 0.83, and 0.79, 
+respectively. The statistics for all variables 
+are greater than 0.7 confirming the instrument 
+reliability of data. Social relationships showed 
+an internal consistency of 0.57, due to fewer 
+number of items.
+Distribution of age of female undergraduate
+The age varies from 18 years (minimum) to 29 
+years (maximum) with a mean of 22.10 years 
+and SE of 0.086. Both the median and mode 
+are also 22 years confirming age distributed 
+normally (Fig. 1).
+Figure 1
+Distribution of age of the participants.
+A Comparison of Mental Well-being among Female Undergraduates in Sri Lanka 
+based on Relationship Status
+Page 44-61
+
+--- Page 9 --52
+Analysis of variables in mental health
+Mean values of three variables in mental health 
+Table 2 shows mean and standard deviation (SD) of the three variables among female 
+undergraduates in different groups. 
+Table 2.
+Descriptive statistics (mean ± SD) of depression, anxiety and stress. 
+Variable Group type Pooled group
+Relationship Single
+Depression 10.74±10.19 13.16±11.83 11.99±11.12
+Anxiety 8.50±8.32 9.62±9.43 9.08±8.91
+Stress 15.02±9.84 16.08±11.06 15.57±10.49
+Results in Table 2 indicate the mean score for 
+stress, depression, and anxiety for all three 
+groups. Further it can be seen that the SDs 
+are almost close to the mean indicating there 
+is very high variability in each variable. All 
+values are in the mild range in the DASS21 scoring scale, aligning with previous 
+research (Gamage et al., 2021). Out of the 
+three dependent variables, stress scores were 
+the highest irrespective of the groups. These 
+findings are similar to the results of Illankoon 
+and Warnakulasooriya (2014) who found 
+that there was a high prevalence of stress 
+levels among Sri Lankan undergraduates, 
+specifically nursing students. Breakups in 
+romantic relationships (Thi Khanh Minh et 
+al., 2023), academic stresses (Ponnamperuma 
+et al., 2023; Ritter et al., 2022), and coercion 
+(Gunawardena et al., 2012) were found to 
+be associated with increased stress levels in 
+undergraduates in Sri Lanka.
+The association among the variables
+This correlation coefficients between depression, anxiety, and stress are shown in Table 3. 
+ 
+Table 3.
+Correlation coefficient and its significance level among three variables irrespective of two 
+groups.
+Anxiety Score Stress Score
+Depression Score 0.75 0.79
+(0.000) (0.000)
+Anxiety Score 0.82
+(0.000)
+(parenthesis indicates the probability of the correlation coefficient) 
+A Comparison of Mental Well-being among Female Undergraduates in Sri Lanka 
+based on Relationship Status
+Page 44-61
+
+--- Page 10 --53
+Results in Table 3 clearly indicate that there 
+is a significantly positive (p < .05) correla tion among three variables irrespective of 
+the group being in a relationship or not hav ing a relationship. The highest correlation 
+(r = 0.82) was found between anxiety and 
+stress. A similar trend was observed for the 
+single group as well as for the relationship 
+group.
+These results conclude that if stress increases 
+in a female undergraduate, then there is a 
+high chance both depression and anxiety 
+increase irrespective of the two groups. 
+From previous literature it is evident that 
+cultural nuances such as getting blamed for 
+any issue in the relationship (Kumarasinghe 
+et al., 2021), male dominance resulting in 
+coercion (Gunawardena et al., 2012), societal 
+expectations, and individual coping strategies 
+(Panis et al., 2019) of female Sri Lankan 
+undergraduates may play pivotal roles for 
+high stress, high depression and high anxiety. 
+Comparison between two groups
+The one-way analysis of variance (ANOV A) 
+was carried out to find whether there is a 
+significant difference among the mean score 
+of depression, anxiety and stress between two 
+groups. The summary of the results is shown 
+in Table 4.
+ Table 4.
+Summary of F value of the ANOVA tables.
+ 
+Variable F value (p value)
+Depression 3.51 (p = 0.06)
+Anxiety 1.15 (p = 0.28)
+Stress 0.75 (p = 0.39)
+As all three F values are not significant 
+it can be concluded that the mean values 
+of depression, anxiety, and stress are not 
+significantly different between participants in 
+romantic relationships and single participants. 
+This could be due to the confounded effect in 
+the sample as participants are from various 
+universities, following various degrees, and 
+different years. However, the mean value of 
+depression in the ‘relationship’ group (10.74) 
+is significantly lower than the corresponding 
+value in the ‘single’ group(13.16) at a 10% 
+level.
+The findings in this study contrast with 
+previous studies suggesting that committed 
+relationships are linked to improved mental 
+well-being (Horgan et al., 2018; Whitton et al., 
+2013). The absence of significant differences in 
+mental health outcomes based on relationship 
+status raises intriguing questions about the 
+cultural nuances and relationship dynamics 
+within the Sri Lankan context. It is plausible 
+that the societal norms and expectations related 
+to romantic relationships in Sri Lanka differ 
+significantly from those in Western cultures, 
+where the majority of previous research has 
+been conducted. In Sri Lanka, the nature 
+and expectations of romantic relationships 
+might be distinct, potentially influencing 
+how individuals perceive and experience 
+these relationships about their mental health 
+(Kumarasinghe et al., 2021). Dissanayake et 
+al.(2020), found that individuals in the South 
+Asian cultural setting tend to choose how they 
+express their emotions based on their social 
+environment, which can lead to negative 
+mental health outcomes.
+Another interpretation of these findings 
+could be the complex nature of mental health. 
+Mental health outcomes are influenced by 
+A Comparison of Mental Well-being among Female Undergraduates in Sri Lanka 
+based on Relationship Status
+Page 44-61
+
+--- Page 11 --54
+a myriad of factors, including individual 
+coping mechanisms, social support networks, 
+familial relationships, and societal pressures 
+(Kumarasinghe et al., 2021). It is conceivable 
+that while romantic relationships play a 
+role in shaping mental well-being, they do 
+not operate in isolation. Other contextual 
+elements, such as academic stressors, 
+financial pressures, and cultural expectations, 
+could be equally, if not more, impactful in 
+determining the mental health status of these 
+undergraduates (Ponnamperuma et al., 2023). 
+Studies conducted in Sri Lanka have indicated 
+that the prevalence of depression increased 
+with the undergraduates’ academic year 
+(Wickramasinghe et al., 2023). 
+Analysis of variables in QOL 
+Descriptive statistics
+Table 5.
+Mean and SD of the variables QOL among female undergraduates. 
+Variable Group
+Relationship Single Pooled
+Physical 66.08±13.32 68.05±16.04 67.09±14.79
+Psychological 63.75±15.50 59.92±19.37 61.77±17.68
+Social relationships 63.69±18.72 50.05±23.05 56.67±22.11
+Environment 62.50±13.82 63.96±17.73 63.25±15.94
+Results in Table 5 indicate that the mean score of all four variables is almost the same in the 
+relationship group. Similarly, physical and environmental scores are almost the same among 
+the two groups. 
+The association among the four variables within QOL
+The correlation analysis was carried out to find the association among four variables under 
+QOL and results are shown in Table 6.
+Table 6.
+Correlation coefficient and its significance level among four variables irrespective of two 
+groups.
+Psychological 
+Domain
+Social Relationships 
+Domain
+Environment
+Domain
+Physical Domain 0.58 0.43 0.58
+(0.000) (0.000) (0.000)
+Psychological Domain 00.50 0.43
+(0.000) (0.000)
+Social Relationships domain 0.41
+(0.000)
+(parenthesis indicates the probability of the correlation)
+A Comparison of Mental Well-being among Female Undergraduates in Sri Lanka 
+based on Relationship Status
+Page 44-61
+
+--- Page 12 --55
+Results in Table 6 indicate that there is 
+significantly positive ( p < .05) correlation 
+among the four variables in QOL irrespective 
+of the group having relationship or not having 
+relationship. The correlations among the 
+variables within QOL are much lower than 
+the correlations among the variables within 
+mental health (Table 3 and Table 6). 
+Table 7.
+Summary of F value of the ANOVA tables .
+Variable F value (p value)
+Physical 1.29 (p = 0.256)
+Psychological 3.49 (p = 0.063)
+Social Relationships 30.89 (p = 0.000)
+Environment 0.62 (p = 0.433)
+The results of the one-way ANOV A revealed 
+that mean score values are not significantly 
+different in physical and environment. 
+However, there were significant differences 
+in the social relationships ( p=0.000) and 
+psychological (p = 0.063). 
+These findings are similar to previous 
+research emphasizing the importance of social 
+connections in influencing QoL (Kuczynski et 
+al., 2020). Research has consistently shown 
+that mental health outcomes are associated 
+with romantic relationships and Quality of life 
+(Kershaw et al., 2013; Tol et al., 2013; Whitton 
+et al., 2013). The current results add to the 
+existing literature on QoL, as the study found 
+that participants in romantic relationships 
+had higher scores in their social relationship 
+domain. This supports the literature that 
+suggests that romantic relationships could 
+facilitate social support as well as improve 
+social relationships (Porter & Chambless, 
+2017).
+In the Sri Lankan context, the practice of 
+“ragging” can detrimentally impact mental 
+well-being, given the persistent harassment, 
+trauma, and frustrations experienced 
+by individuals. This can further lead to 
+challenges in forming functional social or 
+romantic relationships (Gamage, 2017; 
+Wickramasinghe et al., 2023). Undergraduates 
+who had to adapt to unfamiliar environments 
+after moving away from home could suffer 
+more psychological distress (Kuruppuarachchi 
+et al., 2002). The COVID-19 pandemic might 
+have also influenced the mental well-being of 
+the undergraduates (Cheng et al., 2023). 
+Conclusions and Recommendations 
+Conclusions
+Contrary to initial hypotheses and existing 
+literature, the study did not find significant 
+differences in anxiety, and stress symptoms 
+between female undergraduates in romantic 
+relationships and those not in romantic 
+relationships. The depression among female 
+undergraduates in ‘single’ group is significantly 
+higher than that of ‘relationship’ group. There 
+is a strong positive significant correlation 
+(p < 0.01) among depression and anxiety 
+(r = 0.75), depression and stress (r = 0.79). 
+There was a significant difference between the 
+two groups in the social relationship domain 
+of QoL, and psychological domain of QoL 
+indicating potential benefits associated with 
+romantic involvement.
+The findings highlight the need for more 
+context-specific research, especially in 
+non-western societies, to better understand 
+the intricate dynamics between romantic 
+relationships and mental well-being. Future 
+studies should adopt mixed methods 
+A Comparison of Mental Well-being among Female Undergraduates in Sri Lanka 
+based on Relationship Status
+Page 44-61
+
+--- Page 13 --56
+approaches and consider broader contextual 
+factors such as cultural beliefs, societal 
+norms, and gender dynamics, to provide 
+a comprehensive understanding of these 
+relationships.
+This study adds to the understanding of 
+the complex interplay between romantic 
+relationships, mental health, and QoL within 
+a specific cultural context. By recognizing the 
+multifaceted nature of these relationships and 
+addressing contextual factors, professionals 
+can better support students’ mental well-being 
+and enhance their overall] quality of life.
+Recommendations
+Focusing on specific populations such 
+as undergraduates following a certain 
+degree, would further improve the study 
+by eliminating the compound effect of 
+different degree programs on the individuals’ 
+mental health. From a practical standpoint, 
+interventions and support systems should 
+take a holistic approach, addressing various 
+stressors and promoting open conversations 
+about mental health. Tailoring interventions 
+to the cultural nuances of Sri Lankan society 
+and considering factors such as societal 
+expectations and coping mechanisms are 
+essential for effectively supporting students’ 
+mental well-being.
+References
+Alwis, I., Baminiwatta, A., & Chandradasa, 
+M. (2023). Prevalence and associated 
+factors of depression in Sri Lanka: 
+A systematic review and metaanalysis. Social Psychiatry and 
+Psychiatric Epidemiology. https://doi.
+org/10.1007/s00127-023-02495-z.
+Aththidiye, A. V . S. R., & Ismail, Dr. C. 
+(2012). Adaptation and Validation of 
+the Depression Anxiety and Stress 
+Scale 21 (DASS-21) among students 
+in the University of Colombo. Annual 
+Research Symposium 2012 Faculty 
+of Graduate Studies, University of 
+Colombo.
+Braithwaite, S., & Holt-Lunstad, J. (2017). 
+Romantic relationships and mental 
+health. Current Opinion in Psychology, 
+13, 120–125. https://doi.org/10.1016/j.
+copsyc.2016.04.001.
+Cheng, T., Qiyi, L., & Fu, H. (2023). A 
+comparative study of subjective wellbeing, interpersonal relationship and 
+love forgiveness among Chinese 
+college students before and after 
+the COVID-19 epidemic. Frontiers 
+in Psychology , 14. https://www.
+frontiersin.org/articles/10.3389/
+fpsyg.2023.1229451.
+Dafaalla, M., Farah, A., Bashir, S., Khalil, 
+A., Abdulhamid, R., Mokhtar, M., 
+Mahadi, M., Omer, Z., Suliman, 
+A., Elkhalifa, M., Abdelgadir, H., 
+Kheir, A., & Abdalrahman, I. (2016). 
+Depression, Anxiety, and Stress in 
+Sudanese Medical Students: A Cross 
+Sectional Study on Role of Quality of 
+Life and Social Support.
+Dissanayake, M. P., Halberstadt, A. G., 
+& Kalat, J. W. (2020). Emotional 
+Experiences and Expressions of 
+Individuals in the Sri Lankan Context: 
+The Roles of Gender, Culture and 
+Religion. OUSL Journal , 15(1), 
+A Comparison of Mental Well-being among Female Undergraduates in Sri Lanka 
+based on Relationship Status
+Page 44-61
+
+--- Page 14 --57
+43. https://doi.org/10.4038/ouslj.
+v15i1.7455.
+Feeney, B. C., & Collins, N. L. (2015). 
+A New Look at Social Support: 
+A Theoretical Perspective on 
+Thriving Through Relationships. 
+Personality and Social Psychology 
+Review, 19(2), 113–147. https://doi.
+org/10.1177/1088868314544222.
+Finkel, E. J., Simpson, J. A., & Eastwick, 
+P. W. (2017). The Psychology of 
+Close Relationships: Fourteen 
+Core Principles. Annual Review 
+of Psychology , 68(1), 383–411. 
+https://doi.org/10.1146/annurevpsych-010416-044038.
+Gamage, C. K. W., Perera, V . B. J., Sivendran, 
+K., Patabandige, D., Dewage, S., & 
+Fernando, N. (2021). Depression, 
+Anxiety and Stress Levels Among 
+Allied Health Undergraduates in a 
+Defence University, Sri Lanka. https://
+doi.org/10.21203/rs.3.rs-542811/v1.
+Gamage, S. (2017). Psychological, 
+Sociological, and Political Dimensions 
+of Ragging in Sri Lankan Universities.
+Grundström, J., Konttinen, H., Berg, N., & 
+Kiviruusu, O. (2021). Associations 
+between relationship status and 
+mental well-being in different 
+life phases from young to middle 
+adulthood. SSM - Population Health , 
+14, 100774. https://doi.org/10.1016/j.
+ssmph.2021.100774.
+Gunawardena, N., Weerasinghe, M., 
+Rajapaksa, L., Wijesekara, P., & 
+Chathurangana, P. W. P. (2012). 
+Romance, sex and coercion:insights 
+into undergraduate relationships. Sri 
+Lanka Journal of Psychiatry , 2(2), 
+Article 2. https://doi.org/10.4038/
+sljpsyc.v2i2.4042.
+Hajure, M., & Abdu, Z. (2020). Social 
+Phobia and Its Impact on Quality of 
+Life Among Regular Undergraduate 
+Students of Mettu University, Mettu, 
+Ethiopia. Adolescent Health, Medicine 
+and Therapeutics , 11, 79–87. https://
+doi.org/10.2147/AHMT.S254002.
+Hakami, R. M., Mahfouz, M. S., Adawi, A. M., 
+Mahha, A. J., Athathi, A. J., Daghreeri, 
+H. H., Najmi, H. H., & Areeshi, N. A. 
+(2017). Social anxiety disorder and 
+its impact in undergraduate students 
+at Jazan University, Saudi Arabia. 
+Mental Illness , 9(2), 42–47. https://
+doi.org/10.1108/mi.2017.7274.
+Hearne, B. N. (2022). Romantic Relationships 
+and Depressive Symptoms among 
+Young Women. The Sociological 
+Quarterly, 0(0), 1–23. https://doi.org/
+10.1080/00380253.2022.2076630.
+Holt-Lunstad, J., Smith, T. B., Baker, M., 
+Harris, T., & Stephenson, D. (2015). 
+Loneliness and Social Isolation as Risk 
+Factors for Mortality: A Meta-Analytic 
+Review. Perspectives on Psychological 
+Science, 10(2), 227–237. https://doi.
+org/10.1177/1745691614568352.
+Hope, V ., & Henderson, M. (2014). Medical 
+student depression, anxiety and distress 
+outside North America: A systematic 
+A Comparison of Mental Well-being among Female Undergraduates in Sri Lanka 
+based on Relationship Status
+Page 44-61
+
+--- Page 15 --58
+review. Medical Education , 48(10), 
+963–979. https://doi.org/10.1111/
+medu.12512.
+Horgan, A., Kelly, P., Goodwin, J., & Behan, 
+L. (2018). Depressive Symptoms 
+and Suicidal Ideation among Irish 
+Undergraduate College Students. 
+Issues in Mental Health Nursing , 
+39(7), 575–584. https://doi.org/10.108
+0/01612840.2017.1422199.
+Ilankoon, P., & Warnakulasuriya, S. (2014). 
+Perceived Stress and Associated 
+Factors among BSc Nursing 
+Undergraduates in University of Sri 
+Jayewardenepura, Sri Lanka.
+Jordal, M., Wijewardena, K., Öhman, A., 
+Essén, B., & Olsson, P. (2015). 
+‘Disrespectful men, disrespectable 
+women’: Men’s perceptions on 
+heterosexual relationships and 
+premarital sex in a Sri Lankan Free 
+Trade Zone - a qualitative interview 
+study. BMC International Health and 
+Human Rights , 15(1), 3. https://doi.
+org/10.1186/s12914-015-0040-4.
+Kershaw, T., Murphy, A., Divney, A., 
+Magriples, U., Niccolai, L., & Gordon, 
+D. (2013). What’s Love Got to Do 
+with It: Relationship Functioning and 
+Mental and Physical Quality of Life 
+Among Pregnant Adolescent Couples. 
+American Journal of Community 
+Psychology, 52(3), 288–301. https://
+doi.org/10.1007/s10464-013-9594-2.
+Kuczynski, A. M., Kanter, J. W., & 
+Robinaugh, D. J. (2020). Differential 
+associations between interpersonal 
+variables and quality-of-life in a 
+sample of college students. Quality of 
+Life Research, 29(1), 127–139. https://
+doi.org/10.1007/s11136-019-02298-3.
+Kumarasinghe, M., Silva, W. I. D., & 
+Goonatilaka, W. S. M. (2021). Love 
+Affairs, Dating and Sexual Behaviour 
+among Unmarried Youth: A Qualitative 
+Investigation Carried Out Immediately 
+Prior to The Covid-19 Pandemic in 
+Sri Lanka. South Asian Journal of 
+Social Sciences and Humanities, 2(6), 
+Article 6. https://doi.org/10.48165/
+sajssh.2021.2603.
+Kuruppuarachchi, K. A. L. A., 
+Kuruppuarachchi, K. A. J. M., 
+Wijerathne, S., & Williams, S. S. 
+(2002). Psychological distress among 
+students from five universities in Sri 
+Lanka. The Ceylin Medical Journal , 
+47(1).
+Lovibond, S. H., & Lovibond, P. F. 
+(1995). Depression Anxiety Stress 
+Scales (DASS--21, DASS--42) https://
+doi.org/10.1037/t01004-000.
+Lucchetti, G., Damiano, R. F., DiLalla, L. F., 
+Lucchetti, A. L. G., Moutinho, I. L. D., 
+da Silva Ezequiel, O., & Kevin Dorsey, 
+J. (2018). Cross-cultural Differences 
+in Mental Health, Quality of Life, 
+Empathy, and Burnout between US 
+and Brazilian Medical Students. 
+Academic Psychiatry , 42(1), 62–67. 
+https://doi.org/10.1007/s40596-0170777-2.
+A Comparison of Mental Well-being among Female Undergraduates in Sri Lanka 
+based on Relationship Status
+Page 44-61
+
+--- Page 16 --59
+Marecek, J. (2006). Young Women’s Suicides 
+In Sri Lanka: Cultural, Ecological and 
+Psychological Factors. Asian Journal 
+of Counselling, 13, 63–92.
+Musick, K., & Bumpass, L. (2012). 
+Reexamining the Case for Marriage: 
+Union Formation and Changes in Wellbeing. Journal of Marriage and Family, 
+74(1), 1–18. https://doi.org/10.1111/
+j.1741-3737.2011.00873.x.
+Panis, M. P., Damayanti, Y ., & Keraf, M. 
+K. P. A. (2019). Coping Strategies, 
+Personality Type, and Help-seeking 
+behavior for Mental Health Problems. 
+Journal of Health and Behavioral 
+Science, 1(2), Article 2. https://doi.
+org/10.35508/jhbs.v1i2.2087.
+Ponnamperuma, L., Hettiarachchi, A., 
+Jayakodi, P., & Abeysinghe, N. 
+(2023). Construction and Validation of 
+Academic Stress Scale for 18-35-yearold Sri Lankan University Students, 
+Proceedings of SLIIT International 
+Conference on Advancements 
+in Sciences and Humanities, 1-2 
+December, Colombo, pages 550-557 . 
+https://doi.org/10.54389/AWFB8089.
+Porter, E., & Chambless, D. L. (2017). 
+Social Anxiety and Social Support 
+in Romantic Relationships. Behavior 
+Therapy, 48(3), 335–348. https://doi.
+org/10.1016/j.beth.2016.12.002.
+Ramón-Arbués, E., Gea-Caballero, V ., 
+Granada-López, J. M., Juárez-Vela, 
+R., Pellicer-García, B., & AntónSolanas, I. (2020). The Prevalence of 
+Depression, Anxiety and Stress and 
+Their Associated Factors in College 
+Students. International Journal of 
+Environmental Research and Public 
+Health, 17(19), 7001. https://doi.
+org/10.3390/ijerph17197001.
+Rathnayake, S., & Ekanayaka, J. (2016). 
+Depression, Anxiety and Stress among 
+Undergraduate Nursing Students in 
+a Public University in Sri Lanka. 
+International Journal of Caring 
+Sciences, 9(3), 1020–1032.
+Ratnani, I. J., Vala, A. U., Panchal, B. N., 
+Tiwari, D. S., Karambelkar, S. S., 
+Sojitra, M. G., & Nagori, N. N. 
+(2017). Association of social anxiety 
+disorder with depression and quality 
+of life among medical undergraduate 
+students. Journal of Family Medicine 
+and Primary Care , 6(2), 243–248. 
+https://doi.org/10.4103/22494863.219992.
+Ribeiro, Í. J. S., Pereira, R., Freire, I. V ., de 
+Oliveira, B. G., Casotti, C. A., & 
+Boery, E. N. (2018). Stress and Quality 
+of Life Among University Students: 
+A Systematic Literature Review. 
+Health Professions Education , 4(2), 
+70–77. https://doi.org/10.1016/j.
+hpe.2017.03.002.
+Ritter, L., Hilliard, T., & Knox, D. (2022). 
+“Lovesick”: Mental Health and 
+Romantic Relationships among 
+College Students. International 
+Journal of Environmental Research 
+and Public Health , 20, 641. https://
+doi.org/10.3390/ijerph20010641.
+A Comparison of Mental Well-being among Female Undergraduates in Sri Lanka 
+based on Relationship Status
+Page 44-61
+
+--- Page 17 --60
+Rotenstein, L. S., Ramos, M. A., Torre, M., 
+Segal, J. B., Peluso, M. J., Guille, C., Sen, 
+S., & Mata, D. A. (2016). Prevalence 
+of Depression, Depressive Symptoms, 
+and Suicidal Ideation Among Medical 
+Students: A Systematic Review and 
+Meta-Analysis. JAMA, 316(21), 
+2214–2236. https://doi.org/10.1001/
+jama.2016.17324.
+Schofield, M. J., O’halloran, P., Mclean, S. 
+A., Forrester‐knauss, C., & Paxton, 
+S. J. (2016). Depressive Symptoms 
+Among Australian University 
+Students: Who Is at Risk? Australian 
+Psychologist, 51(2), 135–144. https://
+doi.org/10.1111/ap.12129.
+Soller, B. (2014). Caught in a Bad 
+Romance: Adolescent Romantic 
+Relationships and Mental Health. 
+Journal of Health and Social 
+Behavior, 55(1), 56–72. https://doi.
+org/10.1177/0022146513520432.
+Souza, I. M. D. M., Paro, H. B. M. da S., 
+Morales, R. R., Pinto, R. de M. C., 
+& Silva, C. H. M. da. (2012). Healthrelated quality of life and depressive 
+symptoms in undergraduate nursing 
+students. Revista Latino-Americana 
+de Enfermagem , 20, 736–743. 
+https://doi.org/10.1590/S010411692012000400014.
+Tang, A. L., & Thomas, S. J. (2020). 
+Relationships Between Depressive 
+Symptoms, Other Psychological 
+Symptoms, and Quality of 
+Life. Psychiatry Research , 289, 
+113049. https://doi.org/10.1016/j.
+psychres.2020.113049.
+Thi Khanh Minh, T., Vu Thanh Truc, N., 
+Thien Hoan My, T., & Thi Loan, N. 
+(2023). The Correlation Between 
+Resilience And The Level Of Distress, 
+Rumination, And Sleep Disturbances 
+Of Post-Breakup University Students. 
+International Journal of Arts, 
+Humanities & Social Science , 04(05), 
+35–53. https://doi.org/10.56734/
+ijahss.v4n5a5.
+Till, B., & Niederkrotenthaler, T. (2022). 
+Romantic Relationships and Mental 
+Health During the COVID-19 
+Pandemic in Austria: A PopulationBased Cross-Sectional Survey. 
+Frontiers in Psychology , 13. https://
+www.frontiersin.org/articles/10.3389/
+fpsyg.2022.857329.
+Tol, A., Tavassoli, E., Shariferad, G. R., & 
+Shojaeezadeh, D. (2013). Healthpromoting lifestyle and quality of 
+life among undergraduate students at 
+school of health, Isfahan university of 
+medical sciences. Journal of Education 
+and Health Promotion , 2, 11. https://
+doi.org/10.4103/2277-9531.108006.
+Weidmann, R., Wünsche, J., & Grob, 
+A. (2023). Cross-Sectional and 
+Longitudinal Associations Between 
+Romantic Attachment, Health 
+Satisfaction, and Health Goal 
+Importance in Partnered and Single 
+Individuals. PsyArXiv. https://doi.
+org/10.31234/osf.io/3uqbd.
+Weiser, D., Hilliard, T., & Knox, D. (2018). 
+“I Thought You Loved Me too?”: 
+Outcomes of Discrepant Involvement 
+A Comparison of Mental Well-being among Female Undergraduates in Sri Lanka 
+based on Relationship Status
+Page 44-61
+
+--- Page 18 --61
+in Romantic Relationships. 
+Interpersona: An International 
+Journal on Personal Relationships , 
+12, 267–282. https://doi.org/10.5964/
+ijpr.v12i2.313.
+Whitton, S. W., Dyar, C., Newcomb, 
+M. E., & Mustanski, B. (2018). 
+Effects of romantic involvement 
+on substance use among young 
+sexual and gender minorities. Drug 
+and Alcohol Dependence , 191, 
+215–222. https://doi.org/10.1016/j.
+drugalcdep.2018.06.037.
+Whitton, S. W., Weitbrecht, E. M., Kuryluk, 
+A. D., & Bruner, M. R. (2013). 
+Committed Dating Relationships 
+and Mental Health Among College 
+Students. Journal of American College 
+Health, 61(3), 176–183. https://doi.or
+g/10.1080/07448481.2013.773903.
+Wickramasinghe, A., Essén, B., 
+Surenthirakumaran, R., & Axemo, 
+P. (2023). Prevalence of depression 
+among students at a Sri Lankan 
+University: A study using the Patient 
+Health Questionnaire-9 (PHQ-9) 
+during the COVID-19 pandemic. BMC 
+Public Health, 23(1), 528. https://doi.
+org/10.1186/s12889-023-15427-y.
+A Comparison of Mental Well-being among Female Undergraduates in Sri Lanka 
+based on Relationship Status
+Page 44-61

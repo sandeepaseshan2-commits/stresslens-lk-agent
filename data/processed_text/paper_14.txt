@@ -1,0 +1,999 @@
+--- Page 1 --RESEARCH Open Access
+© The Author(s) 2025. Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you 
+give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the 
+licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or 
+exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit h t t p : / / c r e a t i 
+v e c o m m o n s . o r g / l i c e n s e s / b y - n c - n d / 4 . 0 / . 
+Al-Najdi et al. BMC Medical Education (2025) 25:157 
+https://doi.org/10.1186/s12909-025-06740-8
+BMC Medical Education
+*Correspondence:
+Alaa Daud
+adaud@qu.edu.qa
+1College of Dental Medicine, QU-Health, Qatar University, Doha, Qatar
+2Unit and Divisional Chief, Orthodontics Department of Dentistry, Hamad 
+Medical Corporation, Doha, Qatar
+3Oral Surgery, Associate Dean Academic Affairs, College of Dental 
+Medicine, QU Health, Qatar University, Doha, Qatar
+4Restorative Dentistry, Assistant Dean Student Affairs, College of Dental 
+Medicine, QU Health, Qatar University, Doha 2713, Qatar
+Abstract
+Background Mental health is a critical aspect of overall well-being, influencing how individuals think, feel, and 
+perform. Mental health among healthcare students has become a major concern, drawing attention due to its 
+profound impact on their welfare, academic performance, and ability to effectively interact with patients. This paper 
+aimed to explore the experiences of undergraduate healthcare students facing mental health challenges at Qatar 
+University. With a focus on understanding the factors contributing to mental health issues and exploring their coping 
+mechanisms, the research also sought to identify students’ recommendations for institutional support to improve 
+their mental well-being.
+Methods A qualitative approach using semi-structured face-to-face interviews was employed to collect data. A 
+purposive sampling method was used to recruit students from five healthcare disciplines- Medicine, Dentistry, 
+Pharmacy, Health Sciences and Nursing- who had self-reported mild to moderate depressive symptoms based on the 
+Patient Health Questionnaire (PHQ-9) and Depression Anxiety and Stress Scale (DASS21). A total of 15 interviews were 
+conducted, recorded, and transcribed verbatim, with thematic analysis used to identify key themes.
+Results Several themes emerged from the interviews, including academic pressure, social isolation, anxiety, coping 
+mechanisms, fear of failure, and stigma surrounding mental health support. Academic pressure was consistently 
+reported as a major stressor, contributing to anxiety and emotional strain. Social isolation further exacerbated mental 
+health challenges, while many students highlighted a lack of well-established coping strategies. Stigma related to 
+seeking mental health support was a significant barrier, preventing students from accessing available services.
+Conclusion The study highlights the mental health challenges faced by healthcare students, emphasizing the need 
+for effective institutional mental health support. Addressing academic pressures, enhancing self-coping mechanisms 
+and social support systems, and reducing the stigma around mental health care are essential steps toward improving 
+student well-being.
+Clinical trial number Not applicable.
+Keywords Mental health, Healthcare students, Healthcare education, Qualitative study, Challenges
+Silent struggles: a qualitative study exploring 
+mental health challenges of undergraduate 
+healthcare students
+Shahd Al-Najdi1, Abdulla Mansoor1, Ola Al Hayk1, Najah Al-Hashimi1,2, Kamran Ali1,3 and Alaa Daud1,4*
+
+--- Page 2 --Page 2 of 12
+Al-Najdi et al. BMC Medical Education (2025) 25:157 
+Introduction
+Mental health is a critical aspect of overall well-being, 
+encompassing emotional, psychological, and social 
+dimensions. It affects how individuals think, feel, and act, 
+influencing their ability to handle stress, relate to others, 
+and make choices [ 1, 2]. Understanding mental health, 
+particularly in vulnerable populations such as healthcare 
+undergraduate students, is essential for developing effec tive support mechanisms [ 3]. Mental health is defined 
+by the World Health Organization (WHO) as a state of 
+well-being in which an individual realizes their own abilities, can cope with the normal stresses of life, can work 
+productively, and is able to make a contribution to their 
+community [ 4]. Similarly, the Centers for Disease Con trol and Prevention (CDC) describes mental health as 
+encompassing emotional, psychological, and social wellbeing, affecting cognition, perception, and behavior [ 5]. 
+These definitions highlight the multifaceted nature of 
+mental health, integrating functional capacity and the 
+ability to contribute meaningfully to society.
+Recently, there has been a growing acknowledgment of 
+the increasing mental health challenges experienced by 
+undergraduate students undertaking healthcare educa tion, prompting apprehensions regarding their general 
+well-being [6, 7]. Such challenges may include separation 
+from home and lack of family support [6]. In the realm of 
+healthcare education, the mental well-being of students 
+is crucial in shaping the future success and resilience of 
+healthcare professionals. Healthcare undergraduate stu dents face unique stressors that can significantly impact 
+their mental health. The rigorous academic curriculum, 
+clinical responsibilities, and high expectations contrib ute to a high-pressure environment. Academic stress is 
+a significant factor, as the demanding nature of health care education, with its intense coursework and clinical 
+training, places students under considerable academic 
+pressure [8]. This stress is often compounded by the competitive nature of healthcare programs and the continu ous assessment processes [ 6, 9]. Financial concerns also 
+play a crucial role, as the cost of healthcare education is 
+substantial, leading to financial strain for many students 
+[10]. This financial burden can exacerbate stress and 
+anxiety, affecting their overall mental well-being [ 10, 11]. 
+Additionally, sleep deprivation is a common issue among 
+healthcare students. The demanding schedules often 
+result in inadequate sleep, which is crucial for cognitive 
+function and emotional regulation [12]. Sleep deprivation 
+has been linked to increased levels of stress, anxiety, and 
+depression [ 13]. Furthermore, healthcare students are 
+frequently exposed to human suffering, illness, and death, 
+which can be emotionally taxing. This exposure can lead 
+to compassion fatigue and burnout, further impacting 
+their mental health [14]. Lack of social support also plays 
+a crucial role. Social support from families, friends, and 
+the academic community can significantly influence stu dents’ educational experiences, positively affecting both 
+their well-being and academic performance [ 15]. It is 
+essential in buffering against stress, however, healthcare 
+students often report feelings of isolation due to their 
+demanding schedules and competitive environments [ 16, 
+17]. The stigma associated with seeking mental health 
+care is a significant barrier as well [ 18]. Many healthcare 
+students fear that admitting to mental health issues could 
+harm their academic and professional prospects, leading 
+to underreporting and untreated mental health condi tions [19].
+Research has consistently shown a high prevalence of 
+mental health issues among healthcare undergraduate 
+students. A study by Dyrbye et al. (2006) found that 
+medical students experience higher rates of depres sion and anxiety compared to their peers in other 
+fields [ 20]. Similarly, Goebert et al. (2009) reported 
+that 12% of medical students screened positive for 
+major depression, and 9.2% had probable mild/mod erate depression, while 6% had suicidal ideation [ 17]. 
+Another study surveying 1925 students in 3 special ties (medicine, dentistry, and pharmacy) of the Uni versity of Paris reported 55% anxiety and depressive 
+symptoms amongst the students overall, and burnout 
+in 42% of nonclinical and 65% of clinical students and 
+residents, revealing elevated prevalences of psychiat ric symptoms [ 21]. In dental students, a meta-analysis 
+study proclaimed self-reported depressive symptoms 
+(at least mild depression symptoms) concerning 29% 
+of the students, with females presenting more depres sive symptoms than male students [ 22]. Depression 
+and anxiety are the most commonly reported mental 
+health issues among healthcare students [ 23]. A sys tematic review indicated that the prevalence of depres sion among medical students ranged from 15 to 30%, 
+while anxiety affected approximately 20–40% among 
+medical students [ 24]. In the Middle East region, a 
+study in Saudi revealed that about 45% of students 
+reported having mild-to-severe depression [ 25].
+Burnout, characterized by emotional exhaustion, 
+depersonalization, and a reduced sense of personal 
+accomplishment, is also prevalent among healthcare 
+students [ 26]. This phenomenon often arises from 
+the demanding nature of healthcare education, which 
+requires students to balance rigorous academic course work, clinical rotations, and personal responsibilities. 
+Overwhelm is a significant contributor, as students 
+frequently report feeling inundated by the volume of 
+material they must master in a short timeframe.
+For instance, a longitudinal study found that the 
+majority of medical students identified “feeling over whelmed” as a primary precursor to burnout, with 
+many citing the lack of time for self-care and relaxation
+
+--- Page 3 --Page 3 of 12
+Al-Najdi et al. BMC Medical Education (2025) 25:157 
+as exacerbating factors [ 27]. Case studies provide fur ther insight into the lived experiences of these stu dents. For instance, a recent study of medical students 
+revealed a significant correlation between persistent 
+burnout symptoms and increased rates of depression 
+and anxiety over time [ 28]. Another study found that 
+students experiencing severe burnout often struggled 
+with disengagement from their studies and difficulty 
+forming meaningful connections in their professional 
+relationship [ 29].
+Addressing the mental health needs of healthcare 
+students requires a multifaceted approach, includ ing institutional support, peer support, and individual 
+strategies. Universities and colleges can play a pivotal 
+role by providing accessible mental health services, 
+creating a supportive learning environment, and pro moting a culture of wellness [ 27–29]. The State of 
+Qatar is one of the leading countries in the Middle 
+East acknowledging the importance of mental health 
+within its healthcare services, integrating it into pri mary care settings to meet the growing demand [ 30]. 
+Despite this progress, there is a scarcity of research 
+focused on the mental health issues faced by health care students in Qatar, especially those at Qatar Uni versity, who represent the prospective workforce and 
+leaders of the Qatari healthcare system. A recent study 
+exploring the frequency of mental health issues among 
+healthcare students in medicine, dentistry, pharmacy, 
+nutrition, biomedical sciences, nursing, and public 
+health at Qatar University found that 37.7% of students 
+self-reported mild depression symptoms, 25.5% mod erate, 14.8% moderately severe and 10% severe symp toms [31]. This warrants further in-depth investigation 
+into the potential factors contributing to mental health 
+issues, understand their coping mechanisms, and 
+gather student recommendations for better supporting 
+their well-being.
+The objective of this qualitative study was to explore 
+undergraduate healthcare students’ experiences with 
+mental health challenges faced at Qatar University, 
+allowing them to share personal stories and elaborate 
+on their feelings, thoughts, and challenges, providing 
+nuanced insights into their mental health struggles.
+Methodology
+Study design
+A qualitative approach utilizing semi-structured, 
+face-to-face interviews was selected to meaningfully 
+explore students’ experiences related to their mental 
+health, and any recommendations they may have “in 
+their own words” . Utilizing a qualitative methodol ogy can provide a deeper understanding of the coping 
+mechanisms employed by healthcare students while 
+exploring the cultural, social, and institutional factors 
+specific to Qatar University. This approach offers a 
+solid foundation for developing targeted mental health 
+interventions and support programs. The phenomeno logical approach was used to understand individual 
+experiences with mental health challenges. Phenom enology is a well-suited methodology for mental health 
+research as it focuses on capturing individuals’ lived 
+experiences, and provides a platform to voices that 
+are often marginalized or unnoticed [ 32]. The con solidated criteria for reporting qualitative research 
+(COREQ) were followed to structure this write up [ 33].
+Research ethics
+Ethical approval was granted by the institutional 
+review board at Qatar University (Approval Number: 
+QU-IRB1797-EA/23). Participation in the study was 
+voluntary, confidential, and anonymous. All partici pating students provided their consent, and anonymity 
+was assured before they began the interviews.
+Settings and participants
+Undergraduate students from five different healthcare 
+colleges at Qatar University, including College of Med icine (CMED), College of Dental Medicine (CDEM), 
+College of Nursing (CNURS), College of Health Sci ences (CHS) and College of Pharmacy (CPH) were 
+invited to the interviews. A purposive sampling 
+method was employed to recruit students who had 
+previously participated in a screening quantitative 
+study at the Health Sector at Qatar University. A total 
+of 1,378 healthcare students were invited to participate 
+in the screening process. Among the invited students, 
+270 completed the survey, comprising 227 females and 
+43 males. Participants were invited to provide their 
+email address if they agree to be contacted for the 
+face-to-face interviews. Students who self-reported 
+mild to moderate depression, anxiety, and stress symp toms were eligible to participate in the interviews. Stu dents self-reporting severe symptoms were excluded 
+from the invitation to the interviews and were directed 
+to the appropriate professional counseling services.
+Students who had initially completed the patient 
+health questionnaire (PHQ-9) [ 34] and the Depression, 
+Anxiety, and Stress Scale (DASS21) [ 35] survey were 
+invited to participate in the one-to-one interviews pro vided they had added their institutional email address 
+to be contacted.
+T arget participants received detailed information 
+via email explaining the aim and objectives of the 
+qualitative study, reassuring them that discussions in 
+the interviews would be highly confidential and ano nymized prior to analysis. The Department of Student 
+Affairs acted as the gatekeeper for sending the invites. 
+A reminder was sent two weeks later.
+
+--- Page 4 --Page 4 of 12
+Al-Najdi et al. BMC Medical Education (2025) 25:157 
+The following inclusion/ exclusion criteria were 
+applied:
+Inclusion criteria
+ • Participants with mild- moderate symptoms (The 
+PHQ-9 defines mild depression as scores of 5–9 
+and moderate as 10–14. For the DASS-21, mild 
+depression, anxiety, and stress are scored at 10–13, 
+8–9, and 15–18, respectively, while moderate ranges 
+are 14–20, 10–14, and 19–25).
+ • Undergraduate students enrolled in medicine, 
+dentistry, pharmacy, nutrition, nursing, biomedical 
+sciences, and public health at Qatar University.
+ • Above 18 years old.
+ • Able to communicate in English.
+Exclusion criteria
+ • Students who have interrupted their studies or no 
+longer actively enrolled in their academic program.
+ • Students with severe self-reported symptoms of 
+depression, anxiety, and stress.
+Data collection
+Sociodemographic data were collected encompassing six 
+variables: age, gender, nationality, college, year of study, 
+and type of financial support. The interview sessions 
+were held in a pre-arranged, easily accessible location 
+that was convenient for all participants. The sessions took 
+place in spacious, well-lit, and properly ventilated rooms 
+within the Health Sector, ensuring a comfortable envi ronment. At the beginning of the interview, participants 
+were reminded about the background and purpose of the 
+study, confidentiality, and ground rules. They were asked 
+to carefully read the participant information sheet again 
+and sign the consent form. It was made clear that the 
+participant is free to withdraw from the interview at any 
+point without having to declare the reason. Participants 
+were made aware that once the recording was transcribed 
+and data coded anonymously, it would not be possible to 
+withdraw any transcripts/quotes. With participants’ con sent, all interviews were audio-recorded using Microsoft 
+Teams (Teams_windows_x64, Version 1.4.0.35564).
+Author AD carried out all the interviews, which lasted 
+around 30 to 45  min and were audio recorded. AD is a 
+female faculty member with extensive experience in stu dent well-being and dealing with vulnerable population. 
+She also has previous experience of carrying out quali tative research during her academic career. AD was also 
+trained and calibrated with KA in advance to minimize 
+bias in data collection.
+A topic guide was created using insights from existing 
+literature and contributions from the research team [ 36]. 
+This guide was shaped by the Consolidated Framework 
+for Implementation Research [ 37]. After conducting a 
+few pilot interviews with volunteering students, the guide 
+was refined for clarity through minor adjustments to the 
+wording of questions and adding prompts (Table 1).
+Due to the sensitive nature of the interviews, and the 
+possibility of emotional distress during the conversation, 
+it was agreed to conduct face-to-face interviews only 
+rather than online. This was also the recommendation 
+of the for ethical approval. Data collection took place at 
+the university campus and was recorded using Microsoft 
+teams (version 4.2.4.0) to help transcribe conversations 
+in real-time. This would also ensure saving the interview 
+recording on the password protected computer. This was 
+conducted between November 2023 and March 2024.
+Data analysis
+Following the principles of data saturation in qualitative 
+research, interviews were concluded after n = 15 interviews, as no new, significant information was obtained 
+Table 1 Interview topic guide
+Questions and prompts
+1. Could you tell me a bit more about yourself?
+2. What is your understanding of mental illness?
+3. Since starting your undergraduate healthcare program, what type of information have you received during your academic learning related to 
+mental illness?
+1. Do you feel you are experiencing mental health issues? If so, please share more details at your convenience:
+ a) Nature of issue, duration,
+ b) Impact on personal well-being, personal relationships with family and friends
+ c) Impact on academic progress, social interactions at the university/ treatment sought.
+1. In your opinion, what are the main contributory/precipitating factors for your mental health issues? Prompt: What makes you feel better/ worse
+2. What coping mechanisms/ strategies do you use to remain calm and stable?
+3. Do you feel comfortable discussing your mental health issues with friends, family, academic tutors, etc.?
+1. Do you know about the mental health support available support at Qatar University?
+ a) If yes (1), did you take advantage of them?
+ b) Do you feel supported by your college?
+ c) What could the university/ college do to make you feel better?
+2. If not, what are the reasons for not accessing these support systems?
+
+--- Page 5 --Page 5 of 12
+Al-Najdi et al. BMC Medical Education (2025) 25:157 
+from additional data collection. Three students from each 
+College agreed to be interviewed, reflecting a diverse 
+range of healthcare disciplines. The mean age of par ticipants was 20 (± 1.3) years old, all with a Muslim Arab 
+ethnicity, as this forms the majority of the student body 
+at Qatar University, with a mix of Nationals (Qatari) and 
+International (Middle Eastern and North African) stu dents. Students presented different years of study and 
+different stages (clinical, pre-clinical and non-clinical) as 
+outlined in Table  2 (Table  2). All interview data under went verbatim transcription. The analysis employed 
+structured coding procedures and thematic character ization of the coded Sect [ 38]. The lead researchers (KA 
+and AD) meticulously analyzed the transcriptions, adhering to the coding reliability approach of thematic analy sis. Both KA and AD independently executed the initial 
+coding, utilizing both inductive and deductive methodol ogies, identifying relevant codes, and developing a struc tured codebook. Following the completion of the initial 
+coding, the core analysis focused on the categorization of 
+codes and thematic comparison [ 39]. Through consen sus, both researchers finalized the coding, reviewed the 
+patterns of shared meanings, and organized overlapping 
+themes into a coherent list of defined themes.
+Trustworthiness and rigor
+To ensure the trustworthiness of the research process, 
+several strategies were implemented. First, participants 
+were invited to review the transcripts of their interview 
+discussions to confirm the accuracy of their accounts and 
+ensure their views, experiences, and opinions were cor rectly represented in the analysis. The analytical plan was 
+established as a priori in the study protocol and mutu ally agreed upon by the research team, which included 
+experts in qualitative research, interaction design, and 
+external opinions. Any challenges encountered during 
+the analysis were regularly discussed among the research 
+team, and differences in interpretation were resolved by 
+consensus. An audit trail was maintained to document 
+any changes to coding and analysis. Additionally, the 
+Standards for Reporting Qualitative Research were uti lized to guide the reporting of this study [33].
+In this study, the qualitative data rigor standards pro posed by Chiovitti and Piran (2003) were implemented, 
+focusing on credibility, audibility, and fittingness [ 40]. To 
+enhance credibility, the researchers adhered closely to 
+the data through word-by-word, line-by-line, and in vivo 
+coding, effectively reflecting participants’ experiences. 
+Regular bi-weekly meetings were held to review all col lected data and discuss analysis procedures and emerging 
+concerns.
+Auditability, defined as the extent to which another 
+researcher can understand and replicate the methods to 
+reach similar conclusions, was ensured by clearly docu menting the research process and criteria used for select ing participants [40]. This comprehensive documentation 
+included all decisions made throughout the study. Fit tingness, which assesses the applicability of the study’s 
+findings to similar contexts, was achieved by linking the 
+literature to each emergent category and delineating the 
+research scope in terms of participants, location, and 
+theme intensity. All coded data were reviewed by other 
+authors during the coding process for external validation.
+Results
+This section presents the key themes and sub-themes 
+that emerged from analyzing the interviews conducted 
+with undergraduate healthcare students, exploring their 
+experiences with mental health challenges (Table  3). The 
+analysis revealed several important themes: academic 
+pressure, social isolation, anxiety, coping mechanisms, 
+fear of failure, and stigma around seeking mental health 
+Table 2 Sociodemographic information of participants
+Student code College Level Nationality Stage
+1 College of Medicine (CMED) 5 Qatari Clinical
+2 College of Medicine (CMED) 3 Non-Qatari Pre-clinical
+3 College of Medicine (CMED) 4 Non-Qatari Clinical
+4 College of Dental Medicine (CDEM) 5 Non-Qatari Clinical
+5 College of Dental Medicine (CDEM) 2 Non-Qatari Pre-clinical
+6 College of Dental Medicine (CDEM) 4 Qatari Clinical
+7 College of Nursing (CNURS) 2 Qatari Non Clinical
+8 College of Nursing (CNURS) 2 Non-Qatari Non Clinical
+9 College of Nursing (CNURS) 2 Qatari Non Clinical
+10 College of Health Sciences (CHS) 3 Qatari Non Clinical
+11 College of Health Sciences (CHS) 4 Non-Qatari Non Clinical
+12 College of Health Sciences (CHS) 2 Non-Qatari Non Clinical
+13 College of Pharmacy (CPH) 4 Non-Qatari Pre-clinical
+14 College of Pharmacy (CPH) 2 Qatari Non Clinical
+15 College of Pharmacy (CPH) 5 Non-Qatari Non Clinical
+
+--- Page 6 --Page 6 of 12
+Al-Najdi et al. BMC Medical Education (2025) 25:157 
+support. The following subsections provide a detailed 
+exploration of these themes, supported by direct quotes 
+from participants.
+Theme 1: academic pressure and stress
+Academic pressure was one of the most frequently 
+mentioned challenges. Students described how the 
+demanding curriculum and constant assessments led to 
+overwhelming stress. One participant expressed, “From 
+day one , the stress has been intense. It’s not just about 
+studying; it’s about constantly proving yourself” (Student 
+6, CDEM).
+Another participant noted, “The sheer volume of work is 
+exhausting. There’s always an exam or a deadline. It never 
+ends, and that makes it hard to relax” (Student 11, CHS).
+This continuous pressure to excel academically led 
+many students to feel constantly overwhelmed, impact ing their mental well-being.
+In relation to the onset/time factor of mental health 
+issues, one participant shared, “As I started, it was hard to 
+handle the stress; there was too much pressure from year 
+one. As we are progressing with time, we get accustomed to 
+the stress, but it still sometimes becomes too much , and it 
+gets the better of me” (Student 15, CPH).
+Another student echoed this sentiment, stating, “The 
+heavy content during preclinical years was very stressful. 
+Once I started clinical practice , I felt a bit more relaxed , 
+but the pressure during exams is always overwhelming , 
+and as we approach graduation , I feel things get worse” 
+(Student 5, CDEM).
+A clinical student from Medicine also stated, “I would 
+rather stay long shifts at night , interacting and dealing 
+with complex patient cases , than sitting an exam” (Stu dent 3, CMED).
+Theme 2: social isolation and loneliness
+The impact of mental health on personal relationships 
+seemed bidirectional. On one hand, a recurring issue 
+among participants was the sense of social isolation, hav ing implications on their mental health. Students fre quently reported feeling lonely, often as a result of the 
+competitive environment. One participant mentioned, 
+“It’s hard to make real friends when everyone is focused 
+on their own success. It feels like you’re alone in this race” 
+(Student 2, CMED). In a similar vein, another student 
+reflected on the competitive nature of their program: 
+“The environment feels very competitive. Everyone has 
+their own groups , and sometimes it’s hard to fit in. This 
+makes me question if I’m in the right place” (Student 14, 
+CPH).
+Another student reflected, “I’ve never really had close 
+friends here. I’m always feeling like an outsider , and it’s 
+tough to deal with that kind of loneliness on top of the 
+academic pressure” (Student 7, CNURS). The lack of close 
+social ties often compounded the emotional burden, 
+making it difficult for students to find comfort and sup port during stressful times.
+On the other hand, participants perceived mental 
+health status as a leading factor influencing their per sonal interactions with family and friends. One student 
+reported, “When I’m stressed and worried , I only feel like 
+crying. I don’t want to see my friends… not even my fam ily, no one should see me weak” (Student 4, CDEM).
+Theme 3: anxiety and emotional strain
+Anxiety was another key theme that surfaced in the 
+interviews, particularly around exams and academic 
+performance. Students frequently mentioned experienc ing elevated levels of anxiety, often feeling consumed by 
+Table 3 Key themes and sub-themes
+Number Theme Subtheme
+Theme 1 Academic Pressure and Stress • Curriculum Challenges
+• Time Management Difficulties
+• Impact Over Time
+Theme 2 Social Isolation and Loneliness • Competitive Environment
+• Difficulty Building Relationships
+• Impact on Mental Health
+Theme 3 Anxiety and Emotional Strain • Exam-Related Anxiety
+• Future Concerns
+• Cumulative Impact
+Theme 4 Coping Mechanisms • Avoidance Strategies
+• Support Systems
+• Faith and Spirituality
+• Self-Help Challenges
+Theme 5 Fear of Failure • Pressure to Excel
+• Family Expectations
+• Personal Standards
+Theme 6 Stigma Around Mental Health • Fear of Judgment
+• Impact of Close-Knit Environments
+• Hesitation to Access Resources
+
+--- Page 7 --Page 7 of 12
+Al-Najdi et al. BMC Medical Education (2025) 25:157 
+worries about their future. One participant remarked, 
+“Before every exam , I feel like I’m on the edge. It’s not just 
+stress; it’s full-blown anxiety. I can’t sleep , I can’t focus , 
+and I worry about what happens if I don’t pass” (Student 
+2, CMED).
+A similar sentiment was shared by another student, 
+who stated, “The anxiety builds up over time , especially 
+when I start thinking about how every grade counts for my 
+future. It’s exhausting , and sometimes it just becomes too 
+much” ((Student 14, CPH).
+Another student mentioned the cumulative impact of 
+anxiety on their well-being: “I overthink a lot , especially 
+when I get a bad grade. It spirals into feelings of inade quacy, making me feel unworthy and depressed” (Student 
+12, CHS).
+Theme 4: coping mechanisms
+While some students reported struggling to cope with 
+mental health challenges, others discussed the methods 
+they used to manage their stress and anxiety. However, 
+many students admitted that they did not have wellestablished coping strategies. One participant shared, 
+“I don’t really have a way to deal with stress. I just keep 
+going, but it’s hard to keep up with everything” (Student 8, 
+CNURS).
+Another student added, “I try to distract myself by staying busy with other activities , but it’s more like avoiding 
+the problem than solving it. I still feel stressed even when 
+I’m trying not to think about it” (Student 1, CMED).
+Unveiling methods used by students to manage stress 
+and anxiety revealed family and faculty support. One 
+participant stated, “The only coping mechanism for me is 
+my mum and bestie… they understand me and provide 
+me with support I need” (Student 10, CHS). Another stu dent reported, “When I’m stressed , I go to faculty XXX; 
+she provides support and advise. I sometimes cry at her 
+office… which makes me feel better” (Student 6, CDEM). 
+Moreover, a student believed that faith was the best cop ing mechanism, affirming, “Every time I feel depressed , I 
+pray… my strong belief in God helps me frame my emo tions and empowers me… it is that sense of peace” (Student 13, CPH).
+Theme 5: fear of failure
+The fear of failure emerged as a significant theme, 
+with many students expressing a deep concern about 
+not meeting academic expectations. One participant 
+explained, “I’m constantly afraid of failing , not just 
+because of what it means for my grades , but because it 
+feels like failure would ruin everything I’ve worked for” 
+(Student 4, CDEM).
+This fear was exacerbated by the high expectations 
+placed on healthcare students, both by themselves and by 
+external factors. “There’s this pressure to be perfect , and 
+anything less than that feels like failure. It’s not just about 
+passing; it’s about excelling , and that’s a huge burden to 
+carry” (Student 3, CMED).
+Another student pointed “I want to make my family 
+proud… failing is not an option for me or them” (Student 
+15, CPH). This was resonated by a health science student 
+reporting “I worked hard to be here… I cannot see myself 
+disappointing my parents” (Student 12, CHS).
+Theme 6: stigma around mental health
+Another important theme was the stigma associated with 
+seeking mental health support. Many students expressed 
+hesitation about reaching out for help due to fear of judgment from peers or faculty. One student stated, “I know I 
+need help sometimes, but I don’t want people to think I’m 
+weak or that I can’t handle the pressure. So , I just keep it 
+to myself” (Student 10, CHS).
+Another student echoed this sentiment: “ There’s this 
+unspoken rule that if you admit to struggling , it might 
+affect how people see you , especially in a field like medi cine where you’re expected to be strong” (Student 3, 
+CMED). In addition, a participant also highlighted that 
+stigma prevented them from accessing mental health 
+resources that could potentially alleviate their struggles: 
+“It’s a small college, everyone knows each other… I can not seek help and be known… they will think I am not 
+capable of pursuing dentistry” (Student 5, CDEM).
+Discussion
+The findings of this study provide a comprehensive 
+understanding of the mental health challenges faced by 
+undergraduate healthcare students. The themes identi fied—academic pressure, social isolation, anxiety, coping 
+mechanisms, fear of failure, and stigma—highlight the 
+multifaceted nature of these challenges and the urgent 
+need for more robust mental health support within aca demic institutions.
+Academic pressure and stress
+The academic pressure and stress faced by healthcare students is a well-documented issue, with numerous studies 
+identifying it as a major contributor to stress, anxiety, 
+and burnout [ 6, 24]. In this study, students consistently 
+reported feeling overwhelmed by the demands of their 
+coursework and the continuous assessment process, 
+however, experiences did not differ based on college, or 
+whether the participant is an early-year or final-year stu dent, pre-clinical or clinical. This aligns with the findings 
+of Voltmer and colleagues (2021), who noted that the 
+high-stakes nature of healthcare education often leads to 
+chronic stress and mental health issues among students 
+[9]. Nevertheless, the current study contrasts with find ings from Voltmer et al. (2021), who reported differential 
+stress levels based on year of study [ 9]. This divergence
+
+--- Page 8 --Page 8 of 12
+Al-Najdi et al. BMC Medical Education (2025) 25:157 
+highlights the need for further investigation into how 
+institutional factors, such as assessment structures and 
+support systems, might buffer or exacerbate stress in dif ferent educational contexts.
+The competitive environment, as highlighted by the 
+participants, exacerbates this pressure, as students not 
+only compete for grades but also for future career oppor tunities. The fear of failure is closely tied to these aca demic pressures, with many students expressing a deep 
+concern about not meeting the high expectations placed 
+on them. The literature supports this, with research 
+showing that healthcare students are particularly vul nerable to perfectionism and fear of failure, which can 
+have long-term consequences for their mental health 
+[24]. Current findings suggest that the competitive envi ronment and fear of failure—while consistent with prior 
+literature—may be amplified in settings where resilience 
+is culturally valorized over vulnerability, particularly in 
+non-European educational settings. This underscores the 
+importance of designing interventions that account for 
+cultural and institutional nuances when addressing men tal health challenges in healthcare education. The find ings that academic pressure affects students uniformly 
+across different years and colleges may reflect the unique 
+educational system and cultural expectations in Qatar. 
+Unlike in some Western contexts, where academic stress 
+may vary based on the progression through a program, 
+the standardized and high-stakes assessment practices 
+prevalent in Qatar could contribute to a more uniform 
+experience of pressure. Additionally, the cultural empha sis on academic achievement and familial expectations in 
+the region may amplify the stress associated with failure, 
+making it a critical area for intervention [31].
+Social isolation and loneliness
+Social isolation was another significant theme that 
+emerged in this study. Many students reported feeling 
+disconnected from their peers, which compounded their 
+emotional struggles. This sense of isolation is reflective 
+of the broader literature on healthcare students, which 
+consistently points to the importance of social support 
+in mitigating mental health challenges [ 17]. The com petitive nature of healthcare programs often prevents 
+students from forming close social connections, leaving 
+them without the emotional support they need to cope 
+with the demands of their studies [ 22]. Financial mat ters did not surface in this study as a perceived cause of 
+stress, unlike findings from other research, which high light financial strain as a significant contributor to men tal health challenges among healthcare students [ 10, 25, 
+35]. Previous studies have shown that the cost of health care education can lead to increased stress and anxiety, 
+with students often feeling overwhelmed by the burden 
+of tuition fees and living expenses. For example, Roberts 
+and colleagues reported that financial concerns were a 
+major stressor for medical students, contributing to feel ings of anxiety and depression [ 10]. Similarly, Hamasha 
+and others found that students in Saudi Arabia who faced 
+financial difficulties were more likely to report depressive 
+symptoms [25] Click or tap here to enter text. However, 
+in the context of this study, participants did not express 
+financial concerns, which may reflect differences in financial aid systems or cultural factors specific to the region 
+[41]. The lack of financial concerns reported in this 
+study may highlight the unique context of Qatar, where 
+extensive governmental or familial financial support for 
+higher education might alleviate some of the stressors 
+commonly noted in other settings. However, the preva lence of social isolation, even in this supportive context, 
+suggests that competitive academic environments and 
+cultural norms that prioritize individual success over 
+collaboration could play a significant role in shaping stu dents’ experiences [42].
+Anxiety and coping mechanisms
+Anxiety was a pervasive theme in the interviews, with 
+students frequently describing how the pressures of aca demic performance led to elevated levels of anxiety. This 
+finding is consistent with the broader literature, which 
+identifies anxiety as one of the most common mental 
+health issues among healthcare students [ 24]. The lack of 
+effective coping mechanisms reported by many students 
+in this study is also a concerning finding. Research shows 
+that students who do not develop healthy coping strate gies are more likely to experience burnout and long-term 
+mental health issues [ 19]. Healthcare professional stu dents usually employ a variety of strategies to manage 
+stress and anxiety during their studies [ 43–45] One common approach is seeking social support from peers, fam ily, and mentors, which has been shown to alleviate stress 
+by providing emotional comfort and practical advice 
+[44]. Students in the current study affirmed that family 
+and faculty support is an effective coping mechanism. 
+Another method is practicing mindfulness and medita tion, techniques that have gained popularity for their 
+effectiveness in reducing anxiety and promoting mental 
+well-being [ 46]. Students also widely use physical exer cise to manage stress, as it helps to reduce cortisol levels 
+and improve mood [ 45]. Time management and organi zation skills have been reported as crucial strategies, with 
+students learning to prioritize tasks and balance their 
+academic responsibilities to mitigate the overwhelm ing nature of healthcare programs [ 43, 47]. Additionally, 
+some students turn to academic counseling services for 
+professional support, utilizing therapy sessions or work shops on stress management techniques [ 48, 49]. Collectively, these methods are essential in helping healthcare
+
+--- Page 9 --Page 9 of 12
+Al-Najdi et al. BMC Medical Education (2025) 25:157 
+students cope with the high demands of their educational 
+programs.
+The current study uncovered faith as one of the cop ing mechanisms. Strong faith and spiritual practices 
+have been identified as effective coping mechanisms for 
+healthcare professional students dealing with stress and 
+anxiety during their studies [50]. Research has shown that 
+students who engage in religious or spiritual activities, 
+such as prayers, often experience lower levels of anxiety 
+and better emotional well-being [ 51]. Faith can provide 
+students with a sense of purpose and meaning, helping 
+them to reframe stressful situations as opportunities for 
+growth, which in turn reduces stress [52]. These practices 
+allow healthcare students to navigate the demanding 
+nature of their studies with greater psychological stability 
+and less emotional strain [50].
+The fact that students in the current study reported 
+being inexperienced with coping mechanisms sug gests that health colleges could invest more in raising 
+awareness, supporting students in understanding, and 
+establishing individually tailored, appropriate coping 
+mechanisms.
+Stigma and barriers to mental health support
+The stigma associated with seeking mental health sup port was another key issue identified by the participants. 
+Many students expressed hesitation about reaching 
+out for help, fearing that it would negatively affect their 
+academic or professional prospects. This stigma is welldocumented in the literature, with studies showing that 
+healthcare students are often reluctant to seek mental 
+health support due to concerns about being perceived 
+as weak or unfit for the profession [ 17, 19, 24]. Beyond 
+individual fears and internalized stigma, systemic and 
+institutional factors play a critical role in perpetuating 
+these barriers to mental health support. For example, 
+students in smaller or tightly-knit programs may feel 
+heightened concerns about confidentiality, fearing that 
+seeking help would become widely known among peers 
+and faculty. Sheldon and researchers (2024) conducted a 
+mixed-methods study exploring the challenges medical 
+students face in accessing mental health services. They 
+identified systemic issues such as confidentiality con cerns, fear of professional repercussions, and inadequate 
+institutional support structures [ 53]. Likewise, Hawsawi 
+et al. (2024) explored barriers to help-seeking among 
+medical students, identifying systemic issues such as lack 
+of time, fear of confidentiality breaches, and perceived 
+stigma within the medical community [ 54]. Goebert et 
+al., (2009) found that nearly a quarter of medical students 
+experienced depressive symptoms, but many did not seek 
+help due to concerns about how it would impact their 
+professional image [ 17]. Similarly, Chew-Graham and 
+colleagues (2003) highlighted that healthcare students 
+frequently worry about the potential career repercus sions of admitting to mental health struggles, leading to a 
+culture of silence and untreated mental health conditions 
+[19].
+This internalized stigma is compounded by external 
+pressures within healthcare education. As one partici pant noted, “In a field like medicine, you’re expected to 
+be strong” . This notion of resilience, while essential, can 
+discourage students from addressing mental health con cerns, further reinforcing the stigma. Additionally, stu dents in other healthcare programs, such as dental or 
+nursing schools, may face the added challenge of privacy 
+concerns. As one dental student remarked, “Everyone 
+knows each other… I cannot seek help and be known, ” 
+pointing to the fear of being labeled as unfit for the 
+demanding profession.
+The literature supports these concerns, noting that stu dents in highly competitive environments are less likely 
+to seek help due to perceived risks to their academic and 
+professional futures [ 24]. The fear of being perceived as 
+weak often outweighs the potential benefits of accessing 
+mental health services, leading to untreated conditions 
+and long-term psychological impacts. The aforemen tioned systemic barriers require attention to ensure that 
+mental health resources are accessible, confidential, and 
+normalized as an integral part of professional training. 
+Without structural changes, including proactive mental 
+health policies and visible advocacy from institutional 
+leaders, the stigma surrounding mental health in health care education is likely to persist, leaving many students 
+without the support they need.
+Study recommendations
+Based on the findings of the current qualitative study, the 
+following recommendations can serve as valuable guide lines for educational institutions aiming to support the 
+mental health and well-being of their healthcare students:
+1. Institutional mental health support programs: The 
+study highlights the need for universities to establish 
+robust, easily accessible mental health support 
+services, such as counseling and stress management 
+workshops, tailored to the unique cultural needs 
+of healthcare students. These services should 
+address the academic pressures and emotional 
+burdens students face. These workshops could 
+be complemented by drop-in counseling services 
+designed to provide support during peak assessment 
+periods, such as finals or clinical competency 
+evaluations.
+2. Reducing stigma around mental health: The finding 
+that stigma and confidentiality concerns prevent 
+students from seeking help highlights the need 
+for targeted initiatives to normalize help-seeking
+
+--- Page 10 --Page 10 of 12
+Al-Najdi et al. BMC Medical Education (2025) 25:157 
+behavior in small, tight-knit academic communities. 
+For example, institutions could implement 
+anonymous online mental health consultation 
+platforms, ensuring that students can access 
+support without fear of being identified by peers 
+or faculty. Additionally, integrating mental health 
+education into existing healthcare curricula could 
+challenge cultural norms that valorize resilience over 
+vulnerability and demonstrate that seeking help is an 
+integral part of professional development.
+3. Peer support and mentorship programs: Establishing 
+peer support networks and mentorship programs 
+can provide students with emotional and social 
+support. These programs could help mitigate feelings 
+of isolation and create a safe space for students 
+to share their experiences and coping strategies. 
+Institutions could create structured peer mentoring 
+systems where senior students provide guidance to 
+junior students on coping with academic and clinical 
+pressures. Such programs should be embedded 
+within academic schedules to ensure participation 
+without adding to students’ existing workloads.
+4. Flexible academic policies: Educational institutions 
+should consider adopting more flexible academic 
+policies, such as adjusting workload expectations 
+and offering mental health leave, to reduce academic 
+stress. Such policies would allow students to 
+balance their academic responsibilities with their 
+well-being. Furthermore, reducing the weight of 
+continuous assessments and incorporating more 
+formative assessments could provide students with 
+opportunities to learn without the constant pressure 
+of performance.
+5. Coping Mechanism Training: The finding that 
+students are inexperienced with coping mechanisms 
+calls for context-specific training that resonates with 
+the cultural and religious environment of Qatar. 
+Universities should provide targeted workshops and 
+resources to help students develop effective coping 
+strategies, such as mindfulness, time management, 
+and resilience training. Teaching students how to 
+manage stress can improve their long-term mental 
+health and academic performance. Faculty members 
+trained in culturally appropriate stress management 
+techniques could lead these sessions, ensuring 
+relevance to the students’ lived experiences.
+6. Faculty training on mental health awareness: Given 
+the cultural context of Qatar, where faculty members 
+may also hold implicit biases against vulnerability, 
+it is essential to train faculty to recognize signs 
+of mental health struggles and provide culturally 
+sensitive support. Faculty members should receive 
+specialized training on mental health issues 
+and how to support students effectively. This 
+training should equip faculty to recognize signs of 
+mental health struggles and provide appropriate 
+guidance or referrals to support services, fostering 
+a more compassionate and supportive academic 
+environment.
+Limitations
+The current study offers rich data in relation to perceived 
+mental health, however, students who participated were 
+those who self-identified as having mild to moderate 
+depression, anxiety, and stress symptoms and were will ing to discuss their mental health. This could introduce 
+selection bias, as students with more severe symptoms 
+or those reluctant to discuss their mental health might 
+have opted not to participate. Moreover, the study was 
+conducted within a single institution in Qatar, and the 
+findings are shaped by the cultural, educational, and 
+institutional context of that region. Therefore, further 
+research in other regions or academic environments may 
+be required.
+Conclusion
+The findings of this study underscore the significant mental health challenges faced by undergraduate healthcare 
+students. These challenges are driven by workload, social 
+isolation, anxiety, fear of failure, and stigma around seek ing mental health support. By addressing academic pres sure, social support, and stigma, educational institutions 
+can cultivate an environment that fosters mental wellbeing. Implementing a combination of institutional sup port, peer support, and individual coping strategies can 
+significantly enhance the mental health outcomes for this 
+vulnerable population.
+Acknowledgements
+The authors would like to thank all student participants for their contribution 
+to this research.
+Author contributions
+Conceptualization: A.D., K.A., and N.A; Methodology/data collection: S.A., O.H., 
+A.A., and A.D.; Data Analysis: K.A. and A.D., Original draft preparation: A.D., 
+Reviewing and Editing: K.A., S.A., O.H., A.A, N.A. and A.D. All authors have read 
+and agreed to the published version of the manuscript.
+Funding
+This research received no external funding. Open access funding is provided 
+by the Qatar National Library.
+Data availability
+The data that support the findings of this study are not openly available due 
+to reasons of sensitivity and are available from the corresponding author upon 
+reasonable request.
+Declarations
+Ethics approval and consent to participate
+All methods were carried out in accordance with relevant guidelines 
+and regulations (Declaration of Helsinki). All experimental protocols 
+were approved by the Institutional Review Board (IRB) at Qatar University
+
+--- Page 11 --Page 11 of 12
+Al-Najdi et al. BMC Medical Education (2025) 25:157 
+(QU-IRB1797-EA/23 January 2023). Informed consent was obtained from all 
+subjects and/or their legal guardian(s).
+Consent for publication
+Not Applicable.
+Competing interests
+The authors declare no competing interests.
+Received: 28 October 2024 / Accepted: 21 January 2025
+References
+1. Ali K, Zahra D, Bashir U, Daud A, Raja HZ, Witton R, et al. Beyond the Bite: 
+exploring Mental Health of Dental Faculty in Pakistan – a multi-institutional 
+study. BDJ Open. 2024;10(1):80.
+2. Mirza AA, Baig M, Beyari GM, Halawani MA, Mirza AA. Depression and 
+anxiety among medical students: a brief overview. Adv Med Educ Pract. 
+2021;12:393–8.
+3. Hernández-Torrano D, Ibrayeva L, Sparks J, Lim N, Clementi A, Almukhambetova A et al. Mental Health and Well-Being of University students: a 
+bibliometric mapping of the literature. Front Psychol. 2020;11.
+4. World Health O. World Mental Health Report: Transforming mental health for 
+all: World Health Organization; 2022 [Available from: h t t p s : / / w w w . w h o . i n t / p u 
+b l i c a t i o n s / i / i t e m / 9 7 8 9 2 4 0 0 4 9 3 3 8 
+5. (CDC). About Mental Health 2024 [Available from: h t t p s : / / w w w . c d c . g o v / m e n 
+t a l - h e a l t h / a b o u t / ? C D C _ A A r e f _ V a l = h t t p s : / / w w w . c d c . g o v / m e n t a l h e a l t h / l e a r n 
+/ i n d e x . h t m 
+6. Ibrahim AK, Kelly SJ, Adams CE, Glazebrook C. A systematic review of 
+studies of depression prevalence in university students. J Psychiatr Res. 
+2013;47(3):391–400.
+7. Ragab EA, Dafallah MA, Salih MH, Osman WN, Osman M, Miskeen E, et al. 
+Stress and its correlates among medical students in six medical colleges: an 
+attempt to understand the current situation. Middle East Curr Psychiatry. 
+2021;28(1):75.
+8. Barbayannis G, Bandari M, Zheng X, Baquerizo H, Pecor KW, Ming X. 
+Academic stress and Mental Well-being in College students: correlations, 
+affected groups, and COVID-19. Front Psychol. 2022;13:886344.
+9. Voltmer E, Köslich-Strumann S, Voltmer J-B, Kötter T. Stress and behavior patterns throughout medical education – a six year longitudinal study. BMC Med 
+Educ. 2021;21(1):454.
+10. Roberts LW, Warner TD, Lyketsos C, Frank E, Ganzini L, Carter D. Perceptions 
+of academic vulnerability associated with personal illness: a study of 1,027 
+students at nine medical schools. Compr Psychiatr. 2001;42(1):1–15.
+11. Moore A, Nguyen A, Rivas S, Bany-Mohammed A, Majeika J, Martinez L. A 
+qualitative examination of the impacts of financial stress on college students’ 
+well-being: insights from a large, private institution. SAGE Open Med. 
+2021;9:20503121211018122.
+12. Azad MC, Fraser K, Rumana N, Abdullah AF, Shahana N, Hanly PJ, et al. Sleep 
+disturbances among medical students: a global perspective. J Clin Sleep 
+Med. 2015;11(1):69–74.
+13. Lund HG, Reider BD, Whiting AB, Prichard JR. Sleep patterns and predictors of 
+disturbed sleep in a large Population of College Students. J Adolesc Health. 
+2010;46(2):124–32.
+14. Garnett A, Hui L, Oleynikov C, Boamah S. Compassion fatigue in healthcare 
+providers: a scoping review. BMC Health Serv Res. 2023;23(1):1336.
+15. Scanlon M, Leahy P , Jenkinson H, Powell F. My biggest fear was whether or 
+not I would make friends’: working-class students’ reflections on their transition to university in Ireland. J Furth High Educ. 2020;44(6):753–65.
+16. Acoba EF. Social support and mental health: the mediating role of perceived 
+stress. Front Psychol. 2024;15.
+17. Goebert D, Thompson D, Takeshita J, Beach C, Bryson P , Ephgrave K, et al. 
+Depressive symptoms in medical students and residents: a multischool study. 
+Acad Med. 2009;84(2):236–41.
+18. Shim Y, Eaker R, Park J. Mental Health Education, Awareness and Stigma 
+regarding Mental Illness among College Students. J Mental Health Clin 
+Psychol. 2022;6:6–15.
+19. Chew-Graham CA, Rogers A, Yassin N. I wouldn’t want it on my CV or their 
+records’: medical students’ experiences of help-seeking for mental health 
+problems. Med Educ. 2003;37(10):873–80.
+20. Dyrbye LN, Thomas MR, Shanafelt TD. Systematic review of depression, anxiety, and other indicators of psychological distress among U.S. and Canadian 
+medical students. Acad Med. 2006;81(4):354–73.
+21. Frajerman A, Chaumette B, Krebs M-O, Morvan Y. Mental health in medical, 
+dental and pharmacy students: a cross-sectional study. J Affect Disorders Rep. 
+2022;10:100404.
+22. Muniz FWMG, Maurique LS, Toniazzo MP , Silva CF, Casarin M. Self-reported 
+depressive symptoms in dental students: systematic review with meta-analysis. J Dent Educ. 2021;85(2):135–47.
+23. Marufi N, Malekzadeh R, Naderi F, Garmabi M, Sharifnezhad A, Darrudi F, et 
+al. Association of depression and anxiety with health-related quality of life in 
+beginning Medical Sciences Student. Sci Rep. 2024;14(1):24515.
+24. Rotenstein LS, Ramos MA, Torre M, Segal JB, Peluso MJ, Guille C, et al. 
+Prevalence of Depression, depressive symptoms, and suicidal ideation 
+among medical students: a systematic review and Meta-analysis. JAMA. 
+2016;316(21):2214–36.
+25. Hamasha AA-H, Kareem YM, Alghamdi MS, Algarni MS, Alahedib KS, Alharbi 
+FA. Risk indicators of depression among medical, dental, nursing, pharmacology, and other medical science students in Saudi Arabia. Int Rev Psychiatry. 
+2019;31(7–8):646–52.
+26. Rawis JAM, Lengkong AC, Mahama IC, Lampah C, Posangi I. Burnout in 
+Medical Student: Literature Review. Syntax Literate: Jurnal Ilmiah Indonesia. 
+2024;9(5):3134–40.
+27. Wang Q, Sun W, Wu H. Associations between academic burnout, resilience 
+and life satisfaction among medical students: a three-wave longitudinal 
+study. BMC Med Educ. 2022;22(1):248.
+28. Boone A, Menouni A, Korachi IB, Nejjari C, Khalis M, Jaafari SE, et al. Burnout 
+and predictive factors among medical students: a cross-sectional survey. 
+BMC Med Educ. 2024;24(1):812.
+29. Michael K, Schujovitzky D, Karnieli-Miller O. The associations between 
+resilience, self-care, and burnout among medical students. PLoS ONE. 
+2024;19(9):e0309994.
+30. Khaled SM, Al-Abdulla M, Tulley I, Al-Thani SM, Woodruff PW. Qatar’s National 
+Mental Health Study—the World Mental Health Qatar. Int J Methods Psychiatr Res. 2024;33(S1):e2008.
+31. Hayk O, Mansoor A, Al-Najdi S, Daud A, Shami R, Al-Hashimi N, et al. Evaluation of mental health of students in healthcare education programs at Qatar 
+University [version 1; peer review: 2 approved]. MedEdPublish. 2024;14:37.
+32. Picton C, Moxham L, Patterson C. The use of phenomenology in mental 
+health nursing research. Nurse Res. 2017;25:14–8.
+33. Tong A, Sainsbury P , Craig J. Consolidated criteria for reporting qualitative 
+research (COREQ): a 32-item checklist for interviews and focus groups. Int J 
+Qual Health Care. 2007;19(6):349–57.
+34. Kroenke K, Spitzer RL, Williams JB. The PHQ-9: validity of a brief depression 
+severity measure. J Gen Intern Med. 2001;16(9):606–13.
+35. Lee J, Lee E-H, Moon SH. Systematic review of the measurement properties 
+of the Depression anxiety stress Scales–21 by applying updated COSMIN 
+methodology. Qual Life Res. 2019;28(9):2325–39.
+36. Kallio H, Pietilä A-M, Johnson M, Kangasniemi M. Systematic methodological 
+review: developing a framework for a qualitative semi-structured interview 
+guide. J Adv Nurs. 2016;72(12):2954–65.
+37. Damschroder LJ, Aron DC, Keith RE, Kirsh SR, Alexander JA, Lowery JC. 
+Fostering implementation of health services research findings into practice: a 
+consolidated framework for advancing implementation science. Implement 
+Sci. 2009;4(1):50.
+38. Braun V, Clarke V. Using thematic analysis in psychology. Qualitative Res 
+Psychol. 2006;3(2):77–101.
+39. Castleberry A, Nolen A. Thematic analysis of qualitative research data: is it as 
+easy as it sounds? Curr Pharm Teach Learn. 2018;10(6):807–15.
+40. Chiovitti RF, Piran N. Rigour and grounded theory research. J Adv Nurs. 
+2003;44(4):427–35.
+41. Daud A, Matoug-Elwerfelli M, Du X, Ali K. A qualitative enquiry into dental 
+students’ perceptions of dentistry as a career choice in the state of Qatar. 
+BMC Med Educ. 2022;22(1):452.
+42. Wcm Q. WCM-Q researchers investigate student stress at universities in Qatar. 
+2021.
+43. Henderson R, Chetty O, Gurayah T. Coping styles and sources of stress of 
+Undergraduate Health Science Students: an integrative review. South Afr J 
+Occup Therapy. 2021;51:29–38.
+44. Regehr C, Glancy D, Pitts A. Interventions to reduce stress in university 
+students: a review and meta-analysis. J Affect Disord. 2013;148(1):1–11.
+
+--- Page 12 --Page 12 of 12
+Al-Najdi et al. BMC Medical Education (2025) 25:157 
+45. Stubbs B, Vancampfort D, Hallgren M, Firth J, Veronese N, Solmi M, et al. EPA 
+guidance on physical activity as a treatment for severe mental illness: a metareview of the evidence and position Statement from the European Psychiatric Association (EPA), supported by the International Organization of Physical 
+Therapists in Mental Health (IOPTMH). Eur Psychiatry. 2018;54:124–44.
+46. Galante J, Dufour G, Vainre M, Wagner AP , Stochl J, Benton A, et al. A mindfulness-based intervention to increase resilience to stress in university students 
+(the Mindful Student Study): a pragmatic randomised controlled trial. Lancet 
+Public Health. 2018;3(2):e72–81.
+47. Awoke M, Mamo G, Abdu S, Terefe B. Perceived stress and coping strategies 
+among Undergraduate Health Science Students of Jimma University amid 
+the COVID-19 outbreak: online cross-sectional survey. Front Psychol. 2021;12.
+48. Dederichs M, Weber J, Muth T, Angerer P , Loerbroks A. Students’ perspectives 
+on interventions to reduce stress in medical school: a qualitative study. PLoS 
+ONE. 2020;15(10):e0240587.
+49. Waechter R, Stahl G, Rabie S, Colak B, Johnson-Rais D, Landon B, et al. Mitigating medical student stress and anxiety: should schools mandate participation in wellness intervention programs? Med Teach. 2021;43(8):945–55.
+50. Aggarwal S, Wright J, Morgan A, Patton G, Reavley N. Religiosity and 
+spirituality in the prevention and management of depression and anxiety 
+in young people: a systematic review and meta-analysis. BMC Psychiatry. 
+2023;23(1):729.
+51. Koenig HG, King DE, Carson VB. Handbook of Religion and Health. Oxford 
+University Press; 2012.
+52. Lucchetti G, Lucchetti ALG, Koenig HG. Impact of Spirituality/Religiosity on mortality: comparison with Other Health interventions. EXPLORE. 
+2011;7(4):234–8.
+53. Sheldon E, Ezaydi N, Desoysa L, Young J, Simmonds-Buckley M, Hind PD, et al. 
+Barriers to help-seeking, accessing and providing mental health support for 
+medical students: a mixed methods study using the candidacy framework. 
+BMC Health Serv Res. 2024;24(1):738.
+54. Hawsawi AA, Nixon N, Stewart E, Nixon E. Exploring access to support 
+services for medical students: recommendations for enhancing wellbeing 
+support. BMC Med Educ. 2024;24(1):671.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

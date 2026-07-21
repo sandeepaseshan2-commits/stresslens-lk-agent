@@ -1,0 +1,580 @@
+--- Page 1 --ISSN (Print): 2959-4391 ISSN (Online): 2959-4405 
+ 
+Journal of Social Sciences Development, Volume 03, Issue 02, JUNE, 2024 
+170 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mahvish Fatima Kashif1, Rabia Tabassum2 & Sumaira Bibi3 
+1Assistant Professor, Department of STEM Education, Lahore College for Women University 
+2Lecturer, Department of STEM Education, Lahore College for Women University, Pakistan 
+3M.Phil. Scholar, Department of STEM Education, Lahore College for Women University 
+ 
+KEYWORDS ABSTRACT 
+Academic Stress, 
+Mental Health, 
+University Students, 
+Pakistan 
+The objective of the study was to explore the effect of academic stress on the 
+mental health of the undergraduate university students. The research was 
+designed as a quantitative causal -comparative study. For the collection of 
+data, standardized instruments were adopted. The instrument was thus duly 
+validated by experts and a pilot study from 60 participants. The population 
+of the study comprised undergraduate university students of the Lahore 
+district. A proportionate stratified random sampling technique was used to 
+select the sample. The selected sample comprised 528 students. The data was 
+analyzed using SPSS version 25. Data analysis included independent sample 
+t-test, ANOVA, and multiple regression analysis. The r esults revealed the 
+significant correlation between the variables and academic stress was found 
+a significant predictor of mental health issues. It is therefore recommended 
+that the institutions should develop awareness among the students and their 
+parents, regarding the issue s under study. Moreover, enhancing the depth 
+and breadth of the research scope can help to get further probe into the issue 
+under considerations. 
+ 2024 Journal of Social Sciences Development 
+ARTICLE HISTORY 
+Date of Submission: 
+13-05-2024 
+Date of Acceptance: 
+15-06-2024 
+Date of Publication: 
+17-06-2024 
+Corresponding Author Rabia Tabassum 
+Email: rabia786@lcwu.edu.pk 
+DOI https://doi.org/10.53664/JSSD/03-02-2024-14-170-182 
+ 
+INTRODUCTION 
+The stress is considered a part of the student's life and can impact the student's coping mechanisms 
+according to their needs for academic life (Fincham, Strauss, Marin & Cavanagh, 2023). Academic 
+stress is a mental distress associated with any anticipated dissatisfaction correlated with studen t 
+failure, or even awareness of possibility of such a failure (Busari, 2014). Pascoe, Hetrick and Parker, 
+2022) defined academic stress as a requirement linked to academics that taxes or exceeds existing 
+resources (explicit or implicit). Academic stress, she says, reflects the belief of individual's academic 
+ 
+EFFECTS OF ACADEMIC STRESS ON MENTAL HEALTH ISSUES AMONG 
+UNIVERSITY STUDENTS
+
+--- Page 2 --Kashif, Tabassum & Bibi … Effects Of Academic 
+Journal of Social Sciences Development, Volume 03, Issue 02, JUNE, 2024 171 
+resentment, academic conflict, academic friction, and academic anxiety. Academic stress can be a 
+burden that mostly happens during an academic performance due to a person's extra work relative 
+to his/her capacities or abilities. Academic stress has been emphasized separately by many authors 
+and as pursues. Steare, Muñoz, Sullivan and Lewis (2023) defined academic stress as among the 
+commodities of a physiological battle to regulate the obligation or examination the teacher must 
+obtain from authority in field in question. Yang and Yang (2022) claimed that higher educational 
+stress caused the limi ted opportunity for achievement. Wang, García, Ren and Liu (2022) have 
+found that academic workload is associated favorably with inherent stress level. Cavioni, Grazzani 
+and Ornaghi (2020) claimed that mental health is a way of thinking, feeling, and a cting in the 
+person's everyday life. 
+ 
+The people with healthy relationships recognize their abilities, are ready to tolerate defeat, able to 
+regulate respect and appreciate their sentiments. The term mental health is composed of two words,' 
+mental' and' health' The term 'mental' connotes something that is purely related towards a person's 
+intellectual functioning. It also preserves the bond with others and a general power that could be 
+called equilibrium of one in sense of socio -culture. The word 'Health' relates to specific fitness as 
+well as to in dividual unconscious psychological equilibrium, linking of his psychological system 
+with the outer environment, and individual's social activity (Coninck, Matthijs & Lancker , 2022; 
+Khan & Sabah, 2020). Mental health is seen as level of real well-being in which people understand 
+their capacity, can cope with ordinary life pressures, can function productively and credibly, or can 
+contribute to society, as per world health organization (Salari et al., 2020). Khan and Sabah (2020) 
+identified "mental health as a dynamic condition of effective teamwork that enables people to use 
+their skills in line with the society's widespread norms." Simple psychological and behavioral skills; 
+willingness to understand, and convey, another's feelings and empathize with everyone; resilience 
+and ability to deal with the deleterious events in life and act in social roles; and healthy body-mind 
+relationships are essential elements of mental well-being that lead to varying degrees of the status 
+of the internal circuit. 
+ 
+Health means both body and mind function efficiently and in harmony. Mental health is a state of 
+consciousness characterized by emotional well-being, relative security from anxiety and disabling 
+symptoms, and dealing with ordinary life stress and demands (Green, Faizi, Jalal & Zadran, 2022). 
+Lipson, Lattie and Eisenberg, (2019) pointed out that, given the cultural diversity between the 
+burden of instructional components or academic stress and mental health problems in adolescent 
+populations, forgotten studies explicitly stipulate a notable link. Thus, it is theorized that although 
+the other costs are taken into consideration, there will be a beneficial affiliation between high 
+educational stress, mental health and phenomenon of developmental issues forgo tten by surveys 
+were primarily due to the unfavorable mental health (such as depression and suicidal behavior) 
+and several did not even realize favorable mental health conditions (happiness). It accounts for the 
+adaptive and mental reactions of one. The perceived pleasure was thus coupled with depression, 
+suicidal activity (making plans, imagining, etc.), and alcohol usage (cigarettes, narcotics, etc.) in the 
+measured outcome. The educational system, assessment system, value system, teacher efficiency,
+
+--- Page 3 --Kashif, Tabassum & Bibi … Effects Of Academic 
+Journal of Social Sciences Development, Volume 03, Issue 02, JUNE, 2024 172 
+school situation, and school environment are some of the factors that affect a child's mental health 
+(Wang et al., 2022b). 
+ 
+Objectives of Study 
+1. To explore difference in academic stress on demographic variables among undergraduate 
+students. 
+2. To explore the effect of the academic stress on the mental health issues of undergraduate 
+students. 
+ 
+Research Hypotheses 
+Ho1: There are no significant group differences in stress on the gender of undergraduate students. 
+Ho2: There is no significant group mean difference in stress in the age of undergraduate students. 
+Ho3: There is no significant effect of academic stress on mental health issues among the students. 
+ 
+Significance of Study 
+1. School administrators, course content designers, and counselors to include learners with the 
+educational career guidance and advice. 
+2. For parents to help their children study and to be specific about their academic needs and 
+therefore reduce their academic stress. 
+3. For students, it may be helpful to understand the unknown mental burdens and to learn how 
+to minimize them. 
+ 
+LITERATURE REVIEW 
+Stress has become a trademark experienced by students across the world as a health or pathological 
+condition and negative emotional, cognitive, behavioral, and physiological response (Steare et al., 
+2023b). The stress in coping is especially academic in origin brought about by examinations, class 
+rankings, and large syllabuses (Azad & Kaur, 2024). They also cite aspects related to workload and 
+interactions with other students and faculty; concerns like too many assignments add to this stress. 
+Stress is usually the strain that originates from pressures or challenging occurrences ( Chen et al., 
+2024). It is defined by Tran et al. (2022) as the process that entails perceiving and dealing with 
+environmental issues. A moderate amount of stress can h ave positive impacts on the learning and 
+intellectual abilities of person more details (OECD, 2021). Yet high stress levels come with negative 
+consequences that include psychological issues like depression & anxiety as stated by Sutherland 
+(2018). The students in viable academic arena undergo examining stress, class attendance troubles, 
+comprehension snags that cause decreased self -esteem & mental health disorders Mccloud et al. 
+(2023). These pressure sources include workload, perceived as excessive, conflict with other people 
+(Tran et al., 2022b). 
+ 
+Thus, practicing time management, strengthening the social network, and utilizing recreational 
+activities should be considered important methods of combating the academic stress, as stated by 
+(Dessauvagie et al., 2022 ). Transactional Model of Stress by Adams et al. (2021) centered around 
+cognitive appraisal as key to dealing with stress. Stress is a process that is caused by a relationship 
+between how an individual appraises his environment and demands arising from that environment. 
+This model is suitable for the first-time university students, given the many difficulties that they
+
+--- Page 4 --Kashif, Tabassum & Bibi … Effects Of Academic 
+Journal of Social Sciences Development, Volume 03, Issue 02, JUNE, 2024 173 
+experience. Mofatteh (2021) observes that proper mental health leads to proper physical, social, 
+and occupational interaction in day -to-day life. Anxiety-related disorders like depression which 
+are fuelled by intense academic pressure often led to poor performance of students and disruption 
+of their personal lives (Steare et al., 2023c ). Antecedent noted, that mentally healthy people can 
+manage daily stressors, stated by WHO in 2020 (OECD, 2021). In past, student pressure to succeed 
+academically has forced them to work hard in the classroom tests, examinations, and assessments as 
+promoted by their teachers, tutors and parents (World Health Organization, 2022). Extracurricular 
+activities have likewise increased pressure because students have to excel in the academics as well 
+as in other activities. 
+ 
+The lack of counselling and guidance services also elaborate this problem, which leaves students 
+baffled on matters relating to the career paths hence boosting stress levels (Bataineh, 2013). These 
+stresses come in many forms; overburdening homework load, high parental expectations, and social 
+conditioning that compels a child into unwanted actions. This stress ca n be very damaging to their 
+mental well-being, increasing their likelihood of suffering from depression or anxiety (Adegoyega 
+et al., 2020). Stress has been described by Ang and Huan (2006) as any change that threatens an 
+organism’s homeostasis, while the stressors are situations that one thinks of as stressful and which 
+destabilize the individual. Incongruities, changes, and catastrophes; minor daily interferences, and 
+major life changes; catastrophic changes and stressful incidents are considered importan t sources 
+of stress (Rahiman et al., 2023). The effects of stress are profound and involve the cognition, emotion, 
+and physical well -being of an individual. Therefore, the cognitive aspect has been focused on by 
+different studies in Pakistani context. In the cognitive domain of learning, critical thinking (higherorder) skills have been focused being twenty -first-century skills to be focused on to be developed 
+in the students of today. 
+ 
+Similarly, different studies have been conducted focusing on the critical thinking skills based on 
+teachers’ perspectives and practices, policy documents, and textbooks analysis (Naseer, et al., 2021; 
+Jamil, et al., 2024; Muhammad Jamil, Muhammad Aslam, et al., 2024; Muhammad Jamil, Tahira 
+Bibi, et al., 2024; Muhammad Jamil, Tahira Batool Bokhari, et al., 2024; M Jamil et al., 2024; 
+Muhammad Jamil, Wahid Mehmood, et al., 2024; Jamil & Muhammad, 2019; Jamil et al., 2020; 
+Jamil et al., 2021; Azmat, et al., 2021 ). The symptoms are worry, violence, physical manifestations 
+such as nail biting, and irregular pulse rates (Agolla & Ongori, 2009). These stress reactions are not 
+necessarily sequential and might precipitate a fight -or-flight state (Bataineh, 2013). The key is to 
+know stress and manage it well. The transactional model of occupational stress posits that stress is 
+derived from the transactions between environment’s demands and individual’s capacity to cope 
+with the stresses (Wang et al., 2022 b). To this extent, one can therefore manage the stressors if not 
+their occurrence by adequately evaluating and handling the vice that is a result of stressors. Mental 
+health and emotional status depend on people’s psychological and emotional state, whic h allows, 
+hinders them from performing various tasks effectively in school, workplace & within communities 
+(Cavioni et al., 2020). 
+ 
+The accomplishment of the goals in life determines the state of mental health, whereby one is in a 
+position to handle the pressures in life (Mitchell, 2020). Academic pressure brings about discursive
+
+--- Page 5 --Kashif, Tabassum & Bibi … Effects Of Academic 
+Journal of Social Sciences Development, Volume 03, Issue 02, JUNE, 2024 174 
+formation of mental health problems among adolescents such as anxiety and depression (Magier et 
+al., 2023). Academic guidance: The proper mental health intervention and stress management are 
+required to assist students in going through all these challenges and stay healthy. Mental health 
+issues such as depression, form part of common psychiatric disorders in America; they affect about 
+one in four adults (Nazari et al., 2023). Symptoms of depression are as follows: Depression includes 
+consistent low moods, anxiety, lack of value and interest in daily endeavors, sleeping disorders, 
+change in appetite leading to loss of weight or gain, lack of strength, and idea s of dying or death. 
+This includes migraines and digestive disorders that have no medical cure for the condition. The 
+phenomenon of academic stress affects young people’s psychological well -being, in particular 
+university students. The OECD (2021) has a more positive view of mental health by describing it as 
+a state in which an individual can function acceptably in day-to-day life, be productive, and easily 
+integrate into society. 
+ 
+Mental health disorders for instance, mood, anxiety disorders, and suicidal risk factors are prevalent 
+among students and are also leading causes of disability globally as classified by Global Burden of 
+Disease study (Coley et al., 2018). The prevalence of psychological health issues among students is 
+a growing global conce rn. Around 20 percent of the children and university students experience 
+psychiatric illnesses, with nearly 50 percent of adult psychological problems originating during 
+undergraduate years (Reda Ismail, 2022). Suicide is a leading cause of death among 18 -24-yearolds, second only to road accidents (DeLisle, 2011). Despite this, the development of psychosocial 
+interventions for adolescents and young adults has lagged, particularly in developing countries 
+where healthcare facilities are inadequate (Stafford et al., 2016). Academic pressure is a significant 
+source of stress, contributing to the depression among students. Various teaching practices and high 
+expectations exacerbate these issues, impacting students' mental health & academic performance 
+(Ruddy et al., 2005). Addressing these challenges needs holistic approach that includes improving 
+access to mental health services, enhancing the data collection, and developing innovative coping 
+strategies for students. 
+ 
+Different studies ha ve been conducted about the current variables of the study in national and 
+international contexts. For example, effect of university-level students’ stress on their performance 
+(Ali et al., 2021 ); the impact of stress on the secondary and higher education (Pascoe et al., 2020 ); 
+university students’ stress regarding COVID-19 (Keyserlingk et al., 2022 ); stress and burnout of 
+school teachers (Naz et al., 2022 ); academic stress and mental well -being of the college students 
+(Barbayannis et al., 2022); academic stress and emotional well-being (Clabaugh et al., 2021 ); risk 
+factors associated with stress (Mofatteh, 2021). In conclusion, academic stress significantly impacts 
+students' mental health, leading to issues like anxiety, depression, and cognitive impairment s. The 
+effective stress management and mental health support are vital for students to navigate academic 
+challenges & maintain overall well-being. Depression includes consistent low moods, anxiety, lack 
+of value in daily endeavors, sleeping disorders, change in appetite leading to loss of weight or gain, 
+lack of strength, and ideas of dying/death. Future research should explore stress-coping strategies 
+& mental health intrusions to support students in academic environment. With inclusive approach,
+
+--- Page 6 --Kashif, Tabassum & Bibi … Effects Of Academic 
+Journal of Social Sciences Development, Volume 03, Issue 02, JUNE, 2024 175 
+educational institutions can foster a healthier environment that promotes both academic success 
+and mental well-being. 
+ 
+RESEARCH METHODOLOGY 
+This research was quantitative. The ex -post facto research design is descriptive survey research. 
+Using the word ex post facto to describe something that incorporates past activities, such as a raise 
+in pay ex post facto, subsidizes for job users have since done. Population for research included all 
+undergraduate university students of Lahore. A proportionate stratified random sampling method 
+was used for the study. The selected sample included 550 students, 58% from public, and 42 % 
+from private universities. A questionnaire was used to collect data from the participants. It included 
+participants' demographic information (age, gender, and year) academic stress scale, and mental 
+health scale. The perceived level of academic stress of students was measured by academic stress 
+inventory developed by Ang and Huan (2006a). It comprised total of 34 items and 7 factors about 
+the teacher phobia, exam anxiety, group study phobia, peers’ phobia, time management issues, and 
+self-inflicted stress. 
+ 
+On the other hand, mental health was measured by a standardized questionnaire GHQ -12 (The 
+General Health Questionnaire) by Cavioni et al. (2020). Mental health can be evaluated through 
+the identification of signs of anxiety, depression, and emotions of effectiveness. The most commonly 
+used screening tool for the common mental illnesses is the 12 -item General Health Questionnaire 
+(GHQ-12). The research instrument was duly validated by expert opinion (Content validation), and 
+pilot study (construct validation). In this connection, the data were collected from sixty respondents 
+for pilot testing by the researcher, which was more than ten percent of the total sample size. The 
+reliability analysis revealed 0.99 and 0.82 for the academic stress scale, and mental health scale 
+respectively which indicated that the tool was good and reliable, as per the criteria proposed by 
+Fraenkel et al. (2012). 
+ 
+FINDINGS OF STUDY 
+ 
+Analysis to Explore Difference in Academic Stress on Demographic Variables among 
+Undergraduate Students. 
+The two most studied, widely influencing demographic variables i.e., gender and age, were selected 
+for study. An Independent sample t -test was used to explore difference in the academic stress on 
+gender of undergraduates. 
+ 
+Table 1 Academic Stress of Students Based on Gender 
+Gender N Mean SD T Df Sig. (2 – tailed) 
+Male 202 124.8020 19.81382 .569 .526 .000 
+Female 326 123.7362 21.59824 .580 453.798 
+ 
+The results from the table indicate a significant difference (p = .000) amid both genders was found. 
+The mean values indicate that males were more influenced by stress and mental health issues than 
+females. So, null hypothesis “there is no significant difference of stress on gender of undergraduate 
+students” was rejected. Second selected demographic variable was age. To find group difference of
+
+--- Page 7 --Kashif, Tabassum & Bibi … Effects Of Academic 
+Journal of Social Sciences Development, Volume 03, Issue 02, JUNE, 2024 176 
+academic stress on age, analysis of variance (ANOVA) was applied. Following results were obtained 
+from this analysis. 
+ 
+Table 2 Academic Stress of Students Based on Age 
+PR SS Df Mean Squares F Sig. 
+Between Groups 286.281 3 95.410 .217 .000 
+Within Groups 230372.830 524 439.643 
+Total 230659.061 527 
+ 
+The table indicates that significant difference in stress was found in age variable of undergraduates. 
+Thus, the null hypothesis “there is no significant difference between students' academic stress based 
+on age” was rejected. 
+ 
+Analysis to Explore the Effect of Academic Stress on Mental Health of Undergraduate 
+Students 
+Multiple regression analysis was made to test this research objective. Results of this test are given 
+in following table. 
+ 
+Table 3 Effect of Academic Stress on Mental Health 
+Model R R2 Adjusted R2 Std. Error of Estimate 
+1 .772a .522 .52 4.29325 
+ Predictors: SS, TTS, PS, TMS, TS, SGS, RS 
+ 
+The table indicates that the value of R2 = .522, which means that a one percent rise in mental stress 
+can alleviate mental health issues to 52.2%. Further detailed analysis was conducted to test the 
+unique contribution of each study variable is described in following table that ultimately provide 
+valuable information. 
+ 
+Table 4 Contribution of Each Sub-Variable of Stress towards Mental Health Issues 
+Model 1 Unstandardized Standardized t Sig. 
+ Coefficient Coefficient 
+ B St. Error Beta 
+Constant 40.927 1.216 33.657 .000 
+Teacher Stress -.346 .052 .391 -6.699 .000 
+Result Stress .133 .080 .096 1.661 .000 
+Test Stress .065 .063 .045 1.032 .000 
+Study in Group Stress -.665 .074 .494 -8.985 .000 
+Peer Stress .026 .066 .014 .390 .000 
+Time Management Stress .307 .081 .137 3.811 .000 
+Self-inflicted Stress -.034 .056 .020 -.612 .000 
+a. Dependent Variable: MH 
+ 
+The results from the above table indicate that each sub -variable had a significant effect over the 
+dependent variable i.e., mental health. The values of beta further revealed predictors’ effect over 
+mental health issues in order of study in group (49.4%); teacher stress (39.1%); time management
+
+--- Page 8 --Kashif, Tabassum & Bibi … Effects Of Academic 
+Journal of Social Sciences Development, Volume 03, Issue 02, JUNE, 2024 177 
+stress (13.7%); result stre ss (9.6%); rest stress (4.5%); self -inflicted stress (2.0%); and peer stress 
+(1.4%) respectively. In this connection, from the above two tables, it was found that the hypothesis 
+“There is no significant effect of academic stress on the mental health of undergraduate students” 
+was therefore rejected. 
+ 
+DISCUSSIONS 
+This study aimed to find out to determine the effect of academic stress on mental health among 
+undergraduate students from Lahore. The findings showed that there was a significant relationship 
+between academic stress and the mental health of undergraduate students. Research conducted by 
+Nikitha et al, (2014) concluded that academic stress is the primary source of stress among students 
+and can lead to low self-esteem. Poor self-esteem affects many mental disorders, like psychological 
+distress and disability where this research reported same results as mentioned in the other studies. 
+The same results from the previous research studies (Barbayannis et al., 2022; Prowse et al., 2021 ). 
+The same results were also revealed in a study conducted by Keinan and Perlberg (1986) that the 
+potential effects of intense stress are emotions of anger, depression, and anxiety. Oh, Mckean et al. 
+(2000) conclude that anxiety, depression, or pain are not triggered by pressures alone. Conversely, 
+stress is triggered by interaction and response amid stressful events and the interpretation of person 
+to these stimuli. 
+ 
+Gupta and Khan (1987) revealed in their study that academic stress is a mental disorder concerning 
+some anticipated disappointment associated with the academic failure, or even knowledge of the 
+probability of such failure. Sapru (2006) reported that for most teenagers in stressed and unstressed 
+classes, the proportion of people were in the 18-21 age group. In this linking, the findings also show 
+that there is a significant difference between the age group of students. While the 18-21 age group 
+of students takes more stress and is more influenced than other age groups of students. Nationally 
+and globally, in the 18-24 age groups, death is the second largest cause of the death that is only 
+exceeded by road accidents (WHO, 2008). Consequently, Global Burden of Disease (GBD) reports 
+by the World Health Organization indicate that the monopolar mood symptoms, schizophrenia, 
+bipolar disorder, drug use, and self-inflicted diseases are some of the leading causes of the infection 
+diverse rates, which both compensate for 22 percent of all existence-years (disease burden) suffered 
+(Gore, 2011). 
+ 
+The results indicated a significant positive relationship based on year while in the first year of the 
+degree program, students are more influenced than in other years of learning. Prabu (2015) showed 
+in his study that challenges and difficulties encountered by undergraduates in the first year di ffer 
+from those encountered by their non-student colleagues or those in final year. The study indicated 
+a significant difference between genders. The result revealed that females are more influenced by 
+males. In literature, some studies s howed that males are more influenced than females; some show 
+females are more influenced than males. Starting from here Prince et al., (2007) examined that the 
+results of impact of academic stress on mental health on both men and women are far below average 
+and that female score was significantly higher than that of males. Same results were from previous 
+studies (Barbayannis et al., 2022; Prowse et al., 2021). Another study led by (Wells, 2002) that 70%
+
+--- Page 9 --Kashif, Tabassum & Bibi … Effects Of Academic 
+Journal of Social Sciences Development, Volume 03, Issue 02, JUNE, 2024 178 
+of males take academic stress than females while remaining 30% of females take more academic 
+stress than males. 
+ 
+ 
+CONCLUSION 
+This study was an attempt to determine how academic stress affects the mental health of university 
+students. The results of the study showed significant effect of academic stress on the mental health 
+of undergraduate students. It was also found that the factors of academic stress, TS (teacher stress), 
+RS (results stress), TTS (test stress), SGS (group stress ), PS (peer stress study), TMS (time management 
+stress), SS (self-inflicted stress) were related to mental health among undergraduate students. The 
+result showed significant difference in gender-based academic stress of undergraduate students, 
+females are more influenced than males. The study also showed significant difference between the 
+students ' academic stress based on age. While a significant difference was also shown between the 
+students ' academic stress based on year, moreover students from 3rd year are more influenced than 
+other years of learning. 
+ 
+Recommendations 
+1. The educational institutions and universities should arrange the workshops, seminars, stress 
+management skills, and different training centers. 
+2. The universities should provide motivational sessions, therapy, and intellectual stimulation 
+to reduce stress on the mental health of students. 
+3. A mixed method approach should be done on it which helps to explore causes of stress. Future 
+studies should be led in other areas of Pakistan. 
+ 
+REFERENCES 
+Abelson, S., Lipson, S. K., & Eisenberg, D. (2022). The Mental Health in College Populations: A 
+Multidisciplinary Review of What Works, Evidence Gaps, and Paths Forward. In Higher 
+Education: Handbook of Theory and Research (pp. 133–238). Springer. 
+Abrams, Z. (2022). Student Mental Health is in Crisis. Campuses are Rethinking their Approach. 
+Monitor on Psychology, 53(7), 60–65. 
+Adams, K. L., Saunders, K. E., Keown -Stoneman, C. D. G., & Duffy, A. C. (2021). Mental Health 
+Trajectories in Undergraduate Students over the First Year of University: A Longitudinal 
+Cohort Study. BMJ Open, 11(12), 1–12. 
+Adegoyega, L. O., Jacob, O. A., & Adegboyega, L. O. (2020). Influence of social media on Sexual 
+Behavior of Youth in Kwara State: Implications for Counselling Practice. Journal of Family 
+and Youth, 12 (1). 
+Agolla, J. E., & Ongori, H. (2009). An Assessment of Academic Stress among Undergraduate 
+Students: The Case of University of Botswana. Educational Research and Review , 4(2), 63–
+070. 
+Ali, Y., Nisa, U., & Akhtar, N. (2021). Effects of academic stress on student performance at university 
+level. Research Journal of Social Sciences and Economics Review, 2(3), 84-88. 
+Ang, P., & Huan, S. (2006a). Academic expectations stress inventory: Development, factor analysis, 
+reliability, and validity. Educational and Psychological Measurement, 66 (3), 522–539.
+
+--- Page 10 --Kashif, Tabassum & Bibi … Effects Of Academic 
+Journal of Social Sciences Development, Volume 03, Issue 02, JUNE, 2024 179 
+Ang, R. P., & Hua n, V. S. (2006b). Relationship between Academic Stress and Suicidal Ideation: 
+Testing for Depression as a Mediator using Multiple Regression. Child Psychiatry and 
+Human Development, 37(2), 133–143. 
+Azad, Y. P., & K aur, H. (2024). Academic Stress and Psychological Wellbeing among Boys and 
+Girls College Students. https://doi.org/10.13140/RG.2.2.27571.81447/. 
+Barbayannis, G., Bandari, M., Zheng, X., Baquerizo, H., Pecor, K. W., & Ming, X. (2022). Academic 
+stress and mental well-being in college students: correlations, affected groups, and COVID19. Frontiers in Psychology, 13, 886344. 
+Bataineh, M. Z. (2013). A cademic Stress among Undergraduate Students: The Case of Education 
+Faculty at King Saud University. International Interdisciplinary Journal of Education , 2(1), 
+82–88. 
+Bethune, S. (2020, October 20). Stress in America 2020 Survey Signals a Growing National 
+Mental Health Crisis. American Psychological Association. 
+Busari, O. (2014). Academic Stress among Undergraduate Students: Measuring the Effects of Stress 
+Inoculation Techniques. Mediterranean Journal of Social Sciences, 5(27), 599–609. 
+Cavioni, V., Grazzani, I., & Ornaghi, V. (2020). The Mental Health Promotion in Schools: A 
+Comprehensive Theoretical Framework. International Journal of Emotional Education, 12(1), 
+65–82. 
+Chen, B., Wang, W., & Yang, S. (2024). The relationship between academic stress and depression 
+among college students during COVID-19 pandemic: A cross-sectional study from China. 
+BMC Psychiatry, 24(1). 
+Coley, R. L., Sims, J., Dearing, E., & Spielvogel, B. (2018). Locating Economic Risks for Adolescent 
+Mental and Behavioral Health: Poverty and Affluence in Families, Neighbourhoods, and 
+Schools. Child Development, 89(2), 360–369. 
+Clabaugh, A., Duque, J. F., & Fields, L. J. (2021). Academic stress and emotional well -being in 
+United States college students following onset of the COVID -19 pandemic. Frontiers in 
+Psychology, 12, 628787. 
+Coninck, D., Matthijs, K., & Lancker, W. (2022). Distance Learning and School -Related Stress 
+Among Belgian Ado lescents During the COVID -19 Pandemic. Frontiers in Education , 7. 
+https://doi.org/10.3389/feduc.2022.836123. 
+DeLisle, M. M. (2011). Understanding the Relationship between Depression, Hopelessness, 
+Psychache and Suicide Risk. Dissertation Abstracts Internati onal: Section B: The Sciences 
+and Engineering, 72(4-B), 2433. 
+Dessauvagie, A. S., Dang, H. M., Nguyen, T. A. T., & Groen, G. (2022). Mental Health of University 
+Students in Southeastern Asia: A Systematic Review. Asia-Pacific Journal of Public Health 
+34 (2–3), 172–181). 
+Fincham, G. W., Strauss, C., Marin, J., & Cavanagh, K. (2023). Effect of Breathwork on Stress and 
+Mental Health: A Meta-Analysis of Randomised-Controlled Trials. Scientific Reports 13 ( 1), 
+204-216. 
+Fraenkel, J. R., Wallen, N. E., & Hyun, H. H. (2012). How to Design and Evaluate Research in 
+Education (8th ed.). McGraw Hill.
+
+--- Page 11 --Kashif, Tabassum & Bibi … Effects Of Academic 
+Journal of Social Sciences Development, Volume 03, Issue 02, JUNE, 2024 180 
+Green, Z. A., Faizi, F., Jalal, R., & Zadran, Z. (2022). Emotional Support Received Moderates 
+Academic Stress and Mental Well -Being in a Sample of Afghan University Students amid 
+COVID-19. International Journal of Social Psychiatry, 68(8), 1748–1755. 
+Jamil, M., Anwar, M., & Ali, M. J. (2024). Developing critical thinking skills in English classrooms 
+at the secondary level: Teachers’perspective. Journal of Social Sciences Development , 3(1), 
+76-85. 
+Jamil, M., Aslam, M., & Ali, S. (2024). Single national curriculum (SNC) for social studies (2020): 
+Document analysis for development of critical thinking skills at the primary level. Pakistan 
+Journal of Law, Analysis and Wisdom, 3(2), 67-74. 
+Jamil, M., Bibi, T., & Shahzadi, U. (2024). Critical thinking skills development among secondary 
+school students: An analysis of Chemistry textbook grade X (2020). Research Journal for 
+Societal Issues, 6(2), 1-11. 
+Jamil, M., Bokhari, T. B., & Iqbal, J. (2024). Incorporation of critical thinking skills development: A 
+case of mathematics curriculum for grades I-XII. Journal of Asian Development Studies, 13(1), 
+375-382. 
+Jamil, M., Mehmood, W., & Saleem, A. (2024). Biology textbook grade X (2020): Analysis fo r the 
+development of higher order thinking skills among secondary school science students. 
+Global Regional Review (GRR), 9(1), 29-35. 
+Jamil, M., Mehmood, W., & Shah, F. u. H. (2024). Development of critical thinking skills among 
+secondary school science students: An analysis of Chemistry textbook grade IX (2020). 
+Global Educational Studies Review, 9(1), 13-20. 
+Jamil, M., & Muhammad, Y. (2019). Teaching science students to think critically: Understanding 
+secondary school teachers' practices. Journal of Research & Reflections in Education (JRRE), 
+13(2), 256-272. 
+Jamil, M., Muhammad, Y., Masood, S., & Habib, Z. (2020). Critical thinking: A qualitative content 
+analysis of education policy and secondary school science curriculum documents. Journal of 
+Research and Reflections in Education, 14(2), 249-258. 
+Jamil, M., Muhammad, Y., & Qureshi, N. (2021). Secondary school science teachers' practices for the 
+development of critical thinking skills: An observational study. Journal of Development and 
+Social Sciences, 2(4), 259-258. 
+Khan, S., & Shamama-Tus-Sabah, S. (2020). Stress and its Association with Positive Mental Health 
+and Academic Performance of University Students. Pak Armed Forces Med Journal , 70(5), 
+1391–1395. 
+Lipson, S. K., Lattie, E. G., & Eisenberg, D. (2019). Increased Rates of Mental Health Service 
+Utilization by U.S. College Students: 10 -Year Population -Level Trends (2007 -2017). 
+Psychiatric Services, 70(1), 60–63. 
+Magier, M. J., Law, M., Pennisi, S., Martini, T., Duncan, M. J., Chattha, H., & Patte, K. A. (2023). FinalYear University Students’ Mental Health and Access to Support as They Prepared to 
+Graduate. Cogent Mental Health, 2(1). 
+Mccloud, T., Kamenov, S., Callender, C., Lewis, G., & Lewis, G. (2023). The Association between 
+Higher Education Attendance and Common Mental Health Problems among Young People 
+in England: Evidence from Two Population-Based Cohorts. Lancet Public Health, 8(October
+
+--- Page 12 --Kashif, Tabassum & Bibi … Effects Of Academic 
+Journal of Social Sciences Development, Volume 03, Issue 02, JUNE, 2024 181 
+2023), 811–819. Mitchell, S. (2020). Report of the Task Force on Managing Student Mental 
+Health. 
+Mofatteh, M. (2021). Risk Factors Associated with Stress, Anxiety, and Depression among 
+University Undergraduate Students. AIMS Public Health, 8(1), 36–65. 
+Naseer, H., Muhammad, Y., & Jamil, M. (2021). Critical thinking skills in Pakistan studies textbook: 
+Qualitative content analysis. Pakistan Journal of Social Research, 4(3), 744-755. 
+Naz, M., Muhammad, Y., & Mahmood, A. (2022). Stress and burnout: An interpretive 
+phenomenological analysis of elite school teachers’ beliefs & experiences. Global Sociological 
+Review, 7(2), 120-131. 
+Nazari, A., Hosseinnia, M., Torkian, S., & Garmaroudi, G. (2023). Social Media and Mental Health 
+in Students: A Cross-Sectional Study during the Covid-19 Pandemic. BMC Psychiatry, 23(1). 
+https://doi.org/10.1186/s12888-023-04859-w. 
+OECD. (2021). Tackling the Mental Health Impact of the COVID-19 Crisis: An Integrated, Wholeof-Society Response. 
+Park, Y. H., Kim, I. H., & Jeong, Y. W. (2022). Stress, and Coping Strategy of University Students 
+during COVID-19 in Korea: The Mediating Role of Ego-Resiliency. Acta Psychologica, 227. 
+https://doi.org/10.1016/j.actpsy.2022.103615. 
+Pascoe, C., Hetrick, S. E., & Parker, A. G. (2020). The impact of stress on students in secondary school 
+and higher education. International journal of adolescence and youth, 25(1), 104-112. 
+Prowse, R., Sherratt, F., Abizaid, A., Gabrys, R. L., Hellemans, K. G., Patterson, Z. R., & McQuaid, R. J. 
+(2021). Coping with the COVID -19 pandemic: examining gender differences in stress and 
+mental health among university students. Frontiers in psychiatry, 12, 650759. 
+Rahiman, H. U., Panakaje, N., Kulal, A., Harinakshi, & Parvin, S. M. R. (2023). Perceived Academic 
+Stress During a Pandemic: Mediating Role of Coping Strategies. Heliyon, 9(6). 
+Reda Ismail, M. (2022). The Impact of the Academic Overload on Students’ Wellbeing in 
+Secondary Schools in South Lebanon. International Journal of Education, Technology and 
+Science, 2(2), 181–212. 
+Ruddy, R., Audin, K., & Barkham, M. (2005). How to develop inter -organisational research 
+networks in mental health: A systematic review. Journal of Mental Health, 14, (1), 7–23). 
+Salari, N., Far, A., Jalali, R., Raygani, A., Mohammadi, M., Rasoul, S., & Paveh, B. (2020). Prevalence 
+of Stress, Anxiety, Depression among General Population during the COVID -19 Pandemic: 
+A Systematic Review and Meta-Analysis. Globalization and Health, 16(1). 
+Stafford, M., Kuh, D. L., Gale, C. R., Mishra, G., Richards, M., Stafford, M., Kuh, D. L., Gale, C. R., & 
+Mishra, G. (2016). Parent–child relationships and offspring’ s positive mental wellbeing from 
+adolescence to early older age. 9760. 
+Steare, T., Muñoz, C., Sullivan, A., & Lewis, G. (2023a). The Association between Academic Pressure 
+and Adolescent Mental Health Problems: A Systematic Review. Journal of Affective 
+Disorders, 339, 302–317. 
+Steare, T., Gutiérrez Muñoz, C., Sullivan, A., & Lewis, G. (2023b). The Association between 
+Academic Pressure and Adolescent Mental Health Problems: A Systematic Review. Journal 
+of Affective Disorders, 339(2023), 302–317.
+
+--- Page 13 --Kashif, Tabassum & Bibi … Effects Of Academic 
+Journal of Social Sciences Development, Volume 03, Issue 02, JUNE, 2024 182 
+Steare, T., Gutiérrez Muñoz, C., Sullivan, A., & Lewis, G. (2023c). The Association between 
+Academic Pressure Adolescent Mental Health Problems: A Systematic Review. MedRxiv, 
+1(2), 1–44. 
+Sutherland, P. L. (2018). The Impact of Mental Health Issues on Academic Achievement in High 
+School Students [Master Thesis, California State University, San Bernardino]. 
+https://scholarworks.lib.csusb.edu/etd. 
+Tran, N. T., Franzen, J., Jerman n, F., Rudaz, S., Bondolfi, G., & Ghisletta, P. (2022a). Psychological 
+Distress and Well-Being among Students of Health Disciplines in Geneva, Switzerland: The 
+Importance of Academic Satisfaction in the Context of Academic Year-End and COVID-19 
+Stress on their Learning Experience. PLoS ONE, 17(4 April), 1–13. 
+Urooj Azmat, D. Y. M., Muhammad Jamil. (2021). Private Tuition Academies and the Development 
+of Students’ Creative and Critical Skills: Perspectives of Academy Managers. International 
+Review of Social Sciences, 9(4), 277-288. 
+Von Keyserlingk, L., Yamaguch i‐Pedroza, K., Arum, R., & Eccles, J. S. (2022). Stress of university 
+students before and after campus closure in response to COVID ‐19. Journal of community 
+psychology, 50(1), 285-301. 
+Wang, L., García, V., Ren, F., & Liu, T. (2022a). The Influence of Col lege Students’ Academic 
+Stressors on Mental Health during COVID -19: The Mediating Effect of Social Support, 
+Social Well-Being, and Self-Identity. Frontiers in Public Health, 1–13. 
+World Health Organization. (2022, June 8). Mental Disorders. WHO? 
+Yang, Y., & Yang, P. (2022). Effect of College Students’ Academic Stress on Anxiety Under the 
+Background of the Normalization of COVID -19 Pandemic: The Mediating and Moderating 
+Effects of Psychological Capital. Frontiers in Psychology, 13.

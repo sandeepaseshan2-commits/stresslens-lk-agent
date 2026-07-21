@@ -1,0 +1,486 @@
+--- Page 1 ---
+~ 241 ~ 
+International Journal of Research in Human Resource Management 2025; 7(1): 241-246 
+ 
+ 
+E-ISSN: 2663-3361 
+P-ISSN: 2663-3213 
+IJRHRM 2025; 7(1): 241-246 
+www.humanresourcejournal.com 
+Received: 24-01-2025 
+Accepted: 28-02-2025 
+ 
+Manya Nangia 
+Jesus And Mary College, 
+University of Delhi, Delhi, 
+India 
+ 
+Nandini Garg 
+Jesus And Mary College, 
+University of Delhi, Delhi, 
+India 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Corresponding Author: 
+Manya Nangia 
+Jesus And Mary College, 
+University of Delhi, Delhi, 
+India 
+ 
+Internship stress in students 
+ 
+Manya Nangia and Nandini Garg 
+ 
+DOI: https://www.doi.org/10.33545/26633213.2025.v7.i1c.275 
+ 
+Abstract 
+Internships are a crucial stepping stone in professional development, but they often expose interns to 
+significant stress. This study examines stressors in online and offline internship settings, drawing on 
+survey data from 200 participants. Key findings r eveal that tight deadlines, heavy workloads, and 
+financial challenges are the most common stressors, with offline interns additionally burdened by 
+travel-related issues. Stress manifests in emotional, behavioral, and physical ways, such as reduced 
+productivity and mood swings. The study emphasizes the need for improved support systems to 
+mitigate these stressors and enhance the internship experience, fostering both intern well -being and 
+career success. 
+ 
+Keywords: Internship stress, online internships, offline internships, stressors 
+ 
+Introduction 
+Stress is a widespread concern that imp acts individuals across various professional 
+environments, often leading to negative effects on both mental and physical health. Interns, 
+who occupy a unique position as learners and contributors within workplaces, are 
+particularly vulnerable to stress due to the dual demands of acquiring new skills and meeting 
+professional expectations. As internships play a critical role in career development, 
+understanding and addressing the factors contributing to intern stress is essential for ensuring 
+their well-being and productivity. 
+Despite the increasing importance of internships, limited research has specifically focused on 
+the stress experienced by interns, particularly in comparing in -office and remote internship 
+setups. Existing studies predominantly center on employees in general, leaving the unique 
+challenges faced by interns underexplored. Factors such as workload, financial challenges, 
+interpersonal relationships, and the specific conditions of internship environments (e.g., 
+online versus offline) can signif icantly influence stress levels, yet these remain inadequately 
+studied. 
+This research aims to bridge this gap by examining the primary stressors encountered by 
+interns and comparing their manifestations and impacts in online and offline settings. By 
+analyzing these stressors and their effects, the study seeks to provide actionable insights for 
+developing more supportive systems and strategies, ultimately enhancing the overall 
+internship experience and contributing to interns’ personal and professional growt h. 
+ 
+Background and Motivation 
+Stress is a common issue affecting individuals in a variety of professional contexts, with 
+notable impacts on both physical and mental health. Interns, who must juggle the demands of 
+learning and working simultaneously, are particularly vulnerable to stress. Despite growing 
+recognition of this problem, there is limited research specifically examining the effects of 
+stress on interns, especially when comparing in -office and remote internships. Most studies 
+focus on employees in general, neglecting the distinct challenges interns face. This study 
+seeks to address this gap by investigating the causes of stress among interns and comparing 
+how stress manifests in both online and offline settings. 
+The motivation behind this research arises from both personal experiences and broader 
+societal concerns. With internships playing an increasingly vital role in career development, 
+it is crucial to understand the stressors interns encounter for their overal l well -being and 
+success. This study seeks to identify and address these stress factors, aiming to improve 
+support systems for interns. By comparing stress effects across different internship settings,
+
+--- Page 2 --International Journal of Research in Human Resource Management https://www.humanresourcejournal.com 
+~ 242 ~ 
+the research aspires to contribute to better stress 
+management strategies, enhancing the internship experience 
+for future participants. 
+ 
+Review of Literature 
+The study of Christopher Mensah, Edem M. Azila -Gbettor, 
+Melody Enyonam Appietu & Judith Semefa Agbodza, 
+explores stress experiences among Hospita lity and 
+Marketing students during internships and examines stress's 
+impact on internship satisfaction and turnover intentions. A 
+principal component analysis (PCA) on 43 stress factors 
+was conducted with 4 major latent dimensions as 
+alienation/disregard, financial challenges, interpersonal 
+issues, and workload. The findings underscore the need for 
+financial support, improved working conditions, and 
+structured support systems for interns to enhance their 
+productivity and overall internship experience. 
+The s tudy further uncovered that Hospitality students 
+experienced significantly more stressors than Marketing 
+students due to the strict and demanding nature of the 
+hospitality jobs. 
+Additionally, the study found that stress negatively 
+influenced internship sa tisfaction and increased turnover 
+intentions. In conclusion, the paper suggests Universities 
+and industries should collaborate to develop appropriate 
+compensation packages, including insurance and stipends, 
+to support and incentivize interns and Efforts sh ould be 
+made to minimize workplace stressors by specifying 
+working hours and work tasks before the start of internships 
+to provide a clear framework. 
+The research conducted by T. P. LAM, J. G. W. S. WONG, 
+MARY S.M. IP, K. F. LAM & S. L. PANG , adopts both 
+qualitative and quantitative methods to investigate stressors 
+faced by medical interns. As part of the qualitative method, 
+23 medical interns were invited for interviews and for the 
+quantitative method, a questionnaire survey was distributed 
+among 155 med ical interns which employed the DASS -21 
+tool. According to the questionnaire, the primary sources of 
+stress identified were workload and long working hours 
+while Focus group interviews highlighted issues such as 
+frequent night time calls and the demanding nature of 
+extended work hours as major contributors to stress. The 
+focus group interviews also discussed major stress relieving 
+methods which included taking holidays, peer support, and 
+adequate sleep. To conclude with, the authors suggested 
+implementation of non -stigmatizing and accessible mental 
+health services, along with workplace stress reduction 
+measures, in order to support medical interns in their 
+formative years. 
+Study by Stefanie E. Mayer, Nestor L. Lopez -Duran, Srijan 
+Sen and James L. Abelson explored the relationship 
+between chronic stress, hair cortisol levels, and depressive 
+symptoms among medical interns throughout their 
+internship year. The study revealed that both hair cortisol 
+levels and depressive symptoms increased with the onset of 
+the internship however both had different dimensions of 
+stress responsivity. On one hand where depressive 
+symptoms were closely related to external demands and 
+subjective stress perceptions, such as increased work hours, 
+reduced sleep, and perceived stress, in contrast, hair cortisol 
+responses were more likely influenced by factors like 
+anticipation, novelty, and social -evaluative threats. Thus, 
+concluding that hair cortisol levels did not correlate with 
+depressive symptoms. The paper ends with highlighting the 
+scope of future research related to stress exposure and 
+advancement and hair cortisol measurement. 
+The study by Wang, Chiang, and Lee (2014) examines the 
+significant impact of stress on internship students, 
+particularly culinary interns, and its implicati ons for their 
+future professional success and well -being. Culinary 
+internships provide practical experience and skill 
+development but also expose students to stress influenced 
+by interpersonal relationships, workload pressure, and the 
+work environment. A q uantitative analysis was conducted 
+using data from 120 culinary students who have completed 
+or are undergoing internships in the Klang Valley area. Data 
+were collected through self -administered questionnaires 
+based on students' actual experiences. The stud y highlights 
+that interpersonal relationships, workload pressure, and the 
+work environment are significant contributors to job stress 
+among culinary interns. Understanding these factors is 
+essential for developing strategies to improve the internship 
+experience and support students' well -being and 
+professional growth. 
+The research conducted by Edem M. Azila -Gbettor, 
+Ernestina Atsu, and Abigail Nana Konadu Quarshie 
+examines the interplay between job stress, job involvement, 
+and perceived coworker sup port among tertiary interns. 
+Internships, while crucial for skill development and 
+employability, can induce significant job stress, negatively 
+affecting job involvement. The study employs Social 
+Capital Theory (SCT), which posits that social networks 
+provide valuable resources. Coworker support, as social 
+capital, can mitigate the negative impacts of job stress on 
+job involvement. 
+In a study by E. Hannan, N. Breslin, E. Doherty, M. 
+McGreal, D. Moneley, and G. Offiah , 101 interns across 
+four Irish hospitals were surveyed over two years. The 
+anonymous survey gathered demographic information and 
+assessed mental health using the Maslach Burnout Inventory 
+(MBI), a stress scale, and the 12 -item General Health 
+Questionnaire (GHQ -12). The results revealed that 37% o f 
+interns were experiencing psychological distress. High 
+levels of emotional exhaustion (55.4%), depersonalization 
+(51.5%), and a low sense of personal accomplishment 
+(41.6%) were reported. Key stressors included insufficient 
+clinical preparation, financia l issues, ambiguous role 
+definitions, and sleep deprivation. Many interns were not 
+aware of available support services and showed a desire to 
+leave Ireland after their internship. Addressing burnout and 
+stress is crucial, with improved clinical preparation and 
+increased awareness of support services being essential to 
+mitigate these issues. 
+ 
+Methodology 
+The methodology of this study was carefully structured to 
+comprehensively assess the perceived stressors among 
+students across different educational levels. A cross sectional survey approach was employed, comprising two 
+distinct sections to gather relevant data. 
+In this study, we collected data from a total of 200 
+respondents. In the first section, the survey collected basic 
+socio-demographic information from participants, including 
+gender, university affiliation, year of study, and program of 
+study. This section also gathered details about the 
+participants' educational background, specifically whether 
+they were from schooling institutions or pursuing 
+undergraduate or postgraduate degrees. The second section
+
+--- Page 3 --International Journal of Research in Human Resource Management https://www.humanresourcejournal.com 
+~ 243 ~ 
+of the survey focused on the specific stressors experienc ed 
+by students. Participants were asked to report on 10 distinct 
+stressors that they might have faced during their studies, 
+such as workload, interpersonal conflicts, and financial 
+challenges. Additionally, this section included questions 
+designed to captu re the effects and outcomes associated 
+with these stressors, such as emotional, physical, and 
+academic impacts. By systematically collecting data on both 
+the presence of stressors and their perceived effects, the 
+study aimed to provide a nuanced understand ing of how 
+different stress factors influence student well -being across 
+various educational stages. 
+Descriptive statistics were employed to detail the profile of 
+respondents and to provide an overview of their stress 
+experiences. This analysis offered a cl ear picture of the 
+demographic and educational backgrounds of the 
+participants, as well as a summary of the various stressors 
+they encountered. Exploratory factor analysis was utilized to 
+identify and understand the underlying dimensions of the 
+stressors, allowing for a deeper insight into the patterns and 
+relationships among the different stress factors. This 
+approach provided a comprehensive understanding of the 
+stress landscape among students, highlighting key areas of 
+concern that may require further attention. 
+ 
+Theory 
+Reasons for stress 
+ 
+ 
+ 
+Interns often face substantial stress, which can significantly 
+affect their mental health. This stress contributes to 
+increased levels of anxiety and depression, highlighting the 
+need for effective support systems. One of the study's 
+objectives was to identify the primary stressors that students 
+encounter during their internships. 
+A list of 10 perceived stressors was circulated in the form of 
+a questionnaire among subjects, along with an "others" 
+option, to gain insights on the stressors faced by interns in 
+both online and offline internships. 
+As per Table 1, the findings reveal that “work assigned”, 
+“meeting deadlines” were the two major reasons for stress 
+according to the respondents. Whereas “Unpaid internship” 
+and “Rejected leaves” were the least expected stress factors. 
+ 
+Table 1: Perceived Stressors in Internships 
+ 
+Reasons for stress Count Percentage Z-Statistics P-Value 
+Meeting deadlines 83 22% 1.474 0.14 
+Work assigned 114 30% 2.419 0.016 
+Poor interpersonal relationship with colleagues 34 9% -0.019 0.985 
+Group pressure 18 5% -0.507 0.612 
+Lack of career development 31 8% -0.111 0.912 
+Travelling time (if offline) 29 8% -0.172 0.864 
+Unsatisfactory pay scale (if paid) 29 8% -0.172 0.864 
+Travelling expenses (if offline) 31 8% -0.111 0.912 
+Rejected leaves 7 2% -0.842 0.4 
+No Stipend 1 0% -1.025 0.305 
+None 4 1% -0.934 0.35 
+ 
+The study categorized the perceived stressors faced by 
+interns into four primary areas: alienation/disregard (3 
+items), financial challenges (4 items), interpersonal issues (2 
+items), and workload-related pressures (3 items). By 
+applying Principal Component Analysis (PCA), specific 
+stress factors within each category were identified and were 
+quantified through eigenvalues and principal component 
+(PC) scores. The workload cate gory emerged as the most 
+significant, with "work assigned" and "meeting deadlines" 
+showing the highest PC values, indicating their substantial 
+impact on overall stress levels. Financial challenges, such as 
+inadequate pay and travel -related expenses, were a lso 
+prominent, particularly for offline internships. 
+Table 2 presents a summary of the Principal Component 
+Analysis (PCA) results, including the principal component 
+(PC) values and corresponding eigenvalues for each
+
+--- Page 4 --International Journal of Research in Human Resource Management https://www.humanresourcejournal.com 
+~ 244 ~ 
+identified stress factor. The eigenvalu es indicate the 
+variance explained by each component, with higher 
+eigenvalues representing components that account for a 
+larger portion of the total variance. The PC values highlight 
+the relative weight of each stressor within its category, 
+identifying key factors that contribute most significantly to 
+overall stress levels. 
+ 
+Table 2: Presents a summary of the Principal Component Analysis (PCA) results 
+ 
+Variable PC Value Eigenvalue 
+Factor 1: Alienation/Disregard 1.5 
+Group pressure 0.78 
+Rejected leaves 0.69 
+Being ignored or disregarded at the workplace 0.72 
+Factor 2: Financial Challenges 1.8 
+Unsatisfactory pay scale (if paid) 0.91 
+Travelling time (if offline) 0.88 
+Travelling expenses (if offline) 0.86 
+No stipend 0.79 
+Factor 3: Interpersonal 1.3 
+Poor interpersonal relationships with colleagues 0.82 
+Group pressure 0.76 
+Factor 4: Workload 2.1 
+Meeting deadlines 0.94 
+Work assigned 0.98 
+Lack of career development 0.85 
+ 
+Effects of stress 
+ 
+ 
+ 
+Stress can manifest in a variety of ways, impacting 
+individuals across multiple dimensions. It is universally 
+recognized that every life event elicits a unique response or 
+change in individuals. Interns demonstrate a spectrum of 
+reactions to various situat ions, with stress manifesting in 
+physical, mental, or combined forms. Notably, the same 
+scenario can induce varying levels of stress among different 
+individuals. 
+A questionnaire detailing 9 possible effects of stress, along 
+with a "none" option, was circ ulated to gather insights on 
+the stress experienced by interns in both online and offline 
+internships. Respondents were permitted to choose more 
+than one option. 
+ 
+Table 3: Reduction in productivity" and "Backaches/headaches/eye strain 
+ 
+Effects of stress Count Percentage 
+Emotional and Psychological 31% 
+Mood swings 48 12% 
+Anger 41 10% 
+Lower emotional well being 37 9% 
+Behavioral and Performance 36% 
+Fidgeting 20 5% 
+Reduction in productivity 77 19% 
+Changes in eating habits 50 12% 
+Physical 29% 
+Backaches/headaches/eye strain etc. 75 19% 
+Sleep disorders 40 10% 
+None 17 4%
+
+--- Page 5 --International Journal of Research in Human Resource Management https://www.humanresourcejournal.com 
+~ 245 ~ 
+As per Table 3, research reveals that "Reduction in 
+productivity" and "Backaches/headaches/eye strain, etc." are 
+the primary stressors reported by interns, each affecting 
+19% of respondents. 
+Effects such as "Fidgeting" and "Lower emotional well being" are reported by fewer respondents making them the 
+minor effects of stress. The fact that only 4% of respondents 
+selected "None" indicates that stress is a prevalent issue 
+among interns, with 96% experiencing at least one of the 
+listed effects. 
+As per Table 3, the effects of stress can generally be 
+categorized into physical, emotional/psychological, and 
+behavioral effects. 
+ 
+ 
+ 
+Stress has a profound effect on mental and emotional wellbeing, influencing mood, cognitive abilities, and overall 
+psychological health. The study indicates that 31% of 
+interns experience emotional and psychological stress, 
+manifesting as mood swings, anger, and reduced emotional 
+availability. Those under s tress frequently encounter 
+irritability, frustration, and heightened sensitivity to anger or 
+sadness, making it challenging to regulate their emotions. 
+In response to stress, individuals often alter their behavior in 
+an attempt to cope, with these changes potentially being 
+either adaptive or maladaptive, depending on their impact 
+on health and well -being. Notably, 36% of respondents 
+report experiencing behavioral stress , including fidgeting, 
+reduced productivity, and changes in eating habits. Stress 
+can le ad to significant alterations in appetite, resulting in 
+overeating (commonly known as "stress eating") or 
+undereating, which may cause weight fluctuations and 
+potentially contribute to eating disorders. Stress also often 
+leads to procrastination, as people may avoid tasks or 
+responsibilities, thereby increasing stress as these tasks 
+accumulate. Additionally, some individuals develop nervous 
+habits like nail -biting, foot -tapping, or fidgeting, which 
+often serve as unconscious outlets for stress and anxiety. 
+Physiologically, stress triggers a range of physical 
+symptoms as the body responds to stressors. According to 
+the research, 29% of respondents report experiencing 
+physical stress, such as sleep disorders, backaches, 
+headaches, and eye strain. 
+Recognizing these three categories of stress effects —
+physical, emotional/psychological, and behavioral —offers a 
+thorough understanding of how stress permeates various 
+aspects of an individual's life. This highlights the 
+multifaceted nature of stress and emphasizes th e importance 
+of effective stress management for maintaining overall 
+health and well-being.
+
+--- Page 6 --International Journal of Research in Human Resource Management https://www.humanresourcejournal.com 
+~ 246 ~ 
+Conclusion 
+The study highlights the intricate stress -related issues that 
+interns encounter in both online and offline settings, 
+underscoring the pressing need for customized solutions to 
+lessen their detrimental impacts. Tight deadlines, severe 
+workloads, financial hardships, and travel -related problems 
+are major stressors; offline internships present additional 
+logistical obstacles. The results demonstrate tha t stress has a 
+substantial negative emotional, physical, and behavioral 
+impact on interns, which lowers their general well-being and 
+productivity. 
+Since internships are crucial for job advancement, 
+institutions and organizations should set up robust suppo rt 
+networks. These could offer financial assistance, mental 
+health resources, open lines of communication on 
+expectations, and flexible scheduling to meet the individual 
+requirements of interns. Interpersonal tension can be 
+decreased and the internship exp erience can be enhanced by 
+creating a friendly atmosphere through peer participation 
+and sympathetic supervisors. 
+ 
+References 
+1. https://www.researchgate.net/profile/GozieOffiah/publication/320283251_Burnout_and_stress_am
+ongst_interns_in_Irish_hospitals_contributing_factors_
+and_potential_solutions/links/5cbed361a6fdcc1d49a87a
+4a/Burnout-and-stress-amongst-interns-in-Irishhospitals-contributing-factors-and-potentialsolutions.pdf 
+2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC59246
+46/ 
+3. https://www.tandfonline.com/doi/pdf/10.3109/0142159
+0903449894 
+4. https://www.researchgate.net/publication/363100565_J
+ob_stress_and_job_involvement_among_tertiary_intern
+s_the_buffering_role_of_perceived_coworker_support 
+5. https://link.springer.com/article/10.1007/BF02596188

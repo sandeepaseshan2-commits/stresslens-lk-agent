@@ -1,0 +1,1142 @@
+--- Page 1 --Cogent Education
+ISSN: 2331-186X (Online) Journal homepage: www.tandfonline.com/journals/oaed20
+Academic stress as a predictor of mental health in
+university students
+Pamela Córdova Olivera, Patricia Gasser Gordillo, Hernán Naranjo Mejía,
+Isabel La Fuente Taborga, Alberto Grajeda Chacón & Alberto Sanjinés
+Unzueta
+To cite this article: Pamela Córdova Olivera, Patricia Gasser Gordillo, Hernán Naranjo Mejía,
+Isabel La Fuente Taborga, Alberto Grajeda Chacón & Alberto Sanjinés Unzueta (2023) Academic
+stress as a predictor of mental health in university students, Cogent Education, 10:2, 2232686,
+DOI: 10.1080/2331186X.2023.2232686
+To link to this article: https://doi.org/10.1080/2331186X.2023.2232686
+© 2023 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group.
+Published online: 06 Jul 2023.
+Submit your article to this journal 
+Article views: 140142
+View related articles 
+View Crossmark data
+Citing articles: 85 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=oaed20
+
+--- Page 2 --EDUCATIONAL PSYCHOLOGY & COUNSELLING | RESEARCH ARTICLE
+Academic stress as a predictor of mental health 
+in university students
+Pamela Córdova Olivera
+1
+* , Patricia Gasser Gordillo
+2
+, Hernán Naranjo Mejía
+3
+, 
+Isabel La Fuente Taborga
+2
+, Alberto Grajeda Chacón
+4 
+and Alberto Sanjinés Unzueta
+5
+Abstract: Identifying the relationship between academic stress and mental health 
+of undergraduate university students is crucial for reducing and understanding its 
+negative effects, enhancing students’ ability to cope with stressful situations, and 
+thereby reducing the harm it causes on academic performance and overall wellbeing. This study aims to examine the correlation and predictive value of academic 
+stress on mental health in undergraduate university students. A representative 
+sample of 1,265 undergraduate university students from a private university in 
+ABOUT THE AUTHORS 
+Pamela Córdova Olivera, expert in Health 
+Economics and Impact Evaluation, holds a PhD 
+in Economics from UPB. She is a professor, 
+researcher and Head of the Economics program 
+at UPB. 
+Patricia Gasser Gordillo, in Social Psychology 
+from Universidad Complutense de Madrid, Spain; 
+directed the Organizational Psychology program 
+at UPB and, currently, conducts research on 
+mental health and emotional states. 
+Hernán Naranjo Mejía, professor and researcher 
+in the Data Analysis Unit for Innovation and 
+Academic Quality at UPB, is a doctoral candidate 
+in the field of Agri-food Economics at the 
+Universitat Politècnica de València, Spain. 
+Isabel La Fuente Taborga is a researcher, pro fessor and Head of Organizational Psychology 
+program at UPB. Expert in Organizational 
+Psychology and Human Talent Management, she 
+holds a PhD from Universidad Complutense de 
+Madrid, Spain. 
+Alberto Grájeda Chacón, PhD in Business 
+Innovation from the Universitat Politècnica de 
+València, Spain; leads the Center for Innovation 
+in Information Technology for Education at UPB. 
+His expertise lies in the effective implementation 
+of educational tools utilizing TIC. 
+Alberto Sanjinés Unzueta, expert in Business 
+Ethics, Compliance, and Social Responsibility; 
+holds a PhD in Business Administration from 
+UPB, Bolivia. He is the Academic Vice President 
+at UPB, leading the process of academic and 
+tech-ed innovation. 
+PUBLIC INTEREST STATEMENT 
+This study examines the correlation between 
+academic stress and mental health in university 
+students. Through analysis of a sample of 1,265 
+students, the study reveals that high levels of 
+academic stress, particularly self-inflicted stress, 
+increase the probability of experiencing 
+Languishing Mental Health. The findings underline 
+the significance of identifying stressors and 
+implementing educational programs to prevent 
+the negative impact of stress on mental health. 
+Additionally, students need to develop coping 
+mechanisms to manage stressful situations in 
+academic environments. The research has signif icant implications for universities and policy makers as it provides insight into the specific 
+stressors that affect students and the measures 
+that can be taken to mitigate their effects. 
+Ultimately, the study aims to enhance mental 
+health and academic performance among uni versity students.
+Córdova Olivera et al., Cogent Education (2023), 10: 2232686
+https://doi.org/10.1080/2331186X.2023.2232686
+Page 1 of 19
+Received: 22 June 2022 
+Accepted: 26 June 2023
+*Corresponding author: Pamela 
+Córdova Olivera, Center for Research 
+in Economics and Entrepreneurial 
+Sciences, Universidad Privada 
+Boliviana, Cochabamba, Bolivia 
+E-mail: pcordova@upb.edu
+Reviewing editor: 
+Richard Kruk, Psychology, University 
+of Manitoba, Canada 
+Additional information is available at 
+the end of the article
+© 2023 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group. 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution 
+License ( http://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, distribu tion, and reproduction in any medium, provided the original work is properly cited. The terms on 
+which this article has been published allow the posting of the Accepted Manuscript in 
+a repository by the author(s) or with their consent.
+
+--- Page 3 --Bolivia was assessed using Pearson’s correlation analysis to determine the predic tive value of academic stress on mental health. To validate the measurements 
+obtained, a stepwise Hierarchical Multiple Linear Regression analysis was applied. 
+A probability model was estimated to identify academic stressors that contribute to 
+the probability of students experiencing Languishing Mental Health. The study 
+revealed that Self-inflicted Stress was the most significant stressor among under graduate students. This indicates that students’ self-demands and self-efficacy 
+perceptions are essential factors in the development of high academic stress levels. 
+There is a clear correlation between high levels of academic stress and the prob ability of experiencing Languishing Mental Health.
+Subjects: Educational Psychology; Mental Health; Study of Higher Education; Educational 
+Research; Education & Training 
+Keywords: academic stress; mental health; Languishing Mental Health; Self-inflicted 
+Stress
+1. Introduction
+Stress is a ubiquitous phenomenon in daily life that results from a natural physiological and 
+psychological response of the body to situations perceived as challenging or threatening, acting 
+as a catalyst to confront and resolve problems. However, excessive exposure to it can have 
+detrimental long-term physical and mental effects (Flórez & Sánchez, 2020 ).
+In recent years, numerous studies have demonstrated that chronic stress, when sustained for 
+extended periods, can trigger anxiety disorders, depression, and other mental health issues. 
+O’Connor et al. ( 2021 ) found that chronic stress can have adverse effects on cognitive functioning, 
+emotional regulation, and overall quality of life. Furthermore, emerging research, such as that 
+conducted by Mariotti ( 2015 ) suggested that chronic stress can increase the likelihood of devel oping psychiatric disorders among susceptible individuals.
+The findings of stress studies emphasize the importance of addressing stress as a critical factor 
+in promoting mental health by comprehending the biological mechanisms underlying stress. Dai 
+et al. ( 2020 ) conducted research revealing that chronic stress can activate a sequence of neuro biological responses, including the hypothalamic-pituitary-adrenal axis and cortisol release. 
+Prolonged exposure to cortisol, a hormone released in response to stress, can negatively impact 
+the hippocampus, a crucial brain structure involved in emotional regulation and memory proces sing. These findings provide a biological foundation for understanding the connection between 
+chronic stress and mental health disorders.
+There are several classifications of stress, each based on distinct aspects associated with it. The 
+academic stress is distinguished as a type of situational stress that arises in the educational 
+context and is related to the demands and requirements of the academic environment, among 
+others. Barbayannis et al. ( 2022 ) note that academic stress can manifest in the form of anxiety, 
+depression, and emotional exhaustion, which can negatively affect students’ psychological wellbeing. Additionally, recent studies such as Espinosa et al. ( 2020 ), showed that academic stress can 
+have harmful consequences on students’ performance, motivation, and self-esteem.
+The context of higher education represents a stressful scenario for students who, in addition to 
+academic aspects, must face the transition from high school to university, which entails additional 
+challenges such as adapting to new lifestyles, high competitiveness, changes in the environment, 
+and the initiation of new relationships in an unfamiliar context. High social expectations about the 
+future can contribute to increased academic stress. Authors such as Bashir et al. ( 2019 ), Wang 
+Córdova Olivera et al., Cogent Education (2023), 10: 2232686 
+https://doi.org/10.1080/2331186X.2023.2232686
+Page 2 of 19
+
+--- Page 4 --et al. ( 2023 ) and Guzmán et al. ( 2023 ) addressed this topic in recent publications, mentioning that 
+the university environment involves a series of changes that students must adapt to, including an 
+accelerated pace of study, deadlines for assignments and projects, and more in-depth coverage of 
+topics, which can significantly impact students’ mental health.
+When students begin university, they are faced with a multitude of scheduled tasks, the need to 
+familiarize themselves and interact with new people in their academic environment, and a much 
+higher level of demand compared to their previous years of education, including different work 
+rhythms, schedules, and academic processes. All these factors create considerable pressure for 
+students, who must balance their academic and personal responsibilities while adapting and 
+growing in this new educational environment. A study by Bashir et al. ( 2019 ) examined academic 
+stress in university students and found that high expectations from professors and competition 
+among peers can increase stress in the university environment. The study points out that stress 
+can have negative effects on overall well-being, affecting students’ mental and physical health.
+In addition, university students often face the pressure of making important decisions for their 
+future, such as choosing a career or planning their professional path, and this uncertainty can 
+generate additional anxiety and stress (Guzmán et al., 2023 ). Another stress-generating aspect is 
+the pressure to excel academically and stand out in a highly competitive environment, which 
+creates a constant sense of comparison and self-criticism. Students may experience the so-called 
+“imposter syndrome,” where they doubt their abilities and feel that they do not deserve to be in 
+university. This can generate emotional stress and affect their self-confidence (Cokley et al., 2017 ).
+Exposure to peers and other students can also create pressure, as entering university involves 
+a process of social adaptation. Students find themselves in an environment where they must 
+establish new relationships and social networks, which can generate social anxiety due to the need 
+to be accepted into a new group of peers and participate in extracurricular activities. Wang et al. 
+( 2023 ) explored social stress in university students and found that a lack of social coping skills and 
+a sense of isolation can contribute to the social stress experienced during university life.
+In addition to academic and social factors, other aspects outside of university life can also 
+contribute to stress. For example, many university students must deal with financial pressure, both 
+their own and their parents’, as well as the cost of studying, which can generate additional stress 
+as they try to balance studying and finding income to cover tuition, housing, food, and other 
+related expenses, especially among those who have migrated to study. McCloud and Bann ( 2019 ) 
+examined the impact of financial stress on the mental health of university students and found that 
+stress related to finances can have negative effects on the mental well-being of the students, 
+increasing anxiety and depression.
+In this context, after COVID-19 pandemic was declared in 2020 added a new and unpredictable 
+stressful situation that caused an unprecedented crisis, with education being one of the most 
+affected areas since face-to-face educational activities were prohibited at all levels. According to 
+the Economic Commission for Latin America and the Caribbean ECLAC ( 2020 ), more than 190 
+countries closed their educational establishments during the first semester of 2020 to prevent the 
+spread of the virus and mitigate its impact. As a result, over 1.2 billion students of all levels were 
+without access to face-to-face education. Data from the United Nations Educational, Scientific and 
+Cultural Organization, International Institute for Higher Education in Latin America and the 
+Caribbean reports that by the end of March 2020, more than 98% of the students in Latin 
+America and the Caribbean from International Standard Classification of Education 5 to 8 levels 
+were affected (Giannini, 2020 ).
+To address this situation, a radical turn towards virtual teaching and learning modality, which 
+existed for more than ten years but was not widely applied, was taken. Both teachers and students 
+had to adapt to new conditions such as online classes, papers, and tests to continue their learning 
+Córdova Olivera et al., Cogent Education (2023), 10: 2232686 
+https://doi.org/10.1080/2331186X.2023.2232686 
+Page 3 of 19
+
+--- Page 5 --process (Bautista et al., 2020 ). Strong changes were made in life habits, having to reorganize their 
+daily routines to adjust themselves.
+Universities that had to migrate to a completely virtual education in 2020 need to adapt their 
+academic model to ensure the health and well-being of the students, provide timely administrative 
+service to clients, and ensure and improve academic quality. The academic model presented in 
+Figure 1 was institutionalized in various universities, taking different names depending on the 
+institution: hybrid, multimodal, flexible, blended; but with many coincidences.
+According to Agyeiwaah et al. ( 2022 ), students were given the opportunity to attend classes 
+either in one of the modalities or a mix of them. These new models required efforts at various 
+levels: i) intensive training of teachers in the use of information and communication technology for 
+education, such as video conferencing tools, Learning Management Systems, survey systems, 
+gamification, active methodologies, etc.; ii) selection of academic subjects that required face-toface interaction, such as specialized laboratories, taking into account the relationship between the 
+modality of the subject and the teaching competence; and iii) equipment and infrastructure 
+adapted to allow the functioning of the hybrid model.
+Initially temporary changes lasted longer than planned, with measures forbidding face-to-face 
+lectures remaining in place for almost two across various countries worldwide. During this time, 
+the lack of social contact, changes in socialization routines, and deprivation of extra-academic 
+activities, among other factors, affected the psycho-emotional state of university students. This is 
+because their educational process is not solely based on the learning of theoretical and practical 
+knowledge but also on professional social interaction and the development of group ties. The 
+isolation inevitably associated with confinement will have effects in terms of socio-emotional 
+balance that will leave a mark, as emergency distance education has been accompanied by 
+other manifestations, which are not less important for the different actors, although probably 
+not very visible and documented (ECLAC, 2020 ).
+Under these circumstances, it is crucial to measure the academic stress experienced by uni versity students and its influence on their mental health. Stress can be defined as the relationship 
+between the individual and their environment, in which the person perceives environmental 
+demands as a threat to their well-being if they exceed or equal their resources to cope with 
+them (Lazarus & Folkman, 2013 ). Academic stress, according to Lin and Chen ( 2009 ), is the product 
+of perceptions, frustrations, or problems related to the academic environment that result in the 
+inability to adjust to the university requirements, leading to conflicting physical and mental 
+Figure 1. Academic model: 
+Hybrid model.
+Córdova Olivera et al., Cogent Education (2023), 10: 2232686 
+https://doi.org/10.1080/2331186X.2023.2232686
+Page 4 of 19
+
+--- Page 6 --phenomena. The most common stressors in this area are Teachers’ Stress, Results Stress, Test 
+Stress, Studying in Groups Stress, Peer Stress, Time Management Stress, and Self-inflicted Stress.
+The effects of stress, regardless of the factor that generates it, can impact physiological, 
+emotional, cognitive, and behavioral levels (Barraza & Silerio, 2007 ). Therefore, it is crucial to 
+measure its impact on mental health. Mental health is a term that has been conceptualized, 
+measured, and studied based on the concept of well-being (Ryff, 1989 ), which is defined as 
+individuals’ perception and subjective assessment of their lives (Keyes et al., 2008 ). Mental health 
+is understood as a series of subjective factors such as thoughts, emotions, and beliefs that, if 
+positive, produce positive functioning and functional contextual adaptation capacity in individuals. 
+In this sense, mental health does not only involve the measurement of a single factor, but rather 
+of several dimensions that condition it, according to the Mental Health Continuum Short Form 
+(MHC-SF) (Keyes et al., 2008 ) used in this study, mental health is based on three general dimen sions or areas: emotional, psychological and social well-being, which together determine the 
+individual’s mental health.
+In this context, the present study aimed to understand the relationship between academic 
+stress and the mental health of university students in the new social and learning environment 
+resulting from the COVID-19 pandemic. The research sought to answer the question of how 
+academic stress affects the mental health of university students. The main objective was to 
+evaluate the correlation and predictive value between academic stress and its different stressors 
+on the mental health of university students. The study had three specific objectives: i) to measure 
+the level of academic stress and its associated stressors (as mentioned above) in university 
+students; ii) to evaluate the level of mental health in university students; and iii) to determine 
+the relationship between academic stress and mental health in university students. The study also 
+proposed the following hypotheses: a) University students encountered high levels of academic 
+stress; b) The mental health levels of the students were languishing or moderate; and c) Academic 
+stress had a correlation with languishing and moderate levels of mental health. Among the 
+academic stressors, Result Stress, Test Stress, and Time Management Stress were identified as 
+having the strongest association with mental health.
+A representative sample of 1,265 undergraduate university students from a private university in 
+Bolivia was assessed. Correlational analysis, stepwise Hierarchical Multiple Linear Regression 
+analysis, and estimation of a probabilistic model of Languishing Mental Health were performed.
+2. Materials and methods
+2.1. Research design
+The study adopted an ex post facto design as data on the level of academic stress and mental 
+health of the students were collected after they had experienced these situations. Therefore, 
+participants were not randomly assigned to experimental or control groups, but their condition 
+was observed and measured using appropriate instruments for this study. The objective was to 
+analyze the relationship between academic stressors and mental health of undergraduate uni versity students.
+2.2. Population and sampling
+A cross-sectional, descriptive, relational, and analytical study was conducted during the second 
+semester of 2021, with undergraduate students from all programs and faculties of a private 
+university in Bolivia. The total number of enrolled students was 3,309, with 55.7% men, 44.3% 
+women, and a mean age of 21 years. The sample size was calculated by considering the three 
+university campuses as strata and faculties as clusters. The resulting total was a required sample 
+of 1,060 students, with a 95% confidence level and an initial sampling error of 5%.
+Córdova Olivera et al., Cogent Education (2023), 10: 2232686 
+https://doi.org/10.1080/2331186X.2023.2232686 
+Page 5 of 19
+
+--- Page 7 --The study managed to obtain voluntary responses from 1,265 undergraduate university students 
+(38% of total student population), surpassing the established sample size calculation. An invitation 
+with a link to the questionnaires was sent to all students enrolled to conduct a full coverage study 
+(census). Previous studies showed that not everyone responded to the invitation. Therefore, it was 
+considered that those who responded to the questionnaires did so spontaneously, and the choice 
+to respond or not was considered a random factor.
+The response rate to the questionnaires was representative of the university’s overall student 
+population, as well as segmented by campus, gender, faculty, and semester. At a general level 
+throughout the university, the sampling error was calculated to be 3%. Additionally, it was possible 
+to calculate the sampling error at the campus, gender, faculty, and semester levels, which did not 
+exceed 7%.
+2.3. Procedures
+The questionnaires selected to determine academic stress and mental health were translated into 
+Spanish and incorporated as components in a digital survey form for this study. A platform 
+developed by the university in 2017, was utilized for this purpose. This platform is fully integrated 
+with the university academic system database and aimed to enable teachers to generate surveys 
+in their assigned subjects so that students could access them, thereby achieving better interaction 
+between teachers and students.
+The digital survey form was prepared in October 2021 and was validated for content, length, and 
+language translation through a pilot test with university students. This test allowed for corrections, 
+especially in the Spanish language translation of questions, to make them clearer. This resulted in 
+the final version of the survey form being ready for implementation.
+With the data collection tools ready, support was requested from university authorities to 
+distribute the questionnaires to all students at each its campuses. The academic authorities 
+reviewed the questionnaires and requested approval from the Ethics in Research Committee of 
+the University to administer them to the students.
+The university’s ethics committee reviewed the survey and concluded that the research did not 
+incorporate an experimental approach at any of its stages. The purpose was simply to observe and 
+measure specific characteristics of the study subjects without implicitly or explicitly seeking to 
+modify their behavior, actions, or interpretation of reality. Furthermore, since the questionnaires 
+were completely anonymous and students could voluntarily respond to them, the ethics commit tee approved the work, as the identity of respondents was guaranteed.
+Once the ethics committee approval was obtained, university authorities approved the ques tionnaires to be shared with students throughout the university via a link in an official email, 
+requesting voluntary support from students. The data collection officially started on 
+27 October 2021, and lasted until the end of the second semester of 2021, before the students’ 
+vacation.
+The survey responses were downloaded into an Excel format database, which was then reviewed 
+and transformed into STATA 17 format for econometric analysis.
+2.4. Measurements
+The instrument used in this study to measure mental health were the Mental Health 
+Continuum-Short Form (MHC-SF). This 14-item questionnaire (Keyes, 2002 , 2005 , 2006 ; Keyes 
+et al., 2008 ) assesses mental health across three dimensions: a) Emotional Well-being (positive 
+affect and life satisfaction); b) Social Well-being (including acceptance, actualization, social 
+contribution, coherence, and social integration); and c) Psychological Well-being (autonomy, 
+control, personal growth, positive relationships, self-acceptance, and purpose) (Ryff, 1989 ). The 
+Córdova Olivera et al., Cogent Education (2023), 10: 2232686 
+https://doi.org/10.1080/2331186X.2023.2232686
+Page 6 of 19
+
+--- Page 8 --MHC-SF has demonstrated strong internal consistency with a Cronbach’s alpha above 0.70 
+(Keyes et al., 2008 ), and its three-factor structure (emotional, psychological, and social) has 
+been confirmed in several studies (Gallagher et al., 2009 ; Góngora & Castro, 2018 ; Joshanloo 
+et al., 2013 ; Lamers et al., 2010 ).
+To measure academic stress and its stressors, this research employed the Lin and Chen ( 2009 ) 
+scale, which comprises seven academic stressors: Teachers’ Stress (TES), Results Stress (RS), Test 
+Stress (TS), Stress of Studying in a Group (SGS), Peer Stress (PS), Time Management Stress (TMS), 
+and Self-inflicted Stress (SIS). The questionnaire consisted of 34 five-point Likert scale statements, 
+with responses ranging from 5 (completely agree) to 1 (completely disagree). The Cronbach 
+reliability test and alpha values for each of the questionnaire’s components or factors ranged 
+from 0.85–0.92, and the alpha value of the academic stress questionnaire was 0.90 (Lin & Chen, 
+2009 ). The K Pearson’s correlation analysis indicated a significant level of related coefficients 
+between the components and the total score, ranging from 0.63–0.86.
+2.5. Data analysis
+The quantitative analysis of the data generated in this study required the application of three 
+statistical and econometric techniques: Pearson correlation, Hierarchical Multiple Linear 
+Regression (HMLR) analysis, and a probability model—Probit. These techniques provided 
+a comprehensive understanding of the relationship between academic stressors and mental 
+health.
+Pearson correlation is a statistical measure that evaluates the linear relationship, strength, and 
+direction between two quantitative variables. It is an important tool in research and descriptive 
+statistics, as it can help to understand the relationships between variables and identify patterns 
+of behavior in data. This measure varies from −1 to 1, where −1 indicates a perfect negative 
+relationship, 0 indicates no correlation, and 1 indicates a perfect positive relationship 
+(Bolshakova, 2021 ). Pearson correlation was used to determine the strength and direction of 
+the relationship between academic stressors and the mental health in university students. 
+However, as correlation does not necessarily indicate causality, we also conducted an HMLR 
+analysis.
+HMLR is a statistical technique that allows for the examination of the relationship between 
+a dependent variable and multiple independent variables while controlling for other factors that 
+could influence the relationship (Petrocelli, 2003 ). In this study, the dependent variable was mental 
+health, while the independent variables were different academic stressors. The HMLR analysis was 
+conducted by introducing the measurement equation with a significance level of p < 0.05. The inde pendent variables (academic stressors) were organized in the equation based on the percentage of 
+explained variance. This allowed us to identify the unique contributions of each academic stressor to 
+mental health outcomes while controlling for other factors that could influence the relationship.
+Probability model—Probit is a technique used to examine the relationship between the levels of 
+academic stressors and languishing mental health. The Probit model allowed us to determine the 
+coefficients of the levels of academic stressors and predict the probability that a student would 
+experience Languishing Mental Health, treated as a binary variable that took the value of 1 when 
+an individual had Languishing Mental Health, and 0 otherwise (Greene, 1996 ). This enabled us to 
+identify the academic stressors and their levels that contribute to Languishing Mental Health, 
+which could be used to develop interventions aimed at addressing these factors and improving 
+mental health outcomes.
+In summary, the combination of techniques provided a comprehensive understanding of the 
+relationship between academic stress and mental health.
+Córdova Olivera et al., Cogent Education (2023), 10: 2232686 
+https://doi.org/10.1080/2331186X.2023.2232686 
+Page 7 of 19
+
+--- Page 9 --3. Results
+3.1. Descriptive statistics and correlations
+To conduct this study, a total of 1,265 students from a private university in Bolivia completed the 
+questionnaires developed specifically for this purpose. Of these, 615 (48.6%) were female and 650 
+(51.4%) were male, with an age range of 17 to 31 years and a mean age of 21.68 (±2.04) years. 
+Table 1 presents the means and standard deviations of the variables analyzed in this study. 
+Academic stress, with its seven analyzed stressors (TES—Teachers’ Stress, RS—Results Stress, TS 
+—Test Stress, SGS—Studying in Groups Stress, PS—Peer Stress, TMS—Time Management Stress, 
+and SIS—Self-inflicted Stress), had a mean of 2.67 points with a standard deviation of 0.69 points, 
+and no outliers were detected. The mental health variable had a mean of 2.14 points with 
+a standard deviation of 0.69 points, and no significant presence of outliers was detected.
+The descriptive analysis of mental health, based on the present levels, showed that 18.1% (229) 
+of the students presented Languishing Mental Health, 49.8% (630) presented moderate levels 
+(Moderate Mental Health), and 32.1% (406) presented high levels of mental health (Flourishing 
+Mental Health). After analyzing the stressors of academic stress, 14.3% (181) exhibited high levels 
+of TES, 15.7% (198) experienced RS, 44.7% (565) underwent TS, 13.8% (174) experienced SGS, 8.3% 
+(105) experienced PS, 26.7% (338) experienced TMS, and 22.4% (283) experienced SIS. The break down and description of this data are displayed in Table 2 .
+As observed in the distribution table, among university students, mental health showed 
+a predominantly moderate trend (49.8%), and the primary academic stressors were related to 
+TS (44.7%), TMS (26.7%), and SIS (22.4%). The latter was defined as the self-demands resulting 
+from contextual elements concerning one’s expectations. This factor was associated with stu dents’ belief in successfully coping with academic demands, which was an eminently subjective 
+factor influenced by their beliefs, perceptions, and feelings regarding their abilities to handle the 
+context.
+3.2. Predictive value of academic stress about mental health
+The study analyzed the predictive value of academic stress on mental health, and the results are 
+presented in Table 3 . The analysis showed significant negative correlations between all academic 
+stressors and mental health levels, with (r) larger than 0.20 as an absolute value. Among the 
+academic stressors, TES ( r ¼ 0 : 24 ; p < 0 : 01) and PS ( r ¼ 0 : 24 ; p < 0 : 01) showed weak negative 
+correlations, followed by TS ( r ¼ 0 : 27 ; p < 0 : 01), RS ( r ¼ 0 : 33 ; p < 0 : 01), SGS 
+Table 1. Mean and standard deviations for mental health and stressors of academic stress
+Variables Mean SD
+Academic Stressors
+TES 2.72 0.71
+RS 2.47 0.97
+TS 3.20 1.00
+SGS 2.60 0.81
+PS 2.21 0.81
+TMS 2.83 1.04
+SIS 2.65 0.93
+Mental Health
+MH 2.14 0.69
+Notes: TES=Teachers’ Stress, RS=Results Stress, TS=Test Stress, SGS=Studying in Groups Stress, PS=Peer Stress, 
+TMS=Time Management Stress, SIS=Self-inflicted Stress, MH=Mental Health. 
+Córdova Olivera et al., Cogent Education (2023), 10: 2232686 
+https://doi.org/10.1080/2331186X.2023.2232686
+Page 8 of 19
+
+--- Page 10 --Table 2. Distribution of mental health levels according to stressors of academic stress in 
+undergraduate students from a private university in Bolivia, 2021
+Academic 
+Stressors
+Levels Levels of Mental Health
+Languishing Moderate Flourishing
+Fx Fx Fx
+% % %
+TES Low 51 241 223
+4.0% 19.1% 17.6%
+Medium 117 310 142
+9.2% 24.5% 11.2%
+High 61 79 41
+4.8% 6.2% 3.2%
+RS Low 73 324 305
+5.8% 25.6% 24.1%
+Medium 73 218 74
+5.8% 17.2% 5.8%
+High 83 88 27
+6.6% 7.0% 2.1%
+TS Low 13 124 144
+1.0% 9.8% 11.4%
+Medium 64 226 129
+5.1% 17.9% 10.2%
+High 152 280 133
+12.0% 22.1% 10.5%
+SGS Low 68 252 268
+5.4% 19.9% 21.2%
+Medium 91 285 127
+7.2% 22.5% 10.0%
+High 70 93 11
+5.5% 7.4% 0.9%
+PS Low 105 358 315
+8.3% 28.3% 24.9%
+Medium 87 219 76
+6.88% 17.31% 6.01%
+High 37 53 15
+2.9% 4.2% 1.2%
+TMS Low 39 207 249
+3.1% 16.4% 19.7%
+Medium 70 255 107
+5.5% 20.2% 8.5%
+High 120 168 50
+9.5% 13.3% 4.0%
+( Continued )
+Córdova Olivera et al., Cogent Education (2023), 10: 2232686 
+https://doi.org/10.1080/2331186X.2023.2232686 
+Page 9 of 19
+
+--- Page 11 ---
+( r ¼ 0 : 33 ; p < 0 : 01), and TMS ( r ¼ 0 : 37 ; p < 0 : 01). The SIS had a moderate negative correla tion ( r ¼ 0 : 42 ; p < 0 : 01).
+Additionally, a HMLR analysis was performed, and the results are presented in Table 4 . The 
+analysis showed that the stressors of SIS, TMS, SGS, and RS met the predictive criteria with 
+a significant value ( R
+2
+¼ 0 : 304 ; F ¼ 116 : 96 ; p < 0 : 01). SIS had the strongest correlation according 
+to the adjusted R
+2 
+( R
+2
+¼ 0 : 238 ; F ¼ 342 : 62 ; p < 0 : 01). The introduction of TMS, SGS, and RS stressors 
+increased the prediction by 6.60%, while the other stressors were excluded due to their insignif icant correlation. The analysis revealed a significant increase in the explanation of the academic 
+stress and mental health among university students. The additional predictive value, when entered 
+the SIS equation, was related to the TMS, SGS, and RS ( p < 0 : 01) stressors.
+The estimated models did not present any problems of heteroscedasticity in the residuals (Ho: 
+Constant variance, chi square ¼ 0 : 00 ; p ¼ 0 : 96), high collinearity between regressors (variance 
+enlargement factor -VIF- not greater than 1.85), and no omitted relevant variables at 95% 
+Table 2. ( Continued ) 
+Academic 
+Stressors
+Levels Levels of Mental Health
+Languishing Moderate Flourishing
+Fx Fx Fx
+% % %
+SIS Low 34 214 269
+2.7% 16.9% 21.3%
+Medium 79 283 103
+6.2% 22.4% 8.1%
+High 116 133 34
+9.2% 10.5% 2.7%
+Notes: TES=Teachers’ Stress, RS=Results Stress, TS=Test Stress, SGS=Studying in Groups Stress, PS=Peer Stress, 
+TMS=Time Management Stress, SIS=Self-inflicted Stress. 
+Fx=Frequency. 
+%=Percentage. 
+Table 3. Matrix of correlation coefficients (r) between the mental health levels and stressors 
+of academic stress in undergraduate students from a private university in Bolivia, 2021
+MH TES RS TS SGS PS TMS SIS
+MH —
+TES −0.24*** —
+RS −0.33*** 0.36*** —
+TS −0.27*** 0.50*** 0.42*** —
+SGS −0.33*** 0.38*** 0.28*** 0.38*** —
+PS −0.24*** 0.40*** 0.36*** 0.37*** 0.47*** —
+TMS −0.37*** 0.42*** 0.42*** 0.46*** 0.35*** 0.39*** —
+SIS −0.42*** 0.52*** 0.56*** 0.50*** 0.42*** 0.45*** 0.56*** —
+Notes: MH=Mental Health, TES=Teachers’ Stress, RS=Results Stress, TS=Test Stress, SGS=Studying in Groups Stress, 
+PS=Peer Stress, TMS=Time Management Stress, SIS=Self-inflicted Stress. 
+***p <0.01 (significant at 99% confidence). 
+Córdova Olivera et al., Cogent Education (2023), 10: 2232686 
+https://doi.org/10.1080/2331186X.2023.2232686
+Page 10 of 19
+
+--- Page 12 --confidence (Ramsey test—RESET, Ho: the model has not omitted variables, F ¼ 0 : 63 ; p ¼ 0 : 60). In 
+conclusion, the final model was well-adjusted.
+Three dimensions of mental health were analyzed: psychological, emotional, and social wellbeing. The results showed that 26% of the variance in the Emotional Well-being dimension was 
+explained by five academic stressors, with SIS, TMS, RS, SGS, and PS being the most significant in 
+that order. In addition, 14.5% of the variance in the Social Well-being dimension was explained by 
+SIS, TMS, and SGS, while 30% of the variance in the Psychological Well-being dimension was 
+explained by SIS, TMS, SGS, and RS. The study findings suggest that the mental health of the 
+student population is related to subjective, psychological, emotional, and perceptual factors 
+regarding their ability to cope with academic and economic realities. Academic stressors for 
+these students are primarily psycho-emotional rather than operational, and subjective perceptions 
+play a crucial role in how students react to the academic environment.
+3.3. Probability model for Languishing Mental Health
+A probability model (probit) was estimated to analyze the probability of having Languishing Mental 
+Health, which was treated as a binary variable taking the value of 1 when an individual had 
+Languishing Mental Health and 0 otherwise (Moderate or Flourishing Mental Health). The Kruskal 
+Wallis Test showed statistically significant differences in the mean scores of each stressor of 
+academic stress, including TES (Teachers’ Stress), RS (Results Stress), TS (Test Stress), SGS 
+(Studying in Groups Stress), PS (Peer Stress), TMS (Time Management Stress), and SIS (Selfinflicted Stress) based on the level of mental health (Languishing, Moderate, and Flourishing 
+Mental Health). The pairwise comparisons for the Sidak, Bonferroni, and Scheffe post hoc tests 
+supported the results of the Kruskal Wallis Test and showed statistically significant differences in 
+the mean scores of each stressor of academic stress based on mental health level at a 99% 
+confidence level, favoring Flourishing Mental Health compared to Moderate Mental Health 
+( p < 0 : 01), Flourishing Mental Health compared to Languishing Mental Health ( p < 0 : 01), and 
+Moderate Mental Health compared to Languishing Mental Health ( p < 0 : 01). Figure 2 displayed 
+Table 4. Hierarchical multiple linear regression analysis of mental health on each stressor of 
+academic stress
+Mental 
+Health
+Beta t p>|t| R
+2
+F
+Model 1
+SIS −0.39*** −18.51 0.00 0.238 342.62
+Model 2
+SIS −0.27*** −10.03 0.00 0.266 196.04
+TMS −0.16*** −6.63 0.00
+Model 3
+SIS −0.19*** −6.74 0.00 0.299 151.84
+TMS −0.14*** −6.09 0.00
+SGS −0.20*** −7.30 0.00
+Model 4
+SIS −0.16*** −4.88 0.00 0.304 116.96
+TMS −0.13*** −5.60 0.00
+SGS −0.20*** −7.18 0.00
+RS −0.07*** −2.82 0.00
+Notes: SIS=Self-inflicted Stress, TMS=Time Management Stress, SGS=Studying in Groups Stress, RS=Results Stress. 
+Beta=Estimated coefficient, t=Values Student’s t-Distribution, R2= R-Squared, F= Values Snedecor-Fisher’s F distribution. 
+*** p < 0.01 (significant at 99% confidence). 
+Córdova Olivera et al., Cogent Education (2023), 10: 2232686 
+https://doi.org/10.1080/2331186X.2023.2232686 
+Page 11 of 19
+
+--- Page 13 --the Kernel density functions estimated for TES, RS, TS, SGS, PS, TMS, and SIS by mental health levels 
+(Languishing, Moderate, and Flourishing Mental Health), which confirmed the results of the Kruskal 
+Wallis Test, Sidak, Bonferroni, and Scheffe post hoc tests.
+Considering the statistically significant differences found in each mental health level according 
+to each stressor of academic stress, a probability model was estimated for Languishing Mental 
+Health to approximate the differences in the effects that the different stressors of academic stress 
+have on explaining the variance of mental health in the HMLR model, on the most worrying 
+(sensitive) level of mental health.
+Figure 2. Kernel density func tions estimated for academic 
+stressors by mental health 
+levels.
+Córdova Olivera et al., Cogent Education (2023), 10: 2232686 
+https://doi.org/10.1080/2331186X.2023.2232686
+Page 12 of 19
+
+--- Page 14 --The model presented a pseudo R
+2 
+of 0.15; however, other measures were used to check the fit of 
+the predicted values to the observed values, as the pseudo-McFadden R
+2 
+does not have a direct 
+interpretation. Among these measures were the Hosmer and Lemeshow test and the classification 
+table. The first indicated a p-value of 0.11, allowing us not to reject the null hypothesis that the 
+model is well-adjusted (Ho: The data are consistent with a specified distribution). The second 
+measure is the global classification rate, which measured the percentage of observations for which 
+the modeling was correctly predicted, showing a value of 82.92%.
+Table 5 presented the marginal effects of the different academic stressors on the probability 
+model estimated for the level of Languishing Mental Health. The results showed that if students 
+experienced medium levels of SIS, the probability of them experiencing Languishing Mental Health 
+was higher by 8 percentage points (pp) compared to students who had low SIS. Moreover, if they 
+experienced high SIS, the probability of them experiencing Languishing Mental Health was even 
+greater by 20pp compared to students who had low SIS. Similarly, for students who had high levels 
+of TMS, the probability of them experiencing Languishing Mental Health was greater by 11pp 
+compared to students who had low TMS. If they suffered from high levels of SGS, the probability 
+of them experiencing Languishing Mental Health was greater by 11pp compared to students who 
+had low SGS. Finally, if they suffered from high levels of RS, the probability of them experiencing 
+Languishing Mental Health was higher by 12pp compared to students who had low RS.
+Therefore, it was concluded that moderate academic stress can result in Languishing Mental 
+Health among university students, which is characterized by indicators of stress, depression, 
+anxiety, and other psycho-emotional conditions that could potentially affect their performance, 
+self-perception, and self-efficacy. The findings indicate that students who experience high levels of 
+SIS and poor TMS are more likely to have Languishing Mental Health. Additionally, Languishing 
+Mental Health can be associated with high levels of stress related to working in groups and 
+obtaining negative results in assignments.
+4. Discussion
+The results of the academic stress and mental health scales applied to the population sample 
+showed that academic stress in university students was predominantly linked to SIS. According to 
+Naranjo ( 2009 ), any situation that a person perceived as a demand or a threat requiring rapid 
+change produced stress, but not all situations, nor all stressors, were negative or had to carry 
+consequences. Thus, the impact of stress on mental health depended on how different situations 
+were perceived, producing different impacts.
+Table 5. Association between languishing mental health and levels of academic stressors
+Variable Marginal 
+Effects
+Std. Err. z p>z CI 95%
+SIS_Medium 0.08*** 0.03 2.48 0.01 0.02 0.14
+SIS_High 0.20*** 0.05 4.06 0.00 0.10 0.29
+TMS_ Medium 0.02 0.03 0.56 0.57 −0.04 0.07
+TMS_ High 0.11*** 0.04 2.87 0.00 0.03 0.18
+SGS_ Medium 0.01 0.02 0.41 0.68 −0.04 0.06
+SGS_ High 0.11*** 0.04 2.59 0.01 0.03 0.19
+RS_ Medium 0.02 0.03 0.69 0.49 −0.03 0.07
+RS_ High 0.12*** 0.04 2.97 0.00 0.04 0.20
+Notes: SIS=Self-inflicted Stress, TMS=Time Management Stress, SGS=Studying in Groups Stress, RS=Results Stress. 
+Std. Err.= Standard error, z=z-score, CI=Confidence Interval. 
+***p < 0.01 (significant at 99% confidence). 
+Córdova Olivera et al., Cogent Education (2023), 10: 2232686 
+https://doi.org/10.1080/2331186X.2023.2232686 
+Page 13 of 19
+
+--- Page 15 --This study had several strengths, including the wide representation of students based on sex, 
+age, semester, and faculty. In total, 38% of all enrolled students voluntarily completed the 
+questionnaire, which is more than other studies on academic stress, such as those conducted by 
+Restrepo et al. ( 2020 ), Luque et al. ( 2022 ), Micin and Bagladi ( 2011 ), Denovan et al. ( 2017 ), and 
+Kennett et al. ( 2020 ).
+The results of this study indicated that situations of high academic stress predicted a higher 
+probability of experiencing Languishing Mental Health, with stress generated by Self-inflicted 
+Stress being the most relevant factor among the students. This suggests that the self-demands 
+and perception of self-efficacy of the students are important factors in the appearance of high 
+stress, highlighting the direct relationship between high levels of academic stress and the like lihood of having Languishing Mental Health.
+In this way, the correlation results between stress factors and the mental health of university 
+students showed that academic stress was linked to self-generated stress, with a moderate 
+correlation, showing that self-demand in academic stressors, personal (and socio-family) expecta tions, regarding performance developed into the need to comply with what the student believed 
+was expected of them (even when this was not the case), causing continuous pressure (momen tary and prolonged in time) that would only be alleviated when it was considered that one’s own or 
+the environment’s expectations had been met, which responded to subjective components, since 
+they were not stated objectively, they did not generate a measurable data of scope or compliance. 
+This need to respond to subjective, own, or environmental demands could lead to a constant 
+feeling of dissatisfaction or failure since they were linked to self-perception of sufficiency, beliefs 
+about oneself being able to respond to the situations of the environment, and to mental schemes 
+about one’s abilities, such as being good, successful, unsuccessful, or useless (Álvarez et al., 2018 ).
+According to Martínez and Díaz ( 2007 ), stress is strongly influenced by individuals’ subjective beliefs 
+about the demands placed on them and their capacity for understanding and control. If the evaluation 
+of these beliefs is negative, it can generate stress and have a negative impact on mental health. 
+Recent research supports this idea, highlighting that the way people interpret and evaluate stressful 
+situations, as well as their beliefs about coping capacity, are important factors in the experience of 
+stress and its impact on mental health (Rodríguez & Sánchez, 2022 ). Therefore, these subjective beliefs 
+about the self and the potential response to environmental demands would generate stress if the 
+evaluation is negative, consequently also leading to lower levels of mental health.
+It is evident from the present study that stress variables generated by objective factors such as 
+evaluations, academic results, teachers, and peers, as well as studying in groups, have only a weak 
+correlation with mental health. This finding contrasts with other studies like Ramírez et al. ( 2015 ) 
+and Berrio and Mazo ( 2011 ) that have identified task overload, evaluations, time management, 
+group competitiveness, conflict between classmates, and evaluations as the main academic 
+stressors in university populations. However, it is important to consider that the pandemic situa tion and the virtualization of classes may have influenced the results. In this regard, case studies 
+conducted during 2021, such as Restrepo et al. ( 2020 ) and Luque et al. ( 2022 ), have also found 
+that academic stress in students during the pandemic is linked to task overload, time manage ment, evaluations, job type, and participation in virtual classes.
+The study conducted by Silva et al. ( 2020 ) revealed that the academic stressors of greatest 
+concern during the pandemic were task overload, evaluations, assignments, and time constraints, 
+which were not observed in the population studied in this research. The data from this study 
+indicated that the mental health of the students is linked to academic stress, which can be 
+predicted by Self-inflicted Stress associated with personal, family, and social expectations. These 
+self-demands are related to the perception of sufficiency in the face of social and academic 
+demands, which are subjective factors associated with beliefs about one’s capacity to respond 
+to environmental demands (Chacón et al., 2019 ).
+Córdova Olivera et al., Cogent Education (2023), 10: 2232686 
+https://doi.org/10.1080/2331186X.2023.2232686
+Page 14 of 19
+
+--- Page 16 --The difference in results could be attributed to contextual factors specific to the Bolivian 
+environment or peculiarities of the study population. Our study was conducted in a private 
+university, where the tuition fees are much higher than those of public universities, and during 
+a pandemic when the economic crisis was at its peak. Furthermore, majority of the university 
+students (57% of the total number of enrolled students) were beneficiaries of some form of 
+scholarship before and during the pandemic.
+This particular context could lead students to perceive a need for extra effort and dedication to 
+maintain a high academic level in order to keep their financial support through scholarships and to 
+acknowledge their family’s efforts to cover the fees to study at a private university, which could 
+result in Self-inflicted Stress affecting the mental health of this population. On the other hand, the 
+study results also suggest that this Self-inflicted Stress is related to time management, the feeling 
+of insufficiency to meet deadlines for assignment delivery, or the belief that it will not be possible 
+to complete said assignments within the established period. These stressors could be related to 
+the educational model of the institution, as the subjects are modular, meaning 24 continuous 
+sessions (Monday to Friday) with assignments delivery and tests every eight days.
+As evidenced by the results, one factor that was found to be correlated with mental health is group 
+studying. The items evaluated in this indicator dealt with sharing group assignments and the challenge 
+of finding suitable colleagues to work with. This may be since control over the time required to complete 
+the work is distributed among the members of the group, and therefore, each member may feel anxious 
+that their colleague will not deliver the work on time, resulting in poor academic results. Additionally, this 
+indicator measures subjective variables such as fear of being mocked by peers, feeling hurt by it, feeling 
+nervous when speaking in public, and the perception of hostility and distrust towards others, which may 
+be exacerbated in a virtual learning environment. It is noteworthy that many of the students have been 
+taking virtual classes for two years, never having met their classmates or teachers in person, with only 
+a screen separating them. Various authors have also highlighted the significance of human relationships 
+as a central cause of stress, given the human need for affection and a sense of belonging.
+The study population’s academic stress factors were found to be associated with non-objective 
+elements, specifically subjective beliefs about their abilities to cope with the demands of the 
+context, and control over contingent elements. Within the studied university system, most assign ments were group-based, and individual students did not always have control over the entire work 
+process. This lack of control, coupled with a lack of trust in their classmates’ ways of working and 
+the quality of their work, could be a major source of stress.
+In this way, the mental health of the studied population is linked to subjective, psychological, 
+emotional, and above all, perceptual variables regarding their abilities to react to academic reality 
+and family economic reality. This means that academic stress for these students is more psychoe motional than operational, more subjective than linked to objective variables, and therefore, the 
+impact it generates at a psychoemotional level is related to how the student perceives themselves 
+in terms of their possibilities for action in the environment.
+It is interesting to note that the study found the opposite of the results obtained in the study 
+conducted by Restrepo et al. ( 2020 ). While they assumed that academic stress was determined by 
+objective conditions, our research provided evidence to the contrary, showing that stress is 
+primarily influenced by the individual’s subjective perception of their ability to cope with academic 
+demands (such as self-demand, beliefs of self-sufficiency, perception of self-efficacy, and personal 
+expectations), as well as the need to depend on group study to achieve positive academic out comes. This indicates that the process of academic stress in this context can be addressed from 
+a cognitive-behavioral perspective, as opposed to other studies that point to external factors as 
+stressors for students.
+Córdova Olivera et al., Cogent Education (2023), 10: 2232686 
+https://doi.org/10.1080/2331186X.2023.2232686 
+Page 15 of 19
+
+--- Page 17 --From an academic perspective, both teachers and students have had to adapt to virtual educa tion, changing their habits, routines, and even the way in which teachers teach and students learn. 
+This shift to virtual and subsequently hybrid learning has had an impact on the results presented in 
+our research, as students have had to exert more effort to adapt to studying at home, in 
+environments that are sometimes shared with their entire family, and in many cases where they 
+have had to share technological resources with parents and siblings (Ariyo et al., 2022 ). All of this 
+has required an additional self-learning effort on the part of the students, as noted by Pardeshi 
+et al. ( 2022 ), who found that self-learning was one of the factors that negatively affected learning 
+during the COVID-19 pandemic, as students had to complete homework, tests, and group work to 
+maintain and improve their grades.
+The relationship between the incidence of academic stress and students’ mental health indicates the 
+importance of the academic environment and related experiences on students’ psychological, emo tional and social well-being. The dimensions that show a greater connection with mental health are 
+psychological and emotional well-being, suggesting that the possibility of positive functioning is 
+mediated by the way in which the person lives that stress experience, by the individual coping capacity 
+and the perception of personal self-efficacy (Díaz et al., 2006 ). Considering that the greatest stressor is 
+the one generated by oneself, it can be inferred that the negative perception of the students about their 
+abilities to respond to the demands of the academic environment puts pressure on students who have 
+high levels of self-demand, personal or socio-family expectations (real or imaginary) that condition their 
+functionality. This can generate poor adaptation to the demands, dynamics, and academic processes.
+Therefore, the need to respond to subjective demands from the environment, and particularly 
+from oneself, can lead to a constant feeling of dissatisfaction or even failure based on equally 
+subjective aspects of self-assessment. These are linked to the self-perception of sufficiency and 
+mental schemas about one’s abilities, such as being good, successful, unsuccessful, or useless.
+The stressors of time management and group work, in this research show an important relation ship with the e-learning teaching model. Due to the lack of separation between home and 
+university, many students were unable to manage their time as effectively as before, as noted 
+by Heo et al. ( 2021 ), where time management plays a crucial role in the success of online learning. 
+In addition, effective communication plays a vital role in promoting positive virtual learning 
+(Penrod et al., 2022 ), and the communication between teachers and students and among students 
+themselves was not as smooth as it was in face-to-face classes. The quarantines during 2020 and 
+2021 made group sessions and coordination more challenging for students, as a result, the 
+stressor related to group management is evident in our research.
+5. Limitations
+The study had certain limitations that needed to be considered when interpreting the results, 
+primarily due to the presence of other factors that could have influenced mental health and 
+academic stress at the time of questionnaire completion. For instance, social, economic, and 
+cultural factors that were not assessed in this study could have had an impact.
+The study acknowledged specific limitations that should be taken into consideration when 
+interpreting the results. Firstly, it should be noted that the study focused on a private university, 
+where students faced particular social, cultural, and economic conditions. These conditions may 
+have significantly differed from those of the students at a public university, which could have 
+influenced the results obtained and made it challenging to generalize the findings. Another 
+limitation to consider was the virtual modality imposed by the Ministry of Education regulations. 
+The shift to the virtual teaching-learning environment, inherent in the pandemic situation, intro duced new conditions that may have added pressure on students. Finally, adapting to online 
+teaching could have influenced active participation, interaction with teachers and classmates, 
+and potentially affected the academic stress levels of students.
+Córdova Olivera et al., Cogent Education (2023), 10: 2232686 
+https://doi.org/10.1080/2331186X.2023.2232686
+Page 16 of 19
+
+--- Page 18 --6. Conclusions and implications
+This study found that Self-inflicted Stress, time management stress, group work stress, and 
+performance stress were predictors of mental health, supporting the hypothesis that there is 
+a negative relationship between academic stress and the mental health of university students. 
+Identifying specific stressors can help reduce and understand the impact of stress on mental 
+health, mitigate its damage, and lessen its negative impact on academic performance. 
+Implementing educational programs to prevent stress and its negative effects can enhance 
+students’ ability to cope with stressful situations.
+Additionally, the results of the stepwise Hierarchical Multiple Linear Regression analysis showed 
+a relationship between academic stressors and the level of mental health in university students. 
+Some situations had a greater impact on the overall level of academic stress than others, with selfgenerated stress being the most relevant stressor among the students in this research. This 
+suggests that students with lower self-efficacy and high demands and expectations regarding 
+their academic results and performance tend to perceive the academic environment as threaten ing. This could be due to having less confidence in their abilities or not trusting the work of their 
+classmates, particularly in group projects. The study also found a significant association between 
+the level of Languishing Mental Health and academic stressors (SIS, TMS, SGS, and RS). Therefore, 
+greater attention should be paid to this population of students, as high academic stressors predict 
+a higher probability of experiencing Languishing Mental Health.
+The findings of this study on academic stress in university students and its impact on mental health 
+have relevant practical implications. First, it is important to focus on the virtual teaching/learning 
+modality, which requires rethinking the model and implementing support strategies and intervention 
+programs aimed at managing stress in the academic environment, particularly in the virtual modality. 
+It is essential to foster healthy university environments that promote the mental well-being of the 
+students, whether virtual or face-to-face. This could include initiatives such as better planning of 
+activities and work presentations, creating rest intervals during classes, implementing relaxation 
+spaces, sports or recreational activities, and promoting an adequate balance between academic 
+work and other activities of student life. Workshops on stress management and coping techniques, 
+time management, and self-perception of efficacy in relation to academic processes are also neces sary. Finally, the study’s results emphasize the need to raise awareness among teachers and academic 
+staff about the impact of stress on students’ mental health, train teachers to recognize the signs of 
+stress, and adapt teaching methodologies to reduce the academic load.
+Future studies can be developed based on the findings of this research, focused on comparative 
+analysis in a post-pandemic context and complemented by measuring and identifying students’ 
+emotions in the classroom.
+Author details
+Pamela Córdova Olivera
+1 
+E-mail: pcordova@upb.edu 
+ORCID ID: http://orcid.org/0000-0002-8644-3157 
+Patricia Gasser Gordillo
+2 
+Hernán Naranjo Mejía
+3 
+Isabel La Fuente Taborga
+2 
+Alberto Grajeda Chacón
+4 
+Alberto Sanjinés Unzueta
+5 
+1 
+Center for Research in Economics and Entrepreneurial 
+Sciences, Universidad Privada Boliviana, Cochabamba, 
+Bolivia. 
+2 
+Department of Organizational Psychology, Universidad 
+Privada Boliviana, Cochabamba, Bolivia. 
+3 
+Data Analysis Center for Innovation and Academic 
+Quality, Universidad Privada Boliviana, Cochabamba, 
+Bolivia. 
+4 
+Research Center for Innovation in Information 
+Technology for Education, Universidad Privada Boliviana, 
+Cochabamba, Bolivia. 
+5 
+Department of Academic, Academic Vice President, 
+Universidad Privada Boliviana, Cochabamba, Bolivia. 
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+Authors’ contributions
+In the study, Pamela Córdova, Patricia Gasser, and 
+Alberto Sanjinés contributed to its conception and 
+design. Hernán Naranjo and Pamela Córdova oversaw 
+the process of data collection, database development, 
+and data processing and analysis. Patricia Gasser, Isabel 
+La Fuente, and Alberto Grájeda contributed to data 
+interpretation. The manuscript draft was written by 
+Pamela Córdova, Patricia Gasser, and Isabel La Fuente, 
+while Hernán Naranjo, Alberto Grájeda, and Alberto 
+Sanjinés reviewed and revised the draft. All authors 
+participated in reading the final manuscript and 
+approved its submission.
+Córdova Olivera et al., Cogent Education (2023), 10: 2232686 
+https://doi.org/10.1080/2331186X.2023.2232686 
+Page 17 of 19
+
+--- Page 19 --Availability of data and materials
+The datasets generated and analyzed during the current 
+study are not publicly available due to privacy restrictions 
+but are available from the corresponding author on rea sonable request. The data that can be provided will be 
+provided in a de-identified manner.
+Ethical approval
+The Ethics in Research Committee of the University 
+approved this study, and an ethical exemption letter was 
+issued. The identity of all participants has been 
+anonymized.
+Citation information 
+Cite this article as: Academic stress as a predictor of 
+mental health in university students, Pamela Córdova 
+Olivera, Patricia Gasser Gordillo, Hernán Naranjo Mejía, 
+Isabel La Fuente Taborga, Alberto Grajeda Chacón & 
+Alberto Sanjinés Unzueta , Cogent Education (2023), 10: 
+2232686.
+References
+Agyeiwaah, E., Badu, F., Gamor, E., & Hsu, F. C. ( 2022 ). 
+Determining the attributes that influence students’ 
+online learning satisfaction during COVID-19 pan demic. Journal of Hospitality, Leisure, Sport & Tourism 
+Education , 30 , 100364. https://doi.org/10.1016/j. 
+jhlste.2021.100364
+Álvarez, L. A., Gallegos, R. M., & Herrera, P. S. ( 2018 ). 
+Estrés académico en estudiantes de tecnología 
+superior. Universitas , 28 (28), 193–209. https://doi.org/ 
+10.17163/uni.n28.2018.10
+Ariyo, E., Amurtiya, M., Lydia, O. Y., Oludare, A., 
+Ololade, O., Taiwo, A. P., Olukemi, L. A., & Ogunniyi, D. 
+( 2022 ). Socio-demographic determinants of children 
+home learning experiences during COVID-19 school 
+closure. International Journal of Educational Research 
+Open , 3 , 100111. https://doi.org/10.1016/j.ijedro. 
+2021.100111
+Barbayannis, G., Bandari, M., Zheng, X., Baquerizo, H., 
+Pecor, K. W., & Ming, X. ( 2022 ). Academic stress and 
+mental well-being in college students: Correlations, 
+affected groups, and COVID-19. Frontiers in 
+Psychology , 13 , 13. https://doi.org/10.3389/fpsyg. 
+2022.886344
+Barraza, A., & Silerio, J. ( 2007 ). El estrés académico en los 
+alumnos de educación media superior. Un estudio 
+comparativo. Investigación Educativa Duranguense , 
+7 , 48–65. https://dialnet.unirioja.es/servlet/articulo? 
+codigo=2358918
+Bashir, A., Amir, A., & Bajwa, K. M. ( 2019 ). An investi gation of stressors among university students: 
+A qualitative approach. UCP Management Review , 3 
+(1), 5–24.
+Bautista, I., Carrera, G., León, E., & Laverde, D. ( 2020 ). 
+Evaluación de satisfacción de los estudiantes sobre 
+las clases virtuales. Minerva , 1 (2), 5–12. https://doi. 
+org/10.47460/minerva.v1i2.6
+Berrio, N., & Mazo, R. ( 2011 ). Estrés Académico. Revista De 
+Psicología Universidad De Antioquia , 3 (2), 55–82. 
+https://revistas.udea.edu.co/index.php/psicologia/arti 
+cle/view/11369
+Bolshakova, L. V. ( 2021 ). Correlation and regression ana lysis of economic problems. Revista Gestão Inovação 
+E Tecnologias , 11 (3), 2077–2088. https://doi.org/10. 
+47059/revistageintec.v11i3.2074
+Chacón, R., Olmedo, E. M., Lara, A. J., Zurita, F., & 
+Castro, M. ( 2019 ). Basic psychological needs, emo tional regulation and academic stress in university 
+students: A structural model according to branch of 
+knowledge. Studies in Higher Education , 46 (7), 
+1421–1435. https://doi.org/10.1080/03075079.2019. 
+1686610
+Cokley, K., Smith, L., Bernard, D., Hurst, A., Jackson, S., 
+Stone, S., Awosogba, O., Saucer, C., Bailey, M., & 
+Roberts, D. ( 2017 ). Impostor feelings as a moderator 
+and mediator of the relationship between perceived 
+discrimination and mental health among racial/eth nic minority college students. Journal of Counseling 
+Psychology , 64 (2), 141–154. https://doi.org/10.1037/ 
+cou0000198
+Dai, S., Mo, Y., Wang, Y., Xiang, B., Liao, Q., Zhou, M., Li, X., 
+Li, Y., Xiong, W., Li, G., Guo, C., & Zeng, Z. ( 2020 ). 
+Chronic stress promotes cancer development. 
+Frontiers in Oncology , 10 , 10. https://doi.org/10.3389/ 
+fonc.2020.01492
+Denovan, A., Dagnall, N., Dhingra, K., & Grogan, S. ( 2017 ). 
+Evaluating the perceived stress scale among UK uni versity students: Implications for stress measure ment and management. Studies in Higher Education , 
+44 (1), 120–133. https://doi.org/10.1080/03075079. 
+2017.1340445
+Díaz, D., Rodríguez, R., Blanco, A., Moreno, B., Gallardo, I., 
+Valle, C., & Van Dierendonck, D. ( 2006 ). Adaptación 
+española de las escalas de bienestar psicológico de 
+Ryff. Psicothema , 18 (3), 572–577.
+ECLAC. ( 2020 ). La educación en tiempos de la pandemia 
+de COVID-19 . Santiago de Chile: CEPAL-UNESCO. 
+https://www.cepal.org/es/publicaciones/45904-laeducacion-tiempos-la-pandemia-covid-19
+Espinosa, J. F., Hernández, J., Rodríguez, J. E., 
+Maricarmen, C., & Bermúdez, V. ( 2020 ). Influencia del 
+estrés sobre el rendimiento académico. Archivos 
+venezolanos de farmacología y terapéutica , 39 (1), 
+63–69. https://doi.org/10.5281/zenodo.4065032
+Flórez, Y. N., & Sánchez, R. ( 2020 ). El Estrés Visto como 
+Reto o Amenaza y la Rumia. Factores de Riesgo a la 
+Salud. Revista Salud y Administración , 7 (20), 17–27. 
+https://revista.unsis.edu.mx/index.php/saludyadmon/ 
+article/view/182
+Gallagher, M. W., Lopez, S. J., & Preacher, K. J. ( 2009 ). The 
+hierarchical structure of well-being. Journal of 
+Personality , 77 (4), 1025–1050. https://doi.org/10. 
+1111/j.1467-6494.2009.00573.x
+Giannini, S. ( 2020 ). COVID-19 y educación superior: de los 
+efectos inmediatos al día después. Revista 
+Latinoamericana de Educación Comparada: RELEC , 11 
+(17), 1–57.
+Góngora, V., & Castro, A. ( 2018 ). Bienestar emocional, 
+psicológico y social y variables demográficas en 
+población adulta de la ciudad de Buenos Aires. 
+Revista psicodebate: psicología, cultura y sociedad , 18 
+(1), 72–83. https://doi.org/10.18682/pd.v18i1.740
+Greene, W. 1996 . Marginal effects in the bivariate probit 
+model. Working paper number 96 (11). Department of 
+Economics, Stem School of Business,
+Guzmán, E., Baeza, C. G., & Morales, M. ( 2023 ). Vivencias 
+académicas y salud mental en tres cohortes univer sitarias bajo emergencia COVID-19. Revista 
+Latinoamericana de Ciencias Sociales, Niñez 
+y Juventud , 21 (2), 1–22. https://doi.org/10.11600/ 
+rlcsnj.21.2.5841
+Heo, H., Bonk, C. J., & Doo, M. Y. ( 2021 ). Enhancing learn ing engagement during COVID -19 pandemic: Selfefficacy in time management, technology use, and 
+online learning environments. Journal of Computer 
+Assisted Learning , 37 (6), 1640–1652. https://doi.org/ 
+10.1111/jcal.12603
+Joshanloo, M., Lepshokova, Z. K., Panyusheva, T., Natalia, A., 
+Poon, W. C., Yeung, V. W. L., Sundaram, S., Achoui, M., 
+Asano, R., Igarashi, T., Tsukamoto, S., Rizwan, M., 
+Khilji, I. A., Ferreira, M. C., Pang, J. S., Ho, L. S., Han, G., 
+Córdova Olivera et al., Cogent Education (2023), 10: 2232686 
+https://doi.org/10.1080/2331186X.2023.2232686
+Page 18 of 19
+
+--- Page 20 --Bae, J., & Jiang, D. Y. ( 2013 ). Cross-cultural validation of 
+fear of happiness scale across 14 national groups. 
+Journal of Cross-Cultural Psychology , 45 (2), 246–264. 
+https://doi.org/10.1177/0022022113505357
+Kennett, D. J., Quinn, C., & Carty, T. ( 2020 ). The indirect effects 
+of academic stress on student outcomes through 
+resourcefulness and perceived control of stress. Studies 
+in Higher Education , 46 (11), 2460–2472. https://doi.org/ 
+10.1080/03075079.2020.1723532
+Keyes, C. L. M. ( 2002 ). The mental health continuum: 
+From languishing to flourishing in life. Journal of 
+Health and Social Behavior , 43 (2), 207. https://doi.org/ 
+10.2307/3090197
+Keyes, C. L. M. ( 2005 ). Mental illness and/or mental 
+health? Investigating axioms of the complete state 
+model of health. Journal of Consulting and Clinical 
+Psychology , 73 (3), 539–548. https://doi.org/10.1037/ 
+0022-006x.73.3.539
+Keyes, C. L. M. ( 2006 ). Mental health in adolescence: Is 
+America’s youth flourishing? American Journal of 
+Orthopsychiatry , 76 (3), 395–402. https://doi.org/10. 
+1037/0002-9432.76.3.395
+Keyes, C. L. M., Wissing, M., Potgieter, J. P., Temane, M., 
+Kruger, A., & van Rooy, S. ( 2008 ). Evaluation of the 
+mental health continuum–short form (MHC–SF) in 
+setswana-speaking South Africans. Clinical 
+Psychology & Psychotherapy , 15 (3), 181–192. https:// 
+doi.org/10.1002/cpp.572
+Lamers, S. M., Westerhof, G. J., Bohlmeijer, E. T., ten 
+Klooster, P. M., & Keyes, C. L. ( 2010 ). Evaluating the 
+psychometric properties of the Mental Health 
+Continuum-Short Form (MHC-SF). Journal of Clinical 
+Psychology , 67 (1), 99–110. https://doi.org/10.1002/ 
+jclp.20741
+Lazarus, R. S., & Folkman, S. ( 2013 ). Stress: Appraisal and 
+coping. In Springer eBooks (pp. 1913–1915). Springer 
+Nature. https://doi.org/10.1007/978-1-4419-1005-9_ 
+215
+Lin, Y. M., & Chen, F. S. ( 2009 ). Academic stress inventory 
+of students at universities and colleges of 
+technology. World Transactions on Engineering and 
+Technology Education , 7 (2), 157–162.
+Luque, O. M., Bolivar, N., Achahui, V. E., & Gallegos, J. R. ( 2022 ). 
+Estrés académico en estudiantes universitarios frente 
+a la educación virtual asociada al COVID-19. Puriq , 4 , 
+e200. https://doi.org/10.37073/puriq.4.1.200
+Mariotti, A. ( 2015 ). The effects of chronic stress on health: 
+New insights into the molecular mechanisms of 
+brain–body communication. Future Science OA , 1 (3). 
+https://doi.org/10.4155/fso.15.21
+Martínez, E. S., & Díaz, D. A. ( 2007 ). Una aproximación 
+psicosocial al estrés escolar. Educación y Educadores , 
+10 (2), 11–22.
+McCloud, T., & Bann, D. ( 2019 ). Financial stress and 
+mental health among higher education students 
+in the UK up to 2018: Rapid review of evidence. 
+Journal of Epidemiology and Community Health , 73 
+(10), 977–984. https://doi.org/10.1136/jech-2019212154
+Micin, S., & Bagladi, V. ( 2011 ). Mental health in university 
+students: Incidence of psychopathology and suicidal 
+behavior data in the student health service users. 
+Terapia Psicológica , 29 (1), 53–64. https://doi.org/10. 
+4067/S0718-48082011000100006
+Naranjo, M. L. ( 2009 ). Una revisión teórica sobre el estrés 
+y algunos aspectos relevantes de éste en el ámbito 
+educativo. Revista Educación , 33 (2), 171. https://doi. 
+org/10.15517/revedu.v33i2.511
+O’Connor, D. B., Thayer, J. F., & Vedhara, K. ( 2021 ). Stress 
+and health: A review of psychobiological processes. 
+Annual Review of Psychology , 72 (1), 663–688. https:// 
+doi.org/10.1146/annurev-psych-062520-122331
+Pardeshi, S., Gawade, S., & Hemant, P. ( 2022 ). Student 
+learning time analysis during COVID-19 using linear 
+programming - simplex method. Social Sciences & 
+Humanities Open , 5 (1), 100266. https://doi.org/10. 
+1016/j.ssaho.2022.100266
+Penrod, D., Shaw, T., Nash, J., Dierkes, M., & Collins, S. 
+( 2022 ). Community college students’ perspectives on 
+online learning during COVID-19 and factors related 
+to success. Teaching and Learning in Nursing , 17 (3), 
+267–271. https://doi.org/10.1016/j.teln.2022.01.012
+Petrocelli, J. V. ( 2003 ). Hierarchical multiple regression in 
+counseling research: Common problems and possible 
+remedies. Measurement and Evaluation in Counseling 
+and Development , 36 (1), 9–22. https://doi.org/10. 
+1080/07481756.2003.12069076
+Ramírez, D., Ojeda, D., Molinari, A., Noguera, A., Valdéz, R., 
+& Florentín, L. ( 2015 ). Evaluación del estrés autoper cibido en estudiantes del área de salud. Eureka , 12 
+(2), 205–217.
+Restrepo, J. E., Sánchez, O. A., & Castañeda, T. ( 2020 ). 
+Estrés académico en estudiantes universitarios. 
+Psicoespacios , 14 (24), 17–37. https://doi.org/10. 
+25057/21452776.1331
+Rodríguez, E., & Sánchez, M. D. ( 2022 ). Estrés académico en 
+estudiantes de Ciencias de la Salud en la modalidad de 
+educación a distancia en tiempos de COVID-19. Revista 
+de Estudios y Experiencias en Educación , 21 (45), 51–69. 
+https://doi.org/10.21703/0718-5162.v21.n45.2022.003
+Ryff, C. D. ( 1989 ). Happiness is everything, or is it? 
+Explorations on the meaning of psychological 
+well-being. Journal of Personality and Social 
+Psychology , 57 (6), 1069. https://doi.org/10.1037/ 
+0022-3514.57.6.1069
+Silva, M., Lopez, J., & Columba, M. ( 2020 ). Estres acade mico en estudiantes universitarios. Investigacion 
+y Ciencia de la Universidad Autonoma de 
+Aguascalientes , 28 (79), 75–83. https://doi.org/10. 
+33064/iycuaa2020792960
+Wang, J., Chen, Y., Chen, H., Hua, L., Wang, J., Jin, Y., 
+He, L., Chen, Y., & Yao, Y. ( 2023 ). The mediating role 
+of coping strategies between depression and social 
+support and the moderating effect of the parent– 
+child relationship in college students returning to 
+school: During the period of the regular prevention 
+and control of COVID-19. Frontiers in Psychology , 14 . 
+https://doi.org/10.3389/fpsyg.2023.991033
+Córdova Olivera et al., Cogent Education (2023), 10: 2232686 
+https://doi.org/10.1080/2331186X.2023.2232686 
+Page 19 of 19

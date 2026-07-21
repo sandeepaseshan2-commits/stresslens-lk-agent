@@ -1,0 +1,1074 @@
+--- Page 1 --RESEARCH Open Access
+© The Author(s) 2025. Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you 
+give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the 
+licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or 
+exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit h t t p : / / c r e a t i 
+v e c o m m o n s . o r g / l i c e n s e s / b y - n c - n d / 4 . 0 /.
+Benítez-Agudelo et al. BMC Psychology (2025) 13:753 
+https://doi.org/10.1186/s40359-025-03041-z
+BMC Psychology
+*Correspondence:
+Juan Camilo Benítez-Agudelo
+jbenitez@cuc.edu.co
+Full list of author information is available at the end of the article
+Abstract
+Background Stress in academic settings arises from the interplay between perceived demands such as exams, 
+deadlines, and academic workload and an individual’s coping resources. While academic stress (AS) is frequently 
+examined as a separate construct, the stress encountered in an academic environment encompasses both academic 
+and non-academic stressors that students face throughout their university experience. This study examined the 
+longitudinal associations between stress in an academic context on key psychological, physiological, and behavioral 
+variables in university students.
+Methods A longitudinal study was conducted with 115 Colombian psychology students aged 16 to 35 years, 
+evaluated at the beginning and end of an academic semester. Variables were measured using validated psychometric 
+questionnaires, including the Big Five inventory, the Zung Depression Scale, the UCLA Loneliness Scale, the StateTrait Anxiety Inventory (STAI), the Acceptance and Action Questionnaire (AAQ-II), the Perceived Stress Scale-4 (PSS-4). 
+Behavioral data, such as physical activity, sleep patterns, and academic performance, were also recorded. Heart rate 
+variability (HRV), a widely used physiological marker of autonomic nervous system function and stress regulation, 
+was assessed. Paired t-tests were used to compare baseline and final measurements, and multiple linear regression 
+determined predictors of academic performance.
+Results Longitudinal analysis revealed significant declines in sleep duration, quality, and heart rate variability (HRV), 
+alongside increased anxiety and depressive symptoms, indicating heightened stress and autonomic dysregulation. 
+Despite these adverse effects, academic performance improved. This pattern suggests a complex association where 
+higher achievement coincided with declining well-being markers. Regression models identified depressive symptoms 
+Longitudinal effects of stress in an academic 
+context on psychological well-being, 
+physiological markers, health behaviors, 
+and academic performance in university 
+students
+Juan Camilo Benítez-Agudelo1,2* , Dayana Restrepo1 , Eduardo Navarro-Jimenez3 and 
+Vicente Javier Clemente-Suárez4,5
+
+--- Page 2 --Page 2 of 14
+Benítez-Agudelo et al. BMC Psychology (2025) 13:753 
+Introduction
+Stress is an adaptive neuroendocrine response to 
+demands perceived as challenging or threatening. It 
+triggers the release of catecholamines (adrenaline, nor adrenaline) and glucocorticoids (cortisol), which enhance 
+alertness, energy levels, and concentration [ 1, 2]. This 
+response allows individuals to maintain focus and per form optimally during demanding tasks, such as exami nations, presentations, or athletic competitions [ 3]. 
+When stress is short-term, perceived as manageable, and 
+within the individual’s capacity to address the specific 
+challenge, it can have positive effects. These include sup porting emotional and cognitive development, as well 
+as promoting the acquisition of problem-solving skills, 
+adaptability, and resilience. However, when external 
+demands exceed available coping resources, stress can 
+become maladaptive, negatively affecting physical and 
+psychological health [ 4, 5]. Prolonged exposure to stress 
+is associated with disruptions in essential systems such as 
+the cardiovascular, immune, endocrine, nervous, and gastrointestinal systems, and may impair cognitive functions 
+like executive attention, working memory, and decisionmaking [ 6]. Physiological consequences include oxida tive stress, chronic low-grade inflammation, metabolic 
+dysregulation, and increased risk of non-communicable 
+diseases (e.g., cardiovascular conditions, metabolic syn drome) [7, 8]. At the psychological level, stress manifests 
+as fatigue, tension headaches, feelings of guilt, emotional 
+exhaustion, and depressive symptoms. Additionally, it is 
+frequently associated with disruptions in sleep architec ture, which involve both psychological and physiological 
+mechanisms [9, 10].
+In the academic context, stress arises from the interac tion between perceived demands (e.g., exams, deadlines, 
+academic workload) and the individual’s coping resources 
+[11, 12]. While academic stress (AS) is often studied as 
+a distinct construct, this study focuses on stress experi enced in an academic setting, which encompasses both 
+academic and non-academic stressors that students 
+encounter during their university life [ 13]. This approach 
+allows for a broader understanding of how stress in an 
+educational environment affects students’ well-being and 
+performance. Stress in academic settings is particularly 
+intensified before exams and is linked to increased cor tisol levels, disrupted sleep homeostasis, and impaired 
+emotional regulation [14, 15]. According to the cognitivesleep quality model, excessive academic worries generate 
+hyperarousal, affecting the perception of sleep duration 
+and efficiency [ 9]. Similarly, from the perspective of the 
+transactional stress model, stress arises from the interac tion between perceived demands and personal resources, 
+potentially resulting in burnout, cognitive fatigue, and 
+impaired academic performance [ 16]. However, unlike 
+studies that focus exclusively on academic stress as a construct, this study examines stress in a broader academic 
+context, considering both academic and non-academic 
+factors that contribute to students’ stress levels.
+University students must autonomously manage aca demic, social, and personal responsibilities, a challenge 
+that is exacerbated by limited institutional support, 
+increasing stress and reducing the ability to balance competing demands effectively [ 17]. As the semester pro gresses, sustained cognitive overload and accumulated 
+stressors lead to chronic hypothalamic-pituitary-adrenal 
+(HPA) axis activation, with prolonged cortisol secretion 
+contributing to neuroimmune alterations and autonomic 
+dysregulation [ 18]. Chronic stress induces dysregulation 
+of the autonomic nervous system, characterized by a shift 
+toward sympathetic dominance and a reduction in vagal 
+tone, increasing vulnerability to cardiovascular and neu rological disorders [ 19, 20]. Among university students, 
+chronic stress is frequently associated with insufficient 
+sleep, unhealthy dietary habits, reduced physical activ ity, increased resting heart rate, and alterations in cardiac 
+autonomic balance [ 21]. On an emotional level, stress 
+in academic settings contributes to anxiety, emotional 
+detachment, irritability, and a diminished sense of selfefficacy, which in turn impact cognitive functions such as 
+sustained attention, working memory, and problem-solv ing abilities [22, 23].
+Despite the growing body of research on stress in edu cational settings, there is a lack of integration between 
+psychological, physiological, and academic outcomes. 
+Existing studies have largely focused on isolated aspects, 
+as negative predictors of performance, while greater HRV (SD1, PNN50) and balanced autonomic activity were 
+positively associated with academic performance.
+Conclusions This study examines the longitudinal effects of stress within an academic environment on the 
+psychological, physiological, and behavioral outcomes of university students. The findings showed compromised 
+sleep patterns, changes in autonomic regulation, and mental health indicators; nevertheless, an increase in academic 
+performance is also noted. However, this enhancement coincides with heightened levels of anxiety, depressive 
+symptoms, and physiological dysregulation. These results highlight the necessity for targeted interventions aimed at 
+fostering resilience and promoting a holistic sense of well-being.
+Keywords Stress, Sleep, Heart rate variability, Psychological flexibility, University students
+
+--- Page 3 --Page 3 of 14
+Benítez-Agudelo et al. BMC Psychology (2025) 13:753 
+such as the effects of stress on academic performance or 
+the role of sleep in psychological well-being, without considering their interplay [24-26]. Furthermore, physiological markers like heart rate variability, which offer valuable 
+insights into the autonomic nervous system’s response to 
+stress, remain underexplored in the context of academic 
+settings. This fragmentation limits our understanding 
+of how these factors evolve over time and are associ ated with each other. Addressing this gap is essential to 
+develop evidence-based strategies for promoting resil ience and academic success among university students.
+The primary objective of this study was to analyze the 
+longitudinal effects of stress in an academic context on 
+key psychological, physiological, and behavioral vari ables in university students. Specifically, we examined 
+how increasing stress in academic settings throughout 
+the semester was associated with sleep quality, psycho logical flexibility, anxiety, depressive symptoms, physical 
+activity, heart rate variability, and academic performance. 
+This study aimed to provide a global perspective on 
+how stress related to academic demands affects stu dents’ mental and physical health, identifying complex 
+associations between psychological well-being and aca demic performance. We hypothesized that higher levels 
+of stress over the semester would negatively affect sleep 
+quality, psychological flexibility, and heart rate variabil ity while leading to higher levels of anxiety and depres sive symptoms. Despite these negative psychological and 
+physiological effects, we expected to observe a moderate 
+improvement in academic performance, suggesting that 
+students prioritize their studies at the expense of their 
+well-being. The results of this research would provide a 
+holistic understanding of the effect of stress in an aca demic environment, offering actionable insights for edu cational institutions to support student well-being better 
+and optimize academic outcomes.
+Methods
+Participants
+In the current study, 115 volunteer Colombian university 
+students enrolled in a psychology program, aged between 
+16 and 35 years (M = 19.7, SD = 3.32), were assessed 
+through an online questionnaire at two points: the beginning (February 2024) and the end (May 2024) of the aca demic semester. The sample was predominantly female, 
+comprising 79.13% of participants. A non-probabilistic 
+criterion-based sampling method was employed to select 
+participants. The sample size ( N = 115) was established 
+based on previous research investigating stress in aca demic settings and physiological responses in university 
+students, which utilized similar sample sizes to iden tify significant effects [ 27]. Participants were selected 
+based on specific inclusion and exclusion criteria to 
+ensure sample homogeneity and minimize potential 
+confounding factors. The inclusion criteria required 
+students to be actively enrolled in the psychology pro gram at the university, reside in Colombia during the 
+study period, be between 16 and 35 years old, and vol untarily provide informed consent. The exclusion criteria 
+included having a diagnosed medical or psychiatric con dition that could affect stress responses, sleep patterns, 
+or physiological measurements; taking medications such 
+as psychotropics or beta-blockers that could interfere 
+with autonomic or cardiovascular function; engaging in 
+high-performance sports or extreme training routines 
+that could significantly alter physiological markers such 
+as HRV; and failing to complete both study assessments 
+at the beginning and end of the semester. To ensure data 
+integrity and prevent duplicate responses, students pro vided their university ID, which was cross-checked with 
+institutional records. Participation was entirely volun tary, and all students digitally signed an informed consent 
+form outlining the study’s objectives and procedures. The 
+study complied with the ethical guidelines of the Helsinki 
+Declaration on Human Research and was approved by 
+the University Ethics Committee (CIPI/2024(611)).
+Procedure
+To achieve the objectives of this study, a longitudinal 
+design was implemented with two measurement points: 
+at the beginning and at the end of the academic semes ter (four months later). Data collection was conducted 
+in person on campus and comprised three main com ponents: online self-administered questionnaires, stan dardized assessments of academic performance, and 
+measures of heart rate variability (HRV), all performed 
+in a supervised classroom setting. Participants accessed 
+the questionnaire using their personal electronic devices, 
+such as laptops, tablets, or smartphones. Prior to the 
+assessments, a trained researcher provided standardized 
+verbal instructions and remained available to clarify any 
+questions, ensuring that responses remained unbiased. 
+To further minimize response bias, several measures 
+were implemented: all participants received uniform 
+instructions, the survey was self-administered to limit 
+interviewer bias, and a controlled classroom environ ment was maintained to ensure consistency in assess ment conditions (See Fig. 1).
+Academic performance was assessed using a standard ized test, scored on a scale from 1 to 5 (1 = low, 5 = high). 
+This test was administered at three points during the 
+semester and consisted of 16 multiple-choice questions 
+with a single correct answer. The initial score corre sponded to the first evaluation conducted at the begin ning of the academic period, and not to grades from 
+previous semesters. The format and difficulty level of the 
+exam remained constant in all administrations, which 
+ensured comparability of scores over time; on the other
+
+--- Page 4 --Page 4 of 14
+Benítez-Agudelo et al. BMC Psychology (2025) 13:753 
+hand, the content of the test varied according to the pro gression of the curriculum. This avoided the repetition of 
+content and the learning effect. The evaluation was not 
+blinded, as it was part of the regular academic assess ment process conducted by instructors. However, since 
+it was a pre-established standardized test, its objectivity 
+and consistency were maintained throughout the study.
+A shortened version of the Spanish adaptation of the 
+Big Five Inventory was utilized to assess personality 
+traits, focusing on characteristics such as openness to 
+experience, conscientiousness, extraversion, agreeable ness, and neuroticism. This abbreviated version com prises 10 items rated on a 5-point Likert scale, where 1 
+represents strong disagreement and 5 indicates strong 
+agreement [ 28]. The scale showed good reliability, 
+achieving a Cronbach’s α of 0.70, except for the openness 
+to experience factor, which had a value of 0.65 [ 29]. Trait 
+scores were calculated by summing responses to relevant 
+items, yielding ranges of 2–10 points (2 items × 1–5 Lik ert scale). Grouped participants into quartiles (Q1–Q4) 
+based on sample distribution. Quartile cutoffs were: 
+Q1 ≤ 3.0; Q2 = 4–5; Q3 = 6–7; Q4 ≥ 8. These personality 
+traits were included in the study due to their potential 
+influence on stress responses, coping mechanisms, and 
+academic performance. Additionally, the Spanish version 
+of the Zung Depression Scale was employed to evaluate 
+the severity of depressive symptoms as perceived by the 
+individual [30]. This scale demonstrated strong reliability, 
+with a Cronbach’s α of 0.85 [ 31]. Regarding its interpre tation, scores ranging from 20 to 49 indicate no or low 
+depression, 50 to 69 indicate moderate depression, and 
+70 to 80 suggest severe depression. Furthermore, the 
+Spanish version of the UCLA Loneliness Scale was uti lized to measure loneliness. This scale assesses perceived 
+loneliness, which refers to the subjective feeling of iso lation or social disconnection that an individual may 
+experience; higher scores reflect greater levels of per ceived loneliness. In this study, we utilized a condensed 
+version consisting of three items, rated on a three-point 
+Fig. 1 Study Phases
+Note: PSS-4: Perceived Stress Scale; STAI: State-Trait Anxiety Inventory; Zung: Depression Scale; BIG-FIVE: Big Five Inventory; AAQII: Acceptance and Action 
+Questionnaire II; UCLA: Loneliness Scale; BP: Behavioral patterns (Sleep, Physical activity)
+
+--- Page 5 --Page 5 of 14
+Benítez-Agudelo et al. BMC Psychology (2025) 13:753 
+Likert scale, where 1 signifies “never” and 3 signifies “fre quently. ” The reliability of this test varied between 0.89 
+and 0.94 [32].
+To assess anxiety, a condensed version of the Spanish 
+adaptation of the Spielberger State-Trait Anxiety Inven tory was utilized [ 33], comprising 6 items that measure 
+anxiety on a 4-point Likert scale, where 1 signifies “not 
+at all” and 4 signifies “very much. ” A score exceeding 19 
+points indicates significant symptoms of state anxiety. 
+The reliability of this test ranges from 0.85 to 0.93 [ 3436]. Additionally, the Spanish version of the Acceptance 
+and Action Questionnaire II was employed to evalu ate experiential avoidance or psychological inflexibil ity through 7 items rated on a 7-point Likert scale, with 
+0 denoting “never true” and 7 denoting “always true. ” 
+Typically, average scores for participants without clini cal issues fall between 18 and 23 points, while scores for 
+clinical participants are generally above 29 points, indi cating that higher scores are linked to greater psychological inflexibility. The reliability of this test is measured at 
+0.84 [ 37]. The PSS-4, adapted by Herrero and Meneses, 
+was employed to assess perceived stress. This 4-item 
+scale measures how frequently individuals experience 
+stress, with higher scores reflecting greater perceived 
+stress levels. While Herrero and Meneses utilized a scale 
+ranging from 1 to 5, this study applied Cohen’s original 0 
+to 4 scale, where 0 indicates “never” and 4 signifies “very 
+often. ” The scale demonstrated solid reliability, achieving 
+a Cronbach’s α of 0.72, and accounted for 54% of the variance [38].
+Behavioral patterns of participants were evaluated in 
+line with previous studies [ 39-41]. Sleep duration was 
+assessed using a self-reported measure, where students 
+indicated the number of hours they typically sleep per 
+night. Sleep quality was evaluated with a Likert scale 
+from 1 (very poor quality) to 10 (very good quality), 
+capturing participants’ subjective perception of their 
+most recent sleep episode. While validated instruments 
+such as the Pittsburgh Sleep Quality Index (PSQI) pro vide a more detailed assessment, a single-item scale was 
+chosen for its feasibility in a longitudinal study and to 
+reduce participant burden. Physical activity was assessed 
+through self-reported measures adapted from previ ous research [ 42, 43]. To estimate their average daily 
+steps, students were instructed to check the step count 
+recorded on their mobile phones or wearable devices 
+(e.g., smartwatches, fitness bands) and report the weekly 
+average. This approach ensured that the data reflected 
+actual recorded movement rather than subjective estimation. However, as step counts were not collected using 
+standardized research-grade accelerometers, results 
+should be interpreted with caution. Also, the question naire included the following items: ‘Did you do any physical activity in the last 7 days?’ , ‘If so, indicate the total 
+time (in minutes) spent on cyclic and/or aerobic activities 
+(cycling, treadmill, Zumba) over the past week, ’ and ‘If so, 
+indicate the total time (in minutes) spent on resistance 
+activities (sit-ups, push-ups, squats, or weight training) 
+over the past week. ’ . Although validated tools such as the 
+Global Physical Activity Questionnaire (GPAQ) offer a 
+standardized approach to measuring physical activity, 
+we prioritized a brief self-report method that allowed us 
+to track changes in activity levels over time while main taining a manageable survey length. This approach aligns 
+with prior studies evaluating physical activity patterns in 
+university students.
+Autonomic modulation was assessed through heart 
+rate variability (HRV) analysis. HRV data were collected 
+using the EEG for Everybody mobile device (NoviSad, 
+Serbia), following previously established procedures [ 44, 
+45]. Participants remained seated in a quiet room dur ing the recordings to minimize movement and external 
+interferences. A 5-minute segment of continuous elec trocardiographic (ECG) data was analyzed, as recom mended for short-term HRV assessment. The following 
+HRV parameters were extracted: heart rate (HR), rMSSD 
+(square root of the mean squared differences between 
+successive R–R intervals), PNN50 (percentage of R–R 
+intervals differing by more than 50 ms), standard devia tion 1 (SD1), standard deviation 2 (SD2), SD1/SD2 ratio, 
+low frequency (LF), high frequency (HF), LF/HF ratio, 
+low frequency in normalized units (LFnu), and high fre quency in normalized units (HFnu).
+The assessments took place during the first term of 
+the academic semester. The measurement instruments 
+employed in this study have been thoroughly validated 
+within Spanish-speaking populations and have exhibited 
+strong psychometric properties. Prior to data collection, 
+a pilot test was administered to a small group of students 
+to assess the clarity of the questionnaire items. No sig nificant comprehension challenges were reported, affirming that the chosen instruments were well-suited for the 
+target population.
+Statistical analysis
+Statistical analyses were performed using the Statistical 
+Package for the Social Sciences (SPSS) version 24.0 (SPSS 
+Inc., Chicago, IL., USA). Descriptive statistics, includ ing means and standard deviations, were calculated 
+for all variables. Prior to conducting parametric tests, 
+the assumptions of normality and homogeneity of vari ances were assessed. Normality was evaluated using the 
+Kolmogorov-Smirnov test, which indicated that the data 
+for all variables followed a normal distribution ( p > 0.05). 
+Homogeneity of variances was confirmed using Levene’s 
+test (p > 0.05). To address potential outliers, we conducted 
+a boxplot analysis and applied the interquartile range 
+(IQR) method. Data points falling below Q1–1.5 IQR or
+
+--- Page 6 --Page 6 of 14
+Benítez-Agudelo et al. BMC Psychology (2025) 13:753 
+above Q3 + 1.5IQR were considered outliers and trans formed to reduce their influence on the results. Missing 
+data were handled using listwise deletion, as the percent age of missing values was less than 5% and assumed to 
+be missing completely at random. To examine differences 
+between the first and second measurements across bio medical, psychological, psychophysiological, and aca demic variables, paired samples t-tests were conducted. 
+To control Type I error inflation from multiple testing, 
+we applied the Holm-Bonferroni sequential correction 
+method, adjusting significance thresholds for each com parison based on its rank order (αadj = 0.05/[k - i + 1], 
+where i = rank of the p-value). Effect sizes were calculated 
+using Cohen’s d [ 46], with the following classification: 
+negligible effect (≥ -0.15 and < 0.15), small effect (≥ 0.15 
+and < 0.40), medium effect (≥ 0.40 and < 0.75), large effect 
+(≥ 0.75 and < 1.10), very large effect (≥ 1.10 and < 1.45), 
+and huge effect (≥ 1.45). Two multiple linear regression 
+models were conducted to assess the associations of 
+various predictors with academic performance. The first 
+model examined the association of study variables on 
+academic performance, while the second model evalu ated whether these relationships remained consistent 
+over time, using only the second assessment measure ments. Sex and age were included as confounding vari ables in both models. Collinearity was assessed using the 
+variance inflation factor (VIF), with all variables yield ing VIF values below 10, indicating no multicollinear ity issues. The significance level was set at p ≤ 0.05 for all 
+analyses.
+Results
+The findings of this study support the initial hypotheses, 
+indicating that heightened stress within an academic 
+environment throughout the semester led to a reduction 
+in sleep hours, accompanied by an increase in anxiety and 
+depressive symptoms. Additionally, although the changes 
+were not statistically significant, effects on heart rate 
+variability were observed (as indicated by effect sizes). 
+Despite these negative consequences, students demon strated improvements in their academic performance, 
+suggesting that they may have prioritized their studies at 
+the expense of their overall well-being (see Fig. 2).
+Table 1 presents longitudinal changes in sleep dura tion and quality. Students reported sleeping fewer hours 
+at the end of the semester (M: 6.37; SD: 1.29) compared 
+to baseline (M: 6.78; SD: 1.24), with a statistically sig nificant difference after Holm-Bonferroni correction (t 
+(115) = 3.68, p < 0.02, d = 0.32). Sleep quality also declined 
+(M = 5.33, SD = 2.11 vs. M = 5.92, SD = 2.14), though 
+this difference was not significant after correction (t 
+(115) = 2.60, p < 0.21, d = 0.28). These findings support the 
+hypothesis that stress in an academic context contributes 
+to deteriorating sleep patterns. However, it is important 
+to acknowledge that other external factors, such as work 
+commitments or family responsibilities, may also con tribute to these changes in sleep patterns.
+Similarly, anxiety levels, assessed with the STAI ques tionnaire, showed a significant increase (M: 13.50; 
+SD: 4.35 at follow-up vs. M: 12.17; SD: 3.93 at base line), (t (115) = -3.53, p < 0.04, d = 0.32), reinforcing 
+the idea that accumulating academic demands elevate 
+stress responses. Depressive symptoms (ZUNG scale) 
+increased significantly (M: 45.69; SD: 5.68 at baseline vs. 
+M: 48.77; SD: 7.11 at follow-up), (t (115) =-4.65, p < 0.01, 
+d = 0.48). This increase in depressive symptoms may be 
+linked to high academic demands, accumulated stress, 
+and a potential decline in activities promoting emo tional well-being. In contrast, psychological inflexibility 
+decreased (M: 27.55; SD: 9.75 at baseline vs. M: 25.38; 
+SD: 11.23 at follow-up), but this change was not signifi cant (t (115) = 2.52, p < 0.21, d = 0.21); however, it may be 
+an indicator of better adaptability to cognitive and emo tional challenges over time. Regarding personality traits 
+(Big Five) showed no significant changes over time (all 
+p > 0.05).
+Concerning physical activity, no significant changes 
+were observed in overall movement levels; however, 
+a non-significant trend (small effect size) suggested 
+reduction in weight training and abdominal exercises 
+was detected at the end of the semester (M: 403.85; SD: 
+363.33 at baseline vs. M: 255.38; SD: 172.90 at follow-up), 
+t [ 13] = 2.12, p < 0.35, d = 0.38. This suggests that while 
+students may have maintained general movement (e.g., 
+walking or low-intensity activities), they engaged less in 
+structured strength or resistance training.
+Indicators of heart rate variability (HRV) showed nonsignificant but meaningful effect sizes, which could con tribute to the hypothesis that increased stress could be 
+associated with autonomic dysregulation. A decrease was 
+observed in PNN50 (M: 29.50; SD: 22.14 at baseline vs. 
+M: 24.40; SD: 17.45 at follow-up), t (114) = 2.18, p < 0.21, 
+d = 0.25, and SD1 (M: 34.53; SD: 19.37 at baseline vs. M: 
+30.42; SD: 13.96 at follow-up), t (113) = 2.00, p < 0.28, 
+d = 0.24, indicating a reduced ability to autonomically 
+regulate heart rate. Conversely, an increase in Hfnu was 
+noted (M: 40.08; SD: 21.33 at baseline vs. M: 46.06; SD: 
+21.11 at follow-up), t (114)=-2.25, p < 0.14, d = 0.28, suggesting an overactivation of parasympathetic activity as 
+a potential compensatory mechanism for stress-induced 
+physiological changes. These findings highlight that pro longed stress in an academic context can be associated 
+with physiological exhaustion, increasing susceptibility 
+to long-term health risks. On the other hand, despite the 
+psychological and physiological toll, academic perfor mance improved significantly. Final grades (M: 4.07; SD: 
+0.77) were higher than initial ones (M: 3.77; SD: 0.61), t 
+(110) = -3.41, p < 0.02, d = 0.43.
+
+--- Page 7 --Page 7 of 14
+Benítez-Agudelo et al. BMC Psychology (2025) 13:753 
+To examine the relationships between variables in more 
+detail, two regression models were conducted (Table  2). 
+The first model analyzed the association of psychologi cal, physiological, and behavioral factors at the beginning 
+of the semester on academic performance. Symptoms of 
+depression emerged as a significant negative predictor 
+(B = -0.03, p = 0.01), reinforcing the association between 
+mental health and lower academic achievement. Con versely, greater HRV (SD1) at baseline predicted higher 
+performance (B = 0.01, p = 0.04), emphasizing the role of 
+autonomic regulation in cognitive function. This model 
+explained 11% of the variance in academic performance 
+and was statistically significant (p < 0.02).
+The second model assessed whether these relationships 
+persisted at the semester’s end. Higher sleep quality was 
+associated with slightly lower academic performance (B 
+= -0.06, p = 0.05), potentially reflecting reduced study 
+time in students who prioritized rest. This could support 
+the second hypothesis, indicating that students enhance 
+their performance over time, potentially at the cost of 
+well-being. Additionally, increased resting heart rate 
+negatively predicted academic performance (B = -0.01, 
+p = 0.01), whereas greater HRV (PNN50) was positively 
+associated with academic outcomes (B = 0.02, p = 0.02). 
+Lower SD1 values correlated with poorer academic per formance (B = -0.03, p = 0.01), reinforcing the importance 
+of autonomic flexibility in academic success. This model 
+accounted for 16% of the variance and was statistically 
+significant (p < 0.01).
+In both regression models, sex was included as a con founding variable. At the first measurement, male stu dents obtained significantly lower academic performance 
+scores compared to female students. This difference was 
+no longer apparent at the second measurement, suggest ing a possible adaptation to academic demands across the 
+semester or the influence of other variables that gained 
+relevance over time (Table 2).
+Fig. 2 Effects of Stress on academic context on University Students: A Conceptual Overview
+
+--- Page 8 --Page 8 of 14
+Benítez-Agudelo et al. BMC Psychology (2025) 13:753 
+Table 1 Descriptive statistics and comparison of variables by measurements
+Variables Measurements n M SD t-student P-value P-adjusted d
+Biomedical Weight (kg) 1 113 62.61 13.89 -0.19 0.84 1.00 0.01
+2 62.69 13.27
+Hours of sleep per day 1 115 6.78 1.24 3.68 0.01 0.02 0.32
+2 6.37 1.29
+Quality of sleep 1 115 5.92 2.14 2.60 0.01 0.21 0.28
+2 5.33 2.11
+Personality BIG-FIVE Extraversion 1 115 4.83 1.62 -0.50 0.61 1.00 0.06
+2 4.92 1.53
+BIG-FIVE Agreeableness 1 115 5.91 1.50 -0.56 0.57 1.00 0.05
+2 5.99 1.41
+BIG-FIVE Conscientiousness 1 115 6.20 1.68 0.56 0.57 1.00 0.06
+2 6.10 1.70
+BIG-FIVE Neuroticism 1 115 6.63 1.92 -1.23 0.22 1.00 0.11
+2 6.84 1.79
+Open to Experience 1 115 8.01 1.59 1.58 0.11 0.77 0.15
+2 7.76 1.70
+Anxiety STAI 1 115 12.17 3.93 -3.53 0.01 0.04 0.32
+2 13.50 4.35
+Psychological Inflexibility AQQII 1 115 27.55 9.75 2.52 0.01 0.21 0.21
+2 25.38 11.23
+Solitude Solitude UCLA 1 115 5.32 1.89 1.74 0.84 1.00 0.15
+2 5.04 1.77
+Perceived stress PSS-4 1 115 6.63 3.33 -1.67 0.09 0.63 0.18
+2 7.20 3.05
+Symptoms of depression ZUNG Scale 1 115 45.69 5.68 -4.65 0.01 0.01 0.48
+2 48.77 7.11
+Physical activity Steps 1 41 6458.12 10481.85 0.18 0.85 1.00 0.04
+2 6058.76 8502.75
+Cyclical/aerobic activity 1 15 174.67 168.47 0.31 0.76 1.00 0.09
+2 157.20 105.85
+Weight/abs activity 1 13 403.85 363.33 2.12 0.05 0.35 0.38
+2 255.38 172.90
+Heart rate variability HR 1 114 83.82 15.38 -1.88 0.06 0.42 0.21
+2 86.99 14.32
+rMSSD 1 114 48.02 23.53 1.89 0.06 0.42 0.23
+2 43.04 19.62
+PNN50 1 114 29.50 22.14 2.18 0.03 0.21 0.25
+2 24.40 17.45
+SD1 1 113 34.53 19.37 2.00 0.04 0.28 0.24
+2 30.42 13.96
+SD2 1 114 48.14 26.26 0.76 0.44 1.00 0.09
+2 45.98 21.57
+LFNU 1 114 57.56 22.13 1.49 0.13 0.77 0.19
+2 53.38 21.97
+Hfnu 1 114 40.08 21.33 -2.25 0.02 0.14 0.28
+2 46.06 21.11
+Academic performance Evaluation grade 1 110 3.77 0.61 -3.41 0.01 0.02 0.43
+2 4.07 0.77
+Note: M: Mean; SD: Standard deviation; Measurement 1: first measurement; Measurement 2: second measurement; STAI: State anxiety questionnaire; AAQII: 
+Acceptance and Action Questionnaire; PSS-4: Perceived Stress Scale 4; HR: Heart rate; rMSSD: square root of average sum of diff squared between normal r-r; 
+PNN50:% of diff between normal R–R intervals greater than 50; SD1: Sensitivity of short-term variability of HRV; SD2: Long-term variability of the HRV spectrum; LFnu: 
+Low frequency; HFnu: High frequency; Height measured in centimeters; Weight measured in kilograms; d: Cohen, effect size; P-adjuted: Holm-Bonferroni correction
+
+--- Page 9 --Page 9 of 14
+Benítez-Agudelo et al. BMC Psychology (2025) 13:753 
+Discussion
+This study investigated the longitudinal effects of stress 
+in an academic context on psychological, physiological, 
+and behavioral variables, including sleep quality, psycho logical flexibility, anxiety, depressive symptoms, physical 
+activity, heart rate variability, and academic performance 
+in college students over one semester. The results par tially confirm the initial hypotheses, revealing that higher 
+levels of stress over the semester negatively affected sleep 
+quality and heart rate variability, while leading to higher 
+levels of anxiety and depressive symptoms, as hypothe sized. Interestingly, despite the adverse psychological and 
+physiological effects, academic performance improved 
+significantly, supporting the hypothesis that students prioritize their studies at the expense of their well-being.
+From a physiological perspective, this study provides 
+important insights into the relationship between stress 
+markers and academic performance in university stu dents. The observed decline in sleep quantity and quality 
+over time aligns with the hypothesis that stress in aca demic settings would negatively affect sleep, consistent 
+with previous research showing that students often sac rifice rest to meet academic demands [ 47, 48]. However, 
+an unexpected finding emerged: improvements in sleep 
+quality were associated with a slight decrease in aca demic achievement. This contrasts with the well-estab lished link between better sleep and enhanced cognitive 
+functions, such as memory and attention [ 49]. Several 
+factors may explain this counterintuitive result. First, it 
+could reflect specific behaviors in our sample, such as 
+nighttime study habits that prioritize academic prepa ration over sleep, a phenomenon supported by studies 
+showing no significant differences in academic perfor mance between students at risk for sleep disorders and 
+those without sleep disorders [ 50]. Second, the use of 
+self-reported sleep data introduces potential biases, such 
+as inaccuracies in perceived sleep quality or higher-per forming students reporting greater dissatisfaction due 
+to increased academic pressures [ 51, 52]. These find ings align with recent research on the interplay between 
+stress, health behaviors, and academic performance. For 
+example, one study found that positive thinking, good 
+sleep quality, and higher physical activity levels were 
+associated with improved well-being and/or better per formance during high-stakes assessments, such as objec tive structured clinical examinations (OSCEs) [ 53]. In 
+contrast, avoidance coping strategies negatively affected 
+both well-being and performance, supporting our obser vation that students may prioritize academic demands 
+over sleep, potentially adopting maladaptive coping strategies that compromise their well-being.
+Interestingly, perceived stress levels, as measured by 
+the PSS-4, did not exhibit a statistically significant change 
+throughout the semester. This stability in perceived stress 
+may suggest that students maintained a consistent per ception of their stress levels, possibly due to habitua tion to academic demands or stable baseline stressors 
+unrelated to academic context. It is also possible that 
+while objective markers (e.g., HRV, sleep) and emotional 
+symptoms (e.g., anxiety, depression) fluctuated, students’ 
+subjective appraisal of their stress remained unchanged, 
+highlighting a potential disconnect between perceived 
+and physiological stress responses [7, 26, 54]. This finding 
+aligns with research suggesting that self-reported stress 
+can sometimes remain stable despite underlying changes 
+in emotional or physiological states [55, 56].
+Regarding heart rate variability (HRV), the results 
+support the hypothesis that stress may be associated 
+with autonomic dysregulation. At the beginning of the 
+semester, a higher HRV, specifically in the SD1 compo nent (reflecting parasympathetic activity and autonomic 
+recovery), predicted better academic performance. 
+Table 2 Results of the linear regression model for academic performance
+Measure Variable B Standar Error Beta t p-value IC 95% para B VIF
+First
+measurement
+Constant 2.29 1.31 - 1.74 0.08 [-0.31–4.90] Age 0.01 0.01 0.01 0.05 0.95 [-0.03–0.03] 1.03
+Sex (Male) -0.36 0.17 -0.24 -2.11 0.04 [-0.69–0.02] 1.53
+Symptoms of depression -0.03 0.01 -0.24 -2.54 0.01 [-0.04–0.01] 1.08
+Cardiac Variability (SD1) 0.01 0.01 0.19 2.07 0.04 [0.00–0.01] 1.00
+Second measurement Constant 2.84 1.72 - 1.65 0.10 [-0.58–6.26] Age 0.02 0.02 0.1 1.14 0.26 [-0.02–0.07] 1.04
+Sex (Male) 0.05 0.21 0.02 0.25 0.79 [-0.36–0.47] 1.53
+Sleep quality -0.06 0.03 -0.18 -1.97 0.05 [-0.13–0.01] 1.10
+Cardiac Variability (HR) -0.01 0.01 -0.25 -2.6 0.01 [-0.02–0.01] 1.16
+Cardiac Variability (PNN50) 0.02 0.01 0.51 2.22 0.02 [0.01–0.04] 6.65
+Cardiac Variability (SD1) -0.03 0.01 -0.63 -2.65 0.01 [-0.06–0.01] 6.89
+Note: Dependent variable: Evaluation grade. The variables, age and sex, were included in the model, as they were considered confounding variables. Sex coded as 
+0 = female, 1 = male. At first measurement, male students showed significantly lower performance compared to females (B = -0.36, p = 0.04). No significant difference 
+was found at the second measurement. Symptoms of depression: Zung Scale; SD1: Sensitivity of short-term variability of HRV; HR: Heart rate; PNN50:% of diff 
+between normal R–R intervals greater than 50; VIF: Variance Inflation Factor
+
+--- Page 10 --Page 10 of 14
+Benítez-Agudelo et al. BMC Psychology (2025) 13:753 
+This finding suggests that students with greater auto nomic regulation at the start of the semester were bet ter equipped to handle academic demands, highlighting 
+the crucial role of physiological homeostasis in cogni tive function [ 57]. For instance, higher parasympathetic 
+activity has been linked to greater cognitive flexibility 
+and stress management, which may facilitate more effec tive academic performance [ 58]. However, as the semes ter progressed, the relationship between physiological 
+markers and academic outcomes shifted. Reductions in 
+PNN50 and SD1, along with increases in Hfnu, indi cated a diminished autonomic capacity to regulate stress, 
+aligning with existing literature linking chronic stress 
+to autonomic dysfunction [ 59-63]. Low HRV has been 
+established as a key physiological marker of prolonged 
+stress, reflecting its impact on emotional regulation and 
+cognitive performance [64].
+Further analysis revealed that resting HR at the end 
+of the semester was inversely associated with academic 
+performance, suggesting that sustained physiological 
+activation may undermine students’ ability to manage 
+academic demands effectively [ 60, 61]. In addition, the 
+positive association between PNN50 at the end of the 
+semester and academic performance further underscores 
+the importance of parasympathetic activity in maintain ing cognitive and emotional resilience. PNN50, which 
+reflects the proportion of successive RR intervals that 
+differ by more than 50 milliseconds, is a marker of vagal 
+tone and autonomic recovery. Higher PNN50 values indicate greater parasympathetic activity, which has been 
+associated with better stress management, enhanced 
+attention, and improved cognitive performance [ 65, 
+66]. This finding suggests that students with greater 
+autonomic flexibility and recovery capacity are better 
+equipped to handle academic challenges, supporting the 
+idea that physiological resilience plays a key role in aca demic success.
+These results highlight the dual risks of insufficient 
+physiological arousal and excessive physiological over load, both of which can compromise academic perfor mance. This aligns with previous research showing that 
+moderate autonomic activation is optimal for cognitive 
+functioning, while extreme imbalances, whether due to 
+elevated stress or excessive relaxation, are detrimental 
+to both performance and well-being [ 67, 68]. The initial 
+protective effect of higher HRV (SD1) at the start of the 
+semester may diminish as academic demands increase, 
+suggesting that chronic stress and fatigue could alter 
+the relationship between autonomic regulation and aca demic outcomes over time. Despite the adverse effects of 
+chronic stress on physiological well-being, students sug gest an improvement in final grades, which may suggest 
+a compensatory mechanism wherein academic perfor mance is prioritized over physical and emotional health, 
+supporting our study hypothesis. This complex asso ciation, previously documented in stress studies [ 69, 70], 
+raises significant concerns, as it underscores the hidden 
+costs of academic success, particularly the neglect of stu dents’ overall well-being; however, unmeasured factors 
+(e.g., study habits) could contribute to this association.
+Regarding the connection between psychological indi cators of mental health and academic performance, 
+psychological flexibility defined as the ability to manage 
+and respond adaptively to emotional and psychological 
+stressors showed a positive trend throughout the semes ter, although it was not statistically significant. This find ing contrasts with the study’s initial hypothesis, which 
+predicted that students would experience a decline in 
+psychological flexibility due to the cumulative effects of 
+academic stress. Instead, the results suggest that students 
+developed a greater capacity to adapt to emotional chal lenges under sustained stress, a finding consistent with 
+research highlighting the role of psychological flexibil ity as a protective factor in high-demand environments 
+[71, 72]. For instance, studies have shown that individuals 
+with higher psychological flexibility are better equipped 
+to handle academic pressures and maintain emotional 
+well-being, even in the face of significant stressors [ 73, 
+74]. However, despite this improvement in psychological 
+flexibility, students experienced an increase in symptoms 
+of depression and anxiety by the end of the semester, 
+which is consistent with the study’s hypotheses. This 
+contrasts with some studies that have found psychologi cal flexibility to be inversely associated with symptoms 
+of depression and anxiety [ 75]. The discrepancy may be 
+explained by the unique nature of stress in an academic 
+context, which often involves prolonged exposure to 
+high demands and limited recovery time, potentially 
+overwhelming even adaptive coping mechanisms [ 76]. 
+Conversely, students exhibiting heightened depres sive symptoms at the outset of the semester were more 
+likely to experience diminished academic performance, 
+underscoring the lasting impact of mental health on aca demic outcomes [ 77]. Although the reported symptoms 
+did not reach clinically significant thresholds, they indi cate a discernible psychological decline linked to stress 
+in academic environments [ 78]. This finding aligns with 
+research suggesting that stress can precipitate subclinical 
+levels of mental health issues, which, despite not fulfilling 
+diagnostic criteria, can still adversely affect well-being 
+and academic achievement [13].
+While previous research has shown that personality 
+traits influence stress vulnerability and coping effective ness [79, 80], our findings did not reveal this. Specifically, 
+none of the personality traits included in our regres sion models were statistically significant predictors of 
+academic performance. This contrasts with studies sug gesting that traits such as neuroticism, extraversion, and
+
+--- Page 11 --Page 11 of 14
+Benítez-Agudelo et al. BMC Psychology (2025) 13:753 
+conscientiousness play a key role in stress responses 
+and academic outcomes [ 79, 80]. The lack of significant 
+findings in our study may be attributed to several fac tors, such as the homogeneity of personality traits in our 
+sample or the predominance of contextual factors (e.g., 
+academic workload, institutional support) that overshad owed the relation of personality.
+This study highlights the intricate interplay between 
+psychological, physiological, and behavioral factors in 
+predicting academic performance, including variables 
+such as sleep quality, perceived stress, psychological 
+flexibility, and heart rate variability. Academic success 
+appears to emerge from a complex interplay between 
+physiological arousal (stress) and the psychological flex ibility to manage it effectively. In academic settings, stress 
+often functions as a positive determinant of performance 
+under specific conditions, which partially coincides 
+with eustress theory, which posits that moderate lev els of stress can act as a motivating force that enhances 
+performance [ 81, 82]. Professional studies present envi ronments that simultaneously generate both beneficial 
+and detrimental forms of stress, offering opportunities 
+for students to develop skills to manage these demands. 
+This underscores the dual nature of stress in higher edu cation, where it can act as both a catalyst for perfor mance and a potential detriment to overall well-being if 
+not properly regulated. Similarly, this study emphasizes 
+the importance of targeted interventions to mitigate the 
+negative effects of stress in academic settings on stu dent well-being. While students may develop adaptive 
+mechanisms, such as increased psychological flexibility, 
+increased symptoms of depression and anxiety illustrate 
+the limitations of these innate coping strategies. Medical 
+students should be offered the opportunity to participate 
+in structured stress management programs that empha size personalized support and goal setting, as these may 
+help reduce psychological and physiological stress and 
+improve students’ coping abilities [83].
+The limitations of this study underscore several impor tant areas for consideration. Firstly, the sample was 
+restricted to university psychology students from a single 
+institution and employed a non-probabilistic sampling 
+method, constraining the generalizability and applica bility of the findings to other populations, disciplines, 
+or educational settings. However, the physiological and 
+behavioral markers studied (e.g., HRV, sleep) are broadly 
+relevant to stress research in higher education. In addi tion, as this was an observational study, unmeasured 
+confounding factors may influence the observed relationship, Likewise, the study results do not imply causality 
+between the variables. Furthermore, the data collected 
+was not anonymous, potentially influencing participants’ 
+responses due to concerns about privacy or social desir ability bias. Secondly, the study relied on self-reported 
+measures for key variables, such as perceived stress, anxiety, and sleep quality, which are vulnerable to inaccura cies stemming from recall bias, social desirability bias, 
+and individual differences in perception. For instance, 
+students experiencing high stress may overestimate sleep 
+disturbances, while others might underreport them due 
+to the normalization of poor sleep habits. These limi tations emphasize the necessity for future research to 
+supplement self-reported data with objective measures, 
+such as actigraphy or polysomnography, to achieve a 
+more comprehensive understanding of the relation ship between sleep quality and academic performance. 
+Third, although the study evaluated physical activity lev els through self-reported measures, it did not specifically 
+assess sedentary behavior. Future research could ben efit from incorporating objective or validated self-report 
+tools to measure sedentary time and explore its poten tial interaction with stress within an academic context, 
+as well as its impact on student well-being. Additionally, 
+although we controlled learning effects by varying test 
+content, we cannot rule out that general test-taking skills 
+improved over time. Future studies could include parallel 
+test versions to address this. Furthermore, it is important 
+to highlight that this study concentrated on stress in aca demic settings rather than characterizing academic stress 
+as a distinct construct. While this perspective allowed for 
+a broader understanding of the stressors that students 
+encounter in their academic environments, it may have 
+encompassed factors beyond purely academic demands, 
+such as personal or social stressors. This broader lens 
+might limit the direct comparability of our findings 
+with studies that focus specifically on academic stress 
+as a construct. However, it offers a more comprehensive 
+view of the overall stress experience for university stu dents, which is invaluable for developing holistic inter ventions. Despite these limitations, the study’s findings 
+possess considerable value and practical implications. 
+The insights gained may guide intervention strategies for 
+managing stress among university students, establishing 
+a crucial foundation for future policies related to student 
+welfare and psychological support programs. By focus ing on a specific group, the research provides a more 
+nuanced understanding of stress within that academic 
+context, serving as a launching pad for broader compara tive studies.
+For future research, it would be beneficial to broaden 
+the participant base to encompass a diverse range of 
+institutions and demographics, allowing for the exami nation of whether similar results emerge across different 
+educational scenarios. Additionally, future studies should 
+explore specific academic stressors (e.g., exams, dead lines, workload) in a more structured manner to better 
+understand their unique impact on student well-being 
+and performance. This could involve developing targeted
+
+--- Page 12 --Page 12 of 14
+Benítez-Agudelo et al. BMC Psychology (2025) 13:753 
+assessments or interventions that address these stressors 
+directly. Integrating more objective stress measurement 
+methods, such as analyzing physiological biomarkers or 
+employing neuroimaging techniques, could enhance the 
+study’s rigor. Furthermore, investigating targeted inter ventions designed to alleviate stress in an academic con text, with an assessment of their effectiveness through 
+experimental or longitudinal approaches, could greatly 
+contribute to understanding and improving student experiences throughout their academic journeys [ 83]. Future 
+research should also explore the interplay between per sonality traits and stress in academic contexts in diverse 
+populations and contexts to better understand their role 
+in student well-being and performance.
+The findings of this study underscore the importance 
+of implementing comprehensive strategies to support 
+university students’ well-being during periods of height ened stress in an academic context. Educational institu tions should consider integrating stress management 
+programs, such as mindfulness training or resiliencebuilding workshops, to mitigate the adverse psychologi cal and physiological effects of stress [ 83]. Additionally, 
+promoting better sleep hygiene and encouraging regular 
+physical activity could enhance students’ capacity to cope 
+with academic demands [ 84, 85]. Leveraging tools like 
+heart rate variability monitoring can provide personal ized feedback to identify students at risk of chronic stress 
+and tailor interventions accordingly. These approaches 
+not only aim to improve academic performance but also 
+prioritize the overall health and sustainability of students’ 
+educational journeys.
+Conclusion
+This study provides a comprehensive analysis of the longterm effects of stress within an academic context on the 
+psychological, physiological, and behavioral outcomes 
+of college students. The findings indicate that academicrelated stress is linked to poorer sleep quality, autonomic 
+regulation, and mental health. Notably, while there is an 
+improvement in academic performance, this enhance ment is also linked to increased anxiety, depressive symptoms, and physiological dysregulation, highlighting an 
+often-overlooked connection between academic success 
+and student well-being. These results emphasize the need 
+for targeted interventions that address both academic 
+and non-academic stressors, foster physiological resil ience, and support holistic well-being. Future research 
+should explore specific academic stressors, utilize objec tive measures, and evaluate the effectiveness of inter ventions designed to help students manage stress and 
+achieve sustainable academic success.
+Abbreviations
+JCBA Juan Camilo Benitez Agudelo
+DR Dayana Restrepo
+ENJ Eduardo Navarro Jimenez
+VCJCS Vicente Javier Clemente Suarez
+Acknowledgements
+Not applicable.
+Author contributions
+JCBA conceptualized the study, designed the methodology and directed data 
+collection. DR participated in instrument validation and statistical analysis. 
+ENJ reviewed the statistical analysis and made corrections to the final versions 
+of the document. VCJCS reviewed the relevant literature and contributed 
+to writing the introduction and discussion sections. All authors actively 
+participated in the interpretation of the results and drafting of the manuscript. 
+They also reviewed and approved the final version of the article.JCBA: Juan 
+Camilo Benitez AgudeloDR: Dayana Restrepo ENJ: Eduardo Navarro Jimenez 
+VCJCS: Vicente Javier Clemente Suarez.
+Funding
+The authors declare that they did not receive support from any organization 
+for the submitted work.
+Data availability statement
+The datasets generated by the survey research during the current study are 
+available in the Dataverse repository h t t p s : / / o s f . i o / 9 y r x z / ? v i e w _ o n l y = 5 c f 1 4 4 8 b 
+d 3 d 8 4 6 3 6 8 e b b c 6 5 5 4 3 1 e 4 d 5 d
+Declarations
+Ethics approval and consent to participate
+All participants digitally signed an informed consent form, which outlined 
+the study’s objectives and procedures. This research adhered to the Helsinki 
+Declaration on Human Research and was approved by the University Ethics 
+Committee (CIPI/2024(611)).
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no competing interests.
+Author details
+1Departamento de Ciencias Sociales, Universidad de la Costa, (Atlántico), 
+Barranquilla, Colombia
+2Universidad Europea de Madrid, Madrid, Spain
+3Facultad de Ciencias de la Salud, Universidad Simón Bolívar, Barranquilla, 
+Colombia
+4Faculty of Sports Sciences, Universidad Europea de Madrid, Madrid, 
+Spain
+5Grupo de Investigación en Cultura, Educación y Sociedad, Universidad 
+de la Costa, (Atlántico), Barranquilla, Colombia
+Received: 12 December 2024 / Accepted: 18 June 2025
+References
+1. McEwen BS. Stress, adaptation, and disease: allostasis and allostatic load. Ann 
+N Y Acad Sci. 1998;840(1):33–44.
+2. Chrousos GP , Gold PW. The concepts of stress and stress system disorders: overview of physical and behavioral homeostasis. JAMA. 
+1992;267(9):1244–52.
+3. Hermans EJ, Hendler T, Kalisch R. Building Resilience: The Stress Response as 
+a Driving Force for Neuroplasticity and Adaptation. Biol Psychiatry [Internet]. 
+2025;97(4):330–8. Available from: h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 / j . b i o p s y c h . 2 0 2 4 . 1 0 . 
+0 1 6
+4. Lazarus RS. Psychological stress in the workplace. Occupational stress. CRC; 
+2020. pp. 3–14.
+5. Stecz P , Makara-Studzińska M, Białka S, Misiołek H. Stress responses in 
+high-fidelity simulation among anesthesiology students. Sci Rep [Internet].
+
+--- Page 13 --Page 13 of 14
+Benítez-Agudelo et al. BMC Psychology (2025) 13:753 
+2021;11(1):17073. Available from: h t t p s : / / d o i . o r g / 1 0 . 1 0 3 8 / s 4 1 5 9 8 - 0 2 1 - 9 6 2 7 
+9 - 7
+6. Agorastos A, Chrousos GP . The neuroendocrinology of stress: the stressrelated continuum of chronic disease development. Mol Psychiatry [Internet]. 
+2022;27(1):502–13. Available from: h t t p s : / / d o i . o r g / 1 0 . 1 0 3 8 / s 4 1 3 8 0 - 0 2 1 - 0 1 2 2 
+4 - 9
+7. Crosswell AD, Lockwood KG. Best practices for stress measurement: How to 
+measure psychological stress in health research. Heal Psychol Open [Internet]. 2020;7(2):2055102920933072. Available from: h t t p s : / / d o i . o r g / 1 0 . 1 1 7 7 / 2 0 
+5 5 1 0 2 9 2 0 9 3 3 0 7 2
+8. Forman HJ, Zhang H. Targeting oxidative stress in disease: promise and limitations of antioxidant therapy. Nat Rev Drug Discov [Internet]. 2021;20(9):689–
+709. Available from: h t t p s : / / d o i . o r g / 1 0 . 1 0 3 8 / s 4 1 5 7 3 - 0 2 1 - 0 0 2 3 3 - 1
+9. Deng J, Zhang L, Cao G, Yin H. Effects of adolescent academic stress on sleep 
+quality: mediating effect of negative affect and moderating role of peer 
+relationships. Curr Psychol. 2023;42(6):4381–90.
+10. Walker WH, Walton JC, DeVries AC, Nelson RJ. Circadian rhythm disruption 
+and mental health. Transl Psychiatry [Internet]. 2020;10(1):28. Available from: 
+h t t p s : / / d o i . o r g / 1 0 . 1 0 3 8 / s 4 1 3 9 8 - 0 2 0 - 0 6 9 4 - 0
+11. Liu X, Li Y, Cao X. Bidirectional reduction effects of perceived stress and 
+general self-efficacy among college students: a cross-lagged study. Humanit 
+Soc Sci Commun [Internet]. 2024;11(1):271. Available from: h t t p s : / / d o i . o r g / 1 0 . 
+1 0 5 7 / s 4 1 5 9 9 - 0 2 4 - 0 2 7 8 5 - 0
+12. Alharbi HF, Abaoud AF, Almutairi M, Alzahrani NS, Almarwani AM, Alenezi A et 
+al. Gender differences in acute and perceived stress, bullying, and academic 
+motivation among nursing and midwifery students. BMC Nurs [Internet]. 
+2025;24(1):26. Available from: h t t p s : / / d o i . o r g / 1 0 . 1 1 8 6 / s 1 2 9 1 2 - 0 2 4 - 0 2 6 6 6 - 6
+13. Barbayannis G, Bandari M, Zheng X, Baquerizo H. Academic stress and 
+mental Well-Being in college students: correlations. Affected Groups and. 
+2022;13(May):1–10.
+14. Sasser J, Doane LD, Su J, Grimm KJ. Stress and diurnal cortisol among 
+latino/a college students: A multi-risk model approach. Dev Psychopathol. 
+2024;36(2):719–35.
+15. Kristensen SM, Larsen TMB, Urke HB, Danielsen AG, Academic, Stress. Academic Self-efficacy, and psychological distress: A moderated mediation of 
+Within-person effects. J Youth Adolesc. 2023;52(7):1512–29.
+16. Zhang W, Yan W, Jin P , Wei Y. Unveiling the impact of school organizational 
+justice on students ’ professional commitment through academic stress 
+mediation. 2024;1–18.
+17. Liu X, Zhang Y, Gao W, Cao X. Developmental trajectories of depression, anxiety, and stress among college students: a piecewise growth mixture model 
+analysis. Humanit Soc Sci Commun. 2023;10(1):1–10.
+18. Sanogo F, Ruth A, Cortessis VK, Ding L, Watanabe RM, Weigensberg MJ. Associations between perceived stress and cortisol biomarkers in predominantly 
+Latino adolescents. Sci Rep [Internet]. 2025;15(1):11572. Available from: h t t p s : 
+/ / d o i . o r g / 1 0 . 1 0 3 8 / s 4 1 5 9 8 - 0 2 5 - 9 5 6 0 3 - 9
+19. Capellino S, Claus M, Watzl C. Regulation of natural killer cell activity by 
+glucocorticoids, serotonin, dopamine, and epinephrine. Cell Mol Immunol 
+[Internet]. 2020;17(7):705–11. Available from: h t t p s : / / d o i . o r g / 1 0 . 1 0 3 8 / s 4 1 4 2 
+3 - 0 2 0 - 0 4 7 7 - 9
+20. Hassamal S. Chronic stress, neuroinflammation, and depression: an overview 
+of pathophysiological mechanisms and emerging anti-inflammatories. Front 
+Psychiatry. 2023;14(May).
+21. Redondo-Flórez L, Ramos-Campo DJ, Clemente-Suárez VJ. Relationship 
+between physical fitness and academic performance in university students. 
+Int J Environ Res Public Health. 2022;19(22).
+22. McBride EE, Greeson JM. Mindfulness, cognitive functioning, and academic 
+achievement in college students:the mediating role of stress. Curr Psychol 
+[Internet]. 2023;42(13):10924–34. Available from: h t t p s : / / d o i . o r g / 1 0 . 1 0 0 7 / s 1 2 1 
+4 4 - 0 2 1 - 0 2 3 4 0 - z
+23. Ansari S, Khan I, Iqbal N. Association of stress and emotional well-being in 
+non-medical college students: A systematic review and meta-analysis. J 
+Affect Disord [Internet]. 2025;368:200–23. Available from: h t t p s : / / w w w . s c i e n c 
+e d i r e c t . c o m / s c i e n c e / a r t i c l e / p i i / S 0 1 6 5 0 3 2 7 2 4 0 1 5 1 2 X
+24. Clemente-suárez VJ, Beltrán-Velasco AI, Mendoza-Castejón D, RodriguezBesteiro S, Lopez-Varas F, Martin-Rodríguez A. Comparative analysis of 
+academic, behavioral, and Psychophysiological variables in male and female 
+vocational training students. Children. 2024;11.
+25. Ramos-Campo DJ, Clemente-Suárez VJ. The correlation between motor skill 
+proficiency and academic performance in high school students. Behav Sci 
+(Basel). 2024;14(7).
+26. Sánchez-Conde P , Beltrán-Velasco AI, Clemente-Suárez VJ. Analysis of the 
+objective and subjective stress response of students and professors in practical nursing exams and their relationship with academic performance. Int J 
+Environ Res Public Health. 2022;19(15).
+27. Jiang J, Kwok SYCL, Deng X. Effects of social mistreatment, academic 
+alienation, and developmental challenge on university students’ well-being 
+through coping strategies: A longitudinal study. Br J Educ Psychol. 2024.
+28. Rammstedt B, John OP . Measuring personality in one minute or less: A 
+10-item short version of the big five inventory in english and German. J Res 
+Pers. 2007;41(1):203–12.
+29. Robles-Haydar CA, Amar-Amar J, Martínez-González MB. Validation of the big 
+five questionnaire (BFQ-C), short version, in Colombian adolescents. Salud 
+Ment. 2022;45(1):29–34.
+30. Zung WWK. A Self-Rating Depression Scale. Arch Gen Psychiatry [Internet]. 
+1965;12(1):63–70. Available from: h t t p s : / / d o i . o r g / 1 0 . 1 0 0 1 / a r c h p s y c . 1 9 6 5 . 0 1 7 2 
+0 3 1 0 0 6 5 0 0 8
+31. Del Águila Montoya LM, Pinedo Córdova MF, Soto Sánchez SS, Torres Dávila 
+A, Tapullima-Mori C. Escala de depresión de zung: propiedades Psicométricas 
+En portadores Del virus de La inmunodeficiencia humana. Rev Peru Ciencias 
+La Salud. 2021;3(4):e358.
+32. Russell DW. UCLA loneliness scale (Version 3): reliability, validity, and factor 
+structure. J Pers Assess. 1996;66(1):20–40.
+33. Van Knippenberg FCE, Duivenvoorden HJ, Bonke B, Passchier J. Shortening 
+the state-trait anxiety inventory. J Clin Epidemiol. 1990;43(9):995–1000.
+34. Castellote-Caballero Y, Carcelén-Fraile M, del Aibar-Almazán C, Rivas-Campo 
+A, González-Martín Y. Yoga as a therapeutic approach to mental health 
+in university students: a randomized controlled trial. Front Public Heal. 
+2024;12(June):1–10.
+35. González-Álvarez ME, Riquelme-Aguado V, Rossettini G, Fernández-Carnero J, 
+Villafañe JH. Exercise intervention in women with fibromyalgia and its influence on pain, psychological variables, and disability: an observational study. 
+Life. 2025;15(1):1–14.
+36. Fernández-Blázquez MA, Ávila-Villanueva M, López-Pina JA, Zea-Sevilla MA, 
+Frades-Payo B. Psychometric properties of a new short version of the StateTrait Anxiety Inventory (STAI) for the assessment of anxiety in the elderly. 
+Neurologia [Internet]. 2015;30(6):352–8. Available from: h t t p s : / / d o i . o r g / 1 0 . 1 0 
+1 6 / j . n r l . 2 0 1 3 . 1 2 . 0 1 5
+37. Bond FW, Hayes SC, Baer RA, Carpenter KM, Guenole N, Orcutt HK, et al. Preliminary psychometric properties of the acceptance and action Questionnaire-II: A revised measure of psychological inflexibility and experiential 
+avoidance. Behav Ther. 2011;42(4):676–88.
+38. Herrero J, Meneses J. Short Web-based versions of the perceived stress (PSS) 
+and center for epidemiological Studies-Depression (CESD) scales: A comparison to pencil and paper responses among internet users. Comput Hum 
+Behav. 2006;22(5):830–46.
+39. Peris-Ramos HC, Míguez MC, Rodriguez-Besteiro S, David-Fernandez S, 
+Clemente-Suárez VJ. Gender-Based differences in psychological, nutritional, 
+physical activity, and oral health factors associated with stress in teachers. Int 
+J Environ Res Public Health. 2024;21(4).
+40. Jiménez-Morcillo J, Ramos-Campo DJ, Rodríguez-Besteiro S, Clemente-Suárez 
+VJ. The association of body image perceptions with behavioral and health 
+outcomes among young adults. Nutrients. 2024;16(9):1–13.
+41. Martín-Rodríguez A, Tornero-Aguilera JF, López-Pérez PJ, Clemente-Suárez VJ. 
+Overweight and executive functions, psychological and behavioral profile of 
+Spanish adolescents. Physiol Behav. 2022;254:113901.
+42. Cancela Carral JM, Lago Ballesteros J, Ayán Pérez C, Mosquera Morono MB. 
+Análisis de fiabilidad y validez de tres cuestionarios de autoinforme para 
+valorar la actividad física realizada por adolescentes españoles. Gac Sanit 
+[Internet]. 2016;30(5):333–8. Available from: h t t p s : / / w w w . s c i e n c e d i r e c t . c o m / s 
+c i e n c e / a r t i c l e / p i i / S 0 2 1 3 9 1 1 1 1 6 3 0 0 5 5 3
+43. Craig CL, Marshall AL, Sjöström M, Bauman AE, Booth ML, Ainsworth BE, et al. 
+International physical activity questionnaire: 12-country reliability and validity. Med Sci Sports Exerc. 2003;35(8):1381–95.
+44. Regueros AC, Bustamante-Sánchez Á, Clemente-Suárez VJ. Validity of photoplethysmography mobile analysis to test the autonomic stress status of 
+tactical athletes. Rom J Mil Med. 2023;126(4):486–91.
+45. Clemente-Suárez VJ. Multidisciplinary intervention in the treatment of mixed 
+anxiety and depression disorder. Physiol Behav. 2020;219:112858.
+46. Gignac GE, Szodorai ET. Effect size guidelines for individual differences 
+researchers. Pers Individ Dif. 2016;102:74–8.
+47. Stores R, Linceviciute S, Pilkington K, Ridge D. Sleep disturbance, mental 
+health, wellbeing and educational impact in UK university students: a mixed
+
+--- Page 14 --Page 14 of 14
+Benítez-Agudelo et al. BMC Psychology (2025) 13:753 
+methods study. J Furth High Educ [Internet]. 2023;47(8):995–1008. Available 
+from: h t t p s : / / d o i . o r g / 1 0 . 1 0 8 0 / 0 3 0 9 8 7 7 X . 2 0 2 3 . 2 2 0 9 7 7 7
+48. Hershner S. Sleep and academic performance: measuring the impact of 
+sleep. Curr Opin Behav Sci [Internet]. 2020;33:51–6. Available from: h t t p s : / / d o i 
+. o r g / 1 0 . 1 0 1 6 / j . c o b e h a . 2 0 1 9 . 1 1 . 0 0 9
+49. Zimmerman ME, Benasi G, Hale C, Yeung LK, Cochran J, Brickman AM et al. 
+The effects of insufficient sleep and adequate sleep on cognitive function in 
+healthy adults. Sleep Heal [Internet]. 2024;10(2):229–36. Available from: h t t p s : 
+/ / w w w . s c i e n c e d i r e c t . c o m / s c i e n c e / a r t i c l e / p i i / S 2 3 5 2 7 2 1 8 2 3 0 0 2 9 3 0
+50. Gilstrap SR, Hobson JM, Dark HE, Gloston GF, Cody SL, Goodin BR, et al. Disordered sleep and its association with academic performance and functioning. 
+Sleep Biol Rhythms. 2023;21(1):113–23.
+51. Mehta KJ. Effect of sleep and mood on academic performance—at interface 
+of physiology, psychology, and education. Humanit Soc Sci Commun [Internet]. 2022;9(1):16. Available from: h t t p s : / / d o i . o r g / 1 0 . 1 0 5 7 / s 4 1 5 9 9 - 0 2 1 - 0 1 0 3 
+1 - 1
+52. Humphries RK, Bath DM, Burton NW. Dysfunctional beliefs, sleep hygiene and 
+sleep quality in university students. Heal Promot J Aust. 2022;33(1):162–9.
+53. Barret N, Guillaumée T, Rimmelé T, Cortet M, Mazza S, Duclos A, et al. Associations of coping and health-related behaviors with medical students’ wellbeing and performance during objective structured clinical examination. Sci 
+Rep. 2024;14(1):11298.
+54. Epel ES, Crosswell AD, Mayer SE, Prather AA, Slavich GM, Puterman E et al. 
+More than a feeling: A unified view of stress measurement for population 
+science. Front Neuroendocrinol [Internet]. 2018;49:146–69. Available from: h t t 
+p s : / / w w w . s c i e n c e d i r e c t . c o m / s c i e n c e / a r t i c l e / p i i / S 0 0 9 1 3 0 2 2 1 8 3 0 0 2 1 9
+55. Campbell J, Ehlert U. Acute psychosocial stress: Does the emotional stress 
+response correspond with physiological responses? Psychoneuroendocrinology [Internet]. 2012;37(8):1111–34. Available from: h t t p s : / / w w w . s c i e n c e d i r e c t 
+. c o m / s c i e n c e / a r t i c l e / p i i / S 0 3 0 6 4 5 3 0 1 1 0 0 3 6 5 9
+56. Becker S, Spinath B, Ditzen B, Dörfler T. Psychological stress = physiological 
+stress? An experimental study with prospective teachers. J Psychophysiol. 
+2023;37(1):12–24.
+57. Thayer JF, Lane RD. Claude Bernard and the heart-brain connection: further 
+elaboration of a model of neurovisceral integration. Neurosci Biobehav Rev. 
+2009;33(2):81–8.
+58. Almarzouki AF. Stress, working memory, and academic performance: a 
+neuroscience perspective. Stress. 2024;27(1):2364333.
+59. Pham T, Lau ZJ, Chen SHA, Makowski D. Heart rate variability in psychology: A 
+review of Hrv indices and an analysis tutorial. Sensors. 2021;21(12):1–20.
+60. McEwen BS, Sapolsky RM. Stress and cognitive function. Curr Opin Neurobiol 
+[Internet]. 1995;5(2):205–16. Available from: h t t p s : / / w w w . s c i e n c e d i r e c t . c o m / s 
+c i e n c e / a r t i c l e / p i i / 0 9 5 9 4 3 8 8 9 5 8 0 0 2 8 X
+61. Sharififard F, Asayesh H, Hosseini MHM, Sepahvandi M. Motivation, self-efficacy, stress, and academic performance correlation with academic burnout 
+among nursing students. J Nurs MIDWIFERY Sci. 2020;7(2):88–93.
+62. Matsuura Y, Ochi G. The potential of heart rate variability monitoring for mental health assessment in top wheel gymnastics athletes: A single case design. 
+Appl Psychophysiol Biofeedback. 2023;48(3):335–43.
+63. Lampert R, Tuit K, Hong KI, Donovan T, Lee F, Sinha R. Cumulative stress and 
+autonomic dysregulation in a community sample. Stress. 2016;19(3):269–79.
+64. Kim HG, Cheon EJ, Bai DS, Lee YH, Koo BH. Stress and heart rate variability: A Meta-Analysis and review of the literature. Psychiatry Investig. 
+2018;15(3):235–45.
+65. Nicolini P , Malfatto G, Lucchi T. Heart rate variability and cognition: A narrative 
+systematic review of longitudinal studies. J Clin Med. 2024;13(1).
+66. Arakaki X, Arechavala RJ, Choy EH, Bautista J, Bliss B, Molloy C, et al. The 
+connection between heart rate variability (HRV), neurological health, and 
+cognition: A literature review. Front Neurosci. 2023;17:1055445.
+67. Martin K, Périard J, Rattray B, Pyne DB. Physiological Factors Which Influence Cognitive Performance in Military Personnel. Hum Factors [Internet]. 
+2019;62(1):93–123. Available from: h t t p s : / / d o i . o r g / 1 0 . 1 1 7 7 / 0 0 1 8 7 2 0 8 1 9 8 4 1 7 5 
+7
+68. Portnova GV, Liaukovich KM, Vasilieva LN, Alshanskaia EI. Autonomic and 
+Behavioral Indicators on Increased Cognitive Loading in Healthy Volunteers. 
+Neurosci Behav Physiol [Internet]. 2023;53(1):92–102. Available from: h t t p s : / / d 
+o i . o r g / 1 0 . 1 0 0 7 / s 1 1 0 5 5 - 0 2 3 - 0 1 3 9 4 - 9
+69. Horanicova S, Husarova D, Madarasova Geckova A, Lackova Rebicova M, 
+Sokolova L, de Winter AF et al. Adolescents’ academic performance: what 
+helps them and what hinders them from achievement and success? Front 
+Psychol [Internet]. 2024;Volume 15. Available from: h t t p s : / / w w w . f r o n t i e r s i n . o r 
+g / j o u r n a l s / p s y c h o l o g y / a r t i c l e s / h t t p s : / / d o i . o r g / 1 0 . 3 3 8 9 / f p s y g . 2 0 2 4 . 1 3 5 0 1 0 5
+70. Cage E, Jones E, Ryan G, Hughes G, Spanner L. Student mental health and 
+transitions into, through and out of university: student and staff perspectives. 
+J Furth High Educ [Internet]. 2021;45(8):1076–89. Available from: h t t p s : / / d o i . o 
+r g / 1 0 . 1 0 8 0 / 0 3 0 9 8 7 7 X . 2 0 2 1 . 1 8 7 5 2 0 3
+71. Koppenborg KA, Garnefski N, Kraaij V, Ly V. Academic stress, mindfulnessrelated skills and mental health in international university students. J Am Coll 
+Heal [Internet]. 2024;72(3):787–95. Available from: h t t p s : / / d o i . o r g / 1 0 . 1 0 8 0 / 0 7 
+4 4 8 4 8 1 . 2 0 2 2 . 2 0 5 7 1 9 3
+72. Daşcı E, Salihoğlu K, Daşcı E. The relationship between tolerance for uncertainty and academic adjustment: the mediating role of students’ psychological flexibility during COVID-19. Front Psychol. 2023;14(November):1–13.
+73. Kashdan TB, Rottenberg J. Psychological flexibility as a fundamental aspect of 
+health. Clin Psychol Rev. 2010;30(7):865–78.
+74. Wersebe H, Lieb R, Meyer AH, Hofer P , Gloster AT. The link between stress, 
+well-being, and psychological flexibility during an acceptance and 
+commitment therapy self-help intervention. Int J Clin Health Psychol. 
+2018;18(1):60–8.
+75. Levin ME, MacLane C, Daflos S, Seeley J, Hayes SC, Biglan A, et al. Examining 
+psychological inflexibility as a transdiagnostic process across psychological 
+disorders. J Context Behav Sci. 2014;3(3):155–63.
+76. James KA, Stromin JI, Steenkamp N, Combrinck MI. Understanding the 
+relationships between physiological and psychosocial stress, cortisol and 
+cognition. Front Endocrinol (Lausanne) [Internet]. 2023;Volume 14. Available 
+from: h t t p s : / / w w w . f r o n t i e r s i n . o r g / j o u r n a l s / e n d o c r i n o l o g y / a r t i c l e s / h t t p s : / / d o i 
+. o r g / 1 0 . 3 3 8 9 / f e n d o . 2 0 2 3 . 1 0 8 5 9 5 0
+77. Quinn DM, Canevello A, Crocker JK. Understanding the role of depressive 
+symptoms in academic outcomes: A longitudinal study of college roommates. PLoS ONE. 2023;18(6):e0286709.
+78. Gil TC, Obando D, García-Martín MB, Sandoval-Reyes J, Perfectionism. 
+Academic stress, rumination and worry: A predictive model for anxiety and 
+depressive symptoms in university students from Colombia. Emerg Adulthood. 2023;11(5):1091–105.
+79. Schlatter S, Louisy S, Canada B, Thérond C, Duclos A, Blakeley C, et al. Personality traits affect anticipatory stress vulnerability and coping effectiveness in 
+occupational critical care situations. Sci Rep. 2022;12(1):20965.
+80. Le Saux O, Canada B, Debarnot U, Haouhache NEH, Lehot JJ, Binay M, et 
+al. Association of personality traits with the efficacy of stress management 
+interventions for medical students taking objective structured clinical examinations. Acad Med. 2024;99(7):784–93.
+81. Zhao Y. The impact of college students’ academic stress on student satisfaction from a typological perspective: A latent profile analysis based on academic Self-Efficacy and positive coping strategies for stress. Behav Sci (Basel). 
+2024;14(4).
+82. Zavaleta JC, Alva RY, Vargas SV, Medina EF, Somoza YP , Andrade-Arenas L. 
+Relationship between stress and academic performance: an analysis in virtual 
+mode. Int J Adv Comput Sci Appl. 2021;12(12):823–33.
+83. Métais A, Omarjee M, Valero B, Gleich A, Mekki A, Henry A, et al. Determining 
+the influence of an intervention of stress management on medical students’ 
+levels of Psychophysiological stress: the protocol of the PROMESS-Stress clinical trial. BMC Med Educ. 2025;25(1):225.
+84. Ruet A, Ndiki Mayi EF, Métais A, Valero B, Henry A, Duclos A, et al. Determining the influence of a sleep improvement intervention on medical students’ 
+sleep and fatigue: protocol of the PROMESS-Sleep clinical trial. BMC Med 
+Educ. 2025;25(1):267.
+85. Métais A, Besnard L, Valero B, Henry A, Schott AM, Rode G, et al. Addressing medical students’ health challenges: codesign and pilot testing of the 
+preventive remediation for optimal medical students (PROMESS) program. 
+BMC Med Educ. 2025;25(1):812.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.
