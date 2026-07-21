@@ -1,0 +1,670 @@
+--- Page 1 --77
+Zagreb International Review of Economics & Business, V ol. 24, Special Conference Issue, pp. 77-94, 2021
+© 2020 Faculty of Economics and Business, University of Zagreb and De Gruyter Open
+All rights reserved. Printed in Croatia
+ISSN 1331-5609; UDC: 33+65
+DOI: 10.2478/zireb-2021-0021
+CONFERENCE PAPER
+* Nina Pološki V okić and Milka Rimac Bilušić are at Faculty of Economics and Business Zagreb, Trg 
+J. F. Kennedy 6, 10000 Zagreb, Croatia.
+** Iva Perić is at Assist d.o.o., 10000 Zagreb, Croatia.
+Work-Study-Life Balance – the Concept, its Dyads, SocioDemographic Predictors and Emotional Consequences
+Nina Pološki Vokić *
+Milka Rimac Bilušić *
+Iva Perić **
+Abstract: The concept of working students meeting triple demands of their work, studies and private 
+life has not been sufficiently described or empirically supported in the literature, although 
+combining work and study is not only a necessity for many students, but a common phenomenon among them. As well, studies so far focused on the dyads of work-nonwork relationship, predominantly on the work-study conflict/balance and rarely on the study-life 
+conflict/balance, while the triad of work-study-life balance (WSLB) is understudied. This 
+study is the first one to empirically examine the WSLB concept, defined as a balance of 
+conjoining three ‘categories of student commitment’ – their work obligations, demands 
+of their studies and their private life, using a methodology grounded in the work-life balance (WLB) theory. We conducted a cross-sectional quantitative study on a sample of 235 
+students, focused on the most relevant dyads of the WSLB concept, socio-demographic 
+predictors and emotional consequences of WSLB. Our five key findings are: (1) it is possible to balance work, studies and private life, (2) work-study balance (WSB) is critical for 
+achieving WSLB, (3) all subgroups of students based on their socio-demographic characteristics are equally (un)successful in achieving balance between and among various life 
+aspects, (4) WSLB is significantly participating in students’ emotional state in terms of 
+their happiness, unhappiness and relaxation, and (5) the study-life balance (SLB) dyad is 
+the most relevant dyad for the students’ emotional state.
+Keywords: work-study-life balance (WSLB); work-study balance (WLB); study-life balance (SLB); 
+work-life balance (WLB); emotional state
+JEL Classification: M1, M5, I1, I2
+
+--- Page 2 --78
+Nina Pološki Vokić, Milka Rimac Bilušić, Iva Perić
+Introduction
+According to the EUROSTUDENT project, covering a large part of the European 
+Higher Education Area (EHEA), 69 percent of students pursue a paid job at least 
+from time to time during lecture period and/or lecture-free period, with particularly 
+large shares of working students found in Estonia, the Czech Republic, Iceland, Norway and Slovakia, and around 66 percent in Croatia (Hauschildt, Gwosc & Vögtle, 
+2018), in which an exploratory study presented in this paper was conducted. Namely, work whilst studying is increasingly a student experience around the world over 
+the last decades (e.g., Barron & Anastasiadou, 2009; Robotham, 2012), because of a 
+variety of reasons. A predominant reason for working while attending school is the 
+financial necessity – paying for educational and living expenses or supplementing 
+one’s income (e.g., Lowe & Gayle, 2016; Watts & Pickering, 2000). Moreover, participating in the labour market during studies is beneficial for students’ academic work 
+when related to their curriculum (e.g., Lingard, 2007), for acquiring practical knowledge and work-relevant skills, such as time-management, communication, interper sonal, teamwork, conflict-handing and customer care skills (e.g., Curtis & Lucas, 
+2001; McNall & Michel, 2017; Robotham, 2012), and for gaining work experience 
+and developing contacts relevant for future employability and career development 
+(e.g., Barron & Anastasiadou, 2009; Leonard, 1995; Ong & Ramia, 2009). However, 
+because of the inter-role conflict and related stress, engagement in paid work can also 
+be detrimental to students’ academic performance because less time is left for at tending classes and study, which can result in poorer marks, longer time to complete 
+the degree or dropping out (e.g., Dundes & Marx, 2006; Park & Sprung, 2013; Tessema, Ready & Astani, 2014), decrease their physical and mental health (e.g., Carney, 
+McNeish & McColl, 2005; Lingard, 2007; Robotham, 2012) or lead to the reduced 
+time for getting to know other students, socializing with family and friends or leisure 
+activities (e.g., Moreau & Leathwood, 2006; Nartey Tettesh & Korkor Attiogbe, 2019; 
+Tessema et al., 2014).
+Although an increasing number of students are taking on the role of ‘earner’ and 
+‘learner’ simultaneously (McNall & Michel, 2017), and that various positive and negative outcomes of employment whilst studying have been documented, research has 
+lagged behind as far as how working students juggle several life roles (e.g., McNall 
+& Michel, 2017; Park & Sprung, 2015). Furthermore, studies so far focused on the inter-role conflict working students experience, but not on the balance between spheres 
+as a positive side of the same coin. As well, studies so far focused on the dyads of 
+work-nonwork relationship, predominantly on work-study1 conflict and rarely on the 
+study-life2 conflict, while the triad of work-study-life balance 3 (WSLB) was, to the 
+best of our knowledge, explored only three times – once qualitatively (see Martinez 
+et al., 2013), and twice quantitatively by using a single-item WSLB scale (see Lowe & 
+Gayle, 2007 and Lowe & Gayle, 2016). The WSLB concept emerged in the literature
+
+--- Page 3 --79
+Work-Study-Life Balance – the Concept, its Dyads, Socio-Demographic Predictors and Emotional...
+on students around the 2010s (see Lowe & Gayle, 2007; Martinez et al., 2013; Ong 
+& Ramia, 2009), but both desk and field research contributions in the field are still 
+needed.
+Experiences of employed students related to the balance they strive to achieve 
+in their lives – the balance among work, school and personal life, should be further 
+explored, especially as the work-life balance (WLB) of working adults is a widely 
+researched field that provides a valuable basis for the development of the WSLB 
+framework. Therefore, we conducted a theoretical recapitulation and an empirical, 
+cross-sectional quantitative study focused on the most relevant dyads of the WSLB 
+concept, socio-demographic predictors and emotional consequences of WSLB. For 
+framing our research, we drew upon Lowe and Gayle (2007) who believe that cat egories of students that are more or less likely to achieve successful integration of 
+various life aspects are understudied, as well as Sprung and Rogers (2020) who recommend that the balance between multiple students’ roles should be considered in 
+relation to students’ mental health.
+Theoretical background and research questions
+The work-study-life balance defined
+A theoretical perspective that holds potential for understanding the WSLB inter face is a WLB concept. One of the most popular definitions of WLB, by Greenhaus, 
+Collins and Shaw (2003), defines it as the equal distribution of time, energy and 
+commitment to work and non-work roles. However, this definition has been upgraded 
+with a ‘situational’ approach (Kossek, Valcour & Lirio, 2014), as most authors accentuate that the balance depends on individual’s situation and perception (e.g., Clark, 
+2000; Hughes & Bozionelos, 2005; Kalliath & Brough, 2008). Therefore, WLB is 
+defined as the relationship between work and non-work aspects of life that results 
+in a satisfactory equilibrium between the multiple roles in an individual’s life (e.g., 
+Kelliher, Richardson & Boiarintseva, 2018) or the degree to which an individual is 
+able to simultaneously balance the temporal, emotional and behavioural demands of 
+various responsibilities (Hill et al., 2001). It is an individual perception of how much 
+work and non-work activities are compatible and promote growth in accordance with 
+an individual’s current life priorities (Kalliath & Brough, 2008), having in mind that 
+priorities can shift across the life course (e.g., Greenhaus & Allen, 2011).
+The concept of work-nonwork balance is highly relevant to those attending higher 
+education since they need to balance their professional demands (work, study, extracurricular requirements) with their leisure activities and personal needs during their 
+schooling (Sprung & Rogers, 2020). So far, researchers were concentrated on defining a work-study balance (WSB) by defining a work-school conflict (WSC), which
+
+--- Page 4 --80
+Nina Pološki Vokić, Milka Rimac Bilušić, Iva Perić
+is defined as a conflict that occurs when addressing work-related demands drains 
+student workers’ resources and constrains their ability to fulfil school responsibil ities (Markel & Frone, 1998). It is the conflict that represents the extent to which 
+involvement in one role (e.g., work) interferes with students’ ability to participate in 
+the other role (e.g., university) (Lingard, 2007), in other words the inter-role conflict 
+that emerges from managing multiple and sometimes conflicting demands of student 
+and employee (McNall & Michel, 2017) due to the finite nature of human resources 
+(e.g., time, energy, and attention) (Park & Sprung, 2015). At the same time, a much 
+less explored study-life conflict (SLC) is defined as the conflict between students’ 
+coursework and personal life activities that oftentimes results in students prioritis ing academic at the expense of personal factors, including relationships, physical 
+and mental fitness (Kumar & Chaturvedi, 2018). Consequently, the study-life balance 
+(SLB) could be defined as a balance between students’ educational experiences and 
+personal life.
+Originating from the definitions of WLB, WSB, and SLB, a work-study-life balance (WSLB) could be defined as a balance of conjoining three ‘categories of student 
+commitment’ – their work obligations, demands of their studies, and their private life 
+(developed using O’Mahony & Jeske, 2019 and Ong & Ramia, 2009). WSLB cap tures the experience of students studying but also working, as well as trying to bal ance these demands in order to meet social or familial responsibilities (O’Mahony & 
+Jeske, 2019). When not present, WSLB results in students overextending themselves 
+in order to satisfy their demands, for example, a student may restrain from relaxation 
+after a stressful workday because he/she may still need to prepare for an exam the 
+next day (Park & Sprung, 2015).
+The presented definition of WSLB implies that it is a standalone concept, but 
+at the same time a concept composed of the three dyads of life aspects balance – 
+WLB, WSB and SLB. Consequently, it is relevant to explore which of the dyads of 
+the WSLB concept is significantly contributing and/or contributing the most to the 
+integral concept, and therefore our first research question is:
+RQ1 = Which dyad of the WSLB concept is most relevant for the total WSLB?
+Predictors of work-study-life balance
+Researchers have developed and tested models of WLB antecedents in adult life, revealing various personal predictors, such as age, gender, family involvement, energy 
+level, psychological traits and career stage, as well as various organizational predictors, such as job demands and resources, flexible working schedule, organizational 
+support, friendly climate and HRM practices in general (e.g., Beauregard & Henry, 
+2009; De Cieri et al., 2005; Guest, 2002; Sirgy & Lee, 2018; White, 2003), to be relevant for achieving a desired WLB.
+
+--- Page 5 --81
+Work-Study-Life Balance – the Concept, its Dyads, Socio-Demographic Predictors and Emotional...
+Unfortunately, a very little theory development is related to the predictors of 
+inter-role conflict affecting young adults during their education (Lingard, 2007). 
+Researchers revealed that time commitments to paid work which reduce the time 
+available to fulfil duties required of another role, working hours, job demands, and 
+study workload are associated with an increased WSC (e.g., Butler, 2007; Lingard, 
+2007; O’Mahony & Jeske, 2019), while the type of work (part-time vs. full-time), 
+resilience, personality traits, mental and physical health (especially emotional sta bility), coping and stress-relief strategies, creating personal time, setting priorities 
+and making trade-offs, and the quality of support received from families, employers 
+and educational institution are associated with a good or manageable WSLB (e.g., 
+Kumar & Chaturvedi, 2018; Lowe & Gayle, 2007; Martinez et al., 2013; McNall & 
+Michel, 2011). However, so far, a research on the role of various socio-demographic 
+characteristics of students in coping with the demands of multiple roles is missing, 
+and therefore the second research question of our study is:
+RQ2 = Do students differ in the achieved WSLB depending on their socio-demographic characteristics?
+The relationship between work-study-life balance and students’ emotional state
+The work-life literature indicates that a good balance results in positive individu al-level outcomes such as greater job satisfaction and organizational commitment, 
+less burnout, better mental and physical health, and better performance, as well as 
+in positive organizational-level outcomes such as lower absenteeism/presenteeism/
+turnover rates and greater profitability (e.g., Greenhaus et al., 2003; Haar, 2013; 
+Haar et al., 2014; Fleetwood, 2007; Sirgy & Lee, 2018). The emotional state, as 
+one of the focal points of our research, is greatly explored in relation to WLB. A 
+balanced life is found to be positively related to life satisfaction, and negatively 
+related to psychological stress, emotional exhaustion, hostility, anxiety and depres sion (e.g., Allen et al., 2000; Ford & Collinson, 2011; Haar, 2013; Haar et al., 2014; 
+Sirgy & Lee, 2018).
+The work-study-life literature, exploring predominantly specific dyads from the 
+WSLB framework, implies that WSC is related to lower school satisfaction and 
+school performance, reduced time for socializing and poor interpersonal relations, 
+increased stress, and negative psychological and physical health outcomes (including 
+lower sleep quality and fatigue), while WSB is related to lower stress perceived, higher job satisfaction, better overall life satisfaction, and higher academic performance 
+(greater hours studying and higher grades) (e.g., Butler, 2007; Dundes & Marx, 2006; 
+Kumar & Chaturvedi, 2018; Lingard, 2007; Lowe & Gayle, 2007; Markel & Frone, 
+1998; McNall & Michael, 2011; Park & Sprung, 2015; Sprung & Rogers, 2020). Concerning the relationship between WSC and students’ emotional state, as most relevant
+
+--- Page 6 --82
+Nina Pološki Vokić, Milka Rimac Bilušić, Iva Perić
+for our research, WSC is indicated to be related to students’ emotional exhaustion 
+(Lingard, 2007), lower general psychological health and higher school burnout (McNall & Michel, 2017), and mental tension in the form of increased anxiety and de pressive thoughts because of not being able to manage commitments and priorities 
+(Sprung & Rogers, 2020). As research relating WSLB with students’ emotional states 
+is missing, our research question affiliated with this topic is:
+RQ3 = Is WSLB relevant for the students’ emotional state?
+Finally, according to Sprung and Rogers (2020), an interesting area for future 
+research is the direct assessment of students’ prioritized life domains. Precisely, according to those authors, it is important to examine whether or not certain domains 
+are more (or less) likely to lead to problematic mental health outcomes. We therefore 
+pose the following research question:
+RQ4 = Which dyad of the WSLB concept is the critical one for the students’ 
+emotional state?
+Methodology
+Measures
+The WSLB concept has not yet been satisfactory operationalized in the scientific literature. We operationalize it as respondents’ perceptions of the balance they perceive 
+among their studies, work and private lives, using Greenhaus et al. (2003) concept 
+of three components of WLB – time balance, involvement balance and satisfaction 
+balance. The scale consisted of three items (two positive- and one negative-worded 
+item that was reverse scored), which respondents evaluated on a 5-point Likert-type 
+scale (response options from 1 = ‘not at all’ to 5 = ‘completely’), and the sample item 
+is ‘ Are you sufficiently involved in all aspects of your live – studies, work and private 
+life?’ . Cronbach’s alpha above the acceptable reliability cut-off value of .6 implied 
+internal reliability of the scale (α = .614). 
+We assessed dyads of the WSLB concept (SLB, WSB and WLB) using a modi fied version of Bacharach, Bamberger and Conley’s (1991: 44) operationalization of 
+work-life conflict (items were reworded to replace aspects of work or life with study 
+when needed). Each scale consisted of four items implying the presence of imbalance 
+(values later recoded to imply the presence of balance), which respondents evaluated 
+on a 4-point Likert-type scale (response options from 1 = ‘not at all’ to 4 = ‘completely’), and sample items are ‘Do the demands of studying interfere with your home, 
+family or social life?’ , ‘Does the time you spend at work detract you from studying?’ 
+and ‘Does your work have disadvantages for your family or social life?’ . Cronbach’s
+
+--- Page 7 --83
+Work-Study-Life Balance – the Concept, its Dyads, Socio-Demographic Predictors and Emotional...
+alphas for all three scales were above the acceptable reliability cut-off value of .6 
+implying their internal reliability (αSLB = .888; αWSB = .932; αWLB = .825).
+Current emotional state of respondents was assessed using three emotional sub scales according to Sorić (1998) – happiness, unhappiness and relaxation. Subscales 
+consisted of seven, six and four adjectives numbering positive or negative mood 
+states, and respondents were supposed to evaluate how much each adjective describes 
+how they feel right now using a 5-point Likert-type scale (response options from 1 = 
+‘not at all’ to 5 = ‘to a great extent’). Cronbach’s alphas for all three subscales were 
+above the acceptable reliability cut-off value of .6 implying their internal reliability 
+(αH = .948; αUNH = .921; αR = .873).
+Finally, we collected five socio-demographic information – gender, age, field of 
+study, grade point average (GPA) from the previous academic year, and average work 
+hours per week. Thereby it should be noted that three additional ordinal variables 
+were generated from the variable ‘average work hours per week’ , following the Tessema et al.’s (2014) advice that examining the effect of work by grouping students as 
+working or non-working may lead to unrealistic conclusions and that students should 
+be grouped in more categories depending on their hourly workload. The three added 
+variables are: (1) Working status – options ‘not working’ and ‘working’; (2) Work load I – options ‘working up to 20 hours a week’ and ‘working more than 20 hours 
+a week’; and (3) Workload II – options ‘working less than 10 hours’ , ‘working 10 to 
+20’ hours’ , ‘working 20 to 30 hours’ and ‘working more than 30 hours’ . The variable 
+‘Workload I’ is based on Ong and Ramia’s (2009) remark that in many countries 
+around the world full-time students are permitted to work up to 20 hours per week, 
+while the variable ‘Workload II’ is based on Dundes and Marx’s (2006) finding that 
+students working 10 to 19 hours are a specific category as they have better academic 
+results compared to those working fewer than 10 hours per week who are generally 
+similar to nonworkers.
+Sample and data collection
+A web-based survey of both working and non-working students using a snowball 
+nonprobability sampling technique was conducted. Acquaintances of the third author 
+of the paper were contacted by e-mail to participate in the study and provided with an 
+internet link to the online questionnaire. They were also instructed to recruit further 
+subjects from among their acquaintances. The only requirement for participating in 
+the survey was a student status.
+A self-selected sample of 235 respondents with heterogeneous characteristics participated in the study. Their profile is exhibited in Table 1.
+
+--- Page 8 --84
+Nina Pološki Vokić, Milka Rimac Bilušić, Iva Perić
+Table 1: Respondents’ profile
+Characteristics n %
+Gender Male 68 28.7
+Female 167 71.1
+Age
+Minimum 18
+Maximum 29
+Average 22.89
+Field of study
+Social sciences 112 47.7
+Humanities 25 10.6
+Medical sciences 26 11.1
+Natural sciences 43 18.3
+Technical sciences 29 12.3
+GPA (min = 2; max = 5)
+Minimum 2
+Maximum 5
+Average 3.90
+Working students’ average 
+hours of work per week
+Minimum 3
+Maximum 50
+Average 28.98
+Working status Not working 111 47.2
+Working 124 52.8
+Workload I < 20 hours 45 19.2
+> 20 hours 79 33.6
+Workload II
+< 10 hours 6 4.8
+10-20 hours 39 31.5
+20-30 hours 24 19.3
+> 30 hours 55 44.4
+Data analysis
+For determining the internal reliability of applied scales, we calculated Cronbach’s 
+alphas. For analysing respondents’ profile, various types of balance and emotional 
+state, we calculated absolute, relative and average values. For determining the most 
+relevant dyad of the WSLB concept for the integral WSLB and for the three emotional states, we used a multiple linear regression (enter method). For revealing signifi cant differences in respondents’ perceptions of explored types of balance depending 
+on their socio-demographic characteristics, we used correlation analysis (Pearson 
+correlation coefficients) and nonparametric testing (Mann-Whitney U tests or Kru skal-Wallis H tests), depending on the nature of variables. For the analysis of the 
+relationship between respondents’ various types of balance and their current emo tional state, we conducted a correlation analysis (Pearson correlation coefficients) 
+and, as all assumptions of linear regression were met, a multiple linear regression 
+(enter method). For assessing the potential multicollinearity between four variables 
+of balance and three variables of emotional state, we used collinearity diagnostics –
+
+--- Page 9 --85
+Work-Study-Life Balance – the Concept, its Dyads, Socio-Demographic Predictors and Emotional...
+Tolerance (T) (checked at > .10 level) and Variance Inflation Factor (VIF) (checked 
+at < 10 level) (reference values from Hair et al., 2019). Statistical analyses were conducted using the statistical software package IBM SPSS Statistics 21.0.
+Results
+The most relevant dyad of the WSLB concept for the integral WSLB
+The multiple linear regression showed that all three dyads of the WSLB concept are 
+significant for the total WSLB, with WSB being significant at the p < .001 level (βWSB = 
+4.017, p = .000), and SLB and WLB being significant at the p < .05 level (βSLB = 2.263, 
+p = .025; βWLB = 2.460, p = .015). The regression model was significant (F = 32.890, p < 
+.001) and accounted for 67.2 percent of the variance in respondents’ WSLB.
+WSLB, SLB, WSB and WLB according to students’ socio-demographic characteristics
+Altogether, respondents perceive medium to high WSLB (M = 3.23), and medium 
+to high SLB (M = 2.50), WSB (M = 2.80) and WLB (M = 2.75). Interestingly, 50.8 
+percent of respondents perceive a good WSLB (average more than 3), and as much 
+as 40.3 percent of them a very good WSLB (average more than 3.5), implying a high 
+share of success in managing three life aspect.
+Main findings related to various types of balance according to respondents’ so cio-demographic characteristic, presented in Table 2, are: (1) male students perceive 
+greater balance than female students, (2) the older the student, the lower the bal ance he/she perceives, (3) students who study technical and medical sciences per ceive highest levels of balance, (4) the higher the students’ GPA, generally the higher 
+balance perceived, (5) non-working students are perceiving a lower SLB, and (6) in 
+general, the more hours a student works, the lower balance he/she perceives, with 
+the exception of SLB which is generally perceived better by students working more 
+hours. Concerning WSLB, the highest level is perceived by male and younger stu dents, medical and technical sciences students, students with a higher GPA, and students working less than 10 hours per work. Interestingly, respondents’ perceptions of 
+four types of balance do not differ significantly because of their socio-demographic 
+characteristics. Namely, two (GPA and working status) out of eight explored socio-demographic variables were not found to be statistically significant for respondents’ life 
+balance, and six were found to be relevant for statistically significant differences in 
+respondents’ perceptions of only one type of balance. Age was found to be relevant 
+for respondents’ perceptions of WSLB, gender and field of study for their perceptions 
+of SLB, and average hours of work per week and workload (both variables) for their 
+perceptions of WLB.
+
+--- Page 10 --86
+Nina Pološki Vokić, Milka Rimac Bilušić, Iva Perić
+Table 2: Statistically significant differences in WSLB, SLB, WSB and WLB according to respondents’ socio-demographic characteristics
+Respondents’ characteristics WSLB SLB WSB WLB Significant differences
+Gender Male 3.40 2.68 2.88 2.85 SLB
+(U = 4583.000; p = .020)Female 3.17 2.43 2.78 2.71
+Age – – – – WSLB
+(r = -.192; p = .033)
+Field of 
+study
+Social sciences 3.22 2.59 2.85 2.80
+SLB
+(H = 13.402; p = .009)
+Humanities 2.94 2.20 2.60 2.25
+Medical sciences 3.37 2.73 2.58 2.89
+Natural sciences 3.19 2.23 2.59 2.82
+Technical sciences 3.58 2.62 3.15 2.93
+GPA + + + – None
+Working students’ average hours of 
+work per week – + – – WLB
+(r = -.282; p = .002)
+Working status Not working / 2.39 / / NoneWorking 3.23 2.59 2.80 2.75
+Workload I < 20 hours 3.24 2.51 2.94 3.00 WLB
+(U = 1260.500; p = .007)> 20 hours 3.23 2.65 2.72 2.61
+Workload II
+< 10 hours 3.50 2.63 3.13 3.21
+WLB
+(H = 7.884; p = .048)
+10-20 hours 3.21 2.49 2.92 2.97
+20-30 hours 3.25 2.77 2.73 2.61
+> 30 hours 3.22 2.59 2.72 2.60
+Note: WSLB assessed on a scale from 1 to 5, while SLB, WSB and WLB on a scale from 1 to 4. Higher values indicate higher levels of balance. Non-working respondents included only in the SLB exploration. Signs + and – indicate 
+the direction of relationship between two variables.
+The relationship between WSLB, SLB, WSB and WLB and students’ emotional states
+Table 3 exhibits the relationship between respondents’ four types of balance 
+(WSLB, SLB, WSB and WLB) and three types of emotional state (happiness, unhappiness and relaxation). It reveals that all types of balance are statistically significantly 
+positively correlated with positive emotional states of happiness and relaxation, and 
+statistically significantly negatively correlated with a negative emotional state of unhappiness (all at p < .001 level).
+Table 3: Correlations between types of balance and respondents’ emotional states of 
+happiness, unhappiness and relaxation
+WSLB SLB WSB WLB H UNH R
+WSLB 1
+SLB ,505*** 1
+WSB ,616*** ,532*** 1
+WLB ,563*** ,526*** ,641*** 1
+Happiness (H) ,527*** ,365*** ,321*** ,384*** 1
+Unhappiness (UNH) -,569*** -,388*** -,240*** -,290*** -,659*** 1
+Relaxation (R) ,548*** ,382*** ,395*** ,454*** ,772*** -,536*** 1
+Note: Non-working respondents included only in the SLB exploration.; *** p < .001; VIFs < 10 and Ts > .10
+
+--- Page 11 --87
+Work-Study-Life Balance – the Concept, its Dyads, Socio-Demographic Predictors and Emotional...
+Table 4 presents 12 regression models of the relationship between types of bal ance (WSLB, SLB, WSB and WLB) and emotional states of happiness, unhappi ness and relaxation, including the examination of the role of five socio-demographic 
+variables explored. All presented regression models are significant (.05 < p < .001), 
+accounting for 33 to 58 percent of the variance in respondents’ emotional states of 
+happiness, unhappiness and relaxation. The regression analysis confirmed findings 
+of the correlation analysis, by revealing a statistically significant positive relationship 
+between all types of balance and two positive emotional states explored (happiness 
+and relaxation) (3.703 < β < 7.008, .01 < p < .001), as well as a statistically significant 
+negative relationship between all types of balance and a negative emotional state 
+explored (unhappiness) (-2.885 < β < -7.523, .01< p < .001). The regression analysis 
+revealed as well that respondents’ GPA and average work hours per week are relevant 
+for their happiness, while their field of study is relevant for their state of unhappiness. 
+However, as respondents’ socio-demographic characteristics were only sporadically 
+detected as relevant (in four out of 60 cases), it could be concluded that they do not 
+notably interfere in the relationship between various types of balance and respon dents’ emotional state.
+Table 4: The linear regression analysis of the relationship between types of balance 
+and respondents’ emotional states of happiness, unhappiness and relaxation
+Variables Emotional states
+Happiness Unhappiness Relaxation
+Type of balance WSLB SLB WSB WLB WSLB SLB WSB WLB WSLB SLB WSB WLB
+6.879*** 5.932*** 3.703*** 5.178*** -7.523*** -5.819*** -2.885** -3.275** 7.008*** 6.271*** 4.584*** 6.013***
+Control variables
+Gender -.265 .749 -.706 -,488 -.451 -.289 .194 .079 -1.625 -.782 -1.907 .084
+Age 1.597 .685 .796 .867 -1.326 .822 -.409 -.405 1.551 .703 .804 .389
+Field of study -.048 -.511 -.741 -.044 1.878 .121 2.312* 1.848 -.566 -.631 -1.257 .644
+GPA 1.295 2.081* .736 1.997* .539 -1.060 .745 -.084 1.469 1.766 .802 .023
+Wh/w .644 3.062** 1.010 1.869 -.653 -2.068 -.873 -1.326 .015 .136 .575 .132
+Totals
+F 8.614*** 9.755*** 2.863* 5.104*** 10.724*** 7.526*** 2.317* 2.735* 9.836*** 8.007*** 4.872*** 7.546***
+R2 .555 .454 .359 .457 .597 .409 .327 .352 .581 .419 .449 .530
+Notes: Wh/w = average working hours per week; * p < .05; ** p < .01; *** p < .001
+Finally, table 5 presents the exploration of the most relevant dyads of the 
+WSLB concept for students’ emotional states. Results indicate that SLB is sta tistically significant for all three emotional states explored (.01 < p < .05), while 
+WLB is statistically significant for students’ emotional state of relaxation. All 
+presented regression models are significant (p < .001), accounting for 38 to 51 
+percent of the variance in respondents’ emotional states of happiness, unhappi ness and relaxation.
+
+--- Page 12 --88
+Nina Pološki Vokić, Milka Rimac Bilušić, Iva Perić
+Table 5: The linear regression analysis of the relationship between dyads of the 
+WSLB concept and respondents’ emotional states of happiness, unhappiness 
+and relaxation
+Dyad of balance Happiness Unhappiness Relaxation
+SLB 3.043** -2.800** 2.444*
+WSB .247 .034 .908
+WLB 1.893 -1.214 2.510*
+Totals
+F 11.122*** 6.779*** 14.148***
+R2 .466 .381 .511
+Note: * p < .05; ** p < .01; *** p < .001
+Discussion and conclusion
+Theoretical implications
+The concept of working students meeting triple demands of their work, studies and 
+private life has not been sufficiently described or empirically supported in the liter ature, although combining work and study is not only a necessity for many students, 
+but a common phenomenon among them. This study is the first one to empirically 
+examine the WSLB concept using a methodology grounded in the WLB theory, adding to the body of knowledge about this relatively understudied topic and broadening 
+the scope of the work-life literature. 
+Our five key findings are: (1) it is possible to balance work, studies and private life, 
+(2) WSB is critical for achieving WSLB, (3) all subgroups of students based on their 
+socio-demographic characteristics are equally (un)successful in achieving balance 
+between and among various life aspects, (4) WSLB is significantly participating in 
+the students’ emotional state in terms of their happiness, unhappiness and relaxation, 
+and (5) the SLB dyad is the most relevant dyad for the students’ emotional state.
+Firstly, over half of the students perceive a good WSLB, implying that it is possible to successfully juggle study, work and personal life. Our second noteworthy finding is that the critical dyad of the WSLB concept is WSB. Although all three explored 
+dyads were found to be significant for the total WSLB, for a balanced life of working 
+students it is vital that they successfully manage their work and studies, presumably 
+due to studies having a central role in students’ lives. 
+Thirdly, combining work, studies and social life appears to be less problematic 
+for male and younger students, medical and technical sciences students, students with 
+a higher GPA, and students working less than 10 hours per work, as it is for other 
+student subgroups. However, with the exception of age, socio-demographic variables 
+were not detected as significant for the WSLB students perceive. Moreover, they were
+
+--- Page 13 --89
+Work-Study-Life Balance – the Concept, its Dyads, Socio-Demographic Predictors and Emotional...
+not detected to be significant for dyadic types of balance either, with the exception 
+of SLB for which gender and field of study, and WLB for which average hours of 
+work per week were detected as significant, with male and medical sciences students 
+perceiving a better SLB and students working less hours per week perceiving a better 
+WLB. Interestingly, our findings do not support one of the most cited findings in the 
+field, the one of Dundes and Marx (2006) about students working 10-19 hours being 
+a specific working students’ group compared to nonworkers and those working fewer 
+than 10 hours per week, as they are associated with greater time spent studying and 
+a higher GPA, possibly due to increased discipline and appreciation for the value 
+of education. Our findings exhibit that students working 10-19 hours perceive less 
+WSLB and SLB compared to all other subgroups, and a lower WSB and WLB compared to students working less than 10 hours (but higher compared to two remaining 
+subgroups according to hours of work). Finally, similar to Lingard’s (2007) finding of 
+the non-significant relationship between time involvement and students’ perceptions 
+of work-study conflict, our finding that workload is significant for WLB but not for 
+WSB was unexpected. However, this could be explained by students being prepared 
+more to sacrifice their private compared to their student time.
+Fourthly, no studies so far have examined WSLB in relation to students’ emotional states. The results of our exploratory study confirm previous findings about the 
+relationship of dyadic types of balance in students’ life with their emotional status 
+(e.g., Sprung & Robers, 2020), but add to the discussion by strongly supporting the 
+close relationship between not only dyads of the WSLB concept but as well the overall WSLB and students’ current emotional health. This study is the first to demon strate the importance of considering working students’ WSLB as an antecedent of 
+their emotional state. Precisely, all types of balance (SLB, WSB, WLB and WSLB) 
+are significantly positively related to students’ positive emotional states of happiness 
+and relaxation, and significantly negatively related to their negative emotional state 
+of unhappiness. 
+Finally, the SLB dyad was found to be the most relevant dyad for students’ emotional states, as it is significant for all three explored emotional states – happiness, 
+unhappiness and relaxation.
+Implications for students, higher education institutions, employers and managers
+Having in mind that the student employment seems likely to remain on the agenda, as 
+well as the five key findings of our empirical research, it is vital to discuss how three 
+groups of stakeholders – students themselves, educational institutions and employ ers, can contribute to working students’ achievement of balance between their work, 
+studies and private lives. Namely, students’ coping strategies and the quality of support they receive from their institutions and employers have a role to play in helping 
+students adapt to these realities (e.g., Lowe & Gayle, 2007; McNall & Michel, 2011).
+
+--- Page 14 --90
+Nina Pološki Vokić, Milka Rimac Bilušić, Iva Perić
+Students should plan/organise their activities and establish priorities (Nartey 
+Tettesh & Korkor Attiogbe, 2019), or they may reserve specific time to study and 
+engage in more concentrated study time (Dundes & Marx, 2006). 
+Higher education institutions should be more aware of contemporary student life 
+and introduce elements of flexibility. They should recognise the educational and personal benefits of taking employment (Curtis & Lucas, 2001), use flexible scheduling 
+of class times (Barron & Anastasiadou, 2009; Martinez et al., 2013), enable online 
+and distance learning (Lowe & Gayle, 2016), extend support services (e.g., libraries 
+and computer labs) opening times (Lingard, 2007), and provide students with classes 
+on personal skills (e.g., time and stress management) that facilitate the balancing of 
+life roles (Carney et al., 2005; McNall & Michel, 2011; Park & Sprung, 2013). Moreover, academic staff should be familiar with various pressures facing certain students 
+in their lives outside the lecture theatres, and tolerant of the employment demands 
+placed on students (Watts & Pickering, 2000).
+Employers should be aware of the difficulties working students face juggling their 
+roles, and be sympathetic about it (Curtis & Lucas, 2001). They should train managers on the types of issues working students often face, along with types of supportive 
+behaviours that managers could use to foster a more ‘study-friendly’ culture (McNall 
+& Michel, 2017). They should offer flexible working schedules (e.g., Markel & Frone, 
+1998; Martinez et al., 2013), such as flexitime, compressed work, or casual employment, as giving students control over how work is done is strongly related to WSLB 
+(e.g., Butler, 2007). Finally, they should acknowledge that students will soon become 
+full-time participants in the job market, and that responsible behaviour toward working students increases employers’ reputation and attractiveness, both vital for attracting top graduates. Namely, students use positive experiences with a company and 
+word-of-mouth from fellow students who have worked for a company as an indication 
+for evaluating an employer (Adler & Ghiselli, 2015).
+Ultimately, it must be emphasized that students’ studying and working experi ences shape their values, attitudes, and behaviours toward work and non-work life 
+(Loughlin & Barling, 2001), which puts a lot of pressure on both educational institutions and employers in terms of greater national good.
+Limitations and future research
+Although this study advances the literature on work-life and work-study balance, limitations of our study must also be acknowledged. First, it is based on a relatively small 
+sample (although samples of a similar size could be found in prominent research in 
+the field (e.g., Butler, 2007; McNall & Michel, 2017; Park & Sprung, 2013)). Second, 
+the sample is of limited heterogeneity in terms of gender and field of study. Third, 
+we explored a certain set of socio-demographic variables, which does not include all 
+potentially relevant features, such as the year of studies, type of working arrangement
+
+--- Page 15 --91
+Work-Study-Life Balance – the Concept, its Dyads, Socio-Demographic Predictors and Emotional...
+(part-time vs. full-time job), students’ primary focus (studies vs. work), work-study 
+congruence or personality traits. Finally, the cross-sectional nature of our study de sign and self-report measures (although there is no alternative for assessing perceived 
+life balance and emotional states), prevent making causality conclusions and imply 
+the concern of the common method bias. 
+Consequently, results of our study should be considered preliminary, while future 
+research that will validate and enable the generalizability of our findings is encour aged to use larger and more diverse samples, to gather perceptions of life balance 
+from more than one source (e.g., supervisor, parent), and to use a longitudinal study 
+design, as well as to replicate the study in other countries and regions. Given that this 
+is one of the first studies to examine the construct of WSLB, we encourage future research to explore the various factors that contribute to students’ experience of WSLB 
+and the ways in which WSLB impacts students’ emotional health.
+NOTES
+1 In this paper we use the term ‘work-study’ although terms ‘work-school’ (e.g., Butler, 2007) and 
+‘work-university’ (e.g., Lingard, 2007) are used interchangeably, as ‘work-study’ implies a higher 
+education level (higher than the secondary school education).
+2 Some studies use the term ‘work-life’ although they explore the ‘study-life’ relationship, and 
+consequently instruct students to think of ‘work’ as encompassing their employment and schoolrelated demands (e.g., Kumar & Chaturvedi, 2018; Sprung & Rogers, 2020).
+3 Student workers may experience bidirectional conflict between work and school – the extent to which 
+participation in paid work interferes with students’ ability to meet university responsibilities (work-toschool) and the extent to which participation in university life interferes with students’ ability to fulfil 
+the requirements of their paid work (school-to-work) (e.g., Lingard, 2007; Park & Sprung, 2015). In 
+line with this bidirectional conceptualization, in this paper we use the term ‘work-study-life balance’ 
+as the role of work is given a third place, as in most of the previous research (e.g., Butler, 2007; McNall 
+& Michel, 2011; McNall & Michel, 2017), in which despite the time commitment required for work, 
+students view their work role as less important than their school role. The direction of interest pertains 
+to how work domain can conflict with or enrich the school role of those who classify themselves as 
+‘students who work’ rather than as ‘employees who take classes’. However, when ‘students in a further 
+education’ or ‘employees who study’ are explored, the inverse placing (‘study-work’) is appropriate 
+(see Lowe and Gayle, 2007).
+REFERENCES
+Adler, H., & Ghiselli, R. (2015). The Importance of Compensation and Benefits on University Students’ 
+Perceptions of Organizations as Potential Employers. Journal of Management and Strategy, 
+6(1), 1-9. DOI: 10.5430/jms.v6n1p1
+Allen, T. D., Herst, D. E. L., Bruck, C. S., & Sutton, M. (2000). Consequences associated with workto-family conflict: A review and agenda for future research. Journal of Occupational Health 
+Psychology, 5(2), 278-308. DOI: 10.1037/1076-8998.5.2.278
+
+--- Page 16 --92
+Nina Pološki Vokić, Milka Rimac Bilušić, Iva Perić
+Bacharach, S. B., Bamberger, P., & Conley, S. (1991). Work-home conflict among nurses and 
+engineers: mediating the impact of role stress on burnout and satisfaction at work. Journal of 
+organizational behaviour, 12(1), 39-53. DOI: 10.1002/job.4030120104
+Barron, P., & Anastasiadou, C. (2009). Student part-time employment – Implications, challenges 
+and opportunities for higher education. International Journal of Contemporary Hospitality 
+Management, 21(2), 140-153. DOI: 10.1108/09596110910935642
+Beauregard, T. A, & Henry, L. C. (2009). Making the link between work-life balance practices and 
+organizational performance. Human resource management review, 19(1), 9-22. DOI: 
+10.1016/j.hrmr.2008.09.001
+Butler, A. B. (2007). Job Characteristics and College Performance and Attitudes: A Model of WorkSchool Conflict and Facilitation. Journal of Applied Psychology, 92(2), 500-510. DOI: 
+10.1037/0021-9010.92.2.500
+Carney, C., McNeish, S., & McColl, J. (2005). The impact of part time employment on students’ health 
+and academic performance: a Scottish perspective hours and demanding work are likely 
+to interfere with school. Journal of Further and Higher Education, 29(4), 307-319. DOI: 
+10.1080/03098770500353300
+Clark, S. C. (2000). Work/family border theory: A new theory of work/family balance. Human Relations, 
+53(6), 747-770. DOI: 10.1177/0018726700536001
+Curtis, S., & Lucas, R. (2001). A coincidence of needs? – Employers and full-time students. Employee 
+Relations, 23(1), 38-54. DOI: 10.1108/01425450110366264
+De Cieri, H., Holmes, B., Abbott, J., & Pettit, T. (2005). Achievements and challenges for work/life 
+balance strategies in Australian organizations. The International Journal of Human Resource 
+Management, 16(1), 90-103. DOI: 10.1080/0958519042000295966 
+Dundes, L., & Marx, J. (2006). Balancing work and academics in college: Why do students working 
+10 to 19 hours per week excel? Journal of college student retention, 8(1), 107-120. DOI: 
+10.2190/EU7Q-FVWG-7UDC-R3A2
+Fleetwood, S. (2007). Why work-life balance now? The International Journal of Human Resource 
+Management, 18(3), 387-400. DOI: 10.1080/09585190601167441
+Ford, J., & Collinson, D. (2011). In search of the perfect manager? Work-life balance and managerial 
+work. Work, Employment and Society, 25(2), 257-273. DOI: 10.1177/0950017011398895 
+Greenhaus, J. H., & Allen, T. D. (2011). Work-Family Balance: A Review and Extension of the 
+Literature. In Quick, J. C. & Tetrick, L. E. (Eds.). Handbook of Occupational Health 
+Psychology. Washington, DC: American Psychological Association, 165-183. 
+Greenhaus, J. H., Collins, K. M., & Shaw, J. D. (2003). The relation between work-family balance 
+and quality of life. Journal of V ocational Behavior, 63(3), 510-531. DOI: 10.1016/S00018791(02)00042-8
+Guest, D. E. (2002). Perspectives on the Study of Work-life Balance. Social Science Information, 41(2), 
+255-279. DOI: 10.1177/0539018402041002005
+Haar, J. M. (2013). Testing a new measure of work-life balance: A study of parent and non-parent 
+employees from New Zealand. The International Journal of Human Resource Management, 
+24(17), 3305-3324. DOI: 10.1080/09585192.2013.775175
+Haar, J. M., Russo, M., Suñe, A., & Ollier-Malaterre, A. (2014). Outcomes of work-life balance on 
+job satisfaction, life satisfaction and mental health: A study across seven cultures. Journal of 
+V ocational Behavior, 85(3), 361-373. DOI: 10.1016/j.jvb.2014.08.010
+Hair, J. F. Jr., Black, W. C., Babin, B. J., & Anderson, R. E. (2019). Multivariate data analysis. Boston, 
+MA: Cengage Learning.
+Hauschildt, K., Gwosc, C., & Vögtle, E. M. (2018). Social and Economic Conditions of Student Life 
+in Europe: Eurostudent VI 2016-2018; Synopsis of Indicators. Bielefeld: W. Bertelsmann 
+Verlag. DOI: 10.3278/6001920cw
+
+--- Page 17 --93
+Work-Study-Life Balance – the Concept, its Dyads, Socio-Demographic Predictors and Emotional...
+Hill, E. J., Hawkins, A. J., Ferris, M., & Weitzman, M. (2001). Finding an extra day a week: the influence 
+of perceived job flexibility on work and family life balance. Family Relations, 50(1), 49-58. 
+DOI: 10.1111/j.1741-3729.2001.00049.x
+Hughes, J., & Bozionelos, N. (2007). Work-life balance as source of job dissatisfaction and withdrawal 
+attitudes: An exploratory study on the views of male workers. Personnel Review, 36(1), 145154. DOI: 10.1108/00483480710716768
+Kalliath, T., & Brough, P. (2008). Work-life balance: A review of the meaning of the balance 
+construct. Journal of Management & Organization, 14(3), 323-327. DOI: 10.5172/
+jmo.837.14.3.323
+Kelliher, C., Richardson, J., & Boiarintseva, G. (2018). All of work? All of life? Reconceptualising 
+work-life balance for the 21st century. Human Resource Management Journal, 29(2), 97-112. 
+DOI: 10.1111/1748-8583.12215
+Kossek, E. E., Valcour, M., & Lirio, P. (2014). The Sustainable Workforce: Organizational Strategies 
+for Promoting Work-Life Balance and Wellbeing. In Chen, P. Y ., & Cooper, C. L. (Eds.). Work 
+and Wellbeing: A Complete Reference Guide. Chichester: John Wiley & Sons, Inc., 295-319. 
+DOI: 10.1002/9781118539415.wbwell030 
+Kumar, K., & Chaturvedi, R. (2018). An empirical study of social support, stress and life satisfaction 
+among engineering graduates: mediating role of perceived work/study life balance. International 
+Journal of Happiness and Development, 4(1), 25-39. DOI: 10.1504/IJHD.2018.090489
+Leonard, M. (1995). Labouring to Learn: Students’ Debt and Term Time Employment in Belfast. Higher 
+Education Quarterly, 49(3), 229-247. DOI: 10.1111/j.1468-2273.1995.tb01678.x
+Lingard, H. (2007). Conflict Between Paid Work and Study: Does it Impact upon Students’ Burnout 
+and Satisfaction with University Life?. Journal for Education in the Built Environment, 2(1), 
+90-109. DOI: 10.11120/jebe.2007.02010090
+Loughlin, C., & Barling, J. (2001). Young workers’ work values, attitudes, and behaviours. Journal of 
+Occupational and Organizational Psychology, 74(4), 543-558. DOI: 10.1348/096317901167514 
+Lowe, J., & Gayle, V . (2007). Exploring the work/life study balance: the experience of higher education 
+students in the Scottish Further Education College. Journal of Further and Higher Education, 
+31(3), 225-238. DOI: 10.1080/03098770701424942
+Lowe, J., & Gayle, V . (2016). From lifelong learning to youth employment: back to the future for higher 
+education in Scotland’s colleges. Journal of Further and Higher Education, 40(3), 351-371. 
+DOI: 10.1080/0309877X.2014.971104
+Markel, K. S., & Frone, M. R. (1998). Job characteristics, work-school conflict, and school outcomes 
+among adolescents: Testing a structural model. Journal of Applied Psychology, 83(2), 277287. DOI: 10.1037/0021-9010.83.2.277
+Martinez, E., Ordu, C., Della Sala, M. R., & McFarlane, A. (2013). Striving to Obtain a School-WorkLife Balance: The Full-Time Doctoral Student. International Journal of Doctoral Studies, 8, 
+39-59. DOI: 10.28945/1765
+McNall, L. A., & Michel, J. S. (2011). A Dispositional Approach to Work-School Conflict and Enrichment. 
+Journal of Business and Psychology, 26(3), 397-411. DOI: 10.1007/s10869-010-9187-0
+McNall, L. A., & Michel, J. S. (2017). The relationship between student core self-evaluations, support 
+for school, and the work-school interface. Community, Work & Family, 20(3), 253-272. DOI: 
+10.1080/13668803.2016.1249827
+Moreau, M.-P., & Leathwood, C. (2006). Balancing paid work and studies: working (-class) 
+students in higher education. Studies in Higher Education, 31(1), 23-42. DOI: 
+10.1080/03075070500340135
+Nartey Tettesh, E., & Korkor Attiogbe, E. J. (2019). Work-life balance among working university 
+students in Ghana. Higher Education, Skills and Work-Based Learning, 9(4), 525-537. DOI: 
+10.1108/HESWBL-08-2018-0079
+
+--- Page 18 --94
+Nina Pološki Vokić, Milka Rimac Bilušić, Iva Perić
+O’Mahony, M. A., & Jeske, D. (2019). Study-Work-Life Balance of International Students in the 
+Context of Temporal Boundaries. Journal of Interdisciplinary Studies in Education, 7(2), 6379. DOI: 10.32674/jise.v7i2.1212
+Ong, D., & Ramia, G. (2009). Study-work-life balance and the welfare of international students. Labour 
+& Industry: a journal of the social and economic relations of work, 20(2), 181-206. DOI: 
+10.1080/10301763.2009.10669399
+Park, Y ., & Sprung, J. M. (2013). Work-School Conflict and Health Outcomes: Beneficial Resources 
+for Working College Students. Journal of Occupational Health Psychology, 18(4), 384-394. 
+DOI: 10.1037/a0033614
+Park, Y ., & Sprung, J. M. (2015). Weekly work-school conflict, sleep quality, and fatigue: Recovery 
+self-efficacy as a cross-level moderator. Journal of Organizational Behavior, 36(1), 112-127. 
+DOI: 10.1002/job.1953
+Robotham, D. (2012). Student part-time employment: characteristics and consequences. Education + 
+Training, 54(1), 65-75. DOI: 10.1108/00400911211198904
+Sirgy, M. J., & Lee, D.-J. (2018). Work-life balance: An integrative review. Applied Research in Quality 
+of Life, 13(1), 229-254. DOI: 10.1007/s11482-017-9509-8
+Sorić, I. (1998). Usporedba osnovnih postavki Weinerove i Lazarusove teorije emocija u školskoj 
+situaciji ispitivanja znanja [The comparison of basic propositions of Weiner’s and Lazarus’s 
+theory of emotions in the context of school examination]. Doctoral dissertation. Zagreb: 
+Filozofski fakultet u Zagrebu.
+Sprung, J. M., & Rogers, A. (2020). Work-life balance as a predictor of college student 
+anxiety and depression. Journal of American College Health, 69(7), 775-782. DOI: 
+10.1080/07448481.2019.1706540
+Tessema, M. T., Ready, K. J., & Astani, M. (2014). Does Part-Time Job Affect College Students’ 
+Satisfaction and Academic Performance (GPA)? The Case of a Mid-Sized Public University. 
+International Journal of Business Administration, 5(2), 1-10. DOI: 10.5430/ijba.v5n2p
+Watts, C., & Pickering, A. (2000). Pay as you learn: student employment and academic progress. 
+Education + Training, 42(3), 129-135. DOI: 10.1108/00400910010372670
+White, M., Hill, S., McGovern, P., Mills, C., & Smeaton, D. (2003). ‘High-performance’ Management 
+Practices, Working Hours and Work-Life Balance. British Journal of Industrial Relations, 
+41(2), 175-195. DOI: 10.1111/1467-8543.00268

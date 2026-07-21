@@ -1,0 +1,755 @@
+--- Page 1 --pg. 1 
+ 
+ Kashf Journal of Multidisciplinary Research 
+Vol: 02 - Issue 05 (2025) 
+P-ISSN: 3007-1992 E-ISSN: 3007-200X 
+https://kjmr.com.pk 
+ 
+EXAMINE THE EFFECTS OF HIGH-STAKE TESTING ON STUDENT’S 
+MENTAL HEALTH AT UNIVERSITY LEVEL: A SURVEY RESEARCH 
+1Dr. Farkhanda Jabeen*, 2Ruqia, 3Laiba Bahar 
+1Assistant Professor, Fatima Jinnah Women University, Rawalpindi. 
+2, 3M.Phil Scholar, Fatima Jinnah Women University, Rawalpindi.
+*Corresponding author: Dr. Farkhanda Jabeen (farkhandajabeen@fjwu.edu.pk) 
+ Article Info 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This article is an open 
+access article distributed 
+under the terms and 
+conditions of the 
+Creative Commons 
+Attribution (CC BY) 
+license 
+https://creativecommon
+s.org/licenses/by/4.0 
+Abstract 
+This research investigates the effects of high -stakes testing on students' 
+mental health, specifically focusing on anxiety, stress, and depression. Highstakes tests, such as standardized assessments, graduation exams, and college 
+entrance exams, are integral to educational systems worldwide. While these 
+tests are designed to measure academic knowledge and determine future 
+opportunities, they also exert significant psychological pressure on students. 
+This study aims to explore the extent to which high-stakes testing contributes 
+to mental health challenges, including the intensity of stress, anxiety, and 
+depression experienced by students, as well as the coping mechanisms 
+employed. The data was collected through survey questionnaire and 
+standardized psychological scale i.e. perceived stress scale from 45 university 
+students who had recently participated in high -stakes testing. The survey 
+gathered data on students' stress and anxiety levels, perceptions of the tests' 
+significance, and the coping strategies they use. The study utilized a 
+quantitative research design, with data analyzed using descriptive statistics, 
+mean and standard deviation. The research revealed that students experience 
+significant levels of stress and anxiety before and during high -stakes exams, 
+with some reporting long -term psychological effects, such as reduced 
+motivation and sleep disturbances. This study also found that students' 
+perceptions of the importance of the exams were a critic al factor in the 
+intensity of their mental health challenges. Those who viewed the tests as 
+pivotal to their future success reported higher anxiety and stress levels. The 
+research suggests that students often rely on coping strategies like time 
+management and seeking social support to manage the pressure. The findings 
+emphasize the need for educational institutions to prioritize student mental 
+well-being by offering better support systems and exploring alternative 
+assessment methods. The study calls for fur ther research into the long -term 
+effects of high-stakes testing and the development of strategies to mitigate its 
+negative psychological impact. Ultimately, this research contributes to the 
+ongoing discourse on creating healthier educational environments t hat 
+balance academic performance with student mental health. 
+ Keywords: High-stakes testing, Student mental health, Anxiety, Stress, 
+Depression, Coping strategies, Academic pressure, and Standardized tests.
+
+--- Page 2 --KJMR VOL.02 NO. 05 (2025) EXAMINE THE EFFECTS OF … 
+ 
+pg. 2 
+ 
+Introduction 
+High-stakes testing can be defined as assessments that bring about high and serious consequences for the 
+students such as promotion to the next grade, graduation, or gain admission into colleges and universities. 
+Such kind of tests fo rms a core part of almost all educational systems worldwide and includes state 
+assessment at each level, SAT, and ACT among other standardized tests. The premise of high-stakes tests 
+sounds pretty simple; however, it serves a major purpose as measuring aca demic knowledge and skills, 
+there is growing concern about the impact they have on students' mental health. 
+Mental health effects from high-stakes testing are multifaceted, but predominantly those investigated are 
+stress and anxiety symptoms. High-stakes testing environments typically produce pressure to perform and 
+act as a catalyst for acute stress responses (such as increased cortisol levels and increased heart rates) and 
+chronic anxiety that may last indefinitely beyond the breadth of the examination period (Fejes et al., 2020; 
+Fernández-Castillo & Caurcel, 2019; Weekes et al., 2006). The stress manifests when students regard test 
+scores as determining the fate of their future in life, creating a high -stakes pressure environment that can 
+create challenge s to their psychological resilience (Galla et al., 2018; Högberg & Horn, 2022). Poor 
+performance in such exams not only increases anxiety and stress but also depression among students 
+(Galloway, 2013). It is indeed the worst dilemma when students are under pressure to perform well on the 
+test meant to determine their performance, to gain admission or graduate in future. For example, one study 
+clearly demonstrated that students having test anxiety show major symptoms of worrying, fears, and 
+tension during the examination period (Zeidner, 2014). This type of stress is not only sickening but also 
+leads to disastrous consequences in a person's life. 
+Furthermore, the amount of preparation required for high -stakes tests can contribute to mental health 
+issues. Most students spend weeks or months preparing for such tests, sacrificing sleep and subjecting 
+themselves to high -strain study routines. This results in burnout and fatigue after missing out on high 
+grades (Putwain, 2007). The growing body of research highligh ts how the academic system’s focus on 
+high-stakes testing may be affecting students in ways that go beyond their test scores. According to 
+research, placing students in dynamic, interactive learning environments improves their emotional and 
+cognitive engagement and lessens the pressure to perform well academically (Ahmed et al., 2024). 
+High-stakes testing anxiety can damage cognitive functions such as memory retrieval and problem-solving 
+skills, the two major mechanisms for academic success (Andresen & Løkk en, 2020; Zhang et al., 2011). 
+Thus, assessments designed to evaluate the performance of students paradoxically distort that ability, 
+leaving the test taken in psychologically distressed conditions. Prolonged exposure to such high-pressure 
+environments has also been related to long -term concerns, such as decreased self -esteem, sleep 
+disturbances, disinterest in pursuing learning (ShayesteFar, 2020; Fernández -Castillo & Caurcel, 2019; 
+Fu, 2024). 
+Although the connection between high stakes testing and mental health is increasingly recognized, 
+comprehensive research into students' psychological well -being and the effect of high -stakes tests on it 
+still a short-age. This study aims to probe further into this connection. Through survey carried out with a 
+diverse population of such students recently engaged in high -stakes testing, this research will document
+
+--- Page 3 --KJMR VOL.02 NO. 05 (2025) EXAMINE THE EFFECTS OF … 
+ 
+pg. 3 
+ 
+how such testing contributes to increased anxiety, stress, and depression, and whether the intensity of the 
+test or its preparation matters. 
+Literature Review 
+High-stakes tests and student mental health have been common focal points of research in the last few 
+years. Evidently high stress levels occur during periods of examination, as verified by physiological 
+measures characterized by increased levels of cortisol (Fejes et al., 2020; Maes et al., 1998; Weekes et al., 
+2006). For instance, during exams, Fejes et al. (2020)'s results showed higher cardiovascular parameters 
+for students-high blood pressure, higher heart rates, and greater stress responses. 
+Impact of High-Stakes Testing on Anxiety and Stress 
+The most commonly encountered mental health complaint from students who undergo high-stakes testing 
+is test anxiety, which is defined as frightful anxiousness of students before and during an examination. 
+Studies show that students who undergo high -stakes tests tend to experience a higher level of anxiety 
+(Owens et al., 2020). Research indicates that students experience an increased level of anxiety during 
+examination periods, which has negative effects on their ac ademic performance and mental well -being 
+(Ballen et al., 2017; Högberg & Horn, 2022; Zhang et al., 2011). Additionally, studies reveal that students 
+suffer from increased stress and decreased academic engagement in educational settings that are not 
+adequately supportive and accessible. This is true in both high-stakes testing situations and online learning 
+environments (Sahar et al., 2024) . According to Högberg and Horn (2022), the anxiety caused by 
+examinations can also impair memory retrieval and worsen t he academic difficulties experienced by 
+students. According to Putwain and Daly (2021), students' anxiety levels often rise as they approach test 
+dates, particularly when the tests are perceived as having significant consequences for their future. This 
+anxiety can manifest physically and mentally, with symptoms such as difficulty concentrating, rapid 
+heartbeat, and negative thoughts. 
+Students involved in high-stakes examinations suffer from stress too, according to research conducted by 
+Roth and others (2023) which observed that students experience chronic stress before and sometimes after 
+these examinations. There are many reasons for one's stress which include the pressure to perform better, 
+the competitive environment as well as the stakes attached to the test itself (Zeidner, 2020). In a survey of 
+high school seniors preparing for standardized college entrance exams, nearly 60% reported feeling 
+stressed about the potential consequences of their results (Jones & Jenkins, 2022). Experiments have 
+shown that stress negatively affects one's cognitive aftermath by disallowing proper attention to be given 
+to the material or instructions about the tests (Pizzie & Putwain, 2021). 
+Mental Health Consequences Beyond Test Anxiety 
+Beyond anxiety and stress, high -stakes testing can contribute to long -term mental health issues such as 
+depression and burnout. Prolonged exposure to test -related pressure can lead to feelings of hopelessness 
+and low self-esteem, particularly if students p erform poorly or feel unsupported (Mello et al., 2021). In 
+research findings from Anderson and Garver (2023), it was revealed that higher levels of perceived 
+pressure from standardized testing would compel students to report more feelings of depression, su ch as
+
+--- Page 4 --KJMR VOL.02 NO. 05 (2025) EXAMINE THE EFFECTS OF … 
+ 
+pg. 4 
+ 
+sadness, low energy, and a loss of interest in daily activity. These feelings of depression can also be 
+exacerbated by a lack of adequate emotional or academic support systems in schools. There are also other 
+factors which have long -term effects such as reduced motivation and self -esteem, as well as decreased 
+enjoyment of learning (ShayesteFar, 2020; Fernández -Castillo & Caurcel, 2019). Such students suffered 
+sleep disruption, which then affected their concentration and performance (Fernández-Castillo & Caurcel, 
+2019). 
+In addition, preparation for high -stakes examinations contributes to mental health struggles. Rigorous 
+preparation schedules take students to a burnout state of emotional, mental, and physical exhaustion (Liu 
+& Li, 2022) since their routines do not pay attention to anything other than test performance. In their study, 
+Brown and Ross (2023) found that students studying for long hours without any breaks were very likely 
+to report some symptoms of burnout, fatigue, irritability, and lack of motivation. 
+The Role of Test Stakes and Students Perception 
+The psychological impact of high -stakes testing is also influenced by students' perceptions of the test's 
+importance. It has been observed that, in case students think of a test as very important for their future 
+success, then the stress and anxiety levels have been increased. For instance, students who think that 
+performance on examinations determines their future academic career in terms of graduation or being 
+admitted to a college may develop th e highest levels of psychological distress (Pekrun et al., 2021). In 
+contrast, the evidence suggests that students who do not perceive high stakes related to the test have been 
+reported to experience lower anxiety with healthier mental outcomes (Sikorski & McCann, 2023). 
+Moreover, failed high -stakes examination results were associated with increased odds for psychiatric 
+diagnoses. A study that used Norwegian registry data has shown that students who had failed high-stakes 
+exams have a 21% probability of rep orted mental health issues, again illustrating the far -reaching 
+consequences of high-stakes testing on adolescent well-being (Andresen & Løkken, 2020). 
+Based on the conclusions derived from the literature, it has been established that high-stakes tests correlate 
+with numerous negative mental health outcomes among students. Stress and anxiety arousal causes not 
+only them but also long-term psychological effects. On the basis of these results, educational stakeholders 
+should finally think about the mental well-being of students when designing and implementing assessment 
+strategies. 
+Problem Statement 
+High-stakes tests, such as graduation exams or those used for university admissions, have become an 
+inseparable component of the education systems in many countrie s. However, while these exams have 
+much importance in determining the academic capabilities of learners, there seem to be certain rising 
+concerns about how these types of examinations impact students in aspects of their mental well -being. 
+Studies demonstra te that high -stakes examination has been shown to induce anxiety and stress and 
+aggravated cases of mental health problems for many in the adolescent and young adult groups under an 
+immense burden of academic pressure. Even then, research regarding the full psychological ramifications 
+of high-stakes exams on the importance of the exam taken, levels of preparation before it, and support
+
+--- Page 5 --KJMR VOL.02 NO. 05 (2025) EXAMINE THE EFFECTS OF … 
+ 
+pg. 5 
+ 
+received from family and friends have yet to be explored. Most current studies, however, center on test 
+performance rather than stress-related issues among students. With increasing cases of anxiety, stress, and 
+depression among students, it is essential to know in what way high -stakes testing aggravates these 
+symptoms. Without clear statistics on mental health effects, teachers and policymakers will find it difficult 
+to address these issues. This study will examine how high-stakes testing accounts for differences in student 
+mental health, focusing specifically on anxiety, stress, and depression. The research hypothesizes some 
+components contributing to these mental health issues, thus giving possible recommendations for 
+improving educational practices and resources for helping students enjoy wellbeing. 
+Research Objectives 
+The objectives of this study are to: 
+1. Find out the stress and anxiety level of university students who appeared in high -stake testing in last 
+one year. 
+2. Find students’ perceptions on the significance and effects of high-stakes testing on their mental health. 
+3. Identify the coping strategies students use to handle high-stakes testing pressures. 
+Methodology 
+Population and Sample 
+The study focused on Rawalpindi university students who had recently taken standardized tests or other 
+high-stakes exams. To guarantee diversity in terms of age, gender, academic achievement, and 
+socioeconomic background, a total of 45 individuals were chosen through the use of purposive sampling. 
+Every participant had taken high-stakes tests in the previous 12 months. To keep the study's emphasis on 
+the impacts of high -stakes testing, students who had previously received mental health support or who 
+had never taken part in such tests were not included. 
+Research Approach 
+To systematically gather and examine numerical data about students' stress, anxiety, and depression 
+following high-stakes exams, a quantitative research approach was used. According to Creswell (2018), 
+quantitative approaches made it possible to assess the correlations between factors objectively and 
+produced findings that could be applied to a larger group of students. This meth od guaranteed precision, 
+reproducibility, and a better comprehension of the impact of academic demands on mental health 
+(Creswell, 2014). 
+Research Design 
+This study used a survey research design, which is perfect for gathering a lot of standardized data directly 
+from university students. According to Cohen, Manion, and Morrison (2017), surveys provided an 
+organized way to gauge students' mental health outco mes related to high -stakes exams. The approach
+
+--- Page 6 --KJMR VOL.02 NO. 05 (2025) EXAMINE THE EFFECTS OF … 
+ 
+pg. 6 
+ 
+allowed for the detection of stress, anxiety, and coping strategies using questionnaires, providing a 
+thorough statistical picture of how high-stakes testing affects students' mental health. 
+Data Collection Tools and Procedure: 
+The data collection tools included both surveys and a standardized psychological scale —the Perceived 
+Stress Scale (PSS). These resources were crucial for obtaining accurate, quantitative information about 
+students' stress, anxiety, and general mental health in response to high-stakes testing. 
+A self-administered survey questionnaire intended to gauge students' opinions of high -stakes testing and 
+its effects on their mental health served as the main instrument for gathering data. In order to gather both 
+quantitative and qualitative data, the survey had both closed -ended and open -ended questions. Using 
+Likert scale items, the closed-ended questions centered on students' opinions about the importance of highstakes testing and its impact on their mental health. The purpose of the open-ended questions was to find 
+out how students coped with the stress of high-stakes testing. 
+The survey questionnaire was organized into six themes: 
+1. Awareness of High-Stakes Testing (3 questions) 
+2. Perceptions of High-Stakes Testing (4 questions) 
+3. Emotional and Mental Well-being (5 questions) 
+4. Academic Performance and Confidence (4 questions) 
+5. Coping Strategies and Support (4 questions) 
+6. General Health Effects (3 questions) 
+In addition to the survey, a standardized psychological scale the Perceived Stress Scale (PSS) was used to 
+measure the psychological impact of high-stakes testing. In psychological research, this scale is commonly 
+used to measure anxiety and stress levels. The PSS assessed students' perceptions of thei r life' 
+unpredictability, uncontrollability, and overload, all of which are frequently linked to high levels of stress 
+(Cohen et al., 1983). The scale is frequently employed in educational research and has demonstrated 
+efficacy in measuring mental health symptoms (Creswell, 2014). 
+The data collection process began with the administration of the survey questionnaires to the selected 
+students. To increase accessibility and participation, the surveys were made available both online and on 
+paper. Paper-based surveys were delivered in participating universities during class hours, whereas online 
+surveys were sent by email or survey platforms. Students were asked to complete the surveys 
+independently, providing responses related to their stress, anxiety, and menta l health in the context of 
+high-stakes testing. Alongside the survey, students also completed the Perceived Stress Scale (PSS), which 
+specifically measured their levels of stress and anxiety.
+
+--- Page 7 --KJMR VOL.02 NO. 05 (2025) EXAMINE THE EFFECTS OF … 
+ 
+pg. 7 
+ 
+Results and Interpretation 
+Awareness of High-Stakes Testing 
+Table 1: How Familiar Are You With The Concept Of "High-Stakes Testing" And Its Impact On 
+Your Academic Success? 
+ SD D N A SA MEAN SD 
+N F 1 5 12 17 10 
+45 % 2.2 11.1 26.7 37.8 22.2 3.67 1.022 
+According to the table, the majority of respondents (60%) agree or strongly agree that they are aware of 
+the effects of high-stakes testing on academic performance. While 26.7% are neutral, a little percentage 
+(13.3%) disagree or strongly disapprove. With a considerable degree of response va riance (standard 
+deviation of 1.022), the average score of 3.67 suggests a general tendency toward agreement. The PSS 
+framework states that while students who are aware of high-stakes tests may expect pressure, high levels 
+of stress are not always the result of awareness alone. Many may fall in the intermediate stress range (14–
+26) based on the reaction pattern. 
+Table 2: Do You Believe That High-Stakes Testing Is Frequently Discussed And Acknowledged 
+Within Your Department Or University? 
+ SD D N A SA Mean SD 
+N F 5 5 13 15 7 
+45 % 11.1 11.1 28.9 33.3 15.6 3.31 1.203 
+The table indicates that there are differing views on whether or not the department or university often 
+discusses high-stakes testing. While 22.2% disagree or strongly disagree, over 49% of respondents agree 
+or strongly agree that it is discussed. Approximately 29% are neutral. Although the standard deviation of 
+1.203 indicates a wide range of responses, the average score of 3.31 indicates a small leaning toward 
+agreement. Although opinions vary among participants, high-stakes testing is generally acknowledged to 
+some extent. Lack of communication may lead to more confusion, according to PSS-based understanding. 
+Many students probably fell into the moderate stress categor y, with some moving into the high stress 
+category as a result of a lack of departmental clarity and support, since 33.3% stayed neutral and the 
+remaining students were split almost evenly.
+
+--- Page 8 --KJMR VOL.02 NO. 05 (2025) EXAMINE THE EFFECTS OF … 
+ 
+pg. 8 
+ 
+Table 3: I Am Aware Of Support Systems Or Resources Provided By The University To Help 
+Students Manage Stress Related To High-Stakes Exams. 
+ SD D N A SA Mean SD 
+N F 6 4 18 14 3 
+45 % 13.3 8.9 40.0 31.1 6.7 3.09 1.104 
+ 
+According to the table, the majority of respondents are either indifferent or ignorant about resources for 
+coping with test stress. 22.2% are unaware of such resources, compared to 37.8% who are. With a 
+considerable degree of response variance (standard deviation of 1.104), the average score of 3.09 indicates 
+a neutral position. PSS interpretations suggest that students may feel less in control if they are not fully 
+aware of their help alternatives. This places a sizable percentage in the moderate to high s tress range, 
+particularly when dealing with academic pressure on one's own without assistance. 
+Perceptions of High-Stakes Testing 
+Table 4: High-Stakes Exams Contribute Significantly To My Academic Success. 
+ SD D N A SA Mean SD 
+N F 2 5 15 18 5 
+45 % 4.4 11.1 33.3 40.0 11.1 3.42 0.988 
+According to the data, the majority of respondents (51.1%) agree or strongly agree that taking high-stakes 
+tests helps them succeed academically. However, 33.3% are impartial, and 15.5% disagree or strongly 
+disagree. A standard deviation of 0.988 indicates that responses are generally consistent, and the average 
+score of 3.42 indicates a moderate belief in the significance of high-stakes tests for academic performance. 
+According to the PSS, stress appraisal may rise if tests are seen as essential to achievement. These students 
+probably experience moderate levels of stress, while some may experience high levels if their academic 
+identity is dependent on test results. 
+Table 5: I Believe That My Performance On High-Stakes Tests Determines My Future Career 
+Opportunities. 
+ SD D N A SA Mean SD 
+N F 1 4 8 20 12 
+45 % 2.2 8.9 17.8 44.4 26.7 3.84 0.999
+
+--- Page 9 --KJMR VOL.02 NO. 05 (2025) EXAMINE THE EFFECTS OF … 
+ 
+pg. 9 
+ 
+With 44.4% agreeing and 26.7% strongly agreeing, the table demonstrates that a sizable majority of 
+respondents (71.1%) think that their success on high -stakes assessments significantly influences their 
+future employment chances. 17.8% are neutral, and a smaller minority (11.1%) disagree or strongly 
+disagree. The standard deviation of 0.999 suggests that opinions are reasonably stable, and the average 
+score of 3.84 indicates a strong belief in the significance of high -stakes assessments for professional 
+aspirations. According to PSS study, subjective stress rises with a strong career r elationship. Because 
+external implications (career impact) are more difficult to manage, these respondents are more likely to 
+fall into the high stress category (27–40). 
+Table 6: I Feel That High-Stakes Testing Is An Accurate Measure Of My Abilities As A Student. 
+ SD D N A SA Mean SD 
+N F 2 4 15 18 6 
+45 % 4.4 8.9 33.3 40.0 13.3 3.49 0.991 
+According to the table, the majority of respondents (53.3%) agree or strongly agree that high-stakes exams 
+are an accurate indicator of a student's ability. 33.3% are neutral, while 13.3% disagree or strongly 
+disagree. The standard deviation of 0.991 indicates that opinions are generally consistent, and the average 
+score of 3.49 indicates a moderate conviction in the accuracy of high -stakes assessments as a gauge of 
+student ability. According to PSS, having faith in justice helps lessen stress, whilst having doubts makes 
+it worse. Students who disagree may lean toward high stress because of irritation or fear of 
+misrepresentation, but students who agree may cluster around the moderate stress range. 
+Table 7: I Often Feel Anxious Before Taking High-Stakes Exams. 
+ SD D N A SA Mean SD 
+N F 2 1 11 15 16 
+45 % 4.4 2.2 24.4 33.3 35.6 3.93 1.053 
+According to the table, 33.3% of respondents agree and 35.6% strongly agree that most respondents 
+(68.9%) frequently experience anxiety before taking important tests. Of those surveyed, 24.4% are neutral, 
+while 6.6% disagree or strongly disagree. With a standard deviation of 1.053 indicating moderate reaction 
+variability, the average score of 3.93 suggests a considerable propensity to experience anxiety. Given that 
+the majority exhibit anticipatory anxiety, which can impair mental and emotional functioning, this is 
+obviously consistent with the high stress zone (27–40) in the PSS.
+
+--- Page 10 --KJMR VOL.02 NO. 05 (2025) EXAMINE THE EFFECTS OF … 
+ 
+pg. 10 
+ 
+Emotional And Mental Well-Being 
+Table 8: I Experience Feelings Of Stress And Worry Due To High-Stakes Exams. 
+ SD D N A SA Mean SD 
+N F - 3 7 20 15 
+45 % - 6.7 15.6 44.4 33.3 4.04 0.878 
+According to the data, a substantial majority of respondents (77.7%) agree and strongly agree that high stakes tests cause them to feel anxious and stressed. 15.6% are neutral, and a smaller percentage (6.7%) 
+disagree. With a standard deviation of 0.878 suggesting rather consistent replies, the average score of 4.04 
+indicates a strong opinion that high-stakes tests create stress and worry. The majority of respondents fall 
+into the high stress category according to PSS, indicating a high incidence of high perceived stress, when 
+academic pressure becomes a serious mental health issue. 
+Table 9: High-Stakes Exams Negatively Affect My Mood And Mental Well-Being. 
+ SD D N A SA Mean SD 
+N F 2 10 13 11 9 
+45 % 4.4 22.2 28.9 24.4 20.0 3.33 1.168 
+There are differing views on whether high -stakes tests have a detrimental impact on mood and mental 
+health, as the table illustrates. About 28.9% of responses are neutral, 26.6% disagree or strongly disagree, 
+and 44.4% agree or strongly agree. The standard deviation of 1.168 indicates response diversity, while the 
+average score of 3.33 indicates a moderate perception that high -stakes exams might have a detrimental 
+effect on mood and mental health. PSS states that this blend represents a concentratio n in the moderate 
+stress category, where most people's mood and general well -being are impacted but not significantly 
+disrupted. 
+Table 10: I Often Feel Overwhelmed By The Pressure Of High-Stakes Testing. 
+ SD D N A SA Mean SD 
+N F 3 3 12 23 4 
+45 % 6.7 6.7 26.7 51.1 8.9 3.49 0.991 
+According to the table, the majority of respondents (60%) agree that the pressure of high -stakes testing 
+overwhelms them, with 51.1% strongly agreeing and 8.9% disagreeing. 26.7% are neutral, while a smaller
+
+--- Page 11 --KJMR VOL.02 NO. 05 (2025) EXAMINE THE EFFECTS OF … 
+ 
+pg. 11 
+ 
+minority (13.4%) disagree or strongly disagree. The standard deviation of 0.991 indicates a reasonably 
+consistent group of replies, and the average score of 3.49 indicates a moderate level of agreement that 
+high-stakes testing causes feelings of overwhelm. Given that feeling overburdened is a major sign of high 
+stress levels, this points to a sizable population in the PSS's high stress zone (27–40). 
+Table 11: The Anxiety I Feel Due To High-Stakes Exams Has Affected My Sleep Quality. 
+ SD D N A SA Mean SD 
+N F 3 5 7 18 12 
+45 % 6.7 11.1 15.6 40.0 26.7 3.69 1.184 
+According to the data, the majority of respondents (66.7%) agree, with 40% strongly agreeing, that their 
+sleep quality is impacted by exam anxiety. 15.6% are neutral, and a smaller minority (17.8%) disagree or 
+strongly disagree. With a standard deviation o f 1.184 indicating some diversity in replies, the average 
+score of 3.69 suggests a significant perception that exam-related worry affects sleep. Sleep disturbance is 
+a physiological sign of elevated stress, according to the PSS. Most responders probably fa ll into the high 
+stress group. 
+Table 12: I Feel That I Am Unable To Manage My Emotions Effectively During High-Stakes Exams. 
+ SD D N A SA Mean SD 
+N F 1 6 18 14 6 
+45 % 2.2 13.3 40.0 31.1 13.3 3.40 0.963 
+According to the table, there are differing views on the capacity to control one's emotions during important 
+tests. About forty percent are indifferent, fifteen percent disagree or strongly disagree, and forty -four 
+percent agree or strongly agree that they feel unable to adequately manage their emotions. With a standard 
+deviation of 0.963, which indicates comparatively consistent replies, the average score of 3.40 indicates a 
+moderate view that emotions are challenging to control during these tests. The PSS's moderate to high 
+stress range is consistent with this emotional instability. Pupils who have trouble controlling their 
+emotions are probably closer to the upper limit of moderate stress or high stress. 
+Academic Performance and Confidence 
+Table 13: My academic performance on high-stakes tests reflects my overall abilities as a student. 
+ SD D N A SA Mean SD 
+N F - 7 9 22 7 
+45 % - 15.6 20.0 48.9 15.6 3.64 0.933
+
+--- Page 12 --KJMR VOL.02 NO. 05 (2025) EXAMINE THE EFFECTS OF … 
+ 
+pg. 12 
+ 
+According to the table, the majority of respondents (64.5%) agree, with 48.9% strongly agreeing, that their 
+academic success on important tests represents their overall abilities as a student. Twenty percent are 
+neutral, while a smaller percentage (15.6%) disagree. With a standard deviation of 0.933 indicating 
+somewhat consistent replies, the average score of 3.64 suggests a modest trust that success on high-stakes 
+tests accurately reflects overall abilities. Depending on other variables like self -efficacy and actual 
+performance, pupils here probably fall into the low to moderate stress range. This confidence may operate 
+as a stress buffer. 
+Table 14: I Feel Less Confident About My Academic Abilities Due To The Pressure Of HighStakes Exams. 
+ SD D N A SA Mean SD 
+N F - 10 12 20 3 
+45 % - 22.2 26.7 44.4 6.7 3.36 0.908 
+According to the data, the majority of respondents (51.1%) agree and 6.7% strongly agree that the pressure 
+of high-stakes tests makes them feel less confidence about their academic talents. 26.7% are neutral, and 
+a smaller minority (22.2%) disagree. A standard deviation of 0.908 indicates that responses are generally 
+consistent, and the average score of 3.36 indicates a moderate conviction that the pressure of high -stakes 
+tests affects confidence. This is in line with the PSS's moderate to high stress zones , particularly if 
+emotions of helplessness or self-doubt accompany a decline in confidence. 
+Table 15: High-Stakes Testing Has Led To A Decline In My Self-Esteem. 
+ SD D N A SA Mean SD 
+N F - 11 17 15 2 
+45 % - 24.4 37.8 33.3 4.4 3.18 0.860 
+According to the data, the majority of respondents (61.1%) do not think that taking high -stakes tests has 
+caused them to lose confidence, with 33.3% agreeing and 4.4% strongly agreeing. 24.4% disagree, while 
+a sizable number (37.8%) are neutral. With a standard deviation of 0.860 suggesting rather consistent 
+replies, the average score of 3.18 indicates a modest disagreement that high -stakes testing has a 
+detrimental impact on self-esteem. According to the PSS, this represents students in the moder ate stress 
+zone. 
+Table 16: I Tend To Avoid Studying Or Procrastinate Because Of The Stress Related To HighStakes Testing. 
+ SD D N A SA Mean SD 
+N F 1 14 20 10 45 % 2.2 31.1 44.4 22.2 - 2.87 0.786
+
+--- Page 13 --KJMR VOL.02 NO. 05 (2025) EXAMINE THE EFFECTS OF … 
+ 
+pg. 13 
+ 
+According to the data, a sizable portion of respondents (55.6%) are either ambivalent or unsure about 
+skipping study sessions or putting off assignments because they are anxious about high-stakes exams, with 
+44.4% expressing no opinion. Just 2.2% strongly disagree with the stateme nt that they procrastinate, 
+compared to about 31.1% who agree. According to the PSS, the average score of 2.87 indicates a moderate 
+level of perceived stress, suggesting that some students may engage in procrastination or avoidance 
+activities when under ac ademic pressure. Responses are comparatively consistent, as indicated by the 
+standard deviation of 0.786. 
+Coping Strategies and Support 
+Table 17: I have developed effective strategies to cope with the stress caused by high-stakes exams. 
+ SD D N A SA Mean SD 
+N F 1 7 17 16 4 
+45 % 2.2 15.6 37.8 35.6 8.9 3.33 0.929 
+According to the table, the majority of respondents (44.4%) believe they have created useful coping 
+mechanisms to deal with the pressure of important tests, with 35.6% agreeing and 8.9% strongly agreeing. 
+17.8% disagree or strongly disagree, while 17.8% are neutral. Although stress is evident, many students 
+are actively managing it with coping mechanisms, as indicated by the average score of 3.33, which is 
+within the PSS's moderate stress range. The range of responses is reasonably consistent, as indicated by 
+the standard deviation of 0.929. 
+Table 18: I Feel That The University Provides Sufficient Support For Students Dealing With 
+Stress Related To High-Stakes Testing. 
+ SD D N A SA Mean SD 
+N F 4 6 13 19 3 
+45 % 8.9 13.3 28.9 42.2 6.7 3.24 1.069 
+According to the data, 48.9% of students believe the university offers enough support, compared to 22.2% 
+who disagree and 28.9% who are neutral. With a mean score of 3.24, students view stress to be moderate 
+and are quite secure in the support of the institution. A range of experiences is indicated by the higher 
+standard deviation (1.069), with some students perhaps feeling more stressed out as a result of inadequate 
+support. 
+Table 19: I Talk To Friends Or Family About The Stress I Experience From High-Stakes Exams. 
+ SD D N A SA Mean SD 
+N F 2 3 11 24 5 
+45 % 4.4 6.7 24.4 53.3 11.1 3.60 0.939
+
+--- Page 14 --KJMR VOL.02 NO. 05 (2025) EXAMINE THE EFFECTS OF … 
+ 
+pg. 14 
+ 
+With a high mean score of 3.60, the table reveals that most (64.4%) chat to friends or family to decompress. 
+According to the PSS, this indicates a moderate to high degree of stress, which leads many students to 
+turn to social support as a coping strategy. Response consistency is indicated by the standard deviation of 
+0.939. 
+Table 20: I Find That Relaxation Techniques (E.G., Meditation, Exercise) Help Reduce My 
+Anxiety Before High-Stakes Exams. 
+ SD D N A SA Mean SD 
+N F - 8 16 16 5 
+45 % - 17.8 35.6 35.6 11.1 3.40 0.915 
+With 35.6% agreeing and 11.1% strongly agreeing, the table demonstrates that the majority of respondents 
+(47.8%) believe that relaxation methods like exercise and meditation can help lower anxiety before 
+important tests. But 35.6% are neutral, and 17.8% disagree. According to the PSS, the mean score of 3.40 
+denotes a moderate degree of stress, indicating that many students are successfully managing their stress 
+through the use of appropriate coping mechanisms. There is broad agreement, as indicated by the standard 
+deviation of 0.915. 
+General Health Effects 
+Table 21: High-Stakes Exams Have Caused Me To Experience Physical Symptoms Such As 
+Headaches, Stomachaches, Or Fatigue. 
+ SD D N A SA Mean SD 
+N F 2 3 6 20 14 
+45 % 4.4 6.7 13.3 44.4 31.1 3.91 1.062 
+According to the table, a sizable majority of respondents (75.6%) agreed and 31.1% strongly agreed that 
+they had suffered bodily symptoms such nausea, vomiting, or exhaustion as a result of high -stakes tests. 
+13.3% are neutral, and a smaller minority (11.1%) disagree or strongly disagree. The PSS's high mean 
+score of 3.91 places it in the high stress group, suggesting that academic stress has a significant negative 
+influence on physical health. There may be some variation in how pupils feel these symptoms, as indicated 
+by the standard deviation of 1.062. 
+Table 22: My Academic Performance In High -Stakes Exams Has Affected My Overall Mental 
+Health. 
+ SD D N A SA Mean SD 
+N F 2 6 14 17 6 
+45 % 4.4 13.3 31.1 37.8 13.3 3.42 1.033
+
+--- Page 15 --KJMR VOL.02 NO. 05 (2025) EXAMINE THE EFFECTS OF … 
+ 
+pg. 15 
+ 
+According to the data, more than half (51.1%) of those surveyed concur that their mental health is 
+impacted by their exam results. According to the PSS, the mean of 3.42 indicates moderate stress levels, 
+and academic performance has an impact on emotional health. The standard deviation (1.033) indicates 
+that people's experiences differ from one another. 
+Table 23: I believe that high-stakes testing negatively impacts my long-term mental well-being. 
+ SD D N A SA Mean SD 
+N F 2 9 18 14 2 
+45 % 4.4 20.0 40.0 31.1 4.4 3.11 0.935 
+According to the table, 35.5% of respondents agree or strongly agree that high-stakes testing has an impact 
+on long-term well-being, whereas the majority of responses are neutral or tend toward dissent. The average 
+score of 3.11 indicates that some students are mildly concerned about long -term psychological impacts, 
+which is at the lower end of the PSS's moderate stress range. The standard deviation of 0.935 indicates 
+that the replies were consistent. 
+Perceived Stress Scale (PSS) Results 
+PSS Score Range Category Interpretation based on data 
+0-13 Low stress Few participants fill into this range. Some students, 
+particularly those who expressed confidence in their 
+academic abilities (Table 13), may experience low 
+stress. 
+14-26 Moderate stress Majority of students fall into this category. Responses 
+across tables 1-23 consistently show moderate 
+agreement with stress-related indicators, with mean 
+scores ~3.0-3.6. 
+27-45 High stress A significant proportion of students approach or fall 
+within this range, especially those reporting anxiety, 
+physical symptoms, sleep issues, and emotional 
+instability. Tables 7,8,11 and 12show mean scores near 
+or above 3.9, indicating elevated stress levels. 
+Discussion and Findings 
+The survey's data provides a number of insights into how students view and interact with high -stakes 
+testing. First of all, a high average score suggests that students are at least somewhat familiar with the idea 
+of high-stakes testing and how it affects their academic performance. The response is more moderate,
+
+--- Page 16 --KJMR VOL.02 NO. 05 (2025) EXAMINE THE EFFECTS OF … 
+ 
+pg. 16 
+ 
+indicating that high -stakes testing may not be a matter of frequent discussion or attention, but the 
+awareness of discussions surrounding it within their departments or universities is less certain. 
+Participants' stress levels were divided into three categories based on the Perceived Stress Scale (PSS), 
+which was created by Cohen, Kamarck, and Mermelstein (1983): low (0–13), moderate (14–26), and high 
+(27–45). Only a small percentage of students received low-stress scores, suggesting that they used coping 
+mechanisms that were quite effective or that they were confident in their ability to function academically 
+(see Table 13, where students indicated confidence). According to Tables 1–6, 9–10, 12, and 14–23, where 
+average scores were between 3.0 and 3.6, indicating moderate agreement with stress -related indicators, 
+the majority of respondents fell within the moderate stress range. 
+Interestingly, a significant number of students received high-stress scores. Mean scores of 3.9 or higher 
+were found in Tables 7, 8, 11, and 12, indicating heightened symptoms such anxiety, sleep problems, 
+emotional instability, and physical complaints that are commonly linked to high perceived stress. These 
+findings highlight the significant psychological and emotional toll that high -stakes exams places on 
+students. 
+Most students agreed that high-stakes exams affected both their academic and personal lives. Before tests, 
+a lot of people said they felt o verwhelmed and nervous, which had negative effects on their confidence 
+(Table 8) and sleep habits (Table 11). In spite of this, several students talked about managing these 
+pressures by employing coping strategies like talking to friends, using relaxation techniques, or practicing 
+meditation. Nonetheless, the absence of sufficient institutional support emerged as a recurring trend in the 
+data. In general, students believed that their universities did not offer enough counselling or mental health 
+services to assist them cope with the stress of exams (Table 19). 
+These findings are reinforced by the PSS scores, which suggest that stress management resources remain 
+insufficient for the needs of many students. A crucial area for administrative and policy reform is indicated 
+by this discrepancy between student needs and university support systems. For students to better handle 
+academic pressure and enhance their general well -being, universities should think about introducing 
+structured intervention programs, counselling services, and stress reduction courses. 
+Conclusion 
+Overall, the data indicates that while students are aware of the importance of high-stakes exams, they face 
+significant emotional, mental, and physical challenges due to the pressure these exams create. Many 
+students feel that these tests don't always accurately represent their talents, and stress, anxiety, and feelings 
+of overload are typical. Additionally, the data indicates that although students have created their own 
+coping mechanisms, there is a perceived deficiency of institutional assistance to assist them in coping with 
+the stress of high-stakes exams. 
+The Perceived Stress Scale (PSS) results further reinforce these concerns, with a substantial portion of 
+respondents scoring in the moderat e to high -stress range. In order to help students effectively manage 
+stress, educational institutions must acknowledge the effects of high-stakes testing on them and offer more 
+extensive support networks. Making sure that students have access to tools like academic support, stress
+
+--- Page 17 --KJMR VOL.02 NO. 05 (2025) EXAMINE THE EFFECTS OF … 
+ 
+pg. 17 
+ 
+management classes, and counselling could help mitigate some of the negative impacts found in this study 
+and enhance students' general well-being and academic performance. 
+Recommendations 
+Based on the findings from the survey, se veral recommendations can be made to address the challenges 
+students face regarding high-stakes testing: 
+1. To assist students in coping with the stress of important tests, universities ought to think about 
+strengthening their support services. This can entai l making counselling services more easily 
+accessible, holding seminars on stress reduction and relaxation methods, and making sure students are 
+aware of the tools that are available. 
+ 
+2. Offering students required or elective stress management classes or semi nars could provide them the 
+skills they need to manage exam anxiety. To assist students lower stress and perform better, these 
+courses could cover techniques including time management, mindfulness, and relaxation techniques. 
+ 
+3. Academic departments ought to have more open conversations about high -stakes testing. By 
+understanding the difficulties students encounter and offering support, faculty and staff can 
+significantly contribute to stress reduction. Raising awareness of how these assessments affect 
+students' mental health may contribute to the development of a more compassionate and encouraging 
+learning environment. 
+ 
+4. Although high -stakes tests are frequently used to gauge academic achievement, they could not 
+accurately represent a student's aptitudes. Alte rnative assessment methods, including project -based 
+learning or continuous assessment, should be considered by universities in order to lessen the emphasis 
+on one-time, stressful exams and give a more realistic view of a student's aptitudes. 
+5. Fostering peer support networks where students may discuss the anxiety of high -stakes tests and 
+exchange methods could contribute to the development of a feeling of community. Students may feel 
+less alone and more supported during exam times with the help of peer -led study groups or stress relieving activities. 
+6. Universities should encourage improved sleep hygiene and mental well -being activities since the 
+survey revealed that stress from high -stakes exams might impact sleep quality and general mental 
+health. Better exam scheduling, more opportunities for rest and relaxation, and the provision of quiet 
+study areas could all help lessen these detrimental consequences. 
+ 
+7. The long -term effects of high -stakes testing on academic performance and mental health require 
+further re search. Future studies can examine the efficacy of existing support networks, other 
+approaches to evaluation, and stress -reduction techniques. Universities would be better able to 
+comprehend the demands of their students and enhance their high-stakes testing practices as a result. 
+In order to lessen the detrimental impacts of high -stakes testing, institutions should address these issues 
+and establish a more encouraging environment that prioritizes students' academic performance and well being first.
+
+--- Page 18 --KJMR VOL.02 NO. 05 (2025) EXAMINE THE EFFECTS OF … 
+ 
+pg. 18 
+ 
+Reference
+Ahmed, Q., Jabeen,F., Bibi, H., & Salim, F. N. (2024). Invigorating the Observational Skills of Primary 
+School Students by Visiting Museum as Learning Resource. Policy Journal of Social Science Review, 
+2(4), 52–64. Retrieved from https://journalofsocialsciencereview.com/index.php/PJSSR/article/view/25 
+Anderson, H., & Garver, P. (2023). Mental health outcomes of high-stakes testing in adolescents. 
+Journal of Educational Psychology, 115(2), 123–134. 
+Andresen, M. E., & Løkken, S. A. (2020). The final straw: High school dropout for marginal students. 
+SSRN. https://doi.org/10.2139/ssrn.3626325 
+Ballen, C. J., Wieman, C., Salehi, S., Searle, J. B., & Zamudio, K. R. (2017). Enhancing diversity in 
+undergraduate science: Self-efficacy drives performance gains with active learning. CBE—Life 
+Sciences Education, 16(4), ar56. 
+Brown, S., & Ross, P. (2023). Exam stress and burnout: A study of high-stakes testing in secondary 
+schools. Educational Research Quarterly, 46(1), 56–67. 
+Cohen, L., Manion, L., & Morrison, K. (2017). Research methods in education (8th ed.). Routledge. 
+https://doi.org/10.4324/9781315456539 
+Cohen, S., Kamarck, T., & Mermelstein, R. (1983). A global measure of perceived stress. Journal of 
+Health and Social Behavior, 24(4), 385-396. 
+Creswell, J. W. (2014). Research design: Qualitativ e, quantitative, and mixed methods approaches (4th 
+ed.). SAGE Publications. 
+Fejes, A., Nylander, E., & Berglund, G. (2020). The confessional society of education: Learning to 
+confess in teacher education. Pedagogy, Culture & Society, 28(4), 613 –628. 
+https://doi.org/10.1080/14681366.2019.1690210 
+Fernández-Castillo, A., & Caurcel, M. J. (2019). State test-anxiety, selective attention, and concentration 
+in university students. International Journal of Psychology, 54(3), 432– 439. 
+https://doi.org/10.1002/ijop.12475 
+Fu, Y. (2024). The impact of Gaokao high -stakes testing on student mental health in China: An analysis 
+of stress levels and coping mech anisms among senior high school students. Research and Advances in 
+Education, 3(5), 23–32. https://doi.org/10.56397/rae.2024.05.04 
+Galla, B. M., Wood, J. J., Tsukayama, E., Har, K., & Little, S. G. (2018). Stress and school: How 
+stress affects the engagement and performance of youth. Journal of School Psychology, 66, 28 –
+43. https://doi.org/10.1016/j.jsp.2017.11.002 
+Galloway, L. (2013). The impact of high-stakes testing on student motivation and anxiety. Journal 
+of Educational Psychology, 105(4), 957–970. 
+Högberg, B., & Horn, D. (2022). The impact of high -stakes exams on student mental health: Evidence 
+from a natural experiment. European Soci ological Review, 38(1), 1 –14. 
+https://doi.org/10.1093/esr/jcab045 
+Jones, A., & Jenkins, M. (2022). Test anxiety and its effects on college-bound students. Journal of 
+Higher Education, 93(4), 457–468.
+
+--- Page 19 --KJMR VOL.02 NO. 05 (2025) EXAMINE THE EFFECTS OF … 
+ 
+pg. 19 
+ 
+Kirk, C., Lee, A., & Nguyen, J. (2022). Coping strategies and mental health during high- stakes testing: 
+A longitudinal study. Stress and Health, 39(1), 24–35. 
+Liu, X., & Li, Y. (2022). The relationship between test preparation intensity and student burnout. 
+Psychological Science, 48(3), 345–356. 
+Maes, M., Van der Planken, M., Van Gastel, A., Bruyland, K., Van Hunsel, F., Neels, H., & D'Hondt, P. 
+(1998). Influence of academic examination stress on hematological measurements in subjectively 
+healthy volunteers. Psychiatry Research, 80(3), 201–212. https://doi.org/10.1016/S01651781(98)00075-0 
+Mello, Z., Garcia, R., & Vázquez, S. (2021). Psychological impacts of standardized testing in youth: 
+A review. International Journal of Educational Research, 72(6), 112–127. 
+Owens, D., Moore, P., & Allen, T. (2020). Test anxiety in adolescents: Causes, effects, and interventions. 
+Journal of Youth Studies, 23(9), 1234–1249. 
+Pekrun, R., Lichtenfeld, S., & Goetz , T. (2021). Test anxiety and performance: The role of emotions in 
+academic achievement. Educational Psychology Review, 33(2), 323–338. 
+Pizzie, R., & Putwain, D. (2021). Stress and anxiety in high-stakes testing: A meta-analysis of cognitive 
+outcomes. Journal of Educational Psychology, 113(5), 1195–1209. 
+Putwain, D. W. (2007). The role of parental involvement in students' exam anxiety. Journal of Educational 
+Research, 99(4), 269–279. 
+Putwain, D. W., & Daly, A. (2021). The impact of high-stakes testing on students' anxiety and motivation. 
+Educational Psychology, 41(3), 356–374. 
+Roth, A., Chen, Z., & Tan, W. (2023). Chronic stress and its effects on academic performance in high stakes testing. Journal of Educational Psychology, 115(1), 44–58. 
+Sahar, F., Jabeen, F., Tabassum, H., & Malik, M.R. (2024). Challenges and Solutions of Online Meetings 
+Through Google Classroom at the University Level: A Qualitative Study. Pakistan Journal of Society, 
+Education and Language (PJSEL), 10(2), 420 –433. Retrieved from 
+https://pjsel.jehanf.com/index.php/journal/article/view/1436 
+ShayesteFar, M. (2020). The relationship between test anxiety, self -esteem, and academic achievement 
+among EFL student s. Journal of Language and Education, 6(3), 95–104. 
+https://doi.org/10.17323/jle.2020.10313 
+Sikorski, M., & McCann, J. (2023). Student perceptions of test stakes and their relationship to stress. 
+Journal of School Psychology, 61(3), 103–114. 
+Weekes, N. Y., Lewis, R. S., & Patel, F. (2006). Examination stress as an ecological inducer of cortisol 
+and psychological responses to stress in undergraduate students. Stress, 9(4), 199–206. 
+https://doi.org/10.1080/10253890601029751 
+Zeidner, M. (2020). Test anxiety and its effects on performance in standardized testing environments. 
+Psychological Bulletin, 146(2), 171–189. 
+Zhang, L., Wang, L., & You, X. (2011). Relations among stress, coping, and mental health: A case 
+study of Chinese adolescents. Journal of Educational and Developmental Psychology, 1(1), 100 –106. 
+https://doi.org/10.5539/jedp.v1n1p100

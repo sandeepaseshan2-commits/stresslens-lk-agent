@@ -1,0 +1,8 @@
+{
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "chunk_size": 180,
+  "chunk_overlap": 40,
+  "document_count": 20,
+  "chunk_count": 1077,
+  "vector_dimension": 384
+}

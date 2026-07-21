@@ -1,0 +1,576 @@
+--- Page 1 --Page 1/15
+Depression, Anxiety and Stress Levels Among Allied
+Health Undergraduates in a Defence University, Sri
+Lanka
+CHANDIMA KUMARA WALPITA GAMAGE  (  ckumara@kdu.ac.lk )
+General Sir John Kotelawala Defence University
+VITHANAGE BUDDHINI JAYATHRI PERERA 
+General Sir John Kotelawala Defence University
+KAARTHIGA SIVENDRAN 
+General Sir John Kotelawala Defence University
+DILSHARA KITHMINI JAYASURIYA PATABANDIGE 
+General Sir John Kotelawala Defence University
+SUBASH DESHAPRIYA HEWA DEWAGE 
+General Sir John Kotelawala Defence University
+NEIL FRANCIS JOSEPH FERNANDO 
+General Sir John Kotelawala Defence University
+Research Article
+Keywords: Depression, Anxiety, Stress, Undergraduates
+Posted Date: May 28th, 2021
+DOI: https://doi.org/10.21203/rs.3.rs-542811/v1
+License:   This work is licensed under a Creative Commons Attribution 4.0 International License.  
+Read Full License
+
+--- Page 2 --Page 2/15
+Abstract
+Background
+Depression, Anxiety and Stress levels are considered indicators of psychological well-being. These mental
+disorders con ict with the healthy lives of young adults when entering critical life transitions like
+university life. Further, Allied Health Sciences undergraduates have been reported as a more vulnerable
+group in this regard. The main objective of this study was to assess Depression, Anxiety and Stress levels
+among the undergraduates of a defence university in Sri Lanka.
+Methods
+The study was conducted as a cross-sectional descriptive study among all the undergraduates (n=640)
+attached to FAHS, KDU. A general questionnaire was used to collect socio-demographic data, and DASS
+21 was used to assess the level of stress, depression, and anxiety. The data analysis was performed
+using descriptive statistics, Spearman correlation test and Pearson Chi-square test in SPSS 25.0.
+Results
+The majority were reported, normal level of depression (64.9%), anxiety (59.5%), stress (72.3%). However,
+35.1 %, 40.5%, 27.7% were having mild to extremely severe depression, anxiety and stress levels,
+respectively. A signi cant strong positive relationship was identi ed between depression and anxiety (r=
+0.707, p= 0.000), depression and stress (r=0.722, p= 0.000) and anxiety and stress (r=0.658, p= 0.000).
+The level of depression was statistically signi cant only with degree course (p=0.040). However, anxiety
+and stress levels had no signi cant associations with gender, academic year, and degree course. The
+current medical treatments had signi cant associations with depression (p= 0.002), anxiety (p= 0.000)
+and stress (p= 0.002). Moreover, history of psychological treatments had associations with anxiety
+(0.009) and stress (0.040). 
+Conclusion
+The majority of the participants had 'normal' levels of depression, anxiety, and stress among the study
+population. However, frequent assessment of the undergraduates' psychological pro les is essential to
+make necessary interventions to enhance their mental health status.
+Background
+According to the World Health Organization, Health is de ned as a state of complete physical, mental and
+social well-being and not merely the absence of disease or in rmity [1]. Most people con de in health as
+physical well-being and be free from diseases, and they neglect their psychological well-being [2]. Further,
+World Health Organization de nes 'Mental Health' as a state of well-being in which the individual realises
+his or her abilities, coping with the everyday stresses of life, working productively and fruitfully, and can
+contribute to his or her community [3].
+
+--- Page 3 --Page 3/15
+Mental disorders such as Depression, Anxiety, Stress consist of a wide range of issues with various
+symptoms. Moreover, they generally indicate con icting emotions, behaviours, thoughts and relationships
+with others [3]. According to updated worldwide statistics, at present, 450 million people have a mental
+disorder [4].
+Many mental health problems appear within 18-25 of age, particularly in a vulnerable developmental
+period in an individual's life. In young adults, mental health problems may con ict with their healthy lives
+when entering university life, which is considered a critical life transition in their educational life [5].
+Therefore, undergraduates are identi ed as a particular risk group due to unpredictable lifestyle changes
+associated with new friendships and social norms [6].
+Depression, anxiety and stress are common mental disorders among university students [7]. Physical and
+mental illnesses, absenteeism, substance abuse, diminished work e ciency and burnout may trigger
+elevated levels of depression, anxiety and stress among undergraduates [8]. According to the statistical
+studies, up to 60% of university students reported that they left universities without completing their
+degree programs due to depression, anxiety, and maladjustment [9]. Furthermore, excessive stress results
+in physical and mental health problems, which affect students' academic achievements, personal and
+professional development [10]. 
+Allied Health Sciences students had reported as a more vulnerable group for depression, anxiety, and
+stress due to their learning environment [11]. Except for academic learning, Allied Health Sciences
+students have to achieve skills in laboratory and clinical settings and undergo both theory and practical
+or clinical examination, which may lead to a complex learning background [12]. Even though some degree
+of stress needs to trigger and encourage students to achieve their targets [13], the increased level of
+depression, anxiety and stress may cause reduced concentration, decreased level of problem-solving and
+decision making [14].
+Even though plenty of research has been conducted on assessing depression, anxiety, and stress among
+allied health science undergraduates globally, the studies conducted in Sri Lanka are de cient specially, in
+a defence university. Further, when comparing with other universities in Sri Lanka, General Sir John
+Kotelawala Defence University (KDU) has a different academic and administrative environment due to
+different culture with the military setting. Therefore, the main aim of this study was to assess the levels of
+Depression, Anxiety and Stress among the undergraduates of FAHS, KDU.
+Methods
+Data Collection
+The current study was carried out as a descriptive cross-sectional study at FAHS, KDU. All the
+undergraduates (N=679) study in all the degree courses (i.e., Nursing and Midwifery, Physiotherapy,
+Medical Laboratory Sciences, Pharmacy, Radiotherapy and Radiography) the FAHS, KDU were selected
+for this study and the undergraduates who have not consented to the study were excluded.
+
+--- Page 4 --Page 4/15
+The data was collected in the mid of the semester to maintain the same academic environment for all
+FAHS undergraduates. The ethical approval for the study was obtained from the Ethics Review
+Committee (RP/S/2020/15), Faculty of Medicine, KDU, Sri Lanka and all methods were performed in
+accordance with the relevant guidelines and regulations. Further, the institutional approval was obtained
+from the Vice-Chancellor, KDU, and the Dean, FAHS, KDU. The study objectives and data collection
+process were discussed with all the heads of ve-degree courses before the data collection. The informed
+consent was obtained online from the study participants before the data collection. Participation was
+voluntary, and the participants had the right to withdraw at any time without further explanation.
+The data collection was conducted entirely online due to the prevailing COVID-19 pandemic situation of
+the country. The questionnaire was shared online among all the students in FAHS, KDU, by maintaining
+and ensuring their privacy and con dentiality. Furthermore, the consent for the study was obtained once
+the purpose and objectives were explained on the rst page of the online questionnaire. Moreover, the
+participants who were willing to receive mental health support were encouraged to receive mental health
+services through an online shared lea et shared during the data collection.
+The questionnaires were not consisted any sensitive questions which would create psychological
+embarrassment/ trauma or to the undergraduates. The undergraduates were informed that they could
+leave from the study at any time, and departure from the study does not affect academic activities.
+Moreover, all participants' students were informed that their participation is voluntary, and there are no
+incentives or rewards for them for their contribution to the study. Furthermore, the participants were
+encouraged to ask further questions and clarify their concerns by contacting research investigators
+during the study by providing the contact details. The researchers assured the participants that all
+gathered data from the participants would be kept con dential and not released in public under any
+circumstance. The soft copies of all the data were stored and protected with a unique password, and hard
+copies generated were stored and kept locked in a secure place. After ve years, all the data will be
+deleted to secure the participants' privacy and con dentiality.
+Study Instruments
+The study instrument consisted of two parts. The rst part was a general questionnaire that assessed the
+socio-demographic data. The general questionnaire was translated into Sinhala by professional
+translators and back-translated to English by two professional translators. Then, a reconsolidated version
+was developed by the investigators with the discussion with the translators before use. A pre-test was
+conducted among 25 most recently passed out graduates of the FAHS, KDU, to determine whether it is
+acceptable, whether it is understood in the way it is supposed to, and whether the language used is
+appropriate and straightforward.
+The second part of the online questionnaire consisted of Sinhalese validated version of Depression,
+Anxiety and Stress (DASS-21) and permission to use the scale was obtained from its developers [15]. In
+this Sinhala validation, the internal consistency of the subscales of depression, anxiety and stress in
+DASS 21 respectively reported as 0.83, 0.76 and 0.80 [15].
+
+--- Page 5 --Page 5/15
+The emotional states of Depression, Anxiety and Stress were measured by DASS-21, which was designed
+with three self-report scales [16]. DASS-21 is the short version of the original DASS (Depression, Anxiety,
+and Stress Scale), consisting of 42 items. Depression (DASS-D), Anxiety (DASS-A), and Stress (DASS-S)
+scale consisted of DASS-21 with 21 items questionnaire. Moreover, DASS-21 items scored through a fourpoint Likert-type scale of 0 to 3, and each scale was multiplied by the sum of 2 to calculate total scores
+[12]. Once multiply DASS-21 by the sum of 2, check the severity level according to the table below (Table
+01) [15].
+Data Analysis
+Data analysis was conducted using the Statistical Software SPSS version 23.0. Descriptive statistics
+were used to describe socio-demographic characteristics. The Shapiro-Wilk test was used to assess the
+normality of data distribution, and it was noted that the data was not normally distributed. Therefore, to
+examine the relationship between Depression, Anxiety and Stress, Spearman's correlation test was used.
+Further, to identify the associations between independent variables with the levels of Depression, Anxiety
+and Stress, Pearson's Chi-square test was used. Most of the socio-demographic characteristics were that
+more than 20% of cells had expected frequencies > 5. Therefore, Fisher's exact test was applied as an
+approximation method to analyse the small sample sizes. Alpha level of signi cance was set at < 0.05.
+Results
+Socio-demographic data
+From the total population of 679 undergraduates, 640 undergraduates responded for the study forming a
+response rate of 94.25%. Majority of the sample consisted of females (75.8%; n=485). When considering
+the academic years, 26.6% (n=170) were from fourth year, 25.3% (n=162) were from rst year, 24.2%
+(n=155) were from second year and 23.9% (n=153) were from third year. When considering the degree
+courses, 24.2% (n=156) were nursing undergraduates, 22.0% (n=141) were physiotherapy
+undergraduates, 20.0% (n=128) were Medical Laboratory Sciences undergraduates, 17.7% (n=113) were
+Pharmacy undergraduates, 9.4% (n=60) were Radiography undergraduates and 6.7% (n=43) were
+Radiotherapy undergraduates (Table 2).
+Out of 640 participants, 10.5% had responded that they are currently under medical treatments. From the
+study participants, about 11.1% of respondents stated that they had undergone psychological treatment
+during their lifetime.
+Reliability of the Sinhalese version of DASS-21
+Cronbach's alpha reliability test was done to assess the internal consistency of the subscales of DASS-D,
+DASS-A and DASS-S. The test results showed a coe cient of 0.882, 0.819 and 0.859, for depression,
+anxiety and stress, respectively, indicating DASS-21 is a reliable measurement.
+Assessment of depression, anxiety and stress levels
+
+--- Page 6 --Page 6/15
+The mean scores of depression, anxiety and stress levels were 8.11 (SD±7.857), 6.93±6.764 and
+11.45±8.199, respectively. According to the analysed data, the majority of the undergraduates were
+identi ed with 'normal' levels of depression (65.0%; n=416), anxiety (59.5%; n=381) and stress 72.3%
+(n=463) (Table 3). From the study population, 28.6% nursing, 36.2% physiotherapy, 35.2% Medical
+Laboratory Sciences, 31.7% Radiography, 37.2% Radiotherapy and 43.4% Pharmacy undergraduates
+showed mild to extremely severe depressive symptoms within their courses. Further, there were 35.1 %
+nursing, 41.8 % physiotherapy, 37.5% Medical Laboratory Sciences, 36.7% Radiography, 51.2%
+Radiotherapy, and 46.9% Pharmacy undergraduates presented with mild to extremely severe anxiety
+symptoms within their courses. Moreover, 22.7% nursing, 30.5% physiotherapy, 25.8% Medical Laboratory
+Sciences, 28.3% Radiography, 39.5% Radiotherapy, 28.3% Pharmacy undergraduates presented with mild
+to extremely severe stress symptoms within their courses.
+Relationship between depression, anxiety and stress
+There was a signi cant strong positive relationship between depression and anxiety (r = 0.707, p =0.000),
+depression and stress (r = 0.722, p =0.000) stress and anxiety (r = 0.658, p =0.000) (Table 4).
+Associations of socio-demographic characteristics with depression, anxiety and stress
+The level of depression was only statistically signi cant with degree course (p=0.040). However, anxiety
+and stress levels had no signi cant associations with gender, academic year, and degree course (Table
+5). The undergraduates under current medical treatments had signi cant associations with depression
+(p= 0.002), anxiety (p= 0.000) and stress (p= 0.002). Moreover, psychological treatment during their
+lifetime had associations with anxiety (0.009) and stress (0.040) (Table 6 & 7).
+Discussion
+The main aim of the current study was to assess the levels of Depression, Anxiety and Stress among the
+Allied Health undergraduates in a defence university; therefore, undergraduates of the Faculty Allied
+Health Sciences, General Sir John Kotelawala Defence University was selected as the study population.
+Further, the associations between depression, anxiety, and stress with socio-demographic characteristics
+were assessed.
+The majority of the current study respondents reported 'normal' levels of depression, anxiety and stress.
+Therefore, 35.1%, 40.5%, 27.7% of undergraduates were having mild to extremely severe depression,
+anxiety and stress levels, respectively. A similar study carried out among nursing undergraduates at the
+University of Peradeniya, Sri Lanka, have reported that the majority of the respondents reported mild to
+extremely severe symptoms of depression (51.1%), anxiety (59.8%) and stress (82.6%) [12]. In another Sri
+Lankan study, there was a high prevalence of stress among nursing undergraduates at the University of
+Sri Jayewardenepura, Sri Lanka [17]. In the current study, 28.6%, 35%, 22.7% of nursing undergraduates
+were having mild to extremely severe depression, anxiety, and stress levels. It shows that the depression,
+anxiety and stress levels are comparatively low among the nursing undergraduates of FAHS, KDU
+
+--- Page 7 --Page 7/15
+compared to the previous studies conducted among nursing undergraduates in Sri Lanka. The new
+reformations in nursing education in Sri Lanka, a healthy academic environment, high standard student
+counselling services, high infrastructure facilities, and high job security available for the undergraduates
+at the KDU might be the signi cant reasons for this difference. However, student counselling and student
+services improvements might be needful to increase the undergraduates' mental health.
+Furthermore, this study found that strong signi cant positive Correlation between depression, anxiety and
+stress and this result is compatible with previous literature carried out in Sri Lanka[12] and other
+countries[18,19]. This strong Correlation also indicates increased risk for somatic modi cation in
+psychological health, increased persistence sensation of fear, apprehension, tension, and discomfort,
+leading to poor psychological well-being that would interfere and limit academic performance [18]. 
+The degree course has been associated with depression, which could be attributed to the greater fear of
+not achieving undergraduates' goals. It could be due to variations in the academic activities, hours of
+clinical placements, end semester academic-based examinations and laboratory-based and clinical
+examinations among different degree courses. Moreover, the current study did not nd any signi cant
+association between gender and academic year with depression, anxiety and stress. Internationally there
+are numerous studies conducted to assess depression, anxiety and stress among undergraduates. These
+studies showed that depression, anxiety and stress are associated with gender[20], and in some similar
+studies compared to males, female undergraduates have a higher prevalence of depression, anxiety and
+stress [21]. Moreover, there was a signi cant association between levels of depression, anxiety and stress
+with the academic year in a study conducted among the nursing undergraduates at the University of
+Peradeniya, Sri Lanka [12].
+The study further found that depression is signi cantly associated with the participants who were on
+medical treatments currently. Moreover, a history of psychological treatments is signi cantly associated
+with the level of stress and anxiety. Therefore, identifying the undergraduates' physical and psychological
+status is essential to developing their psychological health [12].
+Conclusions
+The ndings conclude that majority of the participants had normal levels of depression, anxiety and
+stress. Moreover, the nding showed a signi cant solid positive relationship between depression, anxiety
+and stress. There was no signi cant association between depression, anxiety and stress with sociodemographic variables such as gender and academic year. However, it was noted that frequent
+assessment of depression, anxiety and stress levels is critical in identifying the undergraduates who need
+support in their academic life.
+Poor mental health status has a signi cant in uence on undergraduates' future; therefore, interventions
+should be developed and prioritised to enhance the mental health among the undergraduates FAHS in
+several areas; student services and support, academic learning methods, course design, environment,
+culture and communication and student society activities.
+
+--- Page 8 --Page 8/15
+Declarations
+Ethics approval and consent to participate
+The Ethical approval for the current study was obtained from the Ethic Review Committee, Faculty of
+Medicine, General Sir John Kotelawala Defence University, Sri Lanka (RP/S/2020/15) and all methods
+were performed in accordance with the relevant guidelines and regulations. The informed consent was
+obtained online from the study participants before the data collection. Participation was voluntary, and
+the participants had the right to withdraw at any time without further explanation.
+Consent for publication
+Not applicable.
+Availability of data and materials
+The datasets generated and analysed on the current study will not be shared public to preserve the
+privacy and con dentiality of the participants. However, the datasets from this study are available from
+the corresponding author upon reasonable request.
+Abbreviations
+FAHS: Faculty of Allied Health Sciences
+KDU: General Sir John Kotelawala Defence University
+Competing interests
+The authors declare that they have no competing interests.
+Funding
+This study received no speci c grant from any funding agency in public, commercial or not-for-pro t
+sectors.
+Authors' contributions
+VBJP, SK, JPDK and HDSD participated in writing the proposal, data collection and writing. WGCK and
+NFJF participated in analysing data, interpreting data, and writing and submitting the article for
+publication. All authors read and approved the nal manuscript.
+Acknowledgements
+The authors would like to acknowledge that the undergraduates participated in this study.
+
+--- Page 9 --Page 9/15
+References
+1. Grad FP. The Preamble of the Constitution of the World Health Organization. Bull World Health
+Organ. 2002;4.
+2. Sherina MS, Rampal L, Kaneson N. Psychological stress among undergraduate medical students.
+Med J Malaysia. 2004 Jun;59(2):207–11.
+3. Galderisi S, Heinz A, Kastrup M, Beezhold J, Sartorius N. Toward a new de nition of mental health.
+World Psychiatry. 2015 Jun;14(2):231–3.
+4. SARACENO B, SAXENA S. Mental health resources in the world: results from Project Atlas of the
+WHO. World Psychiatry. 2002 Feb;1(1):40–4.
+5. McLafferty M, Lapsley CR, Ennis E, Armour C, Murphy S, Bunting BP, et al. Mental health, behavioural
+problems and treatment seeking among students commencing university in Northern Ireland. PLoS
+ONE. 2017;12(12).
+ . Sravani A, Doshi D, Kulkarni S, Reddy P, Reddy S. Depression, anxiety, and stress among
+undergraduate dental students in Hyderabad City, Telangana, India: A cross-sectional study. J Indian
+Assoc Public Health Dent. 2018 Jan 1;16:26.
+7. Kerebih H, Ajaeb M, Hailsilassie H. Common mental disorders among medical students in Jimma
+University, SouthWest Ethiopia. Afr Health Sci. 2017 Sep 18;17:844.
+ . Koutsimani P, Montgomery A, Georganta K. The Relationship Between Burnout, Depression, and
+Anxiety: A Systematic Review and Meta-Analysis. Front Psychol [Internet]. 2019 Mar 13 [cited 2021
+May 9];10. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6424886/
+9. Yasin AS, Dzulki i MA. DIFFERENCES IN DEPRESSION, ANXIETY AND STRESS BETWEEN LOW-AND
+HIGH-ACHIEVING STUDENTS. 2011;6:10.
+10. Fasoro AA, Oluwadare T, Ojo TF, Oni IO. Perceived stress and stressors among rst-year
+undergraduate students at a private medical school in Nigeria. J Taibah Univ Med Sci. 2019 Oct
+1;14(5):425–30.
+11. Fata Nahas ARM, Elkalmi RM, Al-Shami AM, Elsayed TM. Prevalence of Depression Among Health
+Sciences Students: Findings From a Public University in Malaysia. J Pharm Bioallied Sci.
+2019;11(2):170–5.
+12. Rathnayake S, Ekanayaka J. Depression, Anxiety and Stress among Undergraduate Nursing Students
+in a Public University in Sri Lanka. 2016;14.
+13. Ellawela YG, Fonseka P. Psychological distress, associated factors and coping strategies among
+female student nurses in the Nurses’ Training School Galle. J Coll Community Physicians Sri Lanka.
+2011 Dec 14;16(1):23–9.
+14. Yazdani M, Rezaei S, Pahlavanzadeh S. The effectiveness of stress management training program
+on depression, anxiety and stress of the nursing students. Iran J Nurs Midwifery Res.
+2010;15(4):208–15.
+
+--- Page 10 --Page 10/15
+15. Rekha AVS. Adaptation and validation of the Depression, Anxiety, and Stress Scale (DASS21) among
+Students of the University of Colombo. 2012 [cited 2021 May 6]; Available from:
+http://archive.cmb.ac.lk:8080/research/handle/70130/3898
+1 . Beaufort IN, De Weert-Van Oene GH, Buwalda VAJ, de Leeuw JRJ, Goudriaan AE. The Depression,
+Anxiety and Stress Scale (DASS-21) as a Screener for Depression in Substance Use Disorder
+Inpatients: A Pilot Study. Eur Addict Res. 2017;23(5):260–8.
+17. Ilankoon I, Warnakulasooriya SSP. Perceived Stress and Associated Factors among BSc Nursing
+Undergraduates in University of Sri Jayewardenepura, Sri Lanka. 2014 [cited 2021 May 8]; Available
+from: http://ir.kdu.ac.lk/handle/345/1490
+1 . Kurebayashi LFS, Prado JM do, Silva MJP da. Correlations between stress and anxiety levels in
+nursing students. J Nurs Educ Pract. 2012 Apr 22;2(3):128.
+19. Manpreet K, Maheshwari DSK. Depression, anxiety and stress among postgraduate nursing students.
+Int J Ther Appl. 2015 Jan 1;21:12–8.
+20. Iqbal S, Gupta S, Venkatarao E. Stress, anxiety & depression among medical undergraduate students
+& their socio-demographic correlates. Indian J Med Res. 2015 Mar 1;141:354–7.
+21. Ramón-Arbués E, Gea-Caballero V, Granada-López JM, Juárez-Vela R, Pellicer-García B, AntónSolanas I. The Prevalence of Depression, Anxiety and Stress and Their Associated Factors in College
+Students. Int J Environ Res Public Health. 2020 Jan;17(19):7001.
+Tables
+Table 1 Scoring system of DASS-21
+Severity levels
+ 
+Depression Anxiety Stress
+Normal 0-9 0-7 0-14
+Mild 10-13 8-9 15-18
+Moderate 14-20 10-14 19-25
+Severe 21-27 15-19 26-33
+Extremely severe
+ 
+28+ 20+ 34+
+ 
+Table 2 Descriptive statistics for socio-demographic characteristics
+
+--- Page 11 --Page 11/15
+Demographic       Characteristics                                   Number Percentage%
+Gender                          Male
+                                       Female
+155
+485
+24.2
+75.8
+Academic Year            First –year
+                                       Second-year
+                                       Third-year
+                                       Fourth-year
+162
+155
+153
+170
+25.3
+24.2
+23.9
+26.6
+Degree course             Nursing
+                                       Physiotherapy
+                                       MLS
+                                       Pharmacy
+                                       Radiography
+                                       Radiotherapy
+156
+141
+128
+113
+60
+43
+24.2
+22.0
+20.0
+17.7
+9.4
+6.7
+ 
+Table 3 Distribution of depression, anxiety and stress levels among the respondents
+
+--- Page 12 --Page 12/15
+Category Number Percentage              Mean ±SD
+Depression
+                         Normal
+                         Mild
+                         Moderate
+                         Severe
+                         Extremely severe
+ 
+ 416
+ 105
+   76
+   26
+   17
+ 
+                                  8.11±7.857
+   65%
+ 16.4%
+ 11.9%
+ 4.1%
+ 2.7%
+Anxiety
+                         Normal
+                         Mild
+                         Moderate
+                         Severe
+                         Extremely severe
+ 
+ 
+ 381
+   58
+ 132
+   30
+   39
+                                   6.93±6.764
+ 59.5%
+ 9.1%
+ 20.6%
+ 4.7%
+ 6.1%
+Stress
+                         Normal
+                         Mild
+                         Moderate
+                         Severe
+                         Extremely severe
+ 
+ 463
+   70
+   63
+   34
+   10
+                                    11.45±8.199
+ 72.3%
+ 10.9%
+ 9.8%
+ 5.3%
+ 1.6%
+ 
+Table 4 Relationship between depression, anxiety and stress among the respondents
+Variables r value p-value
+Correlation between Depression and Anxiety                   0.707                              0.000
+Correlation between Depression and Stress                   0.722                   0.000
+Correlation between Stress and Anxiety                   0.658                   0.000
+** Correlation is signi cant at the 0.01 level (2-tailed).
+
+--- Page 13 --Page 13/15
+ 
+Table 5 Associations of socio-demographic characteristics with depression        
+Characteristic      Category Frequency p-value
+Gender                     Male
+Female
+155
+485
+0.138 
+Academic year First Year
+Second Year
+Third Year
+Fourth Year
+162
+155
+153
+170
+0.779                             
+Degree course Nursing
+Physiotherapy
+MLS
+Pharmacy
+Radiography
+Radiotherapy
+156
+141
+128
+113
+60
+43
+0.040
+Medical treatments Yes
+No
+67
+573
+0.002
+History of psychological treatments Yes
+ No
+71
+569
+0.152
+ 
+Table 6 Associations of socio-demographic characteristics with anxiety
+
+--- Page 14 --Page 14/15
+Characteristic      Category Frequency p-value  
+Gender                     Male
+Female
+155
+485
+0.716          
+Academic year First Year
+Second Year
+Third Year
+Fourth Year
+162sciences
+155
+153
+170
+0.077            
+Degree course Nursing
+Physiotherapy
+MLS
+Pharmacy
+Radiography
+Radiotherapy
+ 
+156
+141
+128
+113
+60
+43
+0.367  
+Medical treatments Yes
+No
+67
+573
+0.000  
+History of psychological treatments Yes
+No
+71
+569
+0.009  
+ 
+Table 7 Associations of socio-demographic characteristics with stress
+
+--- Page 15 --Page 15/15
+Characteristic      Category                             Frequency p-value  
+Gender                     Male
+Female
+155
+485
+0.656           
+Academic year First Year
+Second Year
+Third Year
+Fourth Year
+162
+155
+153
+170
+0.967    
+Degree course Nursing
+Physiotherapy
+MLS
+Pharmacy
+Radiography
+Radiotherapy
+156
+141
+128
+113
+60
+43
+0.463  
+Medical treatments Yes
+No
+67
+573
+0.002   
+History of psychological treatments Yes
+No
+71
+569
+0.040

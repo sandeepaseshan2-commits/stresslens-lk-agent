@@ -1,0 +1,1151 @@
+--- Page 1 --Ryan HATCHER, Yosung HWANG / Journal of Economics Marketing, and Management Vol 8 No 2 (2020) 1-12 1
+ISSN: 2288-7709 © 2020 KODISA & ICMA.
+http://www.icma.or.kr
+doi: http://dx.doi.org/10.20482/jemm.2020.8.2.1
+Optimizing Study-life Balance within Higher Education: A Comprehensive 
+Literature Review* 
+Ryan HATCHER1, Yosung HWANG2
+Received: March 17, 2020. Revised: March 25, 2020. Accepted: March 30, 2020.
+Abstract 
+Purpose: The rise of the phrase Work Life Balance was bought up in 1986 when amid many Americans there was prevalence of 
+detrimental work place practices like neglecting families, leisure activities and friends in order to achieve their study place goals. The 
+significance of work-life balance has been gaining ground in recent years to grasp a wider range of groups, including students. 
+Searching and finding a balance can be complex and challenging for many individuals and students. Research design, data and 
+methodology: Through this paper we will explore how students balance the competing demands of work, study, and social activities. 
+Several factors have increased imbalances within Educational organizations, and technology specifically has been influential. However,
+technology also provides a novel solution to this organizational performance management issue. A Study-Life Optimization model 
+(SLO) is suggested, which incorporates information systems, analytics, and decision support into a Smart Service System. A general 
+framework for this model, detailing data collection, measurement, and ethical issues is explained briefly. Results: Outcomes include 
+improved WLB, greater perceived quality of life, and increased Educational organizational performance. Conclusions: This paper 
+contributes to the relevant literature as it pays attention to the various students’ of varying lifestyles school-work-personal lives. 
+Findings of this study will provide a meaningful of the Work/school-life balance issues faced by students. The research could be helpful 
+to the various stakeholders of a University, the curriculum designers, program coordinators etc. 
+Keywords :Study-life Optimization, Big Data, Analytics, Higher Education
+JEL Classification Code : M1
+1. Introduction and literature review12
+For efficient functioning of one‟s life, it is essential to 
+acquire optimum balance between the different roles one 
+plays on a daily basis. A student has a variety of roles: a 
+partner, worker, friend, classmate, etc. The Work 
+Foundation has defined WLB as: 
+“Work-life balance is about people having a measure of 
+control over when, where and how they work. It is achieved 
+ 
+* This work was supported by Hannam Universiy Research Grant 
+2019 for Yosung Hwang
+1First Author. Assistant Professor, Department of General Education, 
+Professor Hannam University, Korea
+Email: savingryan@gmail.com
+2 Corresponding Author or Second Author, Professor, Dept. of 
+Management, Hannam University, Korea. 
+when an individual’s right to a fulfilled life inside and 
+outside paid work is accepted and respected as the norm, to 
+the mutual benefit of the individual, business and society.” A 
+large concentration of energy only on academics can affect 
+personal relationships. Similarly , over indulgence in 
+relationships at the expense of one’s academics or work can 
+be counterproductive for student’s overall performance, 
+which again impacts the individual and his various 
+relationships. Hence it is crucial to strike optimum college 
+and life balance. Work-life balance thus refers to, "The extent 
+Email: yshwangg@daum.net
+ⓒ Copyright: The Author(s)
+This is an Open Access article distributed under the terms of the Creative Commons 
+Attribution Non-Commercial License (http://Creativecommons.org/licenses/by-nc/4.0/) 
+which permits unrestricted noncommercial use, distribution, and reproduction in any medium, 
+provided the original work is properly cited.
+
+--- Page 2 --2 Optimizing Study-life Balance within Higher Education: A Comprehensive Literature Review
+to which individuals are equally involved in-and equally 
+satisfied with-their work role and their family / personal role 
+(Greenhause & Allen, 2011]. College-life balance is 
+important for optimal academic functioning. Students often 
+prioritize academics at the detrimental cost of personal 
+factors, including relationships and exercise. This can lead to 
+a decrease in academic performance, as overall health and 
+well-being are critical to optimal academic functioning. The 
+quality of student’s relationships can determine the health of 
+student’s school/life balance. A large focus on school work 
+can cause anguish in personal relationships, minimizing 
+students sense of support. Similarly , a focus of attention with 
+relationship issues at the expense of academics or work 
+issues can be detrimental to performance, which can put 
+further pain on the individual and the relationship. Finding 
+ways to integrate school and personal life is vital 
+2. Study-life optimization: Theoretical 
+background
+Focus to issues of work-life balance has been primarily 
+prompted by demographic changes in the workforce 
+(Beauregard & Henry , 2009; Brus, 2006; Kamenou, 2008). 
+To date, research on work-life balance has been conducated 
+in various contexts including, but not limited to, the medical 
+field (Keeton, Fenner, Johnson, & Hayward, 2007), 
+construction industry (Watts, 2009), and corporate America 
+(Hobson, Delunas, & Kesic, 2001). Moreover, and related to 
+this research, work-life balance has been investigated in 
+higher education (Bardoel, De Cieri, & Santos, 2008; Brus, 
+2006; Byron, 2005; Marshall et al., 2012; Moyer et al., 1999; 
+Rosser, 2004; Sallee, 2008; Stimpson & Filer, 2011). In 
+education, work-life has become a topic of import, so much 
+that “over the past decade, work-family balance policies 
+have become a popular [faculty] recruitment tool for research 
+universities” (Sallee, 2008, p. 81). However, although worklife balance has materialized as a topic of study and stimulus 
+for policy initiatives in higher education, few studies have 
+considered student work-lives.
+The constant battle to balance work and life are sources of 
+stress/pressure for students (Brus, 2006; Mason, Goulden, & 
+Frasch, 2009; Offstein et al., 2004). Consequently, in 
+addition to compelling students to drop out, the intersection 
+of work and life has pushed students to change their 
+professorial aspirations (Mason et al., 2009). Decisions 
+surrounding their personal life have also been influenced by 
+the study journey (Mason et al., 2009). For example, doctoral 
+students often decide to postpone having children (Mason et 
+al., 2009). Although work-life balance is a widely researched 
+field (Byron, 2005), minimal studies have explored the 
+experiences of students (Stimpson & Filer, 2011). While 
+taking this into account the struggle that students often 
+experience in balancing their academic and personal lives 
+(Brus, 2006).
+2.1. Impact of study-life balance on 
+optimazation
+Those who have a better control of balance in their lives 
+will have more positive overall work-life balance, subjective 
+wellbeing, and work/ non-work life satisfaction (Grawitch, 
+Maloney , Barber, \and Mooshegian, 2013, p. 281; Gropel, 
+Kuhl, 2009, p. 369). Achieving one's life balance can come 
+from their own techniques, or programs offered by their 
+employers. Studies have shown that even when employees 
+do not use the work-life balance services, simply being 
+offered to them and knowing they are available helps to 
+increase one's work-life balance (e.g., Zheng et al. 2015, p. 
+369, 372 ).
+College students who deal with high stress often say they 
+wish they had more time; but maybe time is not the answer. 
+Maybe, what students in college need is to learn to balance 
+their multiple demands. Those who feel they have enough 
+time to sufficiently complete their work, goals and self- care 
+are often the happiest people. Boundaries and self -control 
+are two ways to take on board time management. Duckworth 
+and Seligman (2006) define self- control as the ability to 
+suppress prepotent responses in the service of a higher goal' 
+(p. 199; as cited in Kuhnle, Hofer, & Kilian, 2010, p. 252). 
+Self -control is required to uphold and maintain boundaries. 
+Conversely , Bulger, Matthews and Hoffman (2007) found 
+that although boundaries are essential to be made and 
+implemented for a well- rounded life style, they also need to 
+be flexible (p. 365).
+These two ideas coincide because traditional values, of 
+school and work, are not diminishing. Though emotional and 
+physical health care are two values that are starting to 
+become just as vital as school and work, leaving less time 
+and resources to be focused on any one value (Kuhnle, Hofer, 
+& Kilian, 2010). Meaning that those who are happier or wish 
+to be happier with their lives should develop enough selfcontrol to uphold the boundaries they make, yet be flexible 
+enough to make the appropriate changes to their schedule or
+lifestyle when needed.
+College students were found to give attention and work 
+around the most important goal or value at the present time. 
+Meaning that the students would have to have the selfcontrol to prioritize according to the most demanding goal or
+value at the time and focus on it until they could move on to 
+the next one (Kuhnle, Hofer, & Kilian, 2010, p. 254). 
+Similarly, it was found in a study that those who had higher 
+work enhancement were those who had flexible work and 
+personal schedules (Bulger, Matthews, & Hoffman, 2007, p. 
+371). Work enhancement is defined as when one's job 
+improves their mood in their personal life (Bulger, Matthews, 
+& Hoffman, 2007, p. 369). Although previous studies have 
+looked into values, boundaries, goals, and flexibility, within
+
+--- Page 3 --Ryan HATCHER, Yosung HWANG / Journal of Economics Marketing, and Management Vol 8 No 2 (2020) 1-12 3
+current knowledge no published study has explored the 
+school work life balance of college students.
+Besides their roles at work, individuals are also sons and 
+daughters, siblings, friends, members of social organizations, 
+and eventually spouses/partners and then parents, with the 
+relative importance of these work- and nonwork roles 
+changing and varying in importance through the life stages 
+(Demerouti et al. , 2012). For instance, the importance of 
+social life and hobbies may give way to family 
+responsibilities as a person commits to a life partner and the 
+couple has children. Research recognizes that work and 
+personal life domains can impact one another in positive and 
+negative ways (Carlson et al., 2000, 2006; Grawitch et al., 
+2010). For instance, individuals experience conflict when 
+aspects of work such as stressful relationships with managers 
+or coworkers or long unpredictable work hours make it 
+difficult to manage family time; or when caring for family 
+reduces efficiency at work. Enrichment results when 
+fulfillment at work (e.g., self-esteem, financial security) and 
+transfer of skills, behaviors, and perspectives at work help a 
+person be a better family member; or when the need to attend 
+to family provides workers with focus and sense of urgency 
+that result in greater efficiency at work. Work–life balance is 
+thus defined as feeling effective and satisfied in both work 
+and personal life domains (Greenhaus and Allen, 2011). 
+Individuals try to minimize or manage conflicts between 
+work and nonwork, and to maximize the benefits that spill 
+over from work to nonwork and vice versa (Kalliath and 
+Brough, 2008). As individuals’ roles in the work force and in 
+the family change with time, different aspects of work–life 
+balance take priority.
+Traditional college students today belong to the 
+Millennial generation. Millennials, compared with Boomers
+and Gen-X, tend to place more value on jobs that “leave a lot 
+of time for other things in life” (Twenge et al., 2010). That 
+study was based on surveys of STEM workers taken when 
+they were still attending high school and showed that 
+Millennials’ desire for better work–life balance starts long 
+before they consider having children. In part of a worldwide 
+survey of Millennials (National Chamber Foundation, 2012), 
+it was evident that members of this group were willing to 
+work hard but also wanted work–life balance. For residents 
+from Canada and the United States, the top answer to the 
+question “If you could prioritize your life, what would you 
+emphasize?” was “To spend time with my family,” with 56–
+60% making this choice compared with 35% choosing “To 
+have a successful career.” “To be able to have time to enjoy 
+my hobbies” and “To have many good friends” were selected 
+by <25% of the North American respondents, showing the 
+greater importance of balancing work with family rather than 
+with personal interests.
+Family role models are major influences on young 
+people’s attitudes toward work (Loughlin and Barling, 2001). 
+College students who grew up in a family in which both 
+parents shared housework and child care had lower 
+anticipation of work–family conflicts and stronger selfeffiicacy , that is, belief they could manage both work and 
+family , compared with students who had grown up in 
+traditional households in which their mothers did most of the 
+housework and caring for children (Cinamon, 2006). 
+Because work–life balance is in part dependent on the type 
+of work a person does, a young person’s perception of future 
+work–life balance may have some influence on the person’s 
+career decisions. Self-efficacy, defined as a person’s beliefs 
+concerning his/her ability to perform a task or behavior 
+successfully, influences career choices by determining the 
+types of career exploration that the person will attempt and 
+results in higher levels of persistence when faced with 
+obstacles (Betz, 2004). Inasmuch as a person anticipates lack 
+of future work–life balance as an obstacle to a desired career, 
+having a concept of oneself forging a career while enjoying 
+family life contributes to self-efficacy with respect to work–
+life balance; and self-efficacy with regard to work–life 
+balance has been shown to actually result in lower levels of 
+conflict between work and nonwork (Fouad et al. , 2012). 
+Such self-concept can be developed by exposure to positive 
+role models (Gibson, 2003).
+Concept of Work-life balance is not restricted to single 
+country or industry rather it is a prevailing concept in many 
+nations and across all occupations (Akdere, 2006). The 
+author examines (Lee & Koeske,2004) the concept of 
+worklife balance. Work–life balance has been explained as 
+feeling productive and satisfied in both work and personal 
+life spheres (Greenhaus and Allen, 2011). With exponential 
+rise in competition in almost all spheres of one‟s life 
+imbalance has become quite common concept in everyone‟s 
+life. A quality life is shaped both by „aspects of daily life‟
+and the level of satisfaction derived from these aspects 
+(Camporese, Freguja and Sabbadini 1998).Having an 
+acceptable leisure life is important. Indeed, research has 
+shown that the so-called „personcentred‟ attribute of leisure, 
+that is satisfaction with leisure, exhibits the strongest 
+correlations with reported quality of life (Lloyd and Auld 
+2002). Ziedner, found out that students are more stressed due 
+to their academic workload and work pressures, whereas 
+personal and social factors have less impact on student’s 
+stress. Clift and Thomas (1983) observed that there are large 
+amount of course work assignment that are given to the 
+students and that lead to stress. There are many 
+disadvantages associated with work life imbalances among 
+students and it impact student‟s personal and professional 
+lives. Author (Lazurus, 1998) suggested that factors such as 
+the number of friends, financial satisfaction, perceived 
+discrimination etc. affect the student satisfaction level. Kaiwen suggested that male students feel stronger stress related 
+to family factor in comparison to the females; students who
+
+--- Page 4 --4 Optimizing Study-life Balance within Higher Education: A Comprehensive Literature Review
+are in higher grades feel more stress from mental/physical/ 
+school and emotional factors. In addition to this, students 
+who take a student loan also feel more stress than those who 
+do not. Suicide among students is increasing nowadays and 
+the major reason behind the suicide is work-life conflict. 
+Engineering and science students also face difficulty in 
+maintaining their personal and social life (Lee et.al. 2001). 
+Psychology students also face study-life imbalance owing to 
+the nature of study and experiments they are required to 
+undertake. It has also been concluded that all such courses 
+which include vocational training leads to stress and studylife imbalance.
+Students juggling work in addition to competing 
+obligations from school and home may experience greater 
+challenges in striking a balance. In this case it is even more 
+crucial that students are adept at attending to different roles 
+and setting priorities. 
+On the other hand, part time students work more and they 
+earn more money in comparison to full time students. Thus, 
+there is lack of balance between study, work and life among 
+students and this leads to stress, bad performance, health 
+problems etc. (Kai-Wen, 2003) Various dimensions of the 
+work/life/study balance were discovered by Gayle and Lowe 
+(2007) for higher education students who were studying at 
+an education college. It was found that a specific set of 
+work/life/study challenges present themselves to these 
+students. 
+Striking a balance between personal and academic 
+components of students‟ lives has been identified as helpful 
+for successful degree completion. From review of literature 
+it was found that a there has been little to no research that has
+been conducted on students of higher education on aspiring 
+to acquire good School-Work-Life Balance. In this paper we 
+explore and analyze the balance and issues in school-worklives. According to Stimpson and Filer (2011), “work-life 
+balance is a topic discussed more frequently in the literature 
+concerning faculty than graduate students in higher 
+education” 
+Further, most of the studies on students‟ work life balance 
+has been conducted in western countries (e.g. Warren 2004; 
+Robotham 2001; Clark, Raffe& Lee, J. S., Koeske, G. F., & 
+Sales, E.; Kai-Wen. (2003). Work-life balance amid students 
+is an evolving phenomenon in India, received less focus and 
+has very important implications for the all the stakeholders 
+of universities, vis a via students, faculty, employees etc. 
+This sets the emerging point of the current research of 
+school-work-life balance amid different streams and types of 
+students.
+The objective of the research framework is to identify the 
+factors affecting school-work-personal life balance.
+Study-life balance (SLB) is broadly described as a 
+balancing, or dividing time between what you are engaged in 
+at school and what you would like to be doing outside of 
+school. People conveniently simplify SLB to mean less work 
+and more play, and look at their time sheets to decipher 
+where they can fit in more leisure time without being subject 
+to any negative work consequences. However, as the theories 
+surrounding SLB have been studied and developed, it has 
+become apparent that it’s more complex, and that “Balance 
+means that nothing is absolutely static and unchanging –
+routines cannot be rigid and unchangeable” (Bowling, 
+Eschleman, & Wang, 2010). Life is generally fluid, or ever 
+changing, and so SLB is also ever changing. As our 
+understanding of the complexity of work-life balance begins 
+to increase, the impacts that it has within educational 
+organizations becomes more apparent and susceptible to 
+manipulation. Study-Life optimization is not simply 
+studying less and reducing study related stress, but it may 
+mean for some actually putting a little more effort in at 
+school.
+Technology has further heightened the issues of studylife balance in recent years, providing accessibility to 
+students and Education Professionals 24-7, and blurring the 
+lines between study and home responsibilities. For some this 
+may lead to the justification of being less diligent when at 
+work, and for others it may mean not having time to 
+decompress from study related issues. Luckily, technology 
+can also provide a unique and novel solution through 
+utilizing information systems, analytics, and decision 
+support. The wealth of data that is now available through 
+conventional systems and complex mining techniques, 
+coupled with the ability to analyze more complex data in 
+larger quantities, and in real time allows us to go beyond 
+describing and responding to issues. There is a distinct 
+advantage to Educational organizations that are more 
+“predictive” and “prescriptive” in their decision making 
+(Banerjee, Bandyopadhyay , & Acharya, 2013).. The concept 
+of using technology in this way to improve SLB and 
+academic performance is an aspect of what we term StudyLife Optimization (SLO). Computers provide the channel to 
+not only provide meaning from the vast data resources 
+available, but they also provide the means to develop a Smart 
+Service System aimed at SLO. Educational Organizations, 
+equipped with SLO will be able to implement interventions 
+through methods, like increasing awareness and social 
+support, to address issues before they become headaches for 
+Educational organizational management, and decrease 
+organizational performance overall (Halbesleben, 2006; 
+Lyumbomirsky , S. 2008).
+Work life-balance is associated most often with 
+employment, but the same principles apply to educational 
+institutions with little translation needed. As the demands of 
+the school environment increase and the available resources 
+do not, or are seen as insufficient, students are more likely to 
+experience burnout, a common sign of work-life imbalance 
+(Salmela-Aro & Upadyaya,2014). Stressors students
+
+--- Page 5 --Ryan HATCHER, Yosung HWANG / Journal of Economics Marketing, and Management Vol 8 No 2 (2020) 1-12 5
+experience like academic responsibilities, classmates, and 
+debt have a workplace counterpart. Students report that one 
+of the major forces that interferes with their optimal 
+performance is their work/school-life balance [El-Ghoroury , 
+Galper,, Sawaqdeh,& Bufka, 2012). The impacts of SLB 
+extend beyond the typical educational institution, and 
+therefore the benefits of improving SLB also have wider 
+reach than the traditional definition stated at the beginning of 
+this paper may lead one to believe.
+It is appropriate to define work-life conflict in order to 
+better understand what WLB means, the existing conflict 
+driving the need for better balance and optimization. The 
+typical individual has several categorized areas of their lives 
+that place demands on their time and resources, one of those 
+being paid employment for individuals within the workforce. 
+Work-life, or work-family, conflict is typified as a 
+bidirectional inter-role conflict between the different domain 
+areas of an individual’s life, and the demands within those 
+areas. It is theorized by Jex & Britt (2014) that the conflicts 
+between these domains can be classified into three major 
+categories: Time -based conflict, strain-based conflict, and 
+behavior based conflict (Jex, & Britt, 2014).].
+Time- based conflict is perhaps one of the more objective 
+areas of conflict. The specific behaviors and cognitive 
+processes that occur in the different life domains require time, 
+hours in the day, and these hours are limited no matter how 
+hard the 24 hour limit is pushed. When activities in different 
+domains interfere with the time that can be spent in other 
+domains then conflict ensues. Strain- based conflict occurs 
+when strains in one domain cause issues within another. For 
+example, a parent stays up all night with their small child 
+who has an upset stomach, and the parent gets no sleep. The 
+lack of sleep would be considered a strain on the individual. 
+The next day at work the person has a hard time staying 
+awake and focusing in the afternoon staff meeting. Examples 
+extend beyond sleep and may include mental, emotional, and 
+physical issues. The strain from one area causes issues, or 
+conflict in the other areas. Behavior-based conflict is slightly 
+more complex. The activities and domains of our lives 
+require different roles to be performed by the individual. 
+They may include such titles as coworker, manager, leader, 
+parent, sibling, friend, citizen, etc. A manager may have to 
+enforce strict policies on media use in the workplace, but 
+continuing to perform that role while at the church social 
+later that evening will probably not play out favorably. 
+Switching between the behaviors expected with each role is 
+not easy, and so conflict sometimes follows (Jex, & Britt, 
+2014). As stated previously, these conflicts are bidirectional, 
+so in which sphere the conflicts manifest themselves differs 
+between individuals. However, conflicts that appear in one 
+sphere often create feedback loops, affecting the other 
+spheres over time. These conflicts affect a wide range of 
+individuals, with estimates ranging from 25 -50 % of 
+working individuals (Bellavia, & Frone,2005).
+WLB is the idea of prioritizing the different domains a 
+person has, and devoting the appropriate time and resources 
+to manage and minimize conflict between the domains (Jex,
+& Britt, 2014). Within organizations there are several telltell signs that work-lifeimbalances are occurring. Higher 
+turnover, absenteeism, burnout, decreased employee job 
+satisfaction, decreased engagement at work, and decreased 
+performance are some of the ways organizations are 
+impacted the most (Bowling, Eschleman, & Wang, 2010) As 
+previously mentioned, a significant number of employees 
+and employers have reported issues that relate to WLB, and 
+WLB issues have increased over time (CCH Incorporated. 
+2007). The number of individuals reporting such issues may 
+be increasing due to shifts in the workforce, and what 
+domains of life are considered important or of higher priority 
+to different generations.Why exactly would it be important 
+for an organization to be concerned about work-life balance 
+and optimization? Lowe (2006) points to some of the 
+challenges facing companies in the 21 st century (Lowe, 
+2006).. The workforce is currently aging, creating talent gaps 
+that may slow or even halt company progress. The labor 
+market is also growing increasingly competitive as 
+globalization begins to affect even small businesses. 
+Technology is opening up greater possibilities for when, 
+where, and how we work, and the rising benefit costs puts 
+pressure on organizations to cut any unnecessary funding. 
+Organizations that develop tunnel vision on short term gains 
+and profits may sacrifice employee recruitment, retention, 
+engagement, and finally, long-term productivity. In order to 
+gain an institutional competitive advantage in today’s market, 
+companies must invest in their human capital. WLB must be 
+part of that investment, providing a competitive advantage 
+through maintaining employee engagement which will 
+increase retention and talent acquisition, decrease 
+absenteeism, and ultimately drive the productivity and 
+profitability of organizations. In Canada, 600 employers 
+were surveyed concerning common human resource issues, 
+and 36 percent of human capital issues were workload/WLB 
+related, closely followed by 32 percent related to employee 
+stress which is not entirely a separate issue from WLB. 
+However, less than 1/3 of employers did anything to address 
+these primary issues. From 1991-2001 reported 
+dissatisfaction with work-life balance increased by 3.3 
+percent, from 16.7 to 20 percent. As dissatisfaction increases, 
+commitments to organizations decrease, turnover increases, 
+absenteeism increases, burnout increases, and productivity 
+plummets. One in five employees surveyed reports being 
+dissatisfied with their current WLB, and some of them are 
+seeking changes, or changing companies, in order to address 
+their dissatisfaction. For the sake of further clarifying the 
+degree to which WLB may be an issue, if we were to 
+generalize the findings of these previous studies to the labor 
+force of the United States, approximately 31.4 million
+
+--- Page 6 --6 Optimizing Study-life Balance within Higher Education: A Comprehensive Literature Review
+individuals in the US would be dissatisfied with their WLB 
+(April 2015 Labor Force = 157,072,000 people according to 
+the US Bureau of Labor Statistics). 31.4 million Americans 
+could have a higher chance of being less committed to their 
+organization, are more likely to leave a company, are more 
+likely to be absent, burnt out, and be less productive. That is 
+no small number, and anything that could be done to impact 
+that number would have immense benefits for the country 
+and individual corporations. Approx. 10.2% of the entire US 
+population would have an issue with WLB (US population 
+May 2015 = 320,931,00, US Census Bureau).CCH (2007) 
+found that in 1995, approx. 46 percent of reported absences 
+were due to family issues, personal needs, or stress, not 
+personal illness. That is a very large number of absences 
+were accounted for by factors that are connected to WLB, a 
+number that is connected to immense costs for organizations 
+in lost productivity. In 2007, 53 percent of absences reported 
+were for the same reasons. This would suggest that work-life 
+balance issues are increasing over time. Duckworth and 
+Buzzanell (2009) state that this is because work demands are 
+increasing, resources are stagnant or decreasing, and roles
+and expectations are changing. Work-life -balance is 
+associated most often with employment, but the same 
+principles apply to educational institutions with little 
+translation needed. As the demands of the school 
+environment increase and the available resources do not, or 
+are seen as insufficient, students are more likely to 
+experience burnout, a common sign of work-life imbalance 
+(Salmela-Aro Upadyaya, 2014). Stressors students 
+experience like academic responsibilities, classmates, and 
+debt have a workplace counterpart. Students report that one 
+of the major forces that interferes with their optimal 
+performance is their work/school-life balance (El-Ghoroury, 
+Galper,, Sawaqdeh,& Bufka, 2012).. Though the rest of this 
+paper refers to factors or programs often associated with 
+businesses, the argument is that these same factors and 
+programs apply with minor contextual changes to 
+educational institutions. The impacts of WLB extend beyond 
+the typical workplace, and therefore the benefits of 
+improving WLB also have wider reach than the traditional 
+definition stated at the beginning of this paper may lead one 
+to believe.
+3. The SLO Model
+The main purposes of WLO programs within an 
+organization are to reduce work-life conflict, decrease 
+turnover, improve company image and ability to attract talent, 
+and improve performance. The understanding of the 
+complex WLB system has improved greatly, along with the 
+connected literature, over the past 15 years. There is still a 
+vast amount of room for improvement, but the relationship 
+between performance and WLB is better characterized now 
+than ever before. Guest (2002) urges that the following areas 
+of any WLB study should be considered: Determinants, 
+Nature of the Balance, and Consequences/Impact. Under 
+Determinants scientists and practitioners should consider 
+Organizational Factors, including workplace demands and 
+culture, and Individual Factors, including personality, gender, 
+and work orientation. Under Nature of the Balance 
+practitioners should know where the balance emphasis is 
+placed, whether on work or activities outside of work, and 
+what the interaction is between work and exterior to it. 
+Finally, under Consequences/Impact performance, wellbeing, satisfaction and other impacts should be examined. 
+Already it is clear that operationalizing SLB is more complex 
+that simply surveying student’s attitudes, though that is part 
+of the picture. Furthermore, where the balance is situated will 
+vary widely from person to person, requiring that 
+individualized input and experience common to smart 
+systems.
+There is a clear kind of flow of the three major areas 
+Guest (2002) posits should be examined. What influences 
+SLB, how is it actually defined from the objective and 
+subjective point perspectives, and what outcomes are we 
+likely to see. Beauregard & Henry (2009) conducted a 
+thorough review of available SLB literature, and propose a 
+path model that maps how some much more specific 
+variables interact with SLB and what some of the specific 
+predicted outcomes are (see Figure 2). These two sources 
+provide a meaningful starting point for developing a stout 
+theoretical model of WLB, and such a model is an integral 
+part of SLO. A theoretical model is not enough however, and 
+technology provides the ability to turn these theoretical 
+models into models of practical predictive and prescriptive 
+use, predictive referring to the ability to identify variables 
+relevant to specific outcomes and prescriptive meaning the 
+ability to prescribe interventions to change those outcomes. 
+This can all be done through the smooth interfaces of smart 
+apps. The process of developing a Smart Services System 
+will require the testing and refining of the described 
+relationships in order to provide a system with practical 
+predictive validity.
+4. The Role of Technology in Work-Life Balance
+Technology has revolutionized the workplace in many 
+positive ways, but also has begun to “morph the work and 
+personal lives of working professionals into a single whole” 
+(Dash, Anand, & Gangadharan, (2012), p. 52). It has created 
+a means to provide more work flexibility and better WLB. 
+However, it has also come to mean that for many employees 
+the work week never ends. Deciding when, where, and how 
+to be accessible is a major challenge for executives reports 
+Groysberg and Abraham who interviewed about 4,000 
+executives (2014). Progress in IT, information overload,
+
+--- Page 7 --Ryan HATCHER, Yosung HWANG / Journal of Economics Marketing, and Management Vol 8 No 2 (2020) 1-12 7
+need for speedy responses and constant availability , long 
+work hours, and weekend shifts are shown to take a toll on 
+the work-life balance of IT professionals (Goswami, 2014), 
+and an additional weight is put on them to support the 
+technologies being used at all times. Teleworkers, or 
+employees working together in the virtual office, experience 
+a unique amount of flexibility of when and where they work 
+which gives them a unique WLB niche. In an older study by 
+Hill, Miller, Weinter and Colihan (1998) they took 
+advantage of an IBM initiative to transfer workers from 
+traditional offices to teleworker positions. A qualitative 
+analysis revealed that teleworkers reported perceptions of 
+higher morale, greater flexibility, longer work hours, and 
+more productivity, but also reported negative effects on 
+teamwork. A quantitative analysis confirmed findings 
+related to productivity and flexibility. Perceptions of WLB 
+among telecommuters and those still in traditional offices 
+though were mixed, and even negative. “It may be 
+that…virtual office workers have more difficulty separating 
+themselves from work. It may be that teleworkers must find 
+new cues to let them know when it is time to quit” (p. 679). 
+It turns out that in order to better understand the relationship 
+between productivity and WLB, a more complex model of 
+interactions must be developed. For example, Hill et al. 
+recognize that gender and the presence of young children in 
+the family interacted with productivity and WLB. This is 
+where more recent advances in technology may start to 
+provide a clearer benefit. Understanding the situational 
+factors on individuals and entire communities has never been 
+easier.Technology provides a solution to how to manage 
+organizational performance through work-life balance 
+initiatives by providing a method by which WLB models can 
+be better generated, understood, refined, and applied. 
+Companies like Pandora and Mint currently employ 
+information systems, analytics, and decision support to 
+provide services that are individualized for customers, their 
+services (Layton, 2006). Pandora uses a complex algorithm 
+to compare songs on thousands of traits and play songs that 
+match what consumers have already given the thumbs up. 
+The process that thy have established a very successful 
+business on is summarized in Figure 1. Mint accesses bank 
+account information, and keeps track of how much money 
+you’ve made, spent, where you’ve spent it, and provides 
+financial advice and services that are most pertinent to your 
+habits. Organizations can use this same technology to the 
+benefit of WLB and productivity, providing instead of better 
+music or financial advice, necessary information to inform 
+organizations WLB interventions and programs. One of the 
+major services that these companies have been able to 
+capitalize on are mobile applications, programs that adapt in 
+real time, and provide a unique experience to the individual. 
+These applications resemble and even rival the smart 
+systems of Apple, Google, Microsoft, and other tech. giants. 
+Likewise, it is feasible to develop such a system that adapts 
+as the schedule, demands, and resources change that
+Individuals have access to.
+Figure 1: Pandora analytics model
+5. Study-life optimization
+SLO is designed to take the existing models of SLB and 
+utilize information technology, study
+analytics, and decision support for the benefit of managing 
+academic performance within educational organizations, and 
+direct SLB programs. Not only are there clear benefits to 
+educational organizations, but individuals will benefit from 
+greater engagement and fulfillment at school and beyond. As 
+the discussion above indicates, the benefits of SLB programs 
+may not be as intuitive or straightforward, and there are 
+many characteristics
+these programs should have to make them the most 
+profitable. In order to better understand and influence a 
+complex system there must be a means of analyzing an 
+educational institution’s unique variables, and streamlining 
+programs for efficiency and effectiveness. SLO will do just 
+that for each unique Educational organization.
+In its conceptualization the WLO project consists of:
+1. A theoretical SLB model that is continually developed and 
+revised similar to the analysis variables used by leading stock 
+brokers. This model will be updated as the salience of new 
+variables are identified, and as existing variables lose their 
+predictive validity. This will ensure that the theoretical 
+model is constantly being updated and optimized. Input from 
+users in real time to the smart system will allow updates to 
+be more fluid.
+2. The theoretical model will inform database construction 
+and management. There will be a set list of predefined 
+variables that will be included in database construction, and
+some considerations on data collection will follow hereafter.
+
+--- Page 8 --8 Optimizing Study-life Balance within Higher Education: A Comprehensive Literature Review
+3. For each individual Educational organization a needs 
+analysis will be conducted concerning variables such as 
+individual differences and educational culture. This will 
+inform the development of the analytical prescriptive model. 
+A base structure will be used for every educational institution, 
+but the weight of some variables will need to be adapted at 
+onset in order to make sure immediate implementation of the 
+SLO will be successful.
+4. Once the database, data collection procedures, and 
+analysis model are in place, the SLO program will begin 
+analyzing Education Institution SLB initiatives, and after 
+some optimization, will be able to provide the institution 
+with prescriptive suggestions of how to improve SLB of the 
+educational institution members.
+5. Individuals will have the opportunity to personalize the 
+SLO system as they input their own information such as 
+appointments or events. The system will begin to update and 
+make unique suggestions to the individual to optimize their 
+SLB in real time. Additional optional assessments andtools 
+will be provided to further customize
+the smart system.
+6. The SLO will continue assessing the SLB of individuals 
+within the organization aschanges are made and as the 
+organization progresses, and continue to give decision 
+makers the data and information they need to make important 
+decisions to improve academic performance. Thus you get 
+the input from the individual’s environment, and that of the
+organization.
+The SLO System meets that core characteristics of Smart 
+Service Systems. The system will be able to update in real 
+time using the advantages of machine learning to provide end 
+users, the individual employee concerned and relevant 
+company management, with an accurate assessment of the 
+WLB for that individual and for the organization on a more 
+macro level. Individuals will be able to see were conflicts 
+may exist between the different domains of their lives, and 
+will receive prompts on what potential conflicts to be aware 
+of and how to improve their current situation. Employees 
+will be able to update their profiles and schedules, and 
+receive immediate feedback on the changes they have made. 
+For example, a user could see how taking a few days off for 
+vacation to the Bahamas without answering emails vs 
+spending 30 minutes each morning and evening to do so 
+would impact their WLB over the next couple of weeks, and 
+then they could decide what is best for their vacation time. 
+As new information becomes available to the system, it will 
+be able to determine what added empirical value the 
+information provides’ and incorporates it into the model.
+The actual deliverables provided by the system will need 
+to take a variety of forms. Various mediums will be utilized 
+to provide real time suggestions and alerts to the appropriate 
+parties such as desktop notifications and messages. Daily 
+notifications can be provided to a select few such as
+managers and spouses as specified by the company and 
+targeted employee. Weekly stoplight reports will be 
+provided to help provide a breakdown of which areas have 
+seen strain over the last week, and how changes made in the 
+name of optimization have impacted the week’s results. On 
+a monthly basis a trend report will be provided with 
+spotlights of key events, and a breakdown of next steps for 
+greater study-life optimization. It will be strongly 
+encouraged that WLO goals and relevant metrics also be 
+included with annual and bi-annual performance review 
+programs. Employees and managers alike will be able to 
+improve their decision making with the additional cognitive 
+assistance. Dashboards will be available for real time data 
+manipulation, corporate analysis, and decision assistance.
+Optimization is the driving of educational institutional 
+productivity through managing SLB. The vision is to provide 
+cognitive assistance to the individual employees of an 
+organization, and to the concerned leadership. As demands 
+are placed upon organizations to perform in fluid 
+environments the system will able to provide real-time input 
+that is unique to the situation and the combined contextual 
+variables. Driving company productivity can be done in a 
+socially responsible manner. As changes are made within the 
+organization, those changes that are most effective will serve 
+as a reinforcing feedback loop, and the assistance provided 
+will become more and more accurate and in-tune with the 
+organization’s needs. One challenge to the optimization 
+system is that employee’s and organizations sometimes 
+appear to be at odds in their desires, and so by optimizing we 
+may alienate both parties to some degree. The purpose of this 
+system will be to provide cognitive assistance and drive 
+positive behavior change that will benefit all parties involved 
+in the long-term. One of the primary arguments of 
+organizational psychology, the science concerned with the 
+study of SLB, is that by improving the lives of the students,
+you will develop an organization with immense human 
+capital and greater productivity. By investing and making 
+positive social changes within the organization you will be 
+improving work conditions, attracting greater talent, 
+retaining employees, an further increase your human capital 
+and drive productivity. 
+Optimization is developing an upward SLB spiral within 
+an organization and individual’s lives. Optimization is not 
+the pitting of various objectives against each other, but 
+instead strategically aligning objectives like employee 
+satisfaction, compensation packages, and company profits to 
+provide a unique advantage to the organization. Together 
+these pieces come together to turn available data and theory
+
+--- Page 9 --Ryan HATCHER, Yosung HWANG / Journal of Economics Marketing, and Management Vol 8 No 2 (2020) 1-12 9
+into a practical tool. As was noted in the first paragraph of 
+the paper, Burton (2004) said that “Balance means that 
+nothing is absolutely static and unchanging – routines cannot 
+be rigid and unchangeable”, and the SLO will be able to 
+address to the fluidity of the organizations’ environment over 
+time. 
+Educational Organizations will need to front some initial 
+investment, however the costs of maintaining the SLO 
+system will be minimal, and in the future will incorporate 
+other administration issues beyond SLB. The returns from 
+such a system could include increased productivity (some 
+companies reporting as much as a 10% increase from SLB 
+initiatives), increased profits, increased shareholder returns 
+(survey of Fortune 500 companies found a $60 million dollar 
+gain per WLB initiative announcement per company), less 
+burnout, increased reciprocity from employees, increased 
+organizational commitment, increased return from 
+recruitment efforts, and decreased turnover, as stated several 
+times previously (Beauregard & Henry, 2009). It is 
+important to stress that SLB is part of the fluid life 
+experience, and will experience and ebb and flow. 
+Sometimes less work, or distance from other responsibilities 
+is not always the answer. Part of optimizing SLB is also 
+optimizing productivity and engagement. In the end, 
+organizations will see an increase in their bottom line as SLO 
+is achieved.
+Successful achievement of these goals will require the 
+help, expertise, and support from a variety of disciplines, 
+including psychology, sociology, linguistics, marketing,
+finance, human resources, IT, peoole analytics, and many 
+others. However, they will all be held together by 
+information systems, analytics and decision support. SLO 
+was conceived to, at the core, try to help people make more 
+thoughtful decisions for their lives based on real data and 
+collaborations through smart systems. As organizational 
+initiatives, and individual initiatives like conflict 
+management training, time management training, counseling 
+services, increased social support inside and outside of workrelated activities, emphasis on employee development and 
+work placement, etc. (Marques, 2005) are applied, 
+organizations will be able to measure the benefits of studylife balance. The benefits have been outlined and repeated to 
+make it clear what the return on WLB can be.
+One of the key benefits to embarking on a global scaled 
+project like this is that with more data, experience and 
+research the WLO will not only be able to help people with 
+the knowledge and theories that we have today, but it will be 
+able to gather data on these issues in an unprecedented scale 
+and help refine and develop new theories and interventions 
+to make a significant difference in global well-being. This is 
+a project that extends into the long term, several years to 
+decades, as it improves, is invested in, and develops to add a 
+unique application of study- Life Optimization through the 
+use of smart service systems.
+Study-life Optimization will provide a clear link between 
+an organization’s productivity and the WLB of employees, 
+and may be used to create an upward spiral of productivity 
+and satisfaction. Such a Smart Service System is feasible, 
+and could provide meaningful, unique cognitive assistance 
+to students and leadership alike. This system meets the cries 
+for educational social responsibility, and has immense valueadded potential.
+6. Data Collection
+Data is necessary to transform our theoretical model into 
+a functional one, and there are many sources of common data 
+that could be collected in an organization or transorganizational setting. In some cases this data can be easily 
+collected or is already being collected, but some new sources 
+of data can be utilized with appropriate sensors and 
+permission. WLO is not meant to infringe upon the privacy 
+and personal agency of individuals. The measures that will 
+be available will be contextual dependent, the context being 
+the organization and environment in which people live. Basic 
+demographic information will be essential, specifically 
+including data related to family structure, social support, 
+SES, type of work, workplace characteristics, current work 
+positions, etc. Other areas that would be of particular interest 
+as sources of data are: Communication (every text, email, 
+phone call, etc.), Financial (salary, bank statements, 
+purchasing habits, debt, insurance, etc.), and Life Patterns 
+(Detailed schedule, record of location, entertainment use, 
+fitness and health, etc.). These would take the application of 
+some new technologies and skills to mine the sources well, 
+but the information would be extremely beneficial. HRIS and 
+task management systems may be of particular benefit in 
+providing informative data too for organizations. Also, 
+several measures have been developed already to gain 
+insights into more difficult constructs to measure such as 
+burnout [30, 32]. A combination of several instruments will 
+be used to look at some of the harder to measure constructs. 
+Over time data will become more valuable and diverse. 
+Additionally, the coaching algorithms will improve with 
+time, and more data on each person and people similar to 
+them will be built up and analyzed to make the project even 
+more successful.
+7. Ethical considerations
+An ethical framework must be established in order to 
+avoid potential issues that may arise via the use of individual 
+data, Big Data, and Analytics. Intended consequences may 
+not always occur, and unintended consequences may create
+
+--- Page 10 --10 Optimizing Study-life Balance within Higher Education: A Comprehensive Literature Review
+bigger issues like degrading positive workplace culture, or 
+casting a negative organizational image. There are few 
+authoritative decisions that have been made concerning the 
+ethicality of some data collection methods, types of data that 
+should be collected, and how it should be used for
+organizational gain. Using uncensored personal data to 
+inform important job decisions could introduce new 
+employment litigations that no company would like to face 
+[28]. Berdichevsky and Neunschwander (1999) lay out an 
+ethical framework for Persuasive Technologies, where they 
+set ground rules. Among the most important of the ground 
+rules they outline is what they call the golden rule:
+“The creator of a persuasive technology should never 
+seek to persuade a person or persons of something they 
+themselves would not consent to be persuaded to do.” (pp 52)
+We propose going one step farther, utilizing SLO to not 
+only build something to persuade them of what they would 
+be willing to be persuaded of, but have the user set the goals 
+or objective of the persuasion. We hope to move beyond the 
+history of most technologies as more incidental, to one that 
+is purposeful, and smart. One purpose of analytics is to step 
+beyond descriptive data, and become more predictive and 
+visionary. As the field continues to progress the lines 
+between what can be done and what should be done are 
+expected to become clearer. It is the prerogative of parties 
+that have that ability to improve the human condition, like 
+improving work8. Conclusion
+The purpose of this paper is to describe the SLB construct 
+by reviewing several theories, characterizing the possible 
+implications of SLB, and describing SLB models. The 
+impact of technology on SLB, both the good and bad, will be 
+described. Finally a Smart Service System to optimize SLB 
+is proposed, and data collection and ethical practices are 
+explained.
+Successful achievement of these goal will require the help, 
+expertise, and support from a variety of disciplines and 
+university departments, including psychology , sociology , 
+linguistics, marketing, finance, human resources, IT, 
+business analytics, and many others. However they will all 
+be held together by information systems, analytics and 
+decision support. SLO was conceived to, as the central focus, 
+try to help people make more thoughtful decisions for their 
+lives based on real data and collaborations through smart 
+systems. As Educational organizational initiatives, and 
+individual initiatives like conflict management training, time 
+management training, counseling services, increased social 
+support inside and outside of study-related activities, 
+emphasis on student development and study placement, etc. 
+[Marques2005] are applied, organizations will be able to 
+measure the benefits of work-life balance. The benefits have 
+been outlined and repeated to make it clear what the return 
+on WLB can be. 
+One of the key outcomes to conducting research on a 
+global scaled project like this is that with more data, 
+experience and research the SLO will not only be able to 
+assist people with the knowledge and theories that we have 
+today, but it will be able to gather data on these issues in an 
+unprecedented scale and help refine and develop new 
+theories and interventions to make a significant difference in 
+global well-being. This is a project that extends into the long 
+term, several years to decades, as it improves, is invested in, 
+and develops to add a unique application of SLO through the 
+use of smart service systems.
+SLO will provide a clear and transparent link between an 
+Educational organization’s productivity and the SLB of 
+students and employees alike, and may be used to create an 
+upward movement of productivity and satisfaction. Such a 
+Smart Service System is feasible, and could provide 
+meaningful, unique cognitive assistance to individuals and 
+leadership alike. This system meets the demands for 
+corporate social responsibility, and has immense valueadded potential.
+References
+Akdere, M. (2006). Improving quality of work-life: Implications for 
+human resources. The Business Review, Cambridge,6 (1), 173177.
+Ali, A., & Kohun, F. (2006). Dealing with isolation feelings in IS 
+doctoral programs. International Journal of Doctoral Studies, 1, 
+21-33. Retrieved from http://ijds.org/Volume1/IJDSv1p021033Ali13.pdf 
+Allen, T. D. (2001). Family-supportive work environments: the role 
+of organizational perceptions. Journal of Vocational Behavior, 
+58(3), 414–435.doi:10.1006/jvbe.2000.1774.
+Austin, A. E. (2002). Preparing the next generation of faculty: 
+Graduate school as socialization to the academic careers. The 
+Journal of Higher Education, 73(1), 94-122. 
+Bair, C. R., & Haworth, J. G. (2005). Doctoral student attrition and 
+persistence: A meta-synthesis of research. In J. C. Smart (Ed.), 
+Higher education: Handbook of theory and research, Vol. 19
+(pp. 481584). Dordrecht, Netherlands: Kluwer.
+Banerjee, A., Bandyopadhyay, T., & Acharya, P. (2013). Data 
+analytics: Hped up aspirations or true potential? Vikalpa, 38(4), 
+1-11.
+Bardoel, E. A., De Cieri, H., & Santos, C. (2008). A review of worklife research in Australia and New Zealand. Asia Pacific 
+Journal of Human Resources, 46(3), 316-333. 
+Baum, S., Ma, J., & Payea, K. (2010). Education pays 2010: The 
+benefits of higher education for individuals and society. New 
+York, NY: The College Board.
+
+--- Page 11 --Ryan HATCHER, Yosung HWANG / Journal of Economics Marketing, and Management Vol 8 No 2 (2020) 1-12 11
+Beauregard, T. Z., & Henry, L. C. (2009). Making the link between 
+work-life balance practices and organizational performance. 
+Human Resource Management Review, 19, 9-22. doi: 
+10.1016/j.hrmr.2008.09.001
+Bellavia. G., & Frone, M. (2005). Work-family conflict. In J. 
+Barling, E. K. Kelloway, & M. Frone (Eds.), Handbook of 
+Work Stress, (pp. 113 ñ 147). Sage Publications: Thousand 
+Oaks.
+Berdichevsky, D., and Neunschwander, E. (1999). Towards and 
+Ethics of Persuasive Technology.Communications of the ACM, 
+42 (5), 51-58.
+Boeije, H. (2002). A purposeful approach to the constant 
+comparative method in the analysis of qualitative interviews. 
+Quality & Quantity, 36, 391-409.
+Bourke, S., Holbrook, A., Lovat, T., & Farley, P. (2004). Attrition, 
+completion and completion times of PhD candidates. Paper 
+presented at the AARE Annual Conference, Melbourne.
+Bowling, N. A., Eschleman, K. J., & Wang, Q. (2010). A metaanalytic examination of the relationship between job 
+satisfaction and subjective well-being. Journal of Occupational 
+and Organizational Psychology, 83, 915-934. doi: 
+10.1348/096317909X478557
+Brus, C. P. (2006). Seeking balance in graduate school: A realistic 
+expectation or a dangerous dilemma. New Directions for 
+Student Services, 115,31-45. 
+Burton, C. (2004). What does work-life balance mean anyway? The 
+Journal for Quality & Participation, 27(3), 12-13.
+Bulger, C., Matthews, R., & Hoffman, M. (2007). Work and 
+personal life boundary management: Boundary strength, 
+work/personal life balance, and the segmentation- integration 
+continuum. Journal of Occupational Health Psychology, 12(4), 
+365-375.
+Byron, K. (2005). A meta-analytic review of work-family conflict 
+and its antecedents. Journal of Vocational Behavior, 67 , 169198
+Carlson DS, Kacmar KM, Wayne JH, Grzywacz JG (2006). 
+Measuring the positive side of the work–family interface: 
+development and validation of a work–family enrichment scale. 
+J Vocat Behav, 68, 131–164.
+Carnevale, A., Smith, N., Melton, M., & Price, E. (2015). Learning 
+while earning: The new normal. Retrieved from 
+https://cew.georgetown.edu/wpcontent/uploads/WorkingLearn
+ers-Report.pdf
+Charmaz, K. (2000). Grounded theory: Objectivist and 
+constructivist methods. In N. K. Denzin & Y. S. Lincoln (Eds.), 
+Handbook of qualitative research (2nd ed.). Thousand Oaks, 
+CA: Sage.
+CCH Incorporated. (2004). Work-life benefits. Journal of Tax 
+Practice Management, 3, 18. CCH Incorporated. (2007). 2007 
+CCH Unscheduled Absence Survey. Retrieved from 
+https://www.cch.com/Absenteeism2007/
+Clutterbuch, D. (2004). How to get the payback from investment in 
+work-life balance. The Journal for Quality & Particpation, 27 
+(3), 79-19.
+Chimote, N. K., & Srivastava, V. N. (2013). Work-life balance 
+benefits: From the perspective of organizations and employees. 
+The IUP Journal of management Research, 12, 62-73.
+Clift, J. C., and Thomas, I. D. (1983). Student workloads.Journal 
+of Higher Education, (2), 447-460.
+Council of Graduate Schools. (2008). Ph.D. completion and 
+attrition: Analysis of baseline program data from the Ph.D. 
+completion project. Washington, DC: Author.
+Dash, M., Anand, V., & Gangadharan, A. (2012). Perceptions of 
+work-life balance among IT professionals. The IUP Journal 
+Organizational Behavior, 11, 51-65.
+Davis, J. (2012). School enrollment and work status: 2011. 
+American community survey, 2012. Retrieved from 
+https://www.census.gov/prod/20l3pubs/acsbr11-14.pdf
+Di Pierro, M. (2007). Excellence in doctoral education: Defining 
+best practices. College Student Journal, 41(2), 368-375. 
+Drago, R., & Kashian, R. (2003). Mapping the terrain of 
+work/family journals. Journal of Family Issues, 24(4), 488-512.
+Duckworth, J. D., & Buzzanell, P. M. (2009). Constructing worklife balance and fatherhood: Men’s framing of the meaning of 
+both work and family. Communication Studies, 60, 558-573. doi:
+10.1080/10510970903260392
+El-Ghoroury, N. H., Galper, D. I., Sawaqdeh, A., & Bufka, L. F. 
+(2012). Stress, coping, and barriers to wellness among 
+psychology graduate students. Training and Education in 
+Professional Psychology, 6, 122-134. doi: 10.1037/a0028768
+Gardner, S. K. (2009). Student and faculty attributions of attrition 
+in high and low-competing doctoral programs in the United 
+States. Higher Education, 58, 97-112. 
+Gardner, S. K., & Gopaul, B. (2012). The part-time doctoral student 
+experience. International Journal of Doctoral Studies. 7, 63-78.
+Retrieved from 
+http://ijds.org/Volume7/IJDSv7p063078Gardner352.pdf
+Golde, C. M. (1998). Beginning graduate school: Explaining firstyear doctoral attrition. New Directions for Higher Education, 
+101, 55-64. 
+Golde, C. M. (2000). Should I stay or should I go?: Student 
+descriptions of the doctoral attrition process. Review of Higher 
+Education, 23(2), 199-227. 
+Govendir, M., Ginns, P., Symons, R., & Tammen, I. (2009). 
+Improving the research higher degree experience at the Faculty 
+of Veterinary Science, The University of Sydney. The Student 
+Experience, Proceedings of the 32nd HERDSA Annual 
+Conference, Darwin, 6(9), 163-172.
+Goswami, S. (2014). Work-life conflict among IT professionals. 
+The IUP Journal of Organizational Behavior, 13 (4), 38-59.
+Grawitch, M., Maloney, P., Barber, L., & Mooshegian, S. (2013). 
+Examining the nomological network of satisfaction with worklife balance. Journal ofOccupational Health Psychology, 18(3), 
+276-284.
+Gropel, P., & Kuhl, J. (2009). Work-life balance and subjective 
+well-being: The mediating role of need fulfilment. British
+Journal of Psychology, 1OO(Pt2),365-375.
+Groysberg, B., & Abrahams, R. (2014). Mange your work, manage 
+your life. Harvard Business Review, March,58-66.
+Halbesleben, J. R. B. (2006). Sources of social support and burnout: 
+A meta-analytic test of the conservation of resources model. 
+Journal of Applied Psychology, 91 , 1134-1145. doi: 
+10.1037/0021-9010.91.5.1134
+Hill, E. J., Miller, B. C., Wiener, S. P., & Colihan, J. (1998). 
+Influences of the virtual office on aspects of work and work/life 
+balance. Personnel Psychology, 51 , 667-693. doi: 
+10.1111/j.1744-6570.1998.tb00256.x
+
+--- Page 12 --12 Optimizing Study-life Balance within Higher Education: A Comprehensive Literature Review
+Jex, S. M, & Britt T. W. (2014). Organizational psychology: A 
+scientist-practitioner approach. Hobeken, NJ: John Wiley & 
+Sons, Inc.
+Johnson, J., Rochkind, J., Ott, A., & DuPont, S. (2009). With their 
+whole lives ahead of them. Public Agenda
+Kai-Wen. (2003). A study of stress among college students in 
+Taiwan. Journal of Academic and Business Ethics. 2, 1–8.
+Kamenou, N. (2008). Reconsidering work-life balance debates: 
+Challenging limited understandings of the ‘life’ component in 
+the context of ethnic minority women’s experiences . British 
+Journal of Management, 19, S99-S109. 
+Keeton, K., Fenner, D. E., Johnson, T. R. B., & Hayward, R. A. 
+(2007). Predictors of physician career satisfaction, work-life 
+balance, and burnout. Obstetrics & Gynecology, 109 (4), 949955.
+Kuhnle, C., Hofer, M., & Kilian, B. (2010). The relationship of 
+value orientations, self-control, frequency of school-leisure 
+conflicts, and life-balance in adolescence . Learning and 
+Individual Differences, 20(3), 251-255.
+Lambert, S. J. (2000). Added benefits: The link between work-life 
+benefits and organizational citizenship behavior. Academy of 
+Management, 43, 801-815. doi: 10.2307/1556411
+Layton, J. (2006). How Pandora Radio works. HowStuffWorks.com.
+Retrived from
+http://computer.howstuffworks.com/internet/basics/pandora .ht
+m
+Lee, J. S., Koeske, G. F., & Sales, E. (2004). Social support 
+buffering of acculturative stress: A study of mental health 
+symptoms among Korean international students. International 
+Journal of Intercultural Relations, 28, 399-414.
+Lewin, T. (2009). College dropouts cite low money and high 
+stress. nytimes.com . Retrieved from 
+http://www.nytimes.com/2009/12/1 O/education/1 
+Ograduate.html? _r=O
+Lingard, H., Brown, K., Bradley, L., Bailey, C., & Townsend, K. 
+(2007). Improving employees’ work-life balance in the 
+construction industry: Project alliance case study. Journal of 
+Construction Engineering and Management, 133, 807-815. doi: 
+10.1061/(ASCE)0733-9364(2007)133:10(807)
+Lowe, G. (2006). Under pressure: Implications of work-live 
+balance and job stress. Human Solutions Report 2006-2007. 
+Retrieved from http://www.grahamlowe.ca/documents/182
+/Under%20Press ure%2010-06.pdf
+Ludwig, L. (2014). Mint.com Review – Should I UseMint? 
+InvestorJunkie.com. Retrieved from
+http://investorjunkie.com/54/mint-com-review/
+Lyumbomirsky, S. (2008). The How of Happiness: A New 
+Approach to Getting the Life You Want. New York, NY: 
+Penguin Press.
+Lyumbomirsky, S. 2013. The Myths of Happiness: What Should 
+Make You Happy, but Doesn’t; What Shouldn’t Make you 
+Happy, but Does.New York, NY: Penguin Press.
+Marques, J. (2005) HR’s crucial role in the establishment of 
+spirituality in the workplace. The Journal of American Academy 
+of Business, 7, 27-31.
+Marshall, J. M., Brooks, J. S., Brown, K. M., Bussey, L. H., 
+Fusarelli, B., Gooden, M. A., Lugg, C. A., Reed, L. C., & 
+Theoharis, G. (Eds.). (2012). Juggling flaming chain saws: 
+Faculty in educational leadership try to balance work and 
+family. Charlotte, NC: Information Age Publishing.
+Mesmer-Magnus, J. R., & Viswesvaran, C. (2006). How familyfriendly work environments affect work/family conflict: A metanalytic examination. Journal of Labor Research, 27, 555-574. 
+doi: 10.1007/s12122-006-1020-1
+Nahrgang, J. D., Morgeson, F. P., & Hofmann, D. A. (2011). Safety 
+at work: A meta-analytic investigation of the link between job 
+demands, job resources, burnout, engagement, and safety 
+outcomes. Journal of Applied Psychology, 96, 71-94. doi: 
+10.1037/a0021484
+Payne, D., and Landry, B. J. L. (2006). A Uniform Code of Ethics: 
+Business and IT Professional Ethics. Communications of the 
+ACM, 49 (11), 81-84.

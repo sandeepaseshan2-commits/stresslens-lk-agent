@@ -1,0 +1,637 @@
+--- Page 1 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+32 
+AN EXPLORATION OF THE PREVALENCE, CAUSES, AND 
+COPING STRATEGIES OF STRESS AMONG UNIVERSITY 
+STUDENTS IN SRI LANKA 
+THUSTHIKA A 1* and CHATHURIKA J N2 
+¹ Department of Health Sciences, Faculty of Science, NSBM Green University, Sri Lanka 
+2 Department of Biomedical Science, Faculty of Science, NSBM Green University, Sri Lanka 
+ 1thusthika.a@nsbm.ac.lk , ² chathurika.j@nsbm.ac.lk 
+ 
+Abstract 
+Perceived mismatch between external pressures and an individual's capacity to 
+manage them is generally referred to as stress. It can be either short-term or long-term 
+in duration. The stress often leads to academic struggles and difficulties in soc ial 
+adjustment. Among university students in Sri Lanka, it is evident that stre ss has a 
+notable impact on both academic performance and mental well-being. This literature 
+review explores the levels of perceived stress, its underlying causes, resulting effects, 
+and the coping mechanisms employed by students during their time at university. A 
+comprehensive search of scholarly databases such as Google Scholar, PubMed, and 
+ScienceDirect led to the identification of twenty relevant studies conducted i n Sri 
+Lanka from 2014 to 2024. These studies reveal varying degrees of stress among 
+students across different disciplines, with common stressors including intense 
+academic workloads, exam pressure, gender related differences, and concerns about 
+physical health. Although moderate stress can sometimes drive motivation, excessive 
+stress is strongly linked to adverse outcomes such as anxiety, depression, and reduced 
+academic achievement. The research also highlights a range of coping strategies used 
+by students, from effective methods like time management, planning, and seeking 
+social support to less constructive ones like avoidance and substance use. 
+Understanding these trends is essential for developing targeted interventions aim ed 
+at improving student wellbeing and academic performance in Sri Lankan universities, 
+thereby contributing to the success of future generations. 
+ 
+Keywords: factors, Sri Lanka, stress, university students
+
+--- Page 2 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+33 
+1. Introduction 
+Stress is characterized as the state of mental strain that occurs as a result of various 
+challenging circumstances faced by an individual in their in the day today life. Stress 
+arises when there is a perceived gap between environmental demands and an 
+individual’s ability to meet those demands. These environmental demands are 
+generally defined as stressors (Damayanthi, 2014; Wanigasinghe & Rathnayaka, 
+2019). Stress can also be described as a stimulus that poses a threat to an individual’s 
+well-being (S. Senarath, 2020). 
+Stress has become a significant concern across various domains, including 
+employment, social environments, and academic settings (Peris et al., 2021) . 
+University education is widely regarded as a crucial component of an individual’s 
+life, as it provides an individual with future employment opportunities and he lps in 
+enhancing skills and attitudes that are needed to become a productive citizen in 
+society (Hewage & Ponnamperuma, 2023). This period of university life can be 
+stressful for many students as they are in the process of adapting to an unfamil iar 
+environment. Additionally, the transition from adolescence to adulthood during 
+university years can also be a significant source of stress (Walpola et al., 2020). As a 
+result of this, the university students are prone to various academic, psychological, 
+and social challenges (Peris et al., 2021). 
+Not all types of stress adversely affect an individual's health (Peris e t al., 2021; S. 
+Senarath, 2020). Stress can be either short-term or long-term. Both types of stre ss 
+exhibit a variety of symptoms in the individuals (Peris et al., 2021). Long-term stress 
+can be particularly harmful if not identified and treated on time, potentially leading 
+to long-term physical and behavioral complications such as depression, back pain, 
+increased blood pressure, headaches, skin disorders, bowel problems, and peptic 
+ulcers. Identifying stress among students earlier and directing them to available 
+supportive services at the university level are crucial for managing its harmful effects
+
+--- Page 3 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+34 
+timely manner, which will be crucial in creating a healthy university life for the 
+students (Walpola et al., 2020). 
+Therefore, it is well understood that the assessment of the stress levels among 
+university students is very crucial. A literature search was conducted in the databases 
+such as Google Scholar, PubMed, and ScienceDirect and twenty relevant studies 
+conducted in Sri Lanka from 2014 to 2024 were identified. The results of the studies 
+were synthesized in this literature review which aims to identify the perceived stress 
+levels, factors affecting perceived stress, outcomes of the stress and the copi ng 
+mechanisms employed by university students in Sri Lanka. The findings will be 
+instrumental in formulating necessary interventions to address the harmful outcomes 
+of stress and in fostering the development of productive citizens for Sri Lanka. 
+2. Level of perceived stress among university students 
+Several studies have examined the perceived stress levels among university students 
+in Sri Lanka, those from both state and non-state sectors. Research has also been 
+conducted among students from health-related and non-health-related disciplines to 
+assess perceived stress levels. These studies illustrate a diverse range of levels of 
+perceived stress among Sri Lankan university students, influenced by their specific 
+study programs and various socio-demographic factors such as age, gender and 
+family size. 
+A study conducted among nursing undergraduates in the Faculty of Allied Health 
+Sciences at the University of Peradeniya using the Depression, Anxiety and Stress 
+Scale - 21 (DASS-21) revealed that 25% of students reported moderate levels of 
+stress, while 21.7% reported severe levels of stress. In addition to this, 17.4% of the 
+students were classified as having normal stress levels (Rathnayake & Ekanayaka, 
+2016). In contrast to this study, another study among the same population at the 
+University of Sri Jayewardenepura using the Perceived Stress Scale (PSS) by Cohen 
+indicated that half of the sample experienced high stress levels (Ilankoon & 
+Warnakulasooriya, 2014). This contrast opinion in the result may not only reflect true
+
+--- Page 4 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+35 
+differences in stress levels between the two populations but also differenc es in 
+measurement tools and how they conceptualize and measure the perceived stress. 
+Furthermore, the time the studies were conducted, the university environment, 
+academic workload of the students, the type of assessment and academic support 
+systems available in the university could also influence these results. 
+During the university experience, students encounter various stressful periods, w ith 
+examinations being particularly well-known for inducing stress. A study (M. Senarath 
+et al., 2017) assessed the stress levels of physiotherapy students at the University of 
+Peradeniya during their examination period. The mean stress score was 44.3 ± 11.77, 
+with values ranging from 21 to 72. Additionally, male students reported experiencing 
+higher levels of stress compared to female students. 
+Healthcare-related students from universities in Sri Lanka are expected to be key 
+contributors to the country's health sector in the future. Therefore, understanding their 
+stress levels and coping strategies is crucial for ensuring they can deliver quality and 
+efficient healthcare. A study conducted among health-related students (Allied Health 
+Sciences and Medical) at the University of Ruhuna found that the majority (98.8%) 
+of students were affected by stress, with 20.1% reporting that they always suffer from 
+stress (Peris et al., 2021). Additionally, a survey of medical students at the University 
+of Colombo revealed that the mean stress level of 5th year students was significantly 
+lower compared to that of 2 nd and 3 rd year students (Ranasinghe et al., 2017). This 
+could be because of several factors such as senior students may have developed better 
+coping mechanisms over time, or their academic environment may offer more clarity, 
+practical engagement and support and they may get adapted to the new environment, 
+which can reduce uncertainty and pressure. In contrast, students in earlier years might 
+be struggling with academic transitions, high expectations, or unfamiliarity with the 
+demands of medical education. 
+Few studies have compared stress levels between medical and non-medical science 
+students. One study found that medical students experienced higher levels of
+
+--- Page 5 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+36 
+psychological distress compared to their non-medical counterparts (Liyanage, 2017). 
+Conversely, a study conducted among 1 st year students from four faculties at the 
+University of Colombo revealed that law faculty students had higher stress levels 
+compared to medical faculty students (Nakandalage et al., 2014). This contradicts the 
+common assumption that medical students consistently face the highest academic 
+stress than other disciplines students. This suggests that discipline alone is not a 
+sufficient predictor of students’ perceived stress level. Instead, stress is likely shaped 
+by a complex interplay of many factors such as curriculum demands, coping 
+resources, peer pressure, personal expectations and support system available. 
+Additionally, a study at Uva Wellassa University, which included 1 st to 4 th year 
+students from three faculties, reported that the majority (48%) had elevated levels of 
+perceived stress, while 35% had moderate stress levels and 17% had low stress levels 
+(Herath, 2019) . 
+While it is commonly assumed that students in Open Distance Learning (ODL) 
+systems face elevated stress levels generally due to the need to struggle between 
+academic obligations alongside employment and family commitment, a study by 
+Gamage and Herath (2021) reveals a different result. Their findings show that the 
+majority of Open University students reported normal to mild levels of perceived 
+stress, and only a very small percentage (1.63%) experienced extremely severe 
+stress.(Gamage & Herath, 2021). The result shows that the students of the ODL 
+system may have adopted good time management and coping strategies to manage 
+their academic and life commitments. In addition to this, many ODL students tend to 
+be mature students who may possess greater emotional resilience compared to their 
+younger counterparts in conventional universities. Unlike traditional university 
+students, ODL students are not usually required a transition into an unfamiliar 
+physical and social environment, such as moving away from home or adapting to on 
+campus hostel or boarding life. This lack of environmental transition may contribute 
+to lower stress levels, as students remain within familiar surroundings and suppo rt 
+systems while pursuing their studies.
+
+--- Page 6 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+37 
+Additionally, a survey assessing perceived stress levels among students at a non-state 
+university in Sri Lanka found a mean stress score of 20.72 ± 4.96, which was 
+comparatively higher than the stress levels reported in a study of 2 nd year medical 
+students at the University of Colombo (Ranasinghe et al., 2017; Walpola et al., 2020). 
+3. Factors affecting stress among university students 
+Numerous studies in Sri Lanka have identified a range of factors influencing the 
+prevalence of stress among university students, with findings varying based on study 
+settings and samples. These factors include personal, academic, and environmental 
+dimensions. The literature provides a comprehensive examination of the relationship 
+between these factors and stress levels. 
+3.1 Socio demographic characteristics and stress 
+It is well known that sources of stress may originate from environmental or individual 
+factors (S. Senarath, 2020). In a study conducted among nursing students, the age of 
+the students was not found to be associated with stress levels (Rathnayake & 
+Ekanayaka, 2016). Conversely, research at Sri Jayewardenepura University revealed 
+there was an association between age and perceived stress among students in the 
+Faculty of Medical Sciences (p=0.042). 
+However, age did not show a statistically significant association with stress lev els 
+among students in the Faculties of Humanities and Social Sciences and Applied 
+Sciences (Wanigasinghe & Rathnayaka, 2019). Additionally, another study reported 
+that students aged 18-21 experienced higher levels of stress (54%) compared to those 
+aged 22-24 (23%) (Nakandalage et al., 2014). The inconsistency across studies also 
+highlights the importance of discipline-specific analyses. The influence of age on 
+stress could not be simply to generalize without considering academic culture, 
+support systems, and personal circumstances unique to each faculty or institution. 
+Another widely studied factor is gender. Numerous studies have found no significant 
+association between gender and stress levels among students (Ilankoon &
+
+--- Page 7 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+38 
+Warnakulasooriya, 2014; Jayasena & Abeysinghe, 2023; Liyanage, 2017; Ranasinghe 
+et al., 2017; Rathnayake & Ekanayaka, 2016; Walpola et al., 2020; Wanigasinghe & 
+Rathnayaka, 2019). However, one study conducted during the examination period 
+found that male students experienced higher levels of distress compared to female 
+students (M. Senarath et al., 2017) . Supporting this finding, it was observed that 
+among 1st year students, males were more distressed than females. This highlights a 
+potential concern regarding the development of coping strategies among males and a 
+lack of evidence regarding bodily harm events among Sri Lankan male students 
+(Nakandalage et al., 2014). In addition to this one possible explanation to this result 
+could be the male students may be less likely to develop or employ adapti ve coping 
+mechanisms or may face cultural expectations that discourage help-seeking 
+behaviors. 
+Across various samples and settings, most studies have concluded that demographic 
+factors such as family type, ethnicity, religion, area of residence, monthly family 
+income, parents' education and employment status, and marital status are not 
+significantly associated with the prevalence of stress (Ilankoon & Warnakulasooriya, 
+2014; Liyanage, 2017; Ranasinghe et al., 2017; Rathnayake & Ekanayaka, 2016; 
+Walpola et al., 2020). 
+At the University of Sri Jayewardenepura, the stress levels of students from the 
+Faculty of Humanities and Social Sciences were found to be associated with family 
+size (p=0.008) and family type (p=0.025). Additionally, for students in the Faculty of 
+Management Studies and Commerce, whether they lived at home or not was 
+significantly associated with stress levels (p=0.001) (Wanigasinghe & Rathnayaka, 
+2019).
+
+--- Page 8 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+39 
+3.2 Academic related factors and stress 
+Academic-related examinations are widely regarded as a major factor influenci ng 
+stress levels among students due to their significant impact on future careers (Tiwari 
+et al., 2012). While some stress during exams is normal, excessive stress can diminish 
+a student’s efficiency(S. Senarath, 2020). A study among physiotherapy students 
+found that stress levels increased with each academic year, potentially due to the 
+growing workload associated with clinical placements and practical work ( M. 
+Senarath et al., 2017). However, other studies found no significant association 
+between academic year and stress levels (Rathnayake & Ekanayaka, 2016; Walpola 
+et al., 2020) which is consistent with the results of (Ranasinghe et al., 2017) , where 
+the mean stress scores for 2nd and 4th-year medical students were 19.9 ± 5.1 and 19.6 
+± 5.6, respectively. These mixed results suggest that academic year alone is not a 
+predictor of stress. The nature of assessment, the presence of clinical or field practice, 
+faculty expectations, support systems available, and personal coping mechanisms 
+likely play significant roles. 
+For nursing students, satisfaction with their program was not significantly associated 
+with stress levels (p=0.065). In contrast, for medical undergraduates at the University 
+of Colombo, program satisfaction was significantly associated with stress leve ls (p 
+<0.001) (Ranasinghe et al., 2017; Rathnayake & Ekanayaka, 2016). 
+Academic workload has emerged as a major source of perceived stress among 
+students (Damayanthi, 2014; Herath, 2019). In nursing students, inadequate support 
+during clinical practice was linked to higher stress levels (Ilankoon & 
+Warnakulasooriya, 2014), while clinical appointments, including interactions with 
+consultants, were identified as major stressors for medical students (Liyanage, 2017). 
+Additionally, nursing students reported that competition with peers was a significant 
+source of stress (Damayanthi, 2014; Ilankoon & Warnakulasooriya, 2014) . 
+Healthcare-related students also cited excessive assignments as a stressor (Ilankoon 
+& Warnakulasooriya, 2014; Liyanage, 2017).
+
+--- Page 9 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+40 
+Non-medical students frequently mentioned transport issues, meal quality, and the 
+high cost of living as primary sources of stress (Liyanage, 2017). A study of 
+healthcare students at Ruhuna University found that exams and exam timetables were 
+significant contributors to high stress levels (Peris et al., 2021). 
+3.3 Physical Health and stress 
+Physical health is closely connected to mental health; thus, individuals experiencing 
+poor physical health may also exhibit compromised mental well-being, potentially 
+leading to reduced performance and productivity. This relationship was demonstrated 
+in a study by (Rathnayake & Ekanayaka, 2016), which found a statistically 
+significant association between self-perceived physical health and stress levels 
+among nursing students (p = 0.026). 
+3.4 Self-efficacy and stress 
+Albert Bandura established the self-efficacy theory in 1986. According to Bandura, 
+self-efficacy refers to an individual's cognitive assessment of their own competence. 
+It represents how well a person believes they can plan and manage their daily 
+activities. Stress arises when an individual perceives a particular situation or stimulus 
+as a threat. Thus, an individual’s level of self-efficacy can influence their stress levels 
+(Sebastian, 2013) . This concept is supported by a study that found a weak negative 
+correlation between perceived stress and general self-efficacy among students (p < 
+0.001, r = -0.293) (Walpola et al., 2020). 
+4. Outcomes of stress among university students 
+Stress can impact an individual's well-being by either increasing or decreasing 
+productivity. Decreasing productivity leads to diminished performance and lower 
+achievement levels among students (Walpola et al., 2020). However, moderate levels 
+of stress can be beneficial, as they can motivate and encourage individuals to achieve 
+their goals (Noordeen et al., 2018).
+
+--- Page 10 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+41 
+Stress can impact various aspects of an individual's life, including physiologi cal, 
+behavioral, and psychological dimensions. Physiological problems may involve 
+hormonal imbalances and medical issues, while psychological problems can include 
+anxiety, depression, and a lack of life satisfaction. Additionally, behavioral issues 
+such as alcohol and substance abuse, as well as poor performance, can also result 
+from stress (Sebastian, 2013). Research has indicated that stress can negatively 
+impact the learning process and memory, although moderate levels of stress can 
+enhance learning and cognitive functions (Herath, 2019; Rathnayake & Ekanayaka, 
+2016). 
+A study conducted among students at Uva Wellasa University found that academic 
+stress was significantly associated with Grade Point Average (GPA), indicating that 
+stress influences academic success (Herath, 2019) . Similarly, a study of 3 rd year 
+Management undergraduates revealed a negative correlation between academic 
+performance and stress levels (p < 0.05, r = -0.536), suggesting that higher stress 
+levels are associated with lower academic performance (Praveeni & Herath, 2020) . 
+In contrast, stress levels were not significantly associated with examination res ults 
+among medical students (Ranasinghe et al., 2017). This might be possibly due to a 
+high baseline of academic motivation that buffers the effects of stress in t his group. 
+Additionally, (Hewage & Ponnamperuma, 2023) reported that academic 
+procrastination was negatively associated with stress among university students in the 
+Western Province of Sri Lanka. his is counterintuitive, as procrastination is typically 
+viewed as a cause of stress. This finding might suggest that some students use 
+procrastination as a temporary coping strategy, avoiding stress in the short term, even 
+though it may lead to long-term negative consequences. 
+It is well-established that anxiety and depression are associated with stress, wit h 
+various studies demonstrating a significant positive correlation between str ess and 
+both depression and anxiety (Kumari & Jian, 2014; Tiwari et al., 2012). This finding 
+is consistent with a study conducted among nursing students at the University of 
+Peradeniya, which reported a significant positive relationship between stress and
+
+--- Page 11 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+42 
+depression (r = 0.785, p < 0.001) as well as between stress and anxiety (r = 0.763, p 
+< 0.001) (Rathnayake & Ekanayaka, 2016). Additionally, a study from the same 
+setting in 2014 found that students experienced anxiety because of stress 
+(Damayanthi, 2014). 
+Commonly reported mental symptoms of stress among students include in creased 
+nervousness (Damayanthi, 2014; Ilankoon & Warnakulasooriya, 2014), frequent 
+feelings of tiredness (Ilankoon & Warnakulasooriya, 2014), and difficulties with 
+concentration (Damayanthi, 2014; Herath, 2019). Physically, nursing students at Sri 
+Jayewardenepura University reported chest tightness as a stress-related issue 
+(Ilankoon & Warnakulasooriya, 2014). Additionally, (Damayanthi, 2014) noted that 
+stress among nursing students was associated with neck or back pain, migraines, and 
+breathing difficulties. 
+Quality and quantity of sleep are crucial indicators of an individual's overall health, 
+affecting both mental and physical well-being. Stress levels are a significant predictor 
+of sleep quality among students. Academic workloads and irregular sleeping patterns 
+can adversely impact sleep quality. This is supported by a study that found a positive 
+correlation between sleep quality and perceived stress (r = 0.199, p < 0.05, N = 120) 
+among students at a non-state higher educational institution (Jayasena & Abeysinghe, 
+2023). Additionally, 32.2% of nursing students reported experiencing poor sleep due 
+to stress (Ilankoon & Warnakulasooriya, 2014). 
+A study conducted among female students at the University of Peradeniya explored 
+the association between stress and obesity prevalence. The study revealed a 
+significant association between waist circumference and obesity (p < 0.05), providing 
+evidence that stress influences body fat distribution, likely due to hormonal 
+imbalances (Ekanayake & Mudiyanse, 2020). While the association is statistically 
+significant, further longitudinal research is needed to confirm causalit y and explore 
+mediating variables such as diet, coping mechanisms, and sleep patterns. The key 
+finding is summarized in the table 01.
+
+--- Page 12 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+43 
+Domain Effect of stress Studies 
+Productivity 
+Decreased productivity and cause lower 
+academic achievement 
+(Walpola et al., 2020) 
+Moderate level of perceived stress 
+motivates goal achievement 
+(Noordeen et al., 
+2018) 
+Cognitive 
+functions 
+High stress impairs memory and 
+learning; Moderate stress enhances 
+cognitive performance 
+(Herath, 2019; 
+Rathnayake & 
+Ekanayaka, 2016) 
+Academic 
+performance 
+Associated with the academic 
+performance of the students 
+(Herath, 2019; 
+Praveeni & Herath, 
+2020) 
+Shows no effect in some medical 
+students 
+(Ranasinghe et al., 
+2017) 
+Behavior 
+Procrastination unexpectedly linked to 
+reduced stress 
+(Hewage & 
+Ponnamperuma, 
+2023) 
+Psychological 
+health 
+High correlation with anxiety and 
+depression 
+(Damayanthi, 2014; 
+Kumari & Jian, 2014; 
+Rathnayake & 
+Ekanayaka, 2016; 
+Tiwari et al., 2012) 
+Mental 
+symptoms 
+Nervousness, fatigue, poor 
+concentration 
+(Damayanthi, 2014; 
+Herath, 2019; 
+Ilankoon &
+
+--- Page 13 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+44 
+Warnakulasooriya, 
+2014) 
+Physical 
+symptoms 
+Tiredness, chest tightness, migraines, 
+neck/back pain, breathing difficulties 
+(Damayanthi, 2014; 
+Ilankoon & 
+Warnakulasooriya, 
+2014) 
+Sleep quality 
+Poor sleep due to stress 
+And academic workload and irregular 
+routines negatively affect sleep 
+(Ilankoon & 
+Warnakulasooriya, 
+2014; Jayasena & 
+Abeysinghe, 2023) 
+Obesity 
+Stress associated with waist 
+circumference and fat distribution (via 
+hormonal mechanisms) 
+(Ekanayake & 
+Mudiyanse, 2020) 
+Table 1: Summary of the outcome of stress reported in included literatures 
+5. Coping mechanisms employed by the students 
+Coping strategies are specialized behavioral and psychological techniques that 
+individuals use to manage, accept, reduce, or minimize stressful situations i n their 
+lives (Dubai et al., 2011) . Over the years, researchers have developed various 
+perspectives on stress and the coping mechanisms employed by individuals. While 
+coping capabilities and methods can vary among students from different backgrounds 
+and disciplines, students who exhibit resilience tend to handle stressful situatio ns 
+more effectively (S. Senarath, 2020). 
+Individuals typically use two main strategies to cope with stress: active and avoidance 
+coping. Active coping mechanisms involve taking steps to address and change the 
+stressor itself, while avoidance mechanisms lead individuals to engage in activi ties 
+that distract them from the stressful situation and escape from the situation. Active 
+coping is generally considered a more productive approach to managing stress
+
+--- Page 14 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+45 
+effectively, whereas avoidance can result in additional psychological and 
+physiological consequences which may affect physical and psychological well-being 
+(Dubai et al., 2011). During university life, students encounter various stres sors; 
+therefore, employing appropriate individualized coping mechanisms is crucial for 
+managing stress effectively and enhancing their productivity (Peris et al., 2021). 
+A study conducted among students at Uva Wellasa University found that time 
+management was the most commonly used strategy for coping with stress (Herath, 
+2019). While this sounds effective, it raises several critical questions about the depth 
+and effectiveness of such a coping approach. Time management is often promoted as 
+a primary solution to academic stress; however, its successful application requi res a 
+set of cognitive and behavioral skills such as goal setting, prioritization, self discipline, and the ability to delay procrastination that many students may not have 
+been formally trained. Therefore, it finally provides only temporary reli ef because 
+what they practice may be inefficient or inconsistent. 
+According to (Noordeen et al., 2018), medical students commonly used the following 
+strategies: watching movies (81.8%), planning (86.8%), talking with friends or 
+parents (88.3%), listening to music (90.6%), and sleeping (92.2%). Conversely, 
+smoking (6.8%) and drug abuse (6.5%) were the least utilized strategies. Among the 
+reported strategies, engaging in religious activities (95.21%) and seeking advice from 
+lecturers and seniors (94.31%) were considered the most effective. In contrast, 
+showing anger towards others (53.79%) and engaging in video and computer games 
+(78.13%) were deemed less effective coping methods. 
+Another study among healthcare-related university students found that common 
+coping strategies included sleeping (93.6%), meeting or talking to friends or loved 
+ones (89.8%), eating (86.3%), and taking a walk (84%). The least used strategies were 
+accessing university Career Guidance Services (69.4%) and meeting with a 
+psychologist (70%). While these findings reflect a dependent on informal and readily 
+accessible coping mechanisms, they also highlight a concerning lower level of
+
+--- Page 15 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+46 
+utilization of professional support systems available in the university settings. 
+Students tend to use immediate and familiar activities such as sleeping or soci al 
+interaction which might give them short-term emotional relief, but they do not take 
+the necessary steps to identify and address the root causes of their stress. This suggests 
+a possible lack of awareness, problems in accessibility, or low level toward s formal 
+institutional resources such as counseling or career guidance services. The social 
+stigma associated with seeking psychological help, particularly in South Asian 
+cultural contexts, may discourage students from utilizing the profession support 
+systems. Notably, this study also revealed that nearly half of the participants used 
+alcohol (51.9%) and smoking (50.4%) as stress management strategies (Peris et a l., 
+2021). Thus, sleeping and talking to friends emerged as the most frequently used 
+coping strategies among health-related undergraduates, consistent with findings from 
+previous studies (Noordeen et al., 2018; Peris et al., 2021). 
+6. Conclusion 
+Research studies conducted in Sri Lanka among university students to assess the 
+perceived stress levels reveal a complex interplay of factors, including academic 
+demands, personal issues, and coping strategies. These studies consistently show 
+varying stress levels across different disciplines within Sri Lankan universities. 
+Demographic factors such as age, gender, family income, and parental education 
+showed inconsistent associations with stress, suggesting that while these factors may 
+influence stress perception in specific contexts, they are not universally predictiv e. 
+Nonetheless, self-efficacy emerged as a crucial determinant, with students possessing 
+higher self-efficacy experiencing lower stress levels. This supports the theoretical 
+view that internal coping resources play a significant role in stress management. 
+Importantly, stress has been shown to impact students' academic performance and 
+overall productivity. While some level of academic stress may enhance learnin g, 
+elevated stress levels are more commonly associated with decreased GPA, 
+procrastination, and impaired memory and concentration. Physiological and
+
+--- Page 16 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+47 
+behavioral outcomes such as insomnia, anxiety, depression, and substance use also 
+illustrate the broader implications of unmanaged stress. 
+Despite these challenges, students use a range of coping strategies, from time 
+management to social support networks, which are crucial for managing stress and 
+achieving academic success. Understanding these dynamics is essential for 
+developing effective interventions that promote student well-being and improve 
+educational outcomes across Sri Lanka's diverse university settings. 
+7. Recommendations 
+This literature review emphasizes the urgent need for universities in Sri Lanka t o 
+implement evidence-based strategies to identify, mitigate, and manage student stress 
+irrespective of discipline and university settings. Institutional support system s, 
+curriculum reforms, and psychological support services must be strengthened and 
+promoted among university students to foster a healthy academic environment. 
+Students must be informed that the utilization of the short-term methods to reli eve 
+stress will not help to identify the root cause of the stress. Although the res earch is 
+conducted among the students to identify the level of stress, there must be a pr oper 
+tracking system to identify the students who have higher stress and refer them to the 
+support system. 
+Understanding the sources and outcomes of stress can inform targeted interventions 
+to not only improve student well-being but also enhance academic performance, 
+reduce dropout rates and productivity of the institution. As students are the futur e 
+workforce and leaders of the country, their mental health is very important for 
+national development. Without adequate support, the prolonged stress experienced 
+during their university life may have long-term consequences for both the individual 
+and society at large.
+
+--- Page 17 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+48 
+REFERENCES 
+Damayanthi, H. D. W. T. (2014). Perceived stressors among undergraduate Nursing 
+Students, University of Peradeniya, Sri Lanka. International Journal of 
+Scientific and Research Publications, 4(6), `1-4. www.ijsrp.org 
+Dubai, S. A. R. Al, Naggar, R. A. Al, Alshagga, M. A., & Rampal, K. G. (2011). Stress 
+and Coping Strategies of Students in a Medical Faculty in Malaysia. 
+Malaysian Journal of Medical Science, 18(3), 57–64. 
+Ekanayake, E., & Mudiyanse, R. (2020). Association Between Perceived Stress And 
+Obesity Among Female Undergraduate Students In The University Of 
+Peradeniya. 13th International Research Conference General Sir John 
+Kotelawala Defence University, 95–104. 
+Gamage, G., & Herath, H. (2021). Depression, Anxiety and Stress among 
+Undergraduate Students in the Open university of Sri Lanka : a cross 
+sectional study. 34th Annual Conference of the Asian Associations of the 
+Open Universities , 439–452. 
+Herath, H. M. W. M. (2019). Relationship between Academic Stress and Academic 
+Achievements of the Undergraduate Students in Sri Lanka-A Case Study of 
+Undergraduates in Uva Wellassa University. Global Journal of Human Social Sciences , 19(7), 1–7. 
+Hewage, K. P., & Ponnamperuma, L. (2023). Factors Predicting Academic 
+Procrastination with Special Reference to Self esteem, Self efficacy, and 
+Stress Among Undergraduates in the Western Province of Sri Lanka. SLIIT 
+International Conference On Advancements In Sciences & Humanities, 531–
+535. https://doi.org/10.54389/MXYT7611 
+Ilankoon, I., & Warnakulasooriya, S. (2014). Perceived Stress and Associated Factors 
+among BSc Nursing Undergraduates in University of Sri Jayewardenepura,
+
+--- Page 18 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+49 
+Sri Lanka. International Research Conference Sir John Kotelawala Defence 
+University, 58–66. 
+Jayasena, M., & Abeysinghe, N. (2023). Perceived Stress as a Predictor of Sleep 
+Quality in Undergraduates: A Cross-Sectional Study. SLIIT International 
+Conference On Advancements In Sciences & Humanities , 542–549. 
+https://doi.org/10.54389/RNCL9451 
+Kumari, A., & Jian, J. (2014). Examination Stress And Anxiety: A Study Of College 
+Students. Global Journal of Multidisciplinary Studies , 4(1), 31–40. 
+www.gjms.co.in 
+Liyanage, G. (2017). Psychological distress among final year medical undergraduates 
+in a Sri Lankan university. International Journal Of Community Medicine 
+And Public Health , 4(11), 3952–3955. https://doi.org/10.18203/23946040.ijcmph20174483 
+Nakandalage, H., Kuruppuarachchi, K., & Madurapperuma, B. (2014). Perceived 
+Distress in College: Problem in Adjustment in a Social and Cultural Context. 
+Indian Journal of Research in Management , Business and Social Sciences , 
+249–263. 
+Noordeen, F., Jayathilaka, T., Pitchai, F. N. N., Yapa, H. R. N., Jayarathne, I. M. N. 
+M. K., Nawarathne, T. N. D., Piyasena, I. R. N., Priyanka, M. L. S. P., 
+Shivanka, J. V . P. G., Uden, T., Yeshi, S., Gurung, R. R., Ifla, M. I. F., & Dorji, 
+K. (2018). Stress coping mechanisms practiced by medical undergraduates 
+of a State Medical School in Sri Lanka. Sri Lanka Journal of Social Sciences, 
+41(2), 101–109. https://doi.org/10.4038/sljss.v41i2.7697 
+Peris, T., Hettihewa, S., Prasadi, G., & Karunaratna, A. (2021). Level of Stresses and 
+Coping Strategies in Management of Stress in Healthcare Undergraduates; 
+Sri Lankan University Perspectives. CINEC Academic Journal , 5(1), 125–
+135.
+
+--- Page 19 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+50 
+Praveeni, S. M. N., & Herath, H. M. A. J. (2020). Perceived Academic Stress among 
+University Undergraduates in Sri Lanka. Wayamba Journal of Management, 
+11(1), 30–40. https://doi.org/10.4038/wjm.v11i1.7490 
+Ranasinghe, P., Wathurapatha, W. S., Mathangasinghe, Y ., & Ponnamperuma, G. 
+(2017). Emotional intelligence, perceived stress and academic performance 
+of Sri Lankan medical undergraduates. BMC Medical Education , 17(1). 
+https://doi.org/10.1186/s12909-017-0884-5 
+Rathnayake, S., & Ekanayaka, J. (2016). Depression, Anxiety and Stress among 
+Undergraduate Nursing Students in a Public University in Sri Lanka. 
+International Journal of Caring Sciences , 9(3), 1020–1032. 
+www.internationaljournalofcaringsciences.org 
+Sebastian, V . (2013). A Theoretical Approach to Stress and Self-efficacy. Procedia Social and Behavioral Sciences , 78, 556–561. 
+https://doi.org/10.1016/j.sbspro.2013.04.350 
+Senarath, M., Thalwaththe, S., & Banneheka, B. (2017). A Survey to Evaluate the 
+Examination Stress of Physiotherapy Undergraduates of Faculty of Allied 
+Health Sciences, University of Peradeniya, Sri Lanka. International Journal 
+of Science and Research (IJSR), 06(10), 192–194. 
+Senarath, S. (2020). Examination Stress, Stress Management Strategies, and 
+Counseling Needs of College Level Students in Sri Lanka. Journal of 
+Psychology and Behavioral Science , 8(2), 27–34. 
+https://doi.org/10.15640/jpbs.v8n2a3 
+Tiwari, S., Singh, R., Goyal, M., Ghildiyal, A., Nattu, S. M., & Das, S. (2012). Effect 
+Of Examination on Mood, Performance and Cortisol Levels in Medical 
+Students. Indian J Physiol Pharmacol, 56(1), 48–55. 
+Walpola, L. H., Wijekumar, P. J., Wadduwage, S. S., Ranadeva, N. D. K., & 
+Chakrewarthy, S. (2020). Relationship between perceived stress, general self-
+
+--- Page 20 --Journal of Multidisciplinary Research 
+V olume 5 - 2025 
+51 
+efficacy and socio-demographic factors of an undergraduate student 
+population in Sri Lanka: A cross-sectional study. International Journal of 
+KIU, 1(1), 17–23. https://doi.org/10.37966/ijkiu20200124 
+Wanigasinghe, A., & Rathnayaka, R. (2019). The Association between Stress Level 
+of Undergraduates and Different Variables in Sri Lanka: With Reference to 
+University of Sri Jayewardenepura, Sri Lanka. The International Journal of 
+Humanities & Social Studies , 7(5), 93–99. 
+https://doi.org/10.24940/theijhss/2019/v7/i5/144651-352325-1-SM

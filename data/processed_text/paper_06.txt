@@ -1,0 +1,621 @@
+--- Page 1 --International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+Volume 08 Issue 02 February 2025 
+DOI: 10.47191/ijcsrr/V8-i2-39, Impact Factor: 8.048 
+IJCSRR @ 2025 
+ 
+www.ijcsrr.org 
+ 
+894 *Corresponding Author: Truong Dinh Minh Dang Volume 08 Issue 02 February 2025 
+ Available at: www.ijcsrr.org 
+ Page No. 894-903 
+ 
+ 
+Exploring English-majored Students' Academic Stress and Coping 
+Strategies: A Mixed Method Research at a Private University 
+ 
+Truong Dinh Minh Dang 
+Faculty of Foreign Languages, Nguyen Tat Thanh University, Ho Chi Minh City, Vietnam. 
+ 
+ABSTRACT: Academic stress has long been a subject of interest among researchers. University students often face significant 
+levels of stress due to a variety of stressors. This study aims to (1) examine the prevalence of stress and the factors contributing to 
+it, and (2) explore students' views on stress and their coping strategies among undergraduate English studies students. A survey was 
+conducted with a randomly selected sample of 125 students from a priv ate university, using a questionnaire. The questionnaire 
+addressed both academic and non -academic factors, revealing an average stress level of 2.72. Female English studies students 
+reported a slightly higher stress level compared to their male counterpart s. The findings revealed that, among academic stressors, 
+fear of failure was the primary contributor, while limited time for recreation and homesickness were identified as the main n onacademic stressors. The second data is derived from a case study design with semi-structured interview with 12 English -majored 
+university students at the private university. The results identify 3 main coping strategies used by students when facing sch ool 
+stress: (1) evasion, (2) diversion, and (3) resolution. These findings highlight the critical importance of teaching about stress and 
+coping strategies in health and life skills education. 
+ 
+KEYWORDS: Academic stress, Coping strategies, English-majored students, Students’ perspectives, Stress factors 
+ 
+INTRODUCTION 
+Studying English can be highly demanding, placing considerable strain on students’ mental health. Stress is a psychological 
+response that emerges from the interaction between an individual and an environment perceived as threatening to their well -being, 
+acting as an external force that impacts both mental and physical health. Language studies, particularly in English, are noted for 
+having a higher prevalence of stress compared to other fields. Research indicates that students majoring in English often experience 
+heightened stress levels throughout their undergraduate years, primarily due to the demanding curriculum and the language 
+proficiency standards they must achieve. This research aims to investigate the academic stress encountered by English majors at 
+the University and to identify the coping strategies they utilize to manage this stress. Understanding the factors that contribute t o 
+academic stress and how students cope is essential for enhancing their well -being and academic success. This study is driven by 
+the need to address a gap in the literature concerning the specific stressors faced by English majors in Vietnam. While many studies 
+have examined academic stress in general, few have specifically targeted this demographic. The research seeks to pinpoint th e 
+situations that induce stress in the lives of English major students and aims to evaluate the prevalence of stress and the contributing 
+factors among undergraduate linguistics students, as well as to explore gender differences within the university context. The overall 
+increase in school -related stress can be contextualized within the growing importance of educational qualifications for job 
+opportunities in today’s knowledge-based economies (Högberg, 2021; Högberg & Strandh, 2024; Krogh & Madsen, 2023; Pa scoe 
+et al., 2020). Knowledge is seen as a vital element in boosting economic productivity, and national education systems are wor king 
+hard to remain competitive in the global knowledge economy (Hilt et al., 2024). This paper also aims to delve into the st udents’ 
+perspectives and the coping strategies they employ to handle school-related stress. 
+(1) What are the factors causing academic stress for English-majored students? 
+(2) What are the students' coping strategies used to manage school-related stress? 
+By exploring these questions, the research seeks to illuminate the specific sources of academic stress faced by students majoring in 
+English, as well as their perceptions and coping mechanisms regarding these challenges. This study's results may be discussed with 
+the increasing literature on academic stress and mental health in higher education, particularly within English language stud ies. In 
+addition, this research could provide valuable insights for educators, academic advisors, and university administrators to assist in
+
+--- Page 2 --International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+Volume 08 Issue 02 February 2025 
+DOI: 10.47191/ijcsrr/V8-i2-39, Impact Factor: 8.048 
+IJCSRR @ 2025 
+ 
+www.ijcsrr.org 
+ 
+895 *Corresponding Author: Truong Dinh Minh Dang Volume 08 Issue 02 February 2025 
+ Available at: www.ijcsrr.org 
+ Page No. 894-903 
+ 
+the creation of supportive systems and programs for stress management unique to English majors. The purpose of this study also is 
+to help students learn how to deal with academic stress so as to enable students to foster their well-being and academic achievement. 
+ 
+LITERATURE REVIEW 
+Stress and Stress factors 
+Stress is a response that encompasses both psychological and physiological aspects, arising from internal and external pressu res 
+that challenge a person's ability to cope. It has been widely examined in areas such as psychology, education, and linguistics because 
+of its profound impact on mental health, academic success, and overall well-being. 
+Typically, stress is viewed as a state of mental or emotional strain that is triggered by dif ficult or demanding situations (Lazarus & 
+Folkman, 1984). The transactional model of stress introduced by Lazarus and Folkman emphasizes that stress results from the 
+interaction between individuals and their surroundings, occurring when perceived demands surpass the resources available to them. 
+Stress can manifest in various forms, including emotional, physical, and behavioral symptoms, and can be classified as either acute 
+or chronic based on the duration and intensity of the stressors. 
+Stress in Educational Contexts 
+Educational settings are frequently identified as high -stress environments, particularly for students navigating the demands of 
+academic life. Academic stress refers to the mental distress associated with anticipated academic challenges , such as exams, 
+assignments, and competitive environments (Misra & McKean, 2000). It is recognized as a significant factor affecting students ’ 
+cognitive functioning, emotional regulation, and physical health. 
+Academic stress among students has been widely studied, with researchers identifying key stressors such as excessive assignments, 
+competition with peers, failure, and strained relationships with fellow students or lecturers (Fairbrother & Warn, 2003). University 
+students' academic performance is com monly assessed through their success or failure in course units, the number of courses 
+completed or failed (Goldfinch & Hughes, 2007), and their grades, often reflected in their Grade Point Average (GPA) or 
+Cumulative Grade Point Average (CGPA) (Bernold, S purlin, & Anson, 2007). Baker (2003) emphasized that undergraduates 
+encounter new interpersonal, social, and academic challenges when transitioning from secondary school to university, which ca n 
+be stressful. Immediate challenges include career decision -making, forming new relationships, adapting to unfamiliar ideas that 
+challenge prior beliefs, and adjusting to living away from home (Lumley & Provenzano, 2003). Baker emphasizes that the succes s 
+of this adjustment largely depends on a student’s ability to c ope with stress, which subsequently influences their academic 
+motivation and performance. DeBerard, Spielmans, and Julka (2004) propose that social support from friends, peers, and religi ous 
+communities serves as a protective factor, assisting students in managing stress during this transitional phase. In academic 
+environments, stress commonly stems from high expectations, information overload, academic pressure, unrealistic goals, limit ed 
+opportunities, and intense competition, all of which contribute to a nxiety, fear, and tension among students (Sinha, Sharma, & 
+Nepal, 2001). Dahlin, Joneborg, and Runeson (2005) found that undergraduate students experience the highest levels of study related pressure. Likewise, research by Misra, Mckean, West, and Russo (2 000) identified the pressure of meeting assessment 
+deadlines as a significant source of stress for students. Academic stress is often associated with exam preparation, competit ion for 
+grades, and the challenge of absorbing large amounts of material within a limited time (Kohn & Frazer, 1986). The imbalance 
+between course load and available time is another factor contributing to academic stress (Zeidner, 1992). Studies indicate that firstyear students often view their coursework as demanding, and this perce ption is linked to heightened exam -related stress (Mani, 
+2010). Talib and Zai -ur-Rehman (2012) found that 53% of students identified course load as a major stressor, which negatively 
+impacted their GPA. Additionally, students report that the pressure to re view all material before exams is stressful, and while the 
+exam itself may not be the direct cause of stress, the potential impact on their academic and professional future is a signif icant 
+concern (Mani, 2010). 
+Stress Factors in Educational Contexts 
+Stress is part and parcel of education; caused by a combination of academic, social and personal pressures. Students face anxie ty 
+and pressure that arises from performance demands, tight deadlines, and the need to manage extracurricular commitments, and 
+these challenges become more pronounced in a setting characterized by high expectations and fierce competition.
+
+--- Page 3 --International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+Volume 08 Issue 02 February 2025 
+DOI: 10.47191/ijcsrr/V8-i2-39, Impact Factor: 8.048 
+IJCSRR @ 2025 
+ 
+www.ijcsrr.org 
+ 
+896 *Corresponding Author: Truong Dinh Minh Dang Volume 08 Issue 02 February 2025 
+ Available at: www.ijcsrr.org 
+ Page No. 894-903 
+ 
+The advancement of technology into education brought new stressor, making students digitally literate and comfortable with online 
+learning successe s. This is true especially for students studying languages, who may experience unique challenges specific to 
+language acquisition, as well as cultural transition challenges and technical skill acquisition relevant to their field. 
+Such stressors can manifest themselves in decreased academic performance, poor mental health, and physical ailments, among other 
+things. However, how individuals experience and manage stress can vary based on factors like resilience, social support, and 
+available resources. Understanding the root causes of stress and its contributing factors is essential for creating effective strategies 
+to reduce its impact and help students reach their academic and personal aspirations. 
+Coping strategies 
+Problem-focused and emotion -focused copi ng strategies was classified as two main types of coping strategies by Lazarus and 
+Folkman (1984). Problem focused approach: These strategies seek to deal with and modify the stressor indicating it is usually 
+applied when people feel that they can affect/change the situation. Such strategies can include confronting the stressor itself, creating 
+a plan or asking for assistance. In contrast, emotion-focussed strategies aim to cope with emotional reactions, and are usually used 
+when the stressor is perceived to be immutable. Such approaches may involve relaxation, venting feelings or social support (Lazarus 
+& Folkman, 1984; Perzow et al., 2021). Avoidance-oriented coping also includes distancing from the stressor, either physically or 
+mentally and can take form as ignoring or distraction (Carver et al., 1989). While these categories offer a useful framework for 
+understanding coping, they also have limitations (Saha et al., 2014). 
+Recent research attests to a more flexible way of coping, understanding that indi viduals often combine strategies differently based 
+on the context at hand, their properties, and the resources available (Skinner et al., 2003; Cheng et al., 2014). Coping flex ibility, 
+which is moving from one coping strategy to another depending on which one works in that given situation (Kato, 2012), is 
+associated with better mental health outcomes (Aldao et al., 2010; Cheng et al., 2014). Coping strategies can impact well -being, 
+and academic performance, but the feasibility of these strategies is often d ependent on how well the strategy fits the stressor 
+(Lazarus et al., 1984). Problem-focused coping works somewhat better than emotion-focused coping or avoidance for controllable 
+stressors; however, avoidance at a permanent level may have long -term detrimental effects (Zimmer-Gembeck & Skinner, 2016), 
+especially where controlled domains such as academic success are concerned, where problem -focused tactics fare much better. 
+Previous Studies 
+Various researchers pointed out some important issues behind stud ents' academic stress, including academic pressures, social 
+interactions, financial difficulties, everyday life challenges, and family issues (Brougham et al., 2009). These stress facto rs can 
+immensely deter the students from their mental health and perfor mance, especially under tremendous pressure such as an English 
+language program. Wang et al. (2022) showed the relationship between stress due to studying English and burnout and indicated 
+that self-efficacy and mindfulness together act as major factors regarding the management of stress. Jones, Clarke, and Tharp (2021) 
+identified six major causes of stress among English Departments; these included academic demands, parent -child relationships, 
+peer pressure, financial fears, and personal expectations. Lee et al. (2023) pointed that maladaptive coping strategies can contribute 
+to academic burnout, while adaptive strategies such as seeking social support can help in alleviating the stress. Nguyen et al. (2020) 
+surveyed English majors and found additional stress related to being proficient in the language and performing well academically, 
+with institutional support being critical in relieving it. The works highlight the intricacies of academic stress and that co ping 
+strategies such as mindfulness, self-efficacy, and adaptive will help lessen its grip. 
+ 
+METHODOLOGY 
+Research Design 
+The study performed both qualitative and quantitative investigations of sources of academic stress, students' perceptions, an d the 
+coping strategies they employ. The sample for the investigation was constructed through convenience sampling, allowing students 
+to participate voluntarily. The quantitative data gathered from the respondents looked at description of various kinds of str essors 
+on a Likert scale, which indicated also the freq uency of occurrence as presented in a well -constructed questionnaire containing 40 
+questions. The qualitative insights included responses obtained through semi -structured interviews with open -ended questions, 
+allowing students to express superlative percep tions of personal insights and coping strategies. By amalgamating a structured
+
+--- Page 4 --International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+Volume 08 Issue 02 February 2025 
+DOI: 10.47191/ijcsrr/V8-i2-39, Impact Factor: 8.048 
+IJCSRR @ 2025 
+ 
+www.ijcsrr.org 
+ 
+897 *Corresponding Author: Truong Dinh Minh Dang Volume 08 Issue 02 February 2025 
+ Available at: www.ijcsrr.org 
+ Page No. 894-903 
+ 
+formulation of quantitative data with detailed responses provided via qualitative means, the research was able to provide a m acro 
+view of the questions asked and an exhaustive analysis of academic stress and coping strategies from different angles. 
+Setting and Participants 
+The study was conducted in the English Studies Department at a private university in Ho Chi Minh City, targeting English-majored 
+students. Participants were junior and senior students aged between 20 and 22. English proficiency was not considered in this study, 
+as the level of academic stress was the only focus of assessment. One hundred and twenty -five students participated in the 
+quantitative phase through completion of questionnaires, while 12 students were chosen for the qualitative phase, which consisted 
+of semi-structured interviews. This selection criteria allow diverse perspectives and experiences to emerge from different academic 
+years. 
+Instruments 
+To address the first research question, the researcher utilized the Academic Stress Questionnaire created by Rajendran (1990). This 
+questionnaire was initially developed by Kim (1970) and remains widely utilized by researchers such as Gill, Alam & Halder, Hill, 
+Pandey & Shukla, and Porwal & Kumar. Rajendran and Kaliappan later adapted the Students' Academic Stress Scale to suit Indian 
+contexts. It consists of five sections defined by Kim (1970), comprising 40 structured questions: (a) Personal inadequacy (questions 
+1–8), (b) Fear of failure (questions 9 –18), (c) Interpersonal difficulties with teachers (questions 19 –24), (d) Teacher -pupil 
+relationship/teaching methodology (questions 25 –32), and (e) Inadequate lab or library facilities (questions 33 –40). Each item 
+includes five response options: "No Stress," "Slight Stress," "Moderate Stress," "High Stress," and "Extreme Stress." The col lected 
+data was categorized into these sections, analyzed, and compared to explore the sources of academic stress among Engli sh-major 
+students, focusing on institutional structures, resource limitations, and cultural challenges impacting their academic experi ences. 
+To answer the second research question, the researcher adapted a semi-structured interview guide developed and designed to foster 
+a conversational style (Brinkmann, 2015, Brinkmann & Kvale, 2018), where the participants were encouraged to reflect and 
+elaborate on the interdisciplinary topic. The interview guide touched on the students’ experiences with the following t hree topics 
+“the students’ experiences in everyday school life”, “stress and coping” and “public health and coping with life”. The resear cher 
+changed the subject of questions to suit with the participants in this study. The interview featured open -ended questions, such as 
+“How would you describe the experience of being a university student?", “What may be difficult about being an English -majored 
+students?”, “How do you usually face with difficulties in school?”, “What is stressful for you?”, and “What do yo u usually do to 
+cope with stress in school?”. 
+Ethical issue 
+This study complies with the ethical principles outlined in the 4th edition of the Ethical Guidelines for Educational Research by the 
+British Educational Research Association. First, approval w as granted by the school authorities, and consent forms were provided 
+to all 125 students for questionnaires and 12 students for interviews, detailing the research's objectives, process, and thei r 
+involvement. Students were assured that their personal info rmation would be kept confidential in both the collected data and the 
+final report, and that their participation would not affect their academic grades. Once all students and their parents provided consent, 
+the experimental phase began. To ensure confidentiality and ease of management, all responses from questionnaires and interviews 
+were assigned numerical labels. 
+Data Analysis 
+The data collected from the questionnaires was analyzed statistically through the Mann-Whitney U test and the Kruskal-Wallis test. 
+For better data presentation, the tables were created in Microsoft Excel and Word. For the qualitative data from interviews, 
+recordings were transcribed and analyzed along the thematic analysis framework by Braun and Clarke (2022). Each stage of the 
+analysis involved familiarity with the data, coding, theme identification, developing and refining of themes, and finally naming 
+them. The analysis approach as proposed by Creswell (2007) and Nowell et al. (2017) had allowed for multi-types of data iterative 
+analysis that integrated both types of data into the study.
+
+--- Page 5 --International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+Volume 08 Issue 02 February 2025 
+DOI: 10.47191/ijcsrr/V8-i2-39, Impact Factor: 8.048 
+IJCSRR @ 2025 
+ 
+www.ijcsrr.org 
+ 
+898 *Corresponding Author: Truong Dinh Minh Dang Volume 08 Issue 02 February 2025 
+ Available at: www.ijcsrr.org 
+ Page No. 894-903 
+ 
+FINDINGS AND DISCUSSION 
+Research question 1: What are English-majored students’ sources of academic stress? 
+Among the 125 students who completed the questionnaire, 72.3% were female, while 27.7% were male. In terms of background, 
+36.5% of respondents were from rural areas , whereas 62.5% were from urban areas. Table 1 presents a comparison of stress 
+levels between male and female students, analyzed using the Mann-Whitney U Test , which assesses differences in mean ranks 
+between two groups. The results indicate that female students had a higher mean rank than males . The p-value of 0.023 , 
+associated with a Mann-Whitney U score of 3568 , confirms a significant difference, suggesting that females experience higher 
+stress levels than males. 
+ 
+Table 1. Academic stress and Gender difference 
+Factors Mean 
+Male Female 
+Inadequate study facilities 2.72 2.86 
+Fear of Failure 3.43 3.54 
+Interpersonal difficulties with teachers 2.76 2.78 
+Personal Inadequacy 2.89 2.97 
+Teacher pupil relationship/ Teaching methods 2.67 2.75 
+Overall 2.89 2.98 
+ 
+The table displays the average scores of stress factors among male and female students, covering five key aspects: inadequate study 
+facilities, fear of failure, difficulties in interacting with teachers, feelings of personal inadequacy, and teacher-student relationships 
+or teaching methods. Fear of failure had the highest mean for both genders (3.43 for males, 3.54 for females). Overal l, females 
+reported slightly higher stress levels (2.98) than males (2.89). The smallest gender difference was in interpersonal difficul ties with 
+teachers, while the largest was in inadequate study facilities. 
+Table 2 shows the difference in level of academic stress by educational background area. 
+ 
+Table 2. Academic stress and educational background area difference 
+Factors Mean 
+Rural Urban 
+Inadequate study facilities 3.15 3.05 
+Fear of Failure 4.12 3.87 
+Interpersonal difficulties with teachers 2.86 2.92 
+Personal Inadequacy 2.87 2.75 
+Teacher pupil relationship/ Teaching methods 3.21 3.17 
+Overall 3.24 3.15 
+ 
+The table presents a comparison of academic stress between students from rural and urban educational backgrounds based on 
+various stress-related factors. The mean values indicate that students in rural areas experience slightly higher levels of academic 
+stress overall (3.24) compared to their urban counterparts (3.15). Among the factors, fear of failure has the highest mean score for 
+both groups, with rural students reporting 4.12 and urban students 3.87. Inadequate study facilities and teacher-pupil 
+relationship/teaching methods also contribute significantly to stress, though rural students report slightly higher levels in both cases. 
+Interestingly, interpersonal difficulties with teachers show minimal differences, with urban students (2.92) experiencing sli ghtly 
+more stress than rural students (2.86). Personal inadequacy , on the other hand, is reported higher among rural students (2.87) than 
+urban students (2.75). Overall, while the differences are not drastic, the data suggests that rural students tend to experien ce 
+marginally higher academic stress across most factors.
+
+--- Page 6 --International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+Volume 08 Issue 02 February 2025 
+DOI: 10.47191/ijcsrr/V8-i2-39, Impact Factor: 8.048 
+IJCSRR @ 2025 
+ 
+www.ijcsrr.org 
+ 
+899 *Corresponding Author: Truong Dinh Minh Dang Volume 08 Issue 02 February 2025 
+ Available at: www.ijcsrr.org 
+ Page No. 894-903 
+ 
+This cross-sectional study relied on self -reported data from students, which introduces the possibility of reporting bias. Such bias 
+may have arisen due to respondents’ personal interpretation of the questions, a tendency to present their emotions in a parti cular 
+manner, or inaccuracies in their responses. 
+Table 3 illustrates the average academic stress factors among students. The results reveal that fear of failure was the most significant 
+stressor. This elevated stress level stemmed from frequent exams, parental notific ation of progress reports, perceived teacher 
+favoritism, and inadequate teacher-student communication. The mean stress scores ranged from 1.12 to 4.37, indicating that students 
+experienced stress levels ranging from mild to very high. These findings suggest that academic expectations were the primary 
+source of stress from the students' perspective. 
+ 
+Table 3. Academic Stress Factors and Overall Mean 
+Factors Items Mean Overall Mean 
+Inadequate 
+study facilities 
+Lack of concentration during study hours 2.34 
+ 
+ 
+ 
+ 
+ 
+2.76 
+Conflict with friends/ college authorities 2.56 
+Inadequate space or room for study at home 3.14 
+Lack of assertiveness (confidence) in the class 4.12 
+Lack of opportunity to meet teachers 2.36 
+Lack of mutual help among classmates 2.67 
+Incomplete and confusing study material 1.27 
+Inadequate lab and library facilities 3.58 
+Fear of Failure Progress reports to parents 3.45 
+ 
+ 
+ 
+ 
+ 
+3.49 
+Worrying about the examinations 4.37 
+Teachers give more punishment in the class 3.78 
+Worry about the results after examinations 2.62 
+Exam papers are tough and not valued well 3.56 
+Unable to complete the assignments in time 4.19 
+Unable to discuss Academic failures with parents 2.87 
+Not able to grasp the subject matter 3.05 
+Interpersonal 
+difficulties with 
+teachers 
+The teacher is not humors towards us. 2.23 
+ 
+ 
+ 
+ 
+ 
+2.43 
+The teachers do not listen to our ideas. 1.56 
+Biased attitude of the teacher. 3.54 
+Not knowing how to prepare for the examinations. 1.37 
+Lack of communication between teachers and students. 2.09 
+Not enough discussion in the class. 2.86 
+Teachers lacking interest in students 3.06 
+Inadequate subject knowledge of the teacher 2.69 
+Personal Inadequate Difficulties in remembering all that is studied. 1.22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.47 
+Lack of self-confidence 3.12 
+Hesitate to ask the teacher for detailed explanation. 2.96 
+Lack of fluency while speaking the language other than the 
+mother tongue 
+1.75 
+Difficulty in public speaking 3.45 
+Feeling of inferiority 2.28 
+Eleventh hour preparation for the examinations 1.74 
+Difficulty in adjusting with opposite gender 3.27 
+ Teachers make too many extra demands on students 3.25
+
+--- Page 7 --International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+Volume 08 Issue 02 February 2025 
+DOI: 10.47191/ijcsrr/V8-i2-39, Impact Factor: 8.048 
+IJCSRR @ 2025 
+ 
+www.ijcsrr.org 
+ 
+900 *Corresponding Author: Truong Dinh Minh Dang Volume 08 Issue 02 February 2025 
+ Available at: www.ijcsrr.org 
+ Page No. 894-903 
+ 
+ 
+ 
+ 
+Teacher-Pupil 
+relationship/ Teaching 
+methods 
+Poor interest in some subjects 1.12 
+ 
+ 
+ 
+ 
+2.45 
+Teachers show socio-economic status on students 2.36 
+Slow in getting along with the curriculum 3.27 
+Monotonous (boring or tedious) teaching style by the teacher. 1.89 
+The teacher is fast and does not use blackboard legibly. 3.58 
+Examination syllabus is too heavy in some subjects. 2.87 
+Importance of the subject matter 1.28 
+OVERALL STRESS 2.72 
+ 
+Research question 2: What are the students' coping strategies used to manage school -related stress? 
+After coding the data, results were identified and categorized into 3 main themes. They are the three key methods used to deal with 
+academic stress by university students. 
+Evasion 
+One recurring theme in the material highlights students' passive response s to distress, characterized by a tendency to wait for 
+challenges to resolve themselves without taking proactive steps. Participants shared experiences such as feeling powerless, avoiding 
+engagement, or resigning themselves to their situation. Examples include statements like: 
+(Participant 1) "I just let things happen and don’t try to change them. It feels like there’s no point in trying." (Participant 2) "When 
+I feel distressed, I often avoid thinking about it. I just wait and hope it goes away on its own ." 
+(Participant 6) "I feel stuck when I’m stressed. Even simple tasks become too hard, and I end up not doing anything." 
+(Participant 10) "When things pile up, I get overwhelmed. Instead of tackling my work, I find myself procrastinating, losing 
+motivation, and feeling irritated. I don’t know how to manage the stress effectively." These responses reflect a passive acceptance 
+of distress, either by ignoring the stressors or waiting for relief to come naturally. Such behavior indicates a lack of acti ve coping 
+strategies, as students appear to let the distress "take control," ultimately leading them to disengage or give up. This patt ern aligns 
+with non -productive coping strategies, including avoidance, neglecting the problem, or wishful thinking (Frydenberg & Lewis, 
+1996). The sense of being overwhelmed by stress further demonstrates that participants feel incapable of managing their situations, 
+highlighting a lack of selfagency (Bandura, 2001). 
+Diversion 
+Another notable trend was that students experiencing stress tended to distract themselves by engaging in alternative activities. 
+During the interviews, participants discussed replacing negative emotions and feelings of distress through physical activitie s, 
+redirecting their focus to entertainment such as wat ching TV or using their phones, or finding solace in social interactions. They 
+mentioned that exercising or spending time outdoors helped them release pent -up emotions, while talking to friends or family 
+provided comfort and relief. Examples of their responses include: 
+(Participant 9) "I like going for a run when I feel stressed. It clears my mind and gets rid of the heaviness I feel after sitting around 
+doing schoolwork all day." 
+(Participant 12) "I go hiking or take a bike ride. Sometimes I just sit by a lake with a book or some music. It gives me space to 
+breathe and makes a big difference." 
+(Participant 4) "I talk to friends when I’m stressed. We vent about school and everything that’s overwhelming us. It’s nice knowing 
+we’re all going through it together." 
+(Participant 3) "I usually share my worries with my parents. They listen and help me think through what’s bothering me, which 
+makes me feel a lot more grounded." 
+Students who consciously chose to engage in these activities used coping strategies that helped regulate and alleviate their emotions 
+(Lazarus et al., 1984). However, these strategies mainly served as distractions rather than addressing the root causes of their distress. 
+By focusing on physical recreation, entertainment, or social interactions, they shifted their attention away from their problems rather 
+than actively working to resolve them. 
+Resolution 
+A third trend in the data was that students coped with stress by actively addressing its causes. During the interviews, they discussed 
+strategies at both individual and collective levels, including making plans, organizing their time, practicing school tasks, adopting
+
+--- Page 8 --International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+Volume 08 Issue 02 February 2025 
+DOI: 10.47191/ijcsrr/V8-i2-39, Impact Factor: 8.048 
+IJCSRR @ 2025 
+ 
+www.ijcsrr.org 
+ 
+901 *Corresponding Author: Truong Dinh Minh Dang Volume 08 Issue 02 February 2025 
+ Available at: www.ijcsrr.org 
+ Page No. 894-903 
+ 
+positive thinking, and collaborating with others to find solution s. Their responses highlighted a proactive approach to managing 
+stress. Examples include: 
+(Participant 8) “Whenever I am feeling stressed, I take my tasks and breakdown what I need to get done into a list of priorities. I 
+feel greatly accomplished when I check tasks off the list, so I always start with the most important items. I try to tackle everything 
+on my checklist, which gives me a sense of control over the situation. For me, this is a good habit because it limits the amo unt of 
+stress that I have to deal with.” 
+(Participant 11) “Whenever schoolwork starts piling up, I make it a point to reach out to my classmates. After all, they are facing 
+the same challenges so we can come together and think of solutions for our problems. It gives me comfort to kno w that I am not 
+the only one who needs assistance.” 
+(Participant 7) “In the event that I do poorly on a test, my focus shifts to dissecting the cause that lead to the low grade. For 
+example, if I scored poorly in an examination for math, I take time to an alyze the questions on the test and redo them for my next 
+preparations. This is not something easy, but it is useful in helping me progress.” 
+(Participant 5) “The first thing I do is change my mentality whenever I feel too stressed out. Rather than focusi ng on how 
+overwhelming my tasks appear, I break everything down into smaller steps. I also tell myself that things are not as bad as th ey 
+seem. Remaining positive allows me to avoid excessive amounts of anxiety.” 
+These responses show that students take deliberate steps to resolve their challenges. They actively organize tasks and structure their 
+time, seek support from peers who understand their struggles, focus on self-improvement even when it’s difficult, and use cognitive 
+strategies like positive thinking to maintain control. By addressing their stressors headon, they demonstrate a level of resilience and 
+agency in managing their academic and emotional well-being. 
+ 
+IMPLICATIONS 
+This research lays the groundwork for future studies, to assist students and educational institutions in developing more coordinated 
+and supportive academic programs. It highlights the need for further exploration of the relationship between students’ mental health 
+and their coping strategies, which could inform targeted interven tions to enhance student well -being. Additionally, while much 
+research has focused on distress, there is a notable gap in studies examining eustress—the positive form of stress—and its potential 
+benefits for university students' academic success. Addressing this imbalance could provide valuable insights into how stress, when 
+managed effectively, can foster growth and resilience among students. 
+ 
+CONCLUSION AND RECOMMENDATIONS 
+This study underscores the alarming rate of stress among students, and in particular English-majored students, who report academic 
+stressors like examinations and volumetric load to be the most detrimental. It was established that elevated stress levels we re 
+amplified by the fear of failure as well as non -academic factors like limited free time and nostalgia for one’s home. While having 
+provided some insights, the study has numerous caveats that need to be pointed out. For instance, lacking member checks in 
+qualitative data validation might have caused important aspects of students’ cop ing mechanisms to be missed. Moreover, the 
+findings are not automatically applicable to every setting considering the subjects were all students of a private university located 
+in HCM city. Furthermore, the study does not address the role of coping strategies towards mental health, a fact that limits its ability 
+to provide conclusive recommendations. What strengths the study does have come from the use of face -to-face interviews which 
+provided an opportunity for greater interaction and understanding the students coping with the reality of their experiences. For now, 
+there is a need for further research to understand the ways in which coping strategies transform over time and their relation ship 
+with one's mental health and academic productivity. 
+ 
+REFERENCES 
+1. Aldao, A., Nolen-Hoeksema, S., & Schweizer, S. (2010). Emotion -regulation strategies across psychopathology: A meta analytic review. Clinical Psychology Review, 30(2), 217–237. https://doi.org/10.1016/j.cpr.2009.11.004 
+2. Baker, S. R. (2003). A prospective longitudinal investigation of social problem -solving appraisals on adjustment to 
+university, stress, health, and academic motivation and performance. Personality and Individual Differences, 35, 569 –591. 
+3. Bandura A. (2001). Social cognitive theory: An agentic perspective. Annual Review of Psychology, 52, 1 –26. 
+https://doi.org/10.1146/annurev.psych.52.1.1
+
+--- Page 9 --International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+Volume 08 Issue 02 February 2025 
+DOI: 10.47191/ijcsrr/V8-i2-39, Impact Factor: 8.048 
+IJCSRR @ 2025 
+ 
+www.ijcsrr.org 
+ 
+902 *Corresponding Author: Truong Dinh Minh Dang Volume 08 Issue 02 February 2025 
+ Available at: www.ijcsrr.org 
+ Page No. 894-903 
+ 
+4. Bernold, L. E., Spurlin, J. E., & Anson, C. M. (2007). Understanding our students: A longitudinal‐study of success and 
+failure in engineering with implications for increased retention. Journal of engineering education, 96(3), 263-274. 
+5. Brinkmann, S., & Kvale, S. (2018). Doing interviews. 
+6. Brougham, R. R., Zail, C. M., Mendoza, C. M., & Miller, J. R. (2009). Stress, sex differences, and coping strategies among 
+college students. Current psychology, 28, 85-97. 
+7. Braun, V., & Clarke, V. (2022). Thematic analysis. A practical guide. Sage Publications. 
+8. Carver, C. S., Scheier, M. F., & Weintraub, J. K. (1989). Assessing coping strategies: a theoretically based approach. 
+Journal of personality and social psychology , 56(2), 267.Cheng, C., Lau, H. P., & Chan, M. P. (2014). Coping flexibility 
+and psychological adjustment to stressful life changes: A meta-analytic review. Psychological Bulletin, 140(6), 1582–1607. 
+https://doi.org/10.1037/a0037913 
+9. Creswell, J. W. (2007). Qualitative inquiry and research design: Cho osing among five approaches (2nd ed.). Sage 
+Publications, Inc. 
+10. Dahlin, M., Joneborg, N., & Runeson, B. (2005). Stress and depression among medical students: A crosssectional study. 
+Medical education, 39(6), 594-604. 
+11. DeBerard, M. S., Spielmans, G. I., & Julka, D. L. (2004). Predictors of academic achievement and retention among college 
+freshmen: A longitudinal study. College student journal, 38(1), 66-81. 
+12. Fairbrother, K., & Warn, J. (2003). Workplace dimensions, stress and job satisfaction. Journal of managerial psychology, 
+18(1), 8-21. 
+13. Frydenberg, E., & Lewis, R. (1996). A replication study of the structure of the adolescent coping scale: Multiple forms 
+and applications of a self -report inventory in a counselling and research context. European Journal of Psychological 
+Assessment, 12(3), 224–235. https://doi.org/10.1027/1015-5759.12.3.224 
+14. Goldfinch, J., & Hughes, M. (2007). Skills, learning styles and success of first -year undergraduates. Active learning in 
+higher education, 8(3), 259-273. 
+15. Högberg, B. (2021). Educational stressors and secular trends in school stress and mental health problems in adolescents. 
+Social Science & Medicine, 270, 113616 
+16. Högberg, B., & Strandh, M. (2024). Temporal trends and inequalities in school-related stress in three cohorts in compulsory 
+school in Sweden. Scandinavian Journal of Educational Research, 1–15. https://doi.org/10.1080/00313831.2024.2330932 
+17. Jones, A., Smith, B., & Brown, C. (2021). Factors contributing to stress among students in an English Language 
+Department: A comprehensive analysis. Language Teaching Research Quarterly , 35(2), 88106. 
+https://doi.org/10.1177/1362168820989710 
+18. Hilt, L. T., Søreide, G., Riese, H., & Bjørge , G. (2024). ‘School is the foundation of everything’: Master - and counternarratives in lower secondary school pupils’ stories about the importance of schooling and education. YOUNG, 32(3). 
+https://doi.org/10.1177/11033088231221653 
+19. Kato T. (2012). Development of the Coping Flexibility Scale: Evidence for the coping flexibility hypothesis. Journal of 
+Counseling Psychology, 59(2), 262–273. https://doi. org/10.1037/a0027770 
+20. Kohn, J. P., & Frazer, G. H. (1986). An academic stress scale: Identification and rated importance of academic stressors. 
+Psychological reports, 59(2), 415-426. 
+21. Lazarus, R. S., & Folkman, S. (1984). Stress, Appraisal, and Coping. Springer Publishing Company. 
+22. Lee, H. J., Park, J., & Kim, S. (2023). Academic expectation stress, adaptive coping, and academic burnout among students 
+in English learning programs: Interplay and implications. BMC Psychology, 11(1), 43. DOI: 10.1186/s40359-024-01630-y 
+23. Lumley, M. A., & Provenzano, K. M. (2003). Stress management through written emotional disclosure improves academic 
+performance among college students with physical symptoms. Journal of Educational Psychology, 95(3), 641. 
+24. Mani, V. (2010). Students’ perception of the impact of course work on exam stress. International Journal of Arts and 
+Sciences, 3, 104-110. 
+25. Misra, R., & McKean, M. (2000). College students' academic stress and its relation to their anxiety, time management, and 
+leisure satisfaction. American Journal of Health Studies, 16(1), 41–51.
+
+--- Page 10 --International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+Volume 08 Issue 02 February 2025 
+DOI: 10.47191/ijcsrr/V8-i2-39, Impact Factor: 8.048 
+IJCSRR @ 2025 
+ 
+www.ijcsrr.org 
+ 
+903 *Corresponding Author: Truong Dinh Minh Dang Volume 08 Issue 02 February 2025 
+ Available at: www.ijcsrr.org 
+ Page No. 894-903 
+ 
+26. Muema, E. N., Muola, J., & Muriungi, P. (2020). Relationship between perceived academic stress and academic 
+performance among students in primary teacher training colleges in central region, Kenya. 
+27. Nguyen, H. T., Tran, L. P., & Dao, T. (2020). English-majored students and the stress of language proficiency: A case study 
+at a Vietnamese university. Journal of Language Teaching and Research , 11(4), 680 -687. 
+https://doi.org/10.17507/jltr.1104.09 
+28. Nowell, L. S., Norris, J. M., White, D. E., & Moules, N. J. (2017). Thematic analysis: Striving to meet t he trustworthiness 
+criteria. International Journal of Qualitative Methods, 16, 1–13. https://doi.org/10.1177/16094069177338 
+29. Pascoe, M. C., Hetrick, S. E., & Parker, A. G. (2020). The impact of stress on students in secondary school and higher 
+education. International Journal of Adolescence and Youth, 25(1), 104 –112. 
+https://doi.org/10.1080/02673843.2019.1596823 
+30. Rajendran, R., & Kaliappan, K. V. (1990). Efficacy of behavioural programme in managing the academic stress and 
+improving academic performance. Journal of Personality and Clinical Studies, 6, 193-196. 
+31. Saha, R., Huebner, E. S., Hills, K. J., Malone, P. S., & Valois, R. F. (2014). Social coping and life satisfaction in adolescents. 
+Social Indicators Research, 115(1), 241–252. https://doi. org/10.1007/s11205-012-0217-3 
+32. Skinner, E. A., Edge, K., Altman, J., & Sherwood, H. (2003). Searching for the structure of coping: A review and critique 
+of category systems for classifying ways of coping. Psychological Bulletin, 129(2), 216–269. https://doi.org/10.1037/00332909.129.2.216 
+33. Sinha, U. K., Sharma, V., & Nepal, M. K. (2001). Development of a scale for assessing academic stress: a preliminary 
+report. Journal of Institute of Medicine Nepal, 23(1 & 2), 105-112. 
+34. Wang, Y., Chen, H., & Zhang, L. (2022). Linguistic students’ academic stress and coping mechanisms: A systematic 
+review. International Journal of Linguistic Studies, 8(4), 200–216. 
+35. Wang, Y., Zhang, X., Li, L., & Zhang, Q. (2022). The relationship between English learning stress and burnout among 
+undergraduate students: The mediating role of self -efficacy and the moderating effect of mindfulness. Journal of 
+Educational Psychology, 114(3), 360-375. https://doi.org/10.1037/edu0000521 
+36. Zeidner, M. (1992). Sources of academic stress: The case of first year Jewish and Arab college students in Israel. Higher 
+Education, 24(1), 25-40. 
+37. Zimmer-Gembeck, M. J., & Skinner, E. A. (2016). The development of coping: Implications for psychopathology and 
+resilience. Developmental Psychopathology, p. 1–61. https://doi. org/10.1002/9781119125556.devpsy410 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cite this Article: Dang, T.D.M.(2025). Exploring English-majored Students' Academic Stre ss and Coping Strategies: A Mixed 
+Method Research at a Private University . International Journal of Current Science Research and Review, 8(2), pp. 894-903. 
+DOI: https://doi.org/10.47191/ijcsrr/V8-i2-39
