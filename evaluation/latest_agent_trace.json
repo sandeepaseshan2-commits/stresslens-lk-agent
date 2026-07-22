@@ -1,0 +1,237 @@
+{
+  "request_id": "REQ-79FB69D4",
+  "user_query": "How does examination pressure contribute to academic stress among undergraduate students?",
+  "status": "completed",
+  "task_type": "literature_summary",
+  "plan": [
+    "Search for existing literature reviews and studies on the topic of examination pressure and academic stress among undergraduate students.",
+    "Identify key findings and themes from the literature, including the impact of examination pressure on students' mental health, academic performance, and overall well-being.",
+    "Organize the key findings into a concise summary, highlighting the main contributions of the literature to our understanding of the relationship between examination pressure and academic stress."
+  ],
+  "retrieved_chunks": [
+    {
+      "chunk_id": "DOC006_CHUNK_009",
+      "document_id": "DOC006",
+      "title": "Exploring English-majored Students' Academic Stress and Coping Strategies: A Mixed Method Research at a Private University",
+      "authors": "Truong Dinh Minh Dang",
+      "year": "2025",
+      "topic": "Coping strategies",
+      "source": "paper_06.txt",
+      "text": "include career decision -making, forming new relationships, adapting to unfamiliar ideas that challenge prior beliefs, and adjusting to living away from home (Lumley & Provenzano, 2003). Baker emphasizes that the succes s of this adjustment largely depends on a student’s ability to c ope with stress, which subsequently influences their academic motivation and performance. DeBerard, Spielmans, and Julka (2004) propose that social support from friends, peers, and religi ous communities serves as a protective factor, assisting students in managing stress during this transitional phase. In academic environments, stress commonly stems from high expectations, information overload, academic pressure, unrealistic goals, limit ed opportunities, and intense competition, all of which contribute to a nxiety, fear, and tension among students (Sinha, Sharma, & Nepal, 2001). Dahlin, Joneborg, and Runeson (2005) found that undergraduate students experience the highest levels of study related pressure. Likewise, research by Misra, Mckean, West, and Russo (2 000) identified the pressure of meeting assessment deadlines as a significant source of stress for students. Academic stress is often associated with exam preparation, competit ion for grades, and the challenge of",
+      "similarity_score": 0.7694028615951538
+    },
+    {
+      "chunk_id": "DOC019_CHUNK_033",
+      "document_id": "DOC019",
+      "title": "Perceived and Academic Stress Levels in First Year Undergraduates of Selected Degree Awarding Institutions in Western Province, Sri Lanka, and Exploring Their Methods of Coping with Stress",
+      "authors": "Ushamandhani Mohanraj",
+      "year": "2018",
+      "topic": "Coping strategies",
+      "source": "paper_19.txt",
+      "text": "Psycho- logical pressure to perform well in tests, examinations, expectations from peers, friends, family members and attending of lectures were among the common sources of the students stress while at the campus. --- Page 7 --- . Our study also found out that, the major causes of stress among students are academic workload, inadequate resources, low motivation, and poor performance in academic work, continuous performance in academic work, overcrowded lecture halls, and uncertainty of geting jobs after graduation from the university. This finding is quite consistent with earlier studies (Erkutlu and Chafra, 2006). The university management need to address the above issues raised by the students in order to manage the academic environment conducive for learning. With the semesterisation of the academic programmes, students are required to accomplish many modules within short period of time which is coupled with continuous assessment test (CAT), assignments, attend lectures, and present term papers beside other extra curriculum activities. These present students with a lot of pressure, coupled with the pressure of preparing and passing of the examination. Indeed poor performance and continuous poor",
+      "similarity_score": 0.7665651440620422
+    },
+    {
+      "chunk_id": "DOC006_CHUNK_010",
+      "document_id": "DOC006",
+      "title": "Exploring English-majored Students' Academic Stress and Coping Strategies: A Mixed Method Research at a Private University",
+      "authors": "Truong Dinh Minh Dang",
+      "year": "2025",
+      "topic": "Coping strategies",
+      "source": "paper_06.txt",
+      "text": "research by Misra, Mckean, West, and Russo (2 000) identified the pressure of meeting assessment deadlines as a significant source of stress for students. Academic stress is often associated with exam preparation, competit ion for grades, and the challenge of absorbing large amounts of material within a limited time (Kohn & Frazer, 1986). The imbalance between course load and available time is another factor contributing to academic stress (Zeidner, 1992). Studies indicate that firstyear students often view their coursework as demanding, and this perce ption is linked to heightened exam -related stress (Mani, 2010). Talib and Zai -ur-Rehman (2012) found that 53% of students identified course load as a major stressor, which negatively impacted their GPA. Additionally, students report that the pressure to re view all material before exams is stressful, and while the exam itself may not be the direct cause of stress, the potential impact on their academic and professional future is a signif icant concern (Mani, 2010). Stress Factors in Educational Contexts Stress is part and parcel of education; caused by a combination of academic, social and",
+      "similarity_score": 0.7658368349075317
+    },
+    {
+      "chunk_id": "DOC002_CHUNK_047",
+      "document_id": "DOC002",
+      "title": "Examine the Effects of High-Stake Testing on Student’s Mental Health at University Level: A Survey Research",
+      "authors": "Dr. Farkhanda Jabeen, Ruqia, and Laiba Bahar",
+      "year": "2025",
+      "topic": "Exam pressure",
+      "source": "paper_02.txt",
+      "text": "the stress of exams (Table 19). These findings are reinforced by the PSS scores, which suggest that stress management resources remain insufficient for the needs of many students. A crucial area for administrative and policy reform is indicated by this discrepancy between student needs and university support systems. For students to better handle academic pressure and enhance their general well -being, universities should think about introducing structured intervention programs, counselling services, and stress reduction courses. Conclusion Overall, the data indicates that while students are aware of the importance of high-stakes exams, they face significant emotional, mental, and physical challenges due to the pressure these exams create. Many students feel that these tests don't always accurately represent their talents, and stress, anxiety, and feelings of overload are typical. Additionally, the data indicates that although students have created their own coping mechanisms, there is a perceived deficiency of institutional assistance to assist them in coping with the stress of high-stakes exams. The Perceived Stress Scale (PSS) results further reinforce these concerns, with a substantial portion of respondents scoring in the moderat e",
+      "similarity_score": 0.7456523776054382
+    },
+    {
+      "chunk_id": "DOC002_CHUNK_005",
+      "document_id": "DOC002",
+      "title": "Examine the Effects of High-Stake Testing on Student’s Mental Health at University Level: A Survey Research",
+      "authors": "Dr. Farkhanda Jabeen, Ruqia, and Laiba Bahar",
+      "year": "2025",
+      "topic": "Exam pressure",
+      "source": "paper_02.txt",
+      "text": "testing environments typically produce pressure to perform and act as a catalyst for acute stress responses (such as increased cortisol levels and increased heart rates) and chronic anxiety that may last indefinitely beyond the breadth of the examination period (Fejes et al., 2020; Fernández-Castillo & Caurcel, 2019; Weekes et al., 2006). The stress manifests when students regard test scores as determining the fate of their future in life, creating a high -stakes pressure environment that can create challenge s to their psychological resilience (Galla et al., 2018; Högberg & Horn, 2022). Poor performance in such exams not only increases anxiety and stress but also depression among students (Galloway, 2013). It is indeed the worst dilemma when students are under pressure to perform well on the test meant to determine their performance, to gain admission or graduate in future. For example, one study clearly demonstrated that students having test anxiety show major symptoms of worrying, fears, and tension during the examination period (Zeidner, 2014). This type of stress is not only sickening but also leads to disastrous consequences in a person's",
+      "similarity_score": 0.7317079901695251
+    }
+  ],
+  "draft_answer": "Examination pressure significantly contributes to academic stress among undergraduate students. The evidence suggests that academic stress stems from high expectations, information overload, academic pressure, unrealistic goals, limited opportunities, and intense competition, all of which contribute to anxiety, fear, and tension among students [S1]. Specifically, the pressure of meeting assessment deadlines [S1, S3] and the challenge of absorbing large amounts of material within a limited time [S3] are significant sources of stress for students.\n\nThe literature also highlights that examination pressure is a major contributor to academic stress, with students experiencing heightened exam-related stress due to the perception of demanding coursework [S3] and the potential impact of exam performance on their academic and professional future [S3]. The stress of exams can lead to increased cortisol levels, heart rates, and chronic anxiety, which can last beyond the examination period [S5].\n\nFurthermore, the evidence suggests that universities should consider introducing structured intervention programs, counseling services, and stress reduction courses to help students better handle academic pressure and enhance their general well-being [S4]. The Perceived Stress Scale (PSS) results reinforce the concerns about the insufficient support systems for students, with a substantial portion of respondents scoring in the moderate range [S4].\n\nOverall, the evidence indicates that examination pressure is a significant contributor to academic stress among undergraduate students, and universities should take steps to address this issue and provide adequate support to students to manage their stress and anxiety.",
+  "critique": {
+    "status": "approved",
+    "score": 95,
+    "issues": [],
+    "revision_instructions": []
+  },
+  "final_answer": "Examination pressure significantly contributes to academic stress among undergraduate students. The evidence suggests that academic stress stems from high expectations, information overload, academic pressure, unrealistic goals, limited opportunities, and intense competition, all of which contribute to anxiety, fear, and tension among students [S1]. Specifically, the pressure of meeting assessment deadlines [S1, S3] and the challenge of absorbing large amounts of material within a limited time [S3] are significant sources of stress for students.\n\nThe literature also highlights that examination pressure is a major contributor to academic stress, with students experiencing heightened exam-related stress due to the perception of demanding coursework [S3] and the potential impact of exam performance on their academic and professional future [S3]. The stress of exams can lead to increased cortisol levels, heart rates, and chronic anxiety, which can last beyond the examination period [S5].\n\nFurthermore, the evidence suggests that universities should consider introducing structured intervention programs, counseling services, and stress reduction courses to help students better handle academic pressure and enhance their general well-being [S4]. The Perceived Stress Scale (PSS) results reinforce the concerns about the insufficient support systems for students, with a substantial portion of respondents scoring in the moderate range [S4].\n\nOverall, the evidence indicates that examination pressure is a significant contributor to academic stress among undergraduate students, and universities should take steps to address this issue and provide adequate support to students to manage their stress and anxiety.",
+  "messages": [
+    {
+      "protocol_version": "1.0",
+      "correlation_id": "REQ-79FB69D4",
+      "sender": "orchestrator",
+      "receiver": "router_agent",
+      "message_type": "task_request",
+      "payload": {
+        "query": "How does examination pressure contribute to academic stress among undergraduate students?",
+        "assigned_model": "llama-3.1-8b-instant"
+      },
+      "timestamp": "2026-07-22T07:04:24.252173Z"
+    },
+    {
+      "protocol_version": "1.0",
+      "correlation_id": "REQ-79FB69D4",
+      "sender": "router_agent",
+      "receiver": "orchestrator",
+      "message_type": "plan_response",
+      "payload": {
+        "model": "llama-3.1-8b-instant",
+        "task_type": "literature_summary",
+        "reason": "The question is asking for a general overview of the relationship between examination pressure and academic stress, which is a typical literature summary task.",
+        "plan": [
+          "Search for existing literature reviews and studies on the topic of examination pressure and academic stress among undergraduate students.",
+          "Identify key findings and themes from the literature, including the impact of examination pressure on students' mental health, academic performance, and overall well-being.",
+          "Organize the key findings into a concise summary, highlighting the main contributions of the literature to our understanding of the relationship between examination pressure and academic stress."
+        ]
+      },
+      "timestamp": "2026-07-22T07:04:25.395590Z"
+    },
+    {
+      "protocol_version": "1.0",
+      "correlation_id": "REQ-79FB69D4",
+      "sender": "orchestrator",
+      "receiver": "retrieval_agent",
+      "message_type": "retrieval_request",
+      "payload": {
+        "query": "How does examination pressure contribute to academic stress among undergraduate students?",
+        "top_k": 5,
+        "tool": "FAISS"
+      },
+      "timestamp": "2026-07-22T07:04:25.395737Z"
+    },
+    {
+      "protocol_version": "1.0",
+      "correlation_id": "REQ-79FB69D4",
+      "sender": "retrieval_agent",
+      "receiver": "orchestrator",
+      "message_type": "evidence_response",
+      "payload": {
+        "tool": "FAISS semantic search",
+        "number_of_chunks": 5,
+        "chunk_ids": [
+          "DOC006_CHUNK_009",
+          "DOC019_CHUNK_033",
+          "DOC006_CHUNK_010",
+          "DOC002_CHUNK_047",
+          "DOC002_CHUNK_005"
+        ],
+        "sources": [
+          "paper_06.txt",
+          "paper_19.txt",
+          "paper_06.txt",
+          "paper_02.txt",
+          "paper_02.txt"
+        ]
+      },
+      "timestamp": "2026-07-22T07:04:39.309470Z"
+    },
+    {
+      "protocol_version": "1.0",
+      "correlation_id": "REQ-79FB69D4",
+      "sender": "orchestrator",
+      "receiver": "synthesis_agent",
+      "message_type": "synthesis_request",
+      "payload": {
+        "query": "How does examination pressure contribute to academic stress among undergraduate students?",
+        "task_type": "literature_summary",
+        "plan": [
+          "Search for existing literature reviews and studies on the topic of examination pressure and academic stress among undergraduate students.",
+          "Identify key findings and themes from the literature, including the impact of examination pressure on students' mental health, academic performance, and overall well-being.",
+          "Organize the key findings into a concise summary, highlighting the main contributions of the literature to our understanding of the relationship between examination pressure and academic stress."
+        ],
+        "chunk_ids": [
+          "DOC006_CHUNK_009",
+          "DOC019_CHUNK_033",
+          "DOC006_CHUNK_010",
+          "DOC002_CHUNK_047",
+          "DOC002_CHUNK_005"
+        ],
+        "assigned_model": "llama-3.3-70b-versatile"
+      },
+      "timestamp": "2026-07-22T07:04:39.309713Z"
+    },
+    {
+      "protocol_version": "1.0",
+      "correlation_id": "REQ-79FB69D4",
+      "sender": "synthesis_agent",
+      "receiver": "orchestrator",
+      "message_type": "draft_response",
+      "payload": {
+        "model": "llama-3.3-70b-versatile",
+        "used_chunk_ids": [
+          "DOC006_CHUNK_009",
+          "DOC019_CHUNK_033",
+          "DOC006_CHUNK_010",
+          "DOC002_CHUNK_047",
+          "DOC002_CHUNK_005"
+        ],
+        "draft_answer": "Examination pressure significantly contributes to academic stress among undergraduate students. The evidence suggests that academic stress stems from high expectations, information overload, academic pressure, unrealistic goals, limited opportunities, and intense competition, all of which contribute to anxiety, fear, and tension among students [S1]. Specifically, the pressure of meeting assessment deadlines [S1, S3] and the challenge of absorbing large amounts of material within a limited time [S3] are significant sources of stress for students.\n\nThe literature also highlights that examination pressure is a major contributor to academic stress, with students experiencing heightened exam-related stress due to the perception of demanding coursework [S3] and the potential impact of exam performance on their academic and professional future [S3]. The stress of exams can lead to increased cortisol levels, heart rates, and chronic anxiety, which can last beyond the examination period [S5].\n\nFurthermore, the evidence suggests that universities should consider introducing structured intervention programs, counseling services, and stress reduction courses to help students better handle academic pressure and enhance their general well-being [S4]. The Perceived Stress Scale (PSS) results reinforce the concerns about the insufficient support systems for students, with a substantial portion of respondents scoring in the moderate range [S4].\n\nOverall, the evidence indicates that examination pressure is a significant contributor to academic stress among undergraduate students, and universities should take steps to address this issue and provide adequate support to students to manage their stress and anxiety."
+      },
+      "timestamp": "2026-07-22T07:04:41.019619Z"
+    },
+    {
+      "protocol_version": "1.0",
+      "correlation_id": "REQ-79FB69D4",
+      "sender": "orchestrator",
+      "receiver": "critic_agent",
+      "message_type": "critique_request",
+      "payload": {
+        "query": "How does examination pressure contribute to academic stress among undergraduate students?",
+        "draft_answer": "Examination pressure significantly contributes to academic stress among undergraduate students. The evidence suggests that academic stress stems from high expectations, information overload, academic pressure, unrealistic goals, limited opportunities, and intense competition, all of which contribute to anxiety, fear, and tension among students [S1]. Specifically, the pressure of meeting assessment deadlines [S1, S3] and the challenge of absorbing large amounts of material within a limited time [S3] are significant sources of stress for students.\n\nThe literature also highlights that examination pressure is a major contributor to academic stress, with students experiencing heightened exam-related stress due to the perception of demanding coursework [S3] and the potential impact of exam performance on their academic and professional future [S3]. The stress of exams can lead to increased cortisol levels, heart rates, and chronic anxiety, which can last beyond the examination period [S5].\n\nFurthermore, the evidence suggests that universities should consider introducing structured intervention programs, counseling services, and stress reduction courses to help students better handle academic pressure and enhance their general well-being [S4]. The Perceived Stress Scale (PSS) results reinforce the concerns about the insufficient support systems for students, with a substantial portion of respondents scoring in the moderate range [S4].\n\nOverall, the evidence indicates that examination pressure is a significant contributor to academic stress among undergraduate students, and universities should take steps to address this issue and provide adequate support to students to manage their stress and anxiety.",
+        "assigned_model": "llama-3.3-70b-versatile"
+      },
+      "timestamp": "2026-07-22T07:04:41.019909Z"
+    },
+    {
+      "protocol_version": "1.0",
+      "correlation_id": "REQ-79FB69D4",
+      "sender": "critic_agent",
+      "receiver": "orchestrator",
+      "message_type": "critique_response",
+      "payload": {
+        "model": "llama-3.3-70b-versatile",
+        "status": "approved",
+        "score": 95,
+        "issues": [],
+        "revision_instructions": []
+      },
+      "timestamp": "2026-07-22T07:04:41.516304Z"
+    },
+    {
+      "protocol_version": "1.0",
+      "correlation_id": "REQ-79FB69D4",
+      "sender": "orchestrator",
+      "receiver": "user",
+      "message_type": "final_response",
+      "payload": {
+        "final_answer": "Examination pressure significantly contributes to academic stress among undergraduate students. The evidence suggests that academic stress stems from high expectations, information overload, academic pressure, unrealistic goals, limited opportunities, and intense competition, all of which contribute to anxiety, fear, and tension among students [S1]. Specifically, the pressure of meeting assessment deadlines [S1, S3] and the challenge of absorbing large amounts of material within a limited time [S3] are significant sources of stress for students.\n\nThe literature also highlights that examination pressure is a major contributor to academic stress, with students experiencing heightened exam-related stress due to the perception of demanding coursework [S3] and the potential impact of exam performance on their academic and professional future [S3]. The stress of exams can lead to increased cortisol levels, heart rates, and chronic anxiety, which can last beyond the examination period [S5].\n\nFurthermore, the evidence suggests that universities should consider introducing structured intervention programs, counseling services, and stress reduction courses to help students better handle academic pressure and enhance their general well-being [S4]. The Perceived Stress Scale (PSS) results reinforce the concerns about the insufficient support systems for students, with a substantial portion of respondents scoring in the moderate range [S4].\n\nOverall, the evidence indicates that examination pressure is a significant contributor to academic stress among undergraduate students, and universities should take steps to address this issue and provide adequate support to students to manage their stress and anxiety.",
+        "revision_completed": false
+      },
+      "timestamp": "2026-07-22T07:04:41.516668Z"
+    }
+  ],
+  "latencies": {
+    "router_model": 1.1433,
+    "retrieval": 13.9138,
+    "synthesis_model": 1.7097,
+    "critic_model": 0.496
+  }
+}
