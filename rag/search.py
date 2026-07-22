@@ -1,5 +1,6 @@
 """Search the FAISS index using a research question."""
 
+from functools import lru_cache
 from pathlib import Path
 from typing import Any
 import json
@@ -16,7 +17,7 @@ INDEX_PATH = VECTOR_DIRECTORY / "academic_stress.index"
 CHUNKS_PATH = VECTOR_DIRECTORY / "chunks.json"
 CONFIG_PATH = VECTOR_DIRECTORY / "config.json"
 
-
+@lru_cache(maxsize=1)
 def load_search_resources() -> tuple[
     Any,
     list[dict[str, Any]],
