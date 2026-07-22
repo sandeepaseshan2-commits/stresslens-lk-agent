@@ -1,0 +1,7 @@
+task_name,model,run,latency_seconds,prompt_tokens,completion_tokens,total_tokens
+Fast routing model,llama-3.1-8b-instant,1,1.0333,51,11,62
+Fast routing model,llama-3.1-8b-instant,2,0.4041,51,11,62
+Fast routing model,llama-3.1-8b-instant,3,0.4581,51,11,62
+Strong synthesis model,llama-3.3-70b-versatile,1,0.3709,51,13,64
+Strong synthesis model,llama-3.3-70b-versatile,2,0.4944,51,13,64
+Strong synthesis model,llama-3.3-70b-versatile,3,0.3266,51,13,64
