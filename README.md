@@ -305,7 +305,7 @@ stresslens-lk-agent/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/sandeepaseshan2-commits/stresslens-lk-agent.git
+git clone https://github.com/sandeepaseshan2-commits/stresslens-lk-agent
 ```
 
 ### 2. Create a virtual environment
@@ -358,7 +358,16 @@ streamlit run app.py
 
 ## Live Application
 
-The public Streamlit application has not been deployed yet.
+[Open the live StressLens LK application](https://stresslens-lk-agent.streamlit.app/)
+
+## Deployment
+
+The application is deployed on Streamlit Community Cloud.
+
+- Deployment branch: `main`
+- Streamlit entry file: `app.py`
+- Secrets management: Streamlit Community Cloud secrets
+- Public application: [Open StressLens LK](https://stresslens-lk-agent.streamlit.app/)
 
 ## Error Handling
 
