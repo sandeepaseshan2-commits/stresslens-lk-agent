@@ -9,6 +9,7 @@ StressLens LK is an Agentic AI research support application designed to help res
 **Index Number:** ITBIN-2312-0024
 **Documents:** 20
 **Repository:** https://github.com/sandeepaseshan2-commits/stresslens-lk-agent
+**Live Application:** [Open the live StressLens LK application](https://stresslens-lk-agent.streamlit.app/)
 
 The system retrieves evidence from a domain-specific collection of research documents and uses specialised agents to plan, retrieve, synthesise and verify its answer.
 
