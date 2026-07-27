@@ -18,15 +18,19 @@ st.set_page_config(
     page_title="StressLens LK",
     page_icon="🎓",
     layout="wide",
-    initial_sidebar_state="expanded",
+    initial_sidebar_state="collapsed",
 )
+PROJECT_ROOT = Path(__file__).resolve().parent
+CSS_FILE = PROJECT_ROOT / "assets" / "style.css"
 
+if CSS_FILE.exists():
+    st.html(CSS_FILE)
 
 # ---------------------------------------------------------
 # Environment and secrets
 # ---------------------------------------------------------
 
-PROJECT_ROOT = Path(__file__).resolve().parent
+
 
 # This loads the local .env file during development.
 load_dotenv(PROJECT_ROOT / ".env")
@@ -270,6 +274,50 @@ def display_agent_messages(state: dict[str, Any]) -> None:
         with st.expander(title):
             st.json(message)
 
+def display_summary_metrics(state: dict[str, Any]) -> None:
+    """Display a quick summary of the completed workflow."""
+
+    critique = state.get("critique") or {}
+
+    task_type = str(
+        state.get("task_type", "Unknown")
+    ).replace("_", " ").title()
+
+    source_count = len(
+        state.get("retrieved_chunks", [])
+    )
+
+    critic_score = critique.get("score", 0)
+
+    workflow_status = str(
+        state.get("status", "Unknown")
+    ).replace("_", " ").title()
+
+    metric_one, metric_two, metric_three, metric_four = st.columns(4)
+
+    with metric_one:
+        st.metric(
+            "Task type",
+            task_type,
+        )
+
+    with metric_two:
+        st.metric(
+            "Sources retrieved",
+            source_count,
+        )
+
+    with metric_three:
+        st.metric(
+            "Critic score",
+            f"{critic_score}/100",
+        )
+
+    with metric_four:
+        st.metric(
+            "Workflow status",
+            workflow_status,
+        )
 
 def display_workflow_details(state: dict[str, Any]) -> None:
     """Display request and latency details."""
@@ -320,13 +368,54 @@ if "research_question" not in st.session_state:
 # ---------------------------------------------------------
 
 with st.sidebar:
-    st.header("About StressLens LK")
+    st.markdown("## 🎓 StressLens LK")
 
-    st.write(
-        "An Agentic AI research support system for academic "
-        "stress studies among Sri Lankan private campus "
-        "undergraduates."
+    st.caption(
+        "Agentic research support for academic-stress studies."
     )
+
+    st.divider()
+
+    st.markdown("### System workflow")
+
+    st.markdown(
+        """
+        1. **Route and plan**
+        2. **Retrieve evidence**
+        3. **Create draft**
+        4. **Critic review**
+        5. **Final answer**
+        """
+    )
+
+    st.divider()
+
+    st.markdown("### AI models")
+
+    st.caption("Fast routing model")
+    st.code(FAST_MODEL, language=None)
+
+    st.caption("Strong reasoning model")
+    st.code(STRONG_MODEL, language=None)
+
+    st.divider()
+
+    st.markdown("### Knowledge base")
+
+    st.write("📚 20+ research documents")
+    st.write("🔎 MiniLM semantic embeddings")
+    st.write("🗂️ FAISS vector search")
+
+    st.divider()
+
+    if st.button(
+        "Clear current result",
+        key="sidebar_clear_result_button",
+        use_container_width=True,
+    ):
+        st.session_state.workflow_result = None
+        st.session_state.research_question = ""
+        st.rerun()
 
     st.divider()
 
@@ -353,29 +442,64 @@ with st.sidebar:
 # Main interface
 # ---------------------------------------------------------
 
-st.title("🎓 StressLens LK")
+# ---------------------------------------------------------
+# Main interface
+# ---------------------------------------------------------
 
-st.subheader(
-    "Agentic Research Support for Academic Stress Studies"
+st.markdown(
+    """<div class="hero-card">
+<div class="hero-label">AGENTIC AI • MULTI-AGENT SYSTEM • RAG</div>
+<h1 class="hero-title">🎓 StressLens LK</h1>
+<p class="hero-subtitle">
+An intelligent research support system that plans a task,
+retrieves academic evidence, creates a source-supported answer
+and checks its quality using specialised AI agents.
+</p>
+</div>""",
+    unsafe_allow_html=True,
 )
 
-st.write(
-    "Ask a research question. The system will plan the task, "
-    "retrieve evidence, create a draft, check it and return a "
-    "source-supported answer."
+
+# Project information cards
+card_columns = st.columns(4)
+
+card_information = [
+    ("🤖", "4", "Specialised AI agents"),
+    ("🧠", "2", "Groq AI models"),
+    ("🔄", "5", "Agentic design patterns"),
+    ("📚", "20+", "Research documents"),
+]
+
+for column, card in zip(card_columns, card_information):
+    icon, number, label = card
+
+    with column:
+        st.markdown(
+            f"""<div class="info-card">
+<div class="info-icon">{icon}</div>
+<div class="info-number">{number}</div>
+<div class="info-label">{label}</div>
+</div>""",
+            unsafe_allow_html=True,
+        )
+
+
+st.markdown(
+    """<div class="notice-card">
+<strong>Evidence-based answers:</strong>
+StressLens LK answers using the academic-stress knowledge base.
+When the retrieved documents do not contain enough evidence,
+the system clearly reports that limitation.
+</div>""",
+    unsafe_allow_html=True,
 )
 
-st.info(
-    "The system answers from the project knowledge base. "
-    "It may state that evidence is insufficient when the documents "
-    "do not support the question."
-)
 
 with st.form("research_question_form"):
     question = st.text_area(
         "Enter your academic stress research question",
         key="research_question",
-        height=130,
+        height=140,
         placeholder=(
             "Example: How does examination pressure contribute "
             "to academic stress among undergraduate students?"
@@ -383,7 +507,7 @@ with st.form("research_question_form"):
     )
 
     submitted = st.form_submit_button(
-        "Analyse research question",
+        "Analyse research question →",
         type="primary",
         use_container_width=True,
     )
@@ -435,21 +559,47 @@ if submitted:
 state = st.session_state.workflow_result
 
 if state:
-    st.divider()
+    st.markdown("## Research analysis result")
 
-    display_plan(state)
-    st.divider()
+    display_summary_metrics(state)
 
-    display_final_answer(state)
-    st.divider()
+    answer_tab, evidence_tab, agents_tab, technical_tab = st.tabs(
+        [
+            "📝 Final Answer",
+            "📚 Retrieved Evidence",
+            "🤖 Agent Process",
+            "⚙️ Technical Details",
+        ]
+    )
 
-    display_sources(state)
-    st.divider()
+    with answer_tab:
+        display_plan(state)
+        st.divider()
+        display_final_answer(state)
 
-    display_critic(state)
-    st.divider()
+    with evidence_tab:
+        display_sources(state)
 
-    display_agent_messages(state)
-    st.divider()
+    with agents_tab:
+        display_critic(state)
+        st.divider()
+        display_agent_messages(state)
 
-    display_workflow_details(state)
+    with technical_tab:
+        display_workflow_details(state)
+    
+
+    
+
+
+    st.markdown(
+    """
+    <div class="notice-card">
+        <strong>Evidence-based answers:</strong>
+        StressLens LK answers using the academic-stress knowledge base.
+        When the retrieved documents do not contain enough evidence,
+        the system clearly reports that limitation.
+    </div>
+    """,
+    unsafe_allow_html=True,
+)

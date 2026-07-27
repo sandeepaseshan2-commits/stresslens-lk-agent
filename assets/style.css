@@ -1,0 +1,263 @@
+/* ---------------------------------------------------
+   Main application layout
+--------------------------------------------------- */
+
+.stApp {
+    background:
+        radial-gradient(
+            circle at top right,
+            rgba(37, 99, 235, 0.08),
+            transparent 30%
+        ),
+        #F6F8FC;
+}
+
+.block-container {
+    max-width: 1180px;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+}
+
+/* Remove unnecessary large spacing */
+div[data-testid="stVerticalBlock"] {
+    gap: 1rem;
+}
+
+/* ---------------------------------------------------
+   Hero section
+--------------------------------------------------- */
+
+.hero-card {
+    background: linear-gradient(
+        135deg,
+        #0F172A 0%,
+        #1E3A8A 55%,
+        #2563EB 100%
+    );
+    border-radius: 24px;
+    padding: 2.5rem 2.7rem;
+    margin-bottom: 1.5rem;
+    color: white;
+    box-shadow: 0 18px 45px rgba(30, 58, 138, 0.20);
+    position: relative;
+    overflow: hidden;
+}
+
+.hero-card::after {
+    content: "";
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    right: -90px;
+    top: -100px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.10);
+}
+
+.hero-label {
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.14);
+    border: 1px solid rgba(255, 255, 255, 0.20);
+    border-radius: 999px;
+    padding: 0.38rem 0.8rem;
+    margin-bottom: 1rem;
+    font-size: 0.76rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+}
+
+.hero-title {
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: 800;
+    line-height: 1.15;
+    color: white;
+}
+
+.hero-subtitle {
+    margin-top: 0.85rem;
+    margin-bottom: 0;
+    max-width: 760px;
+    color: rgba(255, 255, 255, 0.88);
+    font-size: 1.05rem;
+    line-height: 1.7;
+}
+
+/* ---------------------------------------------------
+   Information cards
+--------------------------------------------------- */
+
+.info-card {
+    background: #FFFFFF;
+    border: 1px solid #DFE7F0;
+    border-radius: 17px;
+    padding: 1.15rem 1.2rem;
+    min-height: 115px;
+    box-shadow: 0 8px 22px rgba(15, 23, 42, 0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.info-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 13px 28px rgba(15, 23, 42, 0.09);
+}
+
+.info-icon {
+    font-size: 1.35rem;
+    margin-bottom: 0.35rem;
+}
+
+.info-number {
+    color: #1D4ED8;
+    font-size: 1.35rem;
+    font-weight: 800;
+}
+
+.info-label {
+    color: #64748B;
+    font-size: 0.84rem;
+    margin-top: 0.15rem;
+}
+
+/* ---------------------------------------------------
+   Information notice
+--------------------------------------------------- */
+
+.notice-card {
+    background: #EFF6FF;
+    border: 1px solid #BFDBFE;
+    border-left: 5px solid #2563EB;
+    border-radius: 13px;
+    padding: 1rem 1.15rem;
+    margin: 1.4rem 0;
+    color: #1E3A8A;
+    line-height: 1.6;
+}
+
+/* ---------------------------------------------------
+   Question form
+--------------------------------------------------- */
+
+div[data-testid="stForm"] {
+    background: #FFFFFF;
+    border: 1px solid #DCE3EC;
+    border-radius: 19px;
+    padding: 1.4rem 1.5rem 1.5rem;
+    box-shadow: 0 12px 28px rgba(15, 23, 42, 0.06);
+}
+
+div[data-testid="stTextArea"] textarea {
+    min-height: 145px;
+    background: #F8FAFC;
+    border: 1px solid #CBD5E1;
+    border-radius: 13px;
+    padding: 1rem;
+    line-height: 1.6;
+}
+
+div[data-testid="stTextArea"] textarea:focus {
+    background: #FFFFFF;
+    border-color: #2563EB;
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12);
+}
+
+div[data-testid="stFormSubmitButton"] button {
+    min-height: 3.2rem;
+    border: none;
+    border-radius: 12px;
+    font-size: 0.98rem;
+    font-weight: 700;
+    background: linear-gradient(90deg, #1D4ED8, #2563EB);
+    box-shadow: 0 8px 18px rgba(37, 99, 235, 0.22);
+    transition: all 0.2s ease;
+}
+
+div[data-testid="stFormSubmitButton"] button:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 11px 24px rgba(37, 99, 235, 0.28);
+}
+
+/* ---------------------------------------------------
+   Result sections
+--------------------------------------------------- */
+
+div[data-testid="stExpander"] {
+    background: #FFFFFF;
+    border: 1px solid #DFE7F0;
+    border-radius: 13px;
+    overflow: hidden;
+}
+
+div[data-testid="stMetric"] {
+    background: #FFFFFF;
+    border: 1px solid #DFE7F0;
+    border-radius: 14px;
+    padding: 1rem;
+    box-shadow: 0 5px 16px rgba(15, 23, 42, 0.04);
+}
+
+/* ---------------------------------------------------
+   Tabs
+--------------------------------------------------- */
+
+div[data-testid="stTabs"] [data-baseweb="tab-list"] {
+    gap: 0.5rem;
+    background: #EAF0F7;
+    border-radius: 13px;
+    padding: 0.35rem;
+}
+
+div[data-testid="stTabs"] button[role="tab"] {
+    border-radius: 10px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+div[data-testid="stTabs"] button[aria-selected="true"] {
+    background: #FFFFFF;
+    color: #1D4ED8;
+    font-weight: 700;
+    box-shadow: 0 3px 10px rgba(15, 23, 42, 0.08);
+}
+
+/* ---------------------------------------------------
+   Sidebar
+--------------------------------------------------- */
+
+section[data-testid="stSidebar"] {
+    border-right: 1px solid #DCE3EC;
+}
+
+section[data-testid="stSidebar"] .block-container {
+    padding-top: 2rem;
+}
+
+/* ---------------------------------------------------
+   Responsive mobile design
+--------------------------------------------------- */
+
+@media (max-width: 768px) {
+    .block-container {
+        padding-top: 1rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .hero-card {
+        padding: 1.8rem 1.4rem;
+        border-radius: 18px;
+    }
+
+    .hero-title {
+        font-size: 1.9rem;
+    }
+
+    .hero-subtitle {
+        font-size: 0.95rem;
+    }
+
+    .info-card {
+        min-height: 100px;
+        margin-bottom: 0.5rem;
+    }
+}
